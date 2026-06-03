@@ -1,0 +1,2002 @@
+[
+  {
+    "question": "Ürəyin işemik xəstəliyini səciyyələndirin:",
+    "answers": [
+      "Miokardın koronar mənşəli işemiyası",
+      "Miokardın toksiki pozğunluğu",
+      "Miokardın hemodinamik işemiyası",
+      "Anemiya səbəbindən miokardın işemiyası",
+      "Miokardın koronar mənşəli distrofiyası"
+    ]
+  },
+  {
+    "question": "Ürəyin işemik xəstəliyinin etiologiyasına aiddir:",
+    "answers": [
+      "Koronar damarların kiçik şaxələrinin disfunksiyası",
+      "Düyünlü periarteriit səbəbindən miokardın işemiyası",
+      "İnfeksion endokardit mənşəli (koronar tromboemboliya) miokardın nekrozu (infarktı)",
+      "Miokardın revmatik (koronarit) mənşəli işemiyası",
+      "Aortal stenoz səbəbindən miokardın işemiya"
+    ]
+  },
+  {
+    "question": "Ürəyin işemik xəstəliyinin etiologiyasına aid deyil:",
+    "answers": [
+      "Koronar arteriyanın iltihabı",
+      "Koronar arteriyanın aterosklerozu",
+      "Koronar arteriyanın spazmı",
+      "Koronar arteriyanın trombozu",
+      "Mikrovaskulyar disfunksiya"
+    ]
+  },
+  {
+    "question": "Aterosklerozun inkişafına güclü təkan verən xəstəliyi seçin:",
+    "answers": [
+      "Şəkərli diabet",
+      "Hipotoniya",
+      "Onkoloji xəstəliklər",
+      "Hipertrofik KMP",
+      "Hipertireoz"
+    ]
+  },
+  {
+    "question": "ÜİX-in risk faktorlarına aiddir:",
+    "answers": [
+      "Metabolik sindrom",
+      "Hipohomosisteinemiya",
+      "Qanda yuxarısıxlıqlı lipoproteinlərin səviyyəsinin yüksəlməsi",
+      "Şəkərsiz diabet",
+      "Arterial hipotenziya"
+    ]
+  },
+  {
+    "question": "ÜİX-in modifikasiya olunan risk faktorunu seçin:",
+    "answers": [
+      "Dislipidemiya",
+      "İrsiyyət",
+      "Etnik qrup",
+      "Yaş",
+      "Cins"
+    ]
+  },
+  {
+    "question": "ÜİX-in modifikasiya olunmayan risk faktorunu seçin:",
+    "answers": [
+      "Abdominal piylənmə",
+      "Aşağısıxlıqlı lipopriteinlərin artması",
+      "Arterial hipertenziya",
+      "Fiziki passivlik",
+      "Yaş"
+    ]
+  },
+  {
+    "question": "“İşemik kaskad”a daxil olmayanı seçin:",
+    "answers": [
+      "Miokardın hiperplaziyası",
+      "Lokal sistolik disfunksiya",
+      "Metabolizmin pozulması",
+      "Diastolik disfunksiya",
+      "Perfuziyanın pozulması"
+    ]
+  },
+  {
+    "question": "Miokardın O2-nə tələbatının artması və O2-lə təchizatının normal olduğu hal ÜİX-in hansı klinik forması üçün patogenetikdir:",
+    "answers": [
+      "Mikrovskulyar stenokardiya",
+      "Qeyr-stabil stenokardiya",
+      "Q-dişsiz miokard infarktı",
+      "Stabil stenokardiya",
+      "Spontan stenokardiya"
+    ]
+  },
+  {
+    "question": "Miokardın O2-nə tələbatının dəyişməməsi fonunda O2-lə təchizatının qəfil pisləşməsi ÜİX-in hansı klinik forması üçün patogenetikdir:",
+    "answers": [
+      "Mikrovaskulyar stenokardiya",
+      "İntramural miokard infarktı",
+      "Transmural miokard infarktı",
+      "Prinsmetal stenokardiyası",
+      "Gərginlik stenokardiyası"
+    ]
+  },
+  {
+    "question": "Miokardın O2-nə tələbatının artması və onun O2-lə təchizatının pisləşməsi ÜİX- in hansı klinik forması üçün patogenetikdir:",
+    "answers": [
+      "Stabil gərginlik stenokardiyası",
+      "Qeyri-stabil stenokardiya",
+      "İntramural miokard infarktı",
+      "Prinsmetal stenokardiyası",
+      "Mikrovaskulyar stenokardiya"
+    ]
+  },
+  {
+    "question": "Stenokardiya ağrıları adətən nə qədər davam edir:",
+    "answers": [
+      "15 dəqiqəyədək",
+      "1 saatadək",
+      "Bir neçə saniyə",
+      "30 dəqiqəyədək",
+      "45 dəqiqəyədək"
+    ]
+  },
+  {
+    "question": "Stabil gərginlik stenokardiyası olan xəstədə ürək vurğularının sayının artması nəyə səbəb olur:",
+    "answers": [
+      "Ürəyin O2-yə tələbatını artırır",
+      "Ürəyin O2-lə təchizatını azaldır",
+      "Ağrının intensivliyini azaldır",
+      "Ürəyin O2-yə tələbatını azaldır",
+      "Ürəyin O2-lə təchizatını artırır"
+    ]
+  },
+  {
+    "question": "Ürəyin O2-ə tələbatını artıran amili seçin:",
+    "answers": [
+      "Sistolik AT-nin yüksəlməsi",
+      "Ürək vurğularının sayının azalması",
+      "Ürək əzələsinin gərginliyinin azalması",
+      "Miokardın yığılma qabiliyyətinin azalması",
+      "Sistolik AT-nin enməsi"
+    ]
+  },
+  {
+    "question": "Ürəyin O2-ə tələbatına təsir etməyən amili seçin:",
+    "answers": [
+      "AT-nin yüksəlməsi",
+      "Sol mədəciyin son diastolik həcminin artması",
+      "Ürəyin yığılma qabiliyyətinin yüksəlməsi",
+      "Ürək vurğularının sayının artması",
+      "Kollateral qan dövranın pisləşməsi"
+    ]
+  },
+  {
+    "question": "Stabil gərginlik stenokardiya üçün patoqnomonik simptomlar hansıdır:",
+    "answers": [
+      "Fiziki yük zamanı döş sümüyü arxasında göynədici ağrı və EKQ-də ST-seqmentinin depressiyası",
+      "Fiziki yükdən sonra tək-tək mədəcik ekstrasistolyası",
+      "Fiziki yükdən sonra arterial təzyiqin qalxması və baş ağrıları",
+      "Sakitlikdə döş sümüyü arxası göynədici ağrı və ST-seqmentinin elevasiyası",
+      "EKQ-də - V 2-6 aparmalarında T dişciyinin təcrid olunmuş deformasiyası"
+    ]
+  },
+  {
+    "question": "Xəstədə fiziki iş zamanı döş sümüyü arxasında yandırıcı xarakterli ağrı yaranmışdır. Ağrı nitroqliserin qəbulundan 3 dəq sonra keçmişdir. Ağrı tutması keçdikdən 5 dəq sonra çəkilən EKQ-də işemik dəyişiklik aşkar edilməmişdir. Qanda troponinin miqdarı normadadır. Hansı xəstəlikdən şübhələnərsiniz:",
+    "answers": [
+      "Stabil gərginlik stenokardiyası",
+      "Qeyri-stabil stenokardiya",
+      "Angiospastik stenokardiya",
+      "Subendokardial miokard infarktı",
+      "Transmural miokard infarktı"
+    ]
+  },
+  {
+    "question": "Spontan stenokardiyanın gərginlik stenokardiyasının sakitlikdə baş verən (IV FS) formasından fərqli cəhətlərini seçin:",
+    "answers": [
+      "Ürək vurgularının sayı dəyişmir",
+      "Arterial hipertenziya müşahidə olunur",
+      "Ürək vurğularının sayı kəskin artır",
+      "AT-nin səviyyəsi enir",
+      "Bradikardiya müşahidə olunur"
+    ]
+  },
+  {
+    "question": "Xəstənin 46 yaşı var, gecə sakitlikdə döş sümüyü arxası ağrı tutmaları meydana çıxmış və təqribən 10 dəq davam etmişdir. Ağrı müddətində EKQ-də ST seqmentinin elevasiyası müşahidə olunmuş və ağrı kəsildikdən sonra ST seqmenti izoxəttə enmişdir. Troponinlərin qanda səviyyəsi normadadır. Ehtimal olunan diaqnoz?",
+    "answers": [
+      "Prinsmetal stenokardiya",
+      "Ağ ciyər arteriyasının tromboembolyası",
+      "İnfarktdan sonrakı anevrizmanın meydana çıxması",
+      "Təkrar miokard infarktı",
+      "Mikrovaskulyar stenokardiya"
+    ]
+  },
+  {
+    "question": "Hansı mülahizə Prinsmetal stenokardiya üçün daha xarakterikdir?",
+    "answers": [
+      "Stenokardiya tac damarların spazmı nəticəsində meydana çıxır",
+      "Tutmaların aradan qalxması üçün β-blokatorların təyini vacib sayılır",
+      "Stenokardiyanın əsas səbəbi tac damarların trombozudur",
+      "EKQ-də ST seqmentinin depresiyası müşahidə olunur",
+      "Ən çox fiziki işdən sonra meydana çıxır"
+    ]
+  },
+  {
+    "question": "53 yaşlı xəstədə fiziki iş zamanı döş sümüyü arxasında şiddətli yandırıcı ağrılar yaranmışdır. Ağrılar 10 dəq. davam etmişdir. Koronar angioqrafiyada dəyişiklik aşkar edilməmişdir. Hansı xəstəlikdən şübhələnərsiniz:",
+    "answers": [
+      "Mikrovaskulyar stenokardiya",
+      "Stabil gərginlik stenokardiyası",
+      "Xəstədə işemik xəstəlik yoxdur",
+      "Qeyri-stabil stenokardiya",
+      "Spontan stenokardiya"
+    ]
+  },
+  {
+    "question": "Hemodinamik mənşəli qeyri-koronarogen işemiyanın səbəbidir:",
+    "answers": [
+      "Mikrovaskulyar stenokardiya",
+      "Miokard infarktı",
+      "Vazospastik stenokardiya",
+      "Aortal stenoz",
+      "Gərginlik stenokardiyası"
+    ]
+  },
+  {
+    "question": "Hansı xəstəlik tredmil sınağı üçün əks-göstəriş deyil:",
+    "answers": [
+      "Stabil stenokardiya",
+      "Tənəffüs çatmamazlığı III dərəcə",
+      "Kəskin tromboflebit",
+      "Qeyri-stabil stenokardiya",
+      "Kəskin miokard infarktı"
+    ]
+  },
+  {
+    "question": "Stenokardiyada “oğurlanma” sindromu yarada bilər:",
+    "answers": [
+      "Dipiridamol",
+      "Nitronq",
+      "Atenolol",
+      "Mildronat",
+      "Preduktal"
+    ]
+  },
+  {
+    "question": "ÜİX-ə şübhəli 52 yaşlı kişidə veloerqometriya sınağı zamanı 150 Vt yüklənmədə döş sümüyünü arxasında yaranan göynədici ağrı fonunda ST seqmentinin 1,5 mm horizontal depressiyası müşahidə edilmişdir. Sınağın nəticələrini qiymətləndirin:",
+    "answers": [
+      "Sınaq müsbətdir, fiziki yükə tolerantlıq yüksəkdir",
+      "Sınaq şübhəlidir, fiziki yükə tolerantlıq orta səviyyədədir",
+      "Sınaq müsbətdir, fiziki yükə tolerantlıq aşağı səviyyədədir",
+      "Sınaq mənfidir, fiziki yükə tolerantlıq yüksəkdir",
+      "Sınaq şübhəlidir, fiziki yükə tolerantlıq yüksəkdir"
+    ]
+  },
+  {
+    "question": "Stabil gərginlik stenokardiyasının qeyri-invaziv diaqnostikasında daha vacib metod hansıdır:",
+    "answers": [
+      "Yeməkborusudaxili stimulyasiya",
+      "Reoqrafiya",
+      "Erqonovin sınağı",
+      "Fonokardioqrafiya",
+      "Sakitlikdə EKQ"
+    ]
+  },
+  {
+    "question": "Tac damarları aterosklerozunun diaqnostikasında ən informativ üsul hansıdır?",
+    "answers": [
+      "Koronar angioqrafiya",
+      "EKQ-nin sutkalıq monitoru",
+      "Sakitlikdə EKQ",
+      "Stress-ExoKQ",
+      "ExoKQ"
+    ]
+  },
+  {
+    "question": "Stress-test sınağı zamanı EKQ-də ST seqmentinin depressiyası hansı xəstəlik üçün xarakterikdir:",
+    "answers": [
+      "Stabil gərginlik stenokardiyası",
+      "Miokardit",
+      "Prinsmetal stenokardiyası",
+      "Hemorragik perikardit",
+      "Qeyri-stabil stenokardiya"
+    ]
+  },
+  {
+    "question": "Yanaşı arterial hipertenziyası olan pasiyentlərdə ÜİX-in diaqnostikası məqsədi ilə hansı müayinənin aparılması məqsədəuyğundur:",
+    "answers": [
+      "Yeməkborusudaxili stimulyasiya",
+      "Tredmil-test",
+      "Veloerqometriya",
+      "EKQ",
+      "Tredmil test fonunda ExoKQ"
+    ]
+  },
+  {
+    "question": "ÜİX-in diaqnostikasında invaziv müayinə metodlarına aiddir:",
+    "answers": [
+      "Koronar angioqrafiya",
+      "EKQ-nin sutkalıq Holter monitoru",
+      "Stress-test",
+      "EKQ",
+      "ExoKQ"
+    ]
+  },
+  {
+    "question": "Koronar angioqrafiya zamanı nəyi qiymətləndirmək mümkün deyil:",
+    "answers": [
+      "Ürəyin yığılma qabiliyyətini",
+      "Zədələnmənin yayılması",
+      "Damar mənfəzinin daralma dərəcəsi",
+      "Ürəyin qanla təchizatının anatomik tipləri",
+      "Zədələnmənin lokalizasiyası"
+    ]
+  },
+  {
+    "question": "İşemiya formalaşana qədərki ilk mərhələdə pozitron-emission tomoqrafiya əsasən nə məqsədlə aparılır:",
+    "answers": [
+      "Miokardda yaranan metabolizm pozğunluğunu aşkar etmək",
+      "Miokardın keçiricilik funksiyasının pozulmasını aşkar etmək",
+      "Ürəyin diastolik disfunksiyasını aşkar etmək",
+      "Ürəyin lokal sistolik disfunksiyasını aşkar etmək",
+      "Miokardda gedən nekrotik zədələnmənin lokalizasiyasını aşkar etmək"
+    ]
+  },
+  {
+    "question": "Müasir dövrdə ÜİX-də antilipidemik terapiya hansı göstəriciyə əsasən aparılır:",
+    "answers": [
+      "Aşağısıxlıqlı lipoproteinlərə",
+      "Triqliseridlər",
+      "Ümumi xolesterinə",
+      "Yuxarısıxlıqlı lipoproteinlərə",
+      "Çox aşağısıxlıqlı lipoproteinlərə"
+    ]
+  },
+  {
+    "question": "ÜİX zamanı beta-blokatorların antiişemik təsiri nəyə əsaslanır:",
+    "answers": [
+      "Ürəyin oksigenə tələbatını azaldır",
+      "Koronar spazmın qarşısını alır",
+      "Lipid spektrini tənzimləyir",
+      "Kollateralları inkişaf etdirir",
+      "Mikrovaskulyar disfunksiyanı aradan qaldırır"
+    ]
+  },
+  {
+    "question": "ÜİX-in hansı klinik formasında kalsium antaqonistləri seçim preparatıdır:",
+    "answers": [
+      "Prinsmetal stenokardiyası",
+      "Qeyri-stabil stenokardiya",
+      "Mikrovaskulyar stenokardiya",
+      "Stabil stenokardiya",
+      "Proqressivləşən stenokardiya"
+    ]
+  },
+  {
+    "question": "Antiaqreqantlara aiddir:",
+    "answers": [
+      "Aspirin",
+      "Papaverin",
+      "Enoksapirin",
+      "Nitroqliserin",
+      "Heparin"
+    ]
+  },
+  {
+    "question": "Arterial hipertenziyası olan 49 yaşlı kişi sakitlik zamanı döş sümüyünün arxasında deşici ağrılarla təxirəsalınmaz terapiya şöbəsinə daxil olub. Ağrı tutması zamanı EKQ-də ST seqmentinin 4 mm elevasiyası müşahidə edilir. Ağrılar nitroqliserin qəbulundan sonra azalmışdır. Koronar angioqrafiyada intakt arteriyalar aşkar edilir. Erqonovin sınağı müsbətdir. Hazırda xəstə arterial hipertenziyaya görə nadolol və diuretik qəbul edir. Müalicə sxemini necə dəyişmək lazımdır:",
+    "answers": [
+      "Beta-blokatoru kəsmək və kalsium antaqonisti təyin etmək",
+      "Nadololu konkorla əvəzləmək",
+      "Təyinatda dəyişikliyə ehtiyac yoxdur",
+      "Diuretiki kəsmək və AÇF inhibitoru təyin etmək",
+      "Diuretiki ARB preparatı ilə əvəzləmək"
+    ]
+  },
+  {
+    "question": "Statinlərin təsir mexanizmi:",
+    "answers": [
+      "Xolesterinin miqdarını azaldır",
+      "Trombolitik təsirə malikdir",
+      "AT-ni normallaşdırır",
+      "Antianginal təsir göstərir",
+      "Tac damarları genişləndirir"
+    ]
+  },
+  {
+    "question": "Hansı preparat yüksəksıxlıqlı lipoproteinlərin səviyyəsinə təsir etmir:",
+    "answers": [
+      "Beta blokatorlar",
+      "Statinlər",
+      "Fibratlar",
+      "ω-3-yarımdoymuş yağ turşuları",
+      "Nikotik turşusu preparatları"
+    ]
+  },
+  {
+    "question": "Hansı antianginal preparat Prinsmetal stenokardiyasının müalicəsində əks- göstərişdir:",
+    "answers": [
+      "Anaprilin",
+      "Sustak forte",
+      "Korinfar",
+      "Kardiket",
+      "Amlodipin"
+    ]
+  },
+  {
+    "question": "Nitratlara əks-göstərişi seçin:",
+    "answers": [
+      "Ağır aortal stenoz",
+      "Reyno sindromu",
+      "Ağrısız işemiya",
+      "Spontan stenokardiya",
+      "Stabil stenokardiya"
+    ]
+  },
+  {
+    "question": "Nifedipinə əks-göstərişi seçin:",
+    "answers": [
+      "Kəskin miokard infarktı",
+      "Təcrid olunmuş arterial hipertenziya",
+      "Essensial hipertenziya",
+      "Prinsmetal stenokardiyası",
+      "Stabil stenokardiya"
+    ]
+  },
+  {
+    "question": "Həm hipotenziv və həm də antianginal effekti olan preparatı seçin",
+    "answers": [
+      "Bisoprolol",
+      "Koraksan",
+      "Lizinopril",
+      "Trimetazidin",
+      "Lozartan"
+    ]
+  },
+  {
+    "question": "Statinlərin çox rast gələn yanaşı təsirinə aiddir:",
+    "answers": [
+      "Qanda transaminazaların səviyyəsinin yüksəlməsi",
+      "Burun qanaxmaları",
+      "Qəbizlik",
+      "Podaqra",
+      "Diareya"
+    ]
+  },
+  {
+    "question": "Qeyri-stabil stenokardiyaya aid edilir:",
+    "answers": [
+      "İnfarktdan sonrakı erkən stenokardiya",
+      "Mikrovaskulyar stenokardiya",
+      "Spontan stenokardiya",
+      "Stabil gərginlik stenokardiyası III FS",
+      "Stabil gərginlik stenokardiyası II FS"
+    ]
+  },
+  {
+    "question": "Qeyri-stabil stenokardiyanın səbəbini seçin:",
+    "answers": [
+      "Koronar arteriyanın mənfəsində trombositlərin aqreqasiyası (səthi tromb)",
+      "Koronar arteriyanın kiçik şaxələrinin disfunksiyası",
+      "Koronar arteriya mənfəsinin stenozu (>75%)",
+      "Koronar arteriyanın spazmı",
+      "Koronar arteriya mənfəsinin trombla tam tutulması"
+    ]
+  },
+  {
+    "question": "Qeyri-stabil stenokardiya bu xüsusiyyətinə görə proqnostik olaraq daha ağırdır:",
+    "answers": [
+      "Miokard infarktına keçə bilər",
+      "Venoz çatışmazlığın meydana çıxması",
+      "Kəskin böyrək çatışmazlığı",
+      "Ağ ciyər arteriyasının hipertenziyası",
+      "Beyin damarlarının tromboemboliyası"
+    ]
+  },
+  {
+    "question": "Miokard infarktının başlanğıcının ən çox rast gələn klinik variantını seçin:",
+    "answers": [
+      "Anginoz",
+      "Simptomsuz",
+      "Serebrovaskulyar",
+      "Astmatik",
+      "Abdominal"
+    ]
+  },
+  {
+    "question": "Miokard infarktından şübhələnmək üçün sinədəki dözülməz ağrı sindromunun davam müddəti nə qədər olmalıdır:",
+    "answers": [
+      ">20 dəq.",
+      ">45 dəq.",
+      ">60 dəq.",
+      "<5 dəq",
+      "<10 dəq."
+    ]
+  },
+  {
+    "question": "EKQ-də ST seqmentinin depressiyasının aparıcı səbəblərindən biridir:",
+    "answers": [
+      "Prinsmetal stenokardiyası",
+      "Perikardit",
+      "Tromboflebit",
+      "Ürəyin anevrizması",
+      "Miokard infarktı"
+    ]
+  },
+  {
+    "question": "ST seqmentinin elevasiyasının aparıcı səbəblərindən biridir:",
+    "answers": [
+      "Miokard infarktı",
+      "Stabil gərginlik stenokardiyası",
+      "Taxikardiya",
+      "Arterial hipertenziya",
+      "Aritmiya"
+    ]
+  },
+  {
+    "question": "Miokard infarktının atipik klinik varianlarına aid edilmir:",
+    "answers": [
+      "Artralgik",
+      "Abdominal",
+      "Astmatik",
+      "Serebrovaskulyar",
+      "Aritmik"
+    ]
+  },
+  {
+    "question": "Miokard infarktının gediş dövrlərinə aid deyil:",
+    "answers": [
+      "Fasiləsiz residivləşən dövr",
+      "Kəskin dövr",
+      "Yarımkəskin dövr",
+      "İnfarktdan sonrakı dövr",
+      "Ən kəskin dövr"
+    ]
+  },
+  {
+    "question": "Miokard infarktı zamanı MB-kreatinfosfokinazanın aktivliyi nə vaxt yüksəlir:",
+    "answers": [
+      "İlk saatlardan",
+      "7 gündən sonra",
+      "3 gündən sonra",
+      "10 gündən sonra",
+      "5 gündən sonra"
+    ]
+  },
+  {
+    "question": "Miokardda nekrotik dəyişikliklərin aşkar olunmasının ən informativ üsulu:",
+    "answers": [
+      "Qanda troponinlərin miqdarının təyini",
+      "Qanda CRP-nin səviyyəsinin təyini",
+      "Qanda laktatdehidrogenazanın səviyyəsinin təyini",
+      "EÇS-in sürəti",
+      "Qanda leykositlərin miqdarının təyini"
+    ]
+  },
+  {
+    "question": "Xəstə A., 55 yaşında, müəllim. Səhər iclasdan sonra döş sümüyünün arxasında sıxıcı ağrı əmələ gəlmişdir. Ağrı uzun müddət davam etmişdir. 10 saatdan sonra təcili yardım həkiminin çəkdiyi EKQ-də V1-3 aparmalarında patoloji Q dişciyi, R dişciyinin itməsi, ST seqmentinin izoxəttdən 6 mm qalxması aşkar edilmişdir. Sizin diaqnoz:",
+    "answers": [
+      "ÜİX: ön-arakəsmənin transmural miokard infarktı, kəskin dövr",
+      "ÜİX: ön-arakəsmənin transmural miokard infarktı, yarımkəskin dövr",
+      "Qeyr-stabil stenokardiya",
+      "Kəskin perikardit",
+      "Vazospastik stenokardiya"
+    ]
+  },
+  {
+    "question": "50 yaşlı xəstə, özünü qəfildən pis hiss edib, döş sümüyü arxasında artan sıxıcı ağrı əmələ gəlmişdir. Yarım saatdan sonra ağrı dözülməz olmuşdur. Xəstə avazımış, soyuq tərlə örtülmüşdür. Tənəffüsün sayı dəqiqədə 18, ÜVS – 100. AT= 70/45 mm c.st. Diurez 20 ml/saat. Sizin diaqnoz:",
+    "answers": [
+      "Kəskin miokard infarktı, kardiogen şok",
+      "AATE",
+      "Qeyri-stabil stenokardiya",
+      "Kəskin miokard infarktı, ağciyər ödemi",
+      "Kəskin miokard infarktı, ürək astması"
+    ]
+  },
+  {
+    "question": "Miokard infarktının diaqnostikasında hansı fermentin rolu, demək olar ki, yoxdur:",
+    "answers": [
+      "Qələvi fosfataza",
+      "Mioqlobin",
+      "Laktatdehidrogenaza",
+      "MB-KFK",
+      "Troponin T"
+    ]
+  },
+  {
+    "question": "Transmural miokard infarktının xarakterik EKQ əlamətlərini seçin:",
+    "answers": [
+      "Patoloji Q dişciyi və ya QS kompleksinin olması",
+      "ST seqmentinin depressiyası",
+      "Asimmetrik T dişciyinin olması",
+      "P dişinin davam müddətinin dəyişməsi",
+      "PQ intervalının artması"
+    ]
+  },
+  {
+    "question": "Qeyri-transmural miokard infarktının xarakterik EKQ əlamətlərini seçin:",
+    "answers": [
+      "ST seqmentinin depressiyası fonunda T dişciyinin inversiyası",
+      "Patoloji QS kompleksi fonunda T dişciyinin inversiyası",
+      "Asimmetrik T dişciyinin olması",
+      "ST seqmentinin davamlı elevasiyası",
+      "Patoloji Q dişi fonunda T dişciyinin inversiyası"
+    ]
+  },
+  {
+    "question": "Miokard infarktının ən kəskin mərhələsi nə qədər davam edir?",
+    "answers": [
+      "10-dəqidədən 2 saatadək",
+      "10 gündən 4 həftəyədək",
+      "2-6 ay",
+      "10 günə qədər",
+      "2 ay"
+    ]
+  },
+  {
+    "question": "Sol qulaqcıqda trombun aşkarlanmasında ən həssas müayinə üsulu hansıdır:",
+    "answers": [
+      "Döş qəfəsinin rentgenoqrafiyası",
+      "Stress-test",
+      "Miokardın perfuzion ssintiqrafiyası",
+      "Transtorakal ExoKQ",
+      "Yeməkborusudaxili ExoKQ"
+    ]
+  },
+  {
+    "question": "Arxa-yan lokalizasiyalı transmural miokard infarktı üçün xarakterik EKQ dəyişiklikləri hansı aparmalarda olur?",
+    "answers": [
+      "II, III, AVF, V5, V6",
+      "I, III, AVL,V3-V4",
+      "I, II, AVF,V1-V2",
+      "I, III, AVR, V5-V6",
+      "I, II, AVL, V1-V2"
+    ]
+  },
+  {
+    "question": "45 yaşında xəstədə ağır fiziki gərginlikdən sonra döş sümüyü arxasında kəskin sıxıcı ağrılar başlamışdır. Ağrılar sol kürəyə ötürülür və venadaxili morfin inyeksiyası ilə götürülmüşdür. Daxil olarkən: düşüncəsi ləngimiş, dəri ortüyü solğun, nəm, dodaqları sianotikdir. Tənəffüs sayı dəqiqədə 24. Ağciyərlərdə sərt tənəffüs eşidilir. Xırıltılar yoxdur. Ürək tonları karlaşıb. Nəbzi 115/dəq, zəif dolğunluqludur. AT 95/75 mm.c.st. Qaraciyər əllənmir. Ödem yoxdur. EKQ-da: ST- nin qalxması I, AVL,V5-V6 , ST-nin enməsi III,V1-V2. Təxmini diaqnoz?",
+    "answers": [
+      "Ön-yan divarda Mİ",
+      "Ön-arakəsmə Mİ",
+      "Ağciyər arteriyasının tromboemboliyası",
+      "Arxa-diafraqmal Mİ",
+      "Ön yayılmış Mİ"
+    ]
+  },
+  {
+    "question": "V1, V2 aparmalarında Mİ-nin EKQ əlamətləri hansı lokalizasiyaya uyğundur?",
+    "answers": [
+      "Ön-arakəsmə",
+      "Yan",
+      "Ön-yayılmış",
+      "Arxa-yan",
+      "Zirvə"
+    ]
+  },
+  {
+    "question": "Xırdaocaqlı miokard infarktı üçün ExoKQ-da hansı dəyişikliklər xarakterikdir?",
+    "answers": [
+      "Lokal hipokinez",
+      "Lokal hiperkinez",
+      "Diffuz hiperkinez",
+      "Atım fraksiyasının kəskin azalması",
+      "Diffuz hipokinez"
+    ]
+  },
+  {
+    "question": "Kəskin miokard infarktı zamanı oliqouriya fonunda xəstədə arterial təzyiqin kəskin enməsi hansı ağırlaşma barədə düşünməyə vadar edir:",
+    "answers": [
+      "Dressler sindromu",
+      "Miokardit",
+      "Kəskin böyrək çatışmazlığı",
+      "Ağciyər ödemi",
+      "Kardiogen şok"
+    ]
+  },
+  {
+    "question": "Miokard infarktının gecikmiş ağırlaşmalarına aid deyil:",
+    "answers": [
+      "Dressler sindromu",
+      "Sol mədəciyin xronik anevrizması",
+      "Postinfarkt kardioskleroz",
+      "Durğunluq ürək çatışmazlığı",
+      "Kardiogen şok"
+    ]
+  },
+  {
+    "question": "Miokard infarktının kəskin dövründə heparin hansı formada təyin olunur:",
+    "answers": [
+      "Vena daxilinə",
+      "Endotraxeal",
+      "Per os",
+      "Əzələ daxilinə",
+      "Dəri altına"
+    ]
+  },
+  {
+    "question": "Aortanın kəskin laylanması zamanı ilk növbədə hansı preparat yeridilməlidir:",
+    "answers": [
+      "Ürək qlikozidləri",
+      "Diuretiklər",
+      "Nitratlar",
+      "Kalsium antaqonistləri",
+      "Beta-blokatorlar"
+    ]
+  },
+  {
+    "question": "53 yaşlı xəstədə kəskin ön divar Mİ diaqnozu ilə boğulma tutması baş vermişdir. Baxış: diffuz sianoz, ağciyərlərdə çoxlu miqdarda müxtəlif kalibrli yaş xırıltılar, nəbz-100/dəq, AT-120/90 mm.c.st. Bu hansı ağırlaşma ola bilər?",
+    "answers": [
+      "Ağciyər ödemi",
+      "Dressler sindromu",
+      "Mədəciklərarası çəpərin cırılması",
+      "Ağciyər arteriyası tromboemboliyası",
+      "Kardiogen şok"
+    ]
+  },
+  {
+    "question": "Dressler sindromu:",
+    "answers": [
+      "Autoallergik reaksiya olub plevrit, pnevmonut və perikarditlə xarakterizə olunur",
+      "Məməyəbənzər əzələnin qopması və mitral qapaq çatişmazlığının əmələ gəlməsi",
+      "Kəskin sol mədəcik çatışmazlığı",
+      "Qulaqcıqların fibrilyasiyası nəticəsində tam AV blokadanın əmələ gəlməsi",
+      "Mədəciklərarası çəpərin cırılması"
+    ]
+  },
+  {
+    "question": "Kəskin miokard infarkt zamanı KFK-nın hansı izofermenti artır:",
+    "answers": [
+      "КФК-МВ",
+      "КФК-МR",
+      "КФК-ВВ",
+      "КФК-ММ",
+      "КФК-ВР"
+    ]
+  },
+  {
+    "question": "Miokard infarktı zamanı hansı tip aritmiya həyat üçün təhlükəlidir:",
+    "answers": [
+      "Mədəciklərin səyirməsi",
+      "Hiss dəstəsinin sol ayaqcığının natamam blokadası",
+      "Hiss dəstəsinin sağ ayaqcığının hissəvi blokadası",
+      "Qulaqcıq ekstrasistoliyası",
+      "AV blokada I dərəcə"
+    ]
+  },
+  {
+    "question": "Miokard infarktı zamanı ölümün səbəbi deyil:",
+    "answers": [
+      "Dressler sindromu",
+      "Ürəyin cırılması",
+      "Kardiogen şok",
+      "Mədəciklərin fibrilyasiyası",
+      "Trombembolik ağırlaşma"
+    ]
+  },
+  {
+    "question": "Kəskin miokarditin müalicəsi üçün mütləqdir:",
+    "answers": [
+      "Simptomatik müalicə",
+      "Antibiotiklərin təyini",
+      "Metabolik preparatların təyini",
+      "Kortikosteroidlərin təyini",
+      "İltihabəleyhinə qeyr-steroid preparatların təyini"
+    ]
+  },
+  {
+    "question": "Kəskin perikarditin etioloji amillərinə aid deyil:",
+    "answers": [
+      "dərman",
+      "göbələk",
+      "bakteriya",
+      "viruslar",
+      "aspergillez"
+    ]
+  },
+  {
+    "question": "Perikarditin əsas əmələ gəlmə səbəbi hansıdır:",
+    "answers": [
+      "ağciyər vərəmi",
+      "bronxit",
+      "mədə xorası",
+      "hipertoniya xəstəliyi",
+      "stabil stenokardiya"
+    ]
+  },
+  {
+    "question": "Perikarditlər zamanı ağrı sindromunun xarakteri barəsində düzgün iddiaları seçin:",
+    "answers": [
+      "Horizontal vəziyyətdə və dərin nəfəs alanda artan basıcı xarakterli ağrı",
+      "Nitroqliserin qəbulundan sonra ağrının itməsi",
+      "Oturaq vəziyyətdə ağrının şiddətlənməsi",
+      "Stress vəziyyətlərində artan uzun müddətli ağrı",
+      "Fiziki gərginlik zamanı artan sıxıcı xarakterli ağrı"
+    ]
+  },
+  {
+    "question": "Kəskin perikarditin əlamətini seçin:",
+    "answers": [
+      "Perikardın sürtünmə küyü",
+      "Leykopeniya",
+      "Anemiya",
+      "Qıcqırma",
+      "Tərləmə"
+    ]
+  },
+  {
+    "question": "Quru perikarditi hansı xəstəliklə differensasiya etmək lazım gəlir:",
+    "answers": [
+      "Miokard infarktı",
+      "Miokardit",
+      "Qida borusunun peptik yarası",
+      "Kəskın pankreatit",
+      "Diafraqma yırtıgı"
+    ]
+  },
+  {
+    "question": "Autoimmun perikarditə aiddir:",
+    "answers": [
+      "Hamısı",
+      "Postinfarkt (Dressler sindromu)",
+      "Postravmatik",
+      "Postperikardit",
+      "Postkomissural"
+    ]
+  },
+  {
+    "question": "Perikardit zamanı \" paradoksal nəbzin \"səbəbi:",
+    "answers": [
+      "Nəfəsalma zamanı ürək atımının kəskin azalması",
+      "Nəfəsvermə zamanı ürək atımının azalması",
+      "Nəfəsalma zamanı ürək atımının artmasıı",
+      "Ürək ritminin pozulması",
+      "Nəfəsvermə zamanı ürək atımının artması"
+    ]
+  },
+  {
+    "question": "Kəskin fibrinoz perikardit üçün nə xarakterik deyil:",
+    "answers": [
+      "Bradikardiya",
+      "Disfagiya, udqunma zamanı döş sümüyü arxasında ağrı",
+      "Perikardın sürtünmə küyü",
+      "Döş sümüyu arxasında ağrı",
+      "Hərarətin artması"
+    ]
+  },
+  {
+    "question": "Ekssudativ perikarditin diaqnostikasında informativ müayinə üsulu hansıdır?",
+    "answers": [
+      "Yeməkborusudaxili stimulyasiya",
+      "Ürəyin kateterizasiyası",
+      "Stress-testlər",
+      "Qanda troponinlərin təyini",
+      "Exokardioqrafiya"
+    ]
+  },
+  {
+    "question": "Vərəm mənşəli perikarditli xəstədən punksiya zamanı alınan möhtəviyyatda hansı element üstünlük təşkil edir?",
+    "answers": [
+      "Limfositlər",
+      "Leykositlər",
+      "Eozinofillər",
+      "Eritrositlər",
+      "Monositlər"
+    ]
+  },
+  {
+    "question": "Stoks yaxalığı hansı perikardit üçün xarakterikdir?",
+    "answers": [
+      "Konstriktiv perikardit",
+      "İrinli perikardit",
+      "Hilyoz perikardit",
+      "Hemorragik perikardit",
+      "Fibrinoz perikardit"
+    ]
+  },
+  {
+    "question": "İrinli perikardit zamanı antibiotiklərin yeridilməsinin ən rasional yolu hansıdır?",
+    "answers": [
+      "Antibiotiklərin parenteral və bilavasitə perikard boşluğuna müştərək yeridilməsi",
+      "Parenteral və peroral",
+      "Peroral",
+      "Bilavasitə perikarda",
+      "Parenteral"
+    ]
+  },
+  {
+    "question": "Ürək tamponadası üçün xas olmayan əlamət:",
+    "answers": [
+      "Diastola zamanı ürək boşluqlarının dolması",
+      "Şok",
+      "AT-nin enməsi",
+      "Ürək atımının azalması",
+      "Venoz təzyiqin artması"
+    ]
+  },
+  {
+    "question": "Kəskin fibrinoz perikarditin erkən EKQ əlamətini göstərin:",
+    "answers": [
+      "ST-seqmentinin yüksəlməsi",
+      "P dişinin haçalanması",
+      "yüksək itiuclu T dişi",
+      "ST seqmentin depressiyası",
+      "T dişinin mənfiləşməsi"
+    ]
+  },
+  {
+    "question": "Kəskin perikarditdə ağrı sindromunda istifadə edilən secim preparatı:",
+    "answers": [
+      "qeyri- steroid iltihab əleyhinə dərmanlar",
+      "narkotik analgetiklər",
+      "nitratlar",
+      "papaverin və ya noş-pa",
+      "steroid dərmanlar"
+    ]
+  },
+  {
+    "question": "Konstruktiv perikarditi əmələ gətirən əsas səbəbi göstərin:",
+    "answers": [
+      "vərəm",
+      "travma",
+      "uremiya",
+      "ürəkdə cərrahi müdaxilə",
+      "kollagenoz"
+    ]
+  },
+  {
+    "question": "Konstriktiv perikarditin səbəbi deyil:",
+    "answers": [
+      "alkoholizm",
+      "dərmanlar",
+      "infeksiyalar",
+      "ürəyin travması",
+      "birləşdirici toxuma xəstəlikləri"
+    ]
+  },
+  {
+    "question": "Konstruktiv perikardit üçün xarakterikdir:",
+    "answers": [
+      "hamısı aiddir",
+      "perikardda kalsinoz",
+      "paradoksal nəbz",
+      "ürək atımının azalması",
+      "ürək ölçülərinin normal olması"
+    ]
+  },
+  {
+    "question": "Konstriktiv perikarditdə:",
+    "answers": [
+      "arterial təzyiq azalır,venoz təzyiq artır",
+      "arterial və venoz təzyiq əhəmiyyətli dərəcədə dəyişmir",
+      "arterial və venoz təzyiq artır",
+      "venoz və arterial təzyiqlər azalır",
+      "venoz təzyiq azalır, arterial təzyiq artır"
+    ]
+  },
+  {
+    "question": "Perikard boşluğunda normada nə qədər maye olur?",
+    "answers": [
+      "50 ml qədər",
+      "olmamalıdır",
+      "təxminən 5 ml",
+      "100-200 ml",
+      "200-300 ml"
+    ]
+  },
+  {
+    "question": "Eksudativ perikardit zamanı hansı müayinə aparmaq lazımdır:",
+    "answers": [
+      "döş qəfəsinin rentgenoqrafiyası",
+      "FonoKQ",
+      "EKQ",
+      "mərkəzi venoz təzyiqin təyini",
+      "Koronar angioqrafiya"
+    ]
+  },
+  {
+    "question": "",
+    "answers": [
+      "alkohol",
+      "dilatasion",
+      "hipertrofik",
+      "sağ mədəciyin aritmogen displaziyası",
+      "restriktiv"
+    ]
+  },
+  {
+    "question": "Hipertrofik kardiomiopatiya zamanı xəstədə qəfləti ölümə səbəb ola biləcək proqnostik əlverişsiz amil hansıdır?",
+    "answers": [
+      "mədəcik aritmiyası",
+      "gərginlik stenokardiyası",
+      "His dəstəsinin sol ayaqcığının blokadası",
+      "His dəstəsinin sağ ayaqcığının blokadası",
+      "sol mədəciyin dastolik disfunksiyası"
+    ]
+  },
+  {
+    "question": "Hipertrofik kardiopatiyada tez, sadə və informativ diaqnostik metod:",
+    "answers": [
+      "ExoKQ",
+      "miokardın biopsiyası",
+      "EKQ",
+      "ürəyin kateterizasiyası",
+      "miokardın ssintiqrafiyası"
+    ]
+  },
+  {
+    "question": "Hipertrofik kardiomiopatiyanın klinik əlamətləri hansı amildən asılıdır?",
+    "answers": [
+      "bütün sadalananlardan",
+      "diastolik disfunksiyanın dərəcəsindən",
+      "aritmiyadan",
+      "sol mədəciyin cıxacaq hissəsinin daralma dərəcəsindən",
+      "miokardın işemiyasında"
+    ]
+  },
+  {
+    "question": "Obstruktiv hipertrofik kardiomiopatiya üçün xarakterdir:",
+    "answers": [
+      "mədəcikarası çəpərin bazal seqmentinin izoləolunmuş hipertrofiyası",
+      "sol mədəciyin apikal hissəsinin hipertrofiyası",
+      "sol və sağ mədəciyin ekssentrik hipertrofiyası",
+      "sol mədəciyin konsentrik hipertrofiyası",
+      "sol mədəciyin divarlarının nazilməsi"
+    ]
+  },
+  {
+    "question": "Obstruktiv tip hipertrofik kardiomiopatiyalı xəstələrin şikayətlərinə aid deyil:",
+    "answers": [
+      "qulaqda küy",
+      "sinədə darlıq hissi",
+      "ürəkdöyünmə",
+      "bayılma",
+      "başgicəllənmə"
+    ]
+  },
+  {
+    "question": "Hipertrofik kardiomiopatiyalı xəstələrdə aorta və sol mədəcik arasında təzyiq qradiyentinə təsir edən anatomik amil:",
+    "answers": [
+      "mitral qapağın ön tayının sistola zamanı mədəcikarası çəpərə doğru hərəkəti",
+      "mitral qapağın ön tayının qalınlaşması",
+      "mitral qapağın ön tayının haçalanması",
+      "mitral qapağın ön tayının diastola zamanı mədəcikarası çəpərə doğru hərəkəti",
+      "mitral qapağın ön tayının prolapsı"
+    ]
+  },
+  {
+    "question": "Hipertrofik kardiomiopatiyada EKQ də hansı dəyişiklik olur?",
+    "answers": [
+      "V5-V6 da dərin Q dişi",
+      "səyrici aritmiya",
+      "WPW sindromu",
+      "Hiss dəstəsinin sag ayaqcıgının blokadası",
+      "atrioventrikulyar blokada"
+    ]
+  },
+  {
+    "question": "Hipertrofik obstruktiv KMP-nın çox vacib klassik ExoKQ əlaməti hansıdır:",
+    "answers": [
+      "Mədəciklərarası çəpərin asimmetrik hipertrofiyası",
+      "Hər iki mədəciyin simmetrik hipertrofiyası",
+      "Sol mədəciyin hipertrofyası və dilatasiyası",
+      "Sol qulaqcık və sol mədəciyin müştərək hipertrofiyası",
+      "Sol mədəciyin arxa divarının hipertrofiyası"
+    ]
+  },
+  {
+    "question": "Hipertrofik KMP zamanı miokardın işemiyası hansı şəraitdə yaranır:",
+    "answers": [
+      "Həm koronar ateroskleroz, həm də intakt koronar arteriyalar fonunda",
+      "Ancaq koronar arteriyaların spazmı zamanı",
+      "Ancaq anadangəlmə koronar anomaliyalar zamanı",
+      "Həmişə koronar damarların stenozu fonunda",
+      "Həmişə intakt koronar arteriya fonunda"
+    ]
+  },
+  {
+    "question": "Kardiomipatiyaların təsnifatı hansı prinsipə əsaslanır:",
+    "answers": [
+      "Funksional xüsusiyyətinə",
+      "Patogenezinə",
+      "Morfoloji xüsusiyyətinə",
+      "Etiologiysına",
+      "Genetik xüsusiyyətinə"
+    ]
+  },
+  {
+    "question": "Hipertrofik KMP diaqnozunun meyarı sol mədəciyin divarının nə qədər qalınlaşması sayılır:",
+    "answers": [
+      "≥15 mm",
+      "≥18 mm",
+      "≥24 mm",
+      "≥20mm",
+      "≥9 mm"
+    ]
+  },
+  {
+    "question": "Hipertrofik KMP olan xəstələrdə təngnəfəslik hansı səbəbdən yaranır:",
+    "answers": [
+      "Sol mədəciyin diastolik disfunksiyası",
+      "Miokardın işemiyası",
+      "Müxtəlif ritm pozğunluğu",
+      "Sol mədəciyin sistolik disfunksiyası",
+      "Mədəcikdaxili obstruksiya"
+    ]
+  },
+  {
+    "question": "Hipertrofik KMP-nin müalicəsində daha effektli dərman preparatlarını seçin:",
+    "answers": [
+      "AÇF inhibitorları",
+      "ARB preparatları",
+      "Diuretiklər",
+      "Kalsium antaqonistləri",
+      "Beta-blokatorlar"
+    ]
+  },
+  {
+    "question": "Beta-blokatorlara əks-göstəriş olan hipertrofik KMP olan xəstələrə hansı preparatı tövsiyə edərsiniz:",
+    "answers": [
+      "Verapamil",
+      "Novokainamid",
+      "Amiodaron",
+      "Nifedipin",
+      "İndapamid"
+    ]
+  },
+  {
+    "question": "Hipertrofik KMP zamanı qəfləti ürək ölümünün əsas yüksək risk amillərini seçin:",
+    "answers": [
+      "Sol mədəcik divarının qalınlığı >30 mm",
+      "Supraventrikulyar ekstrasistoliya",
+      "His dəstəsinin sol ayaqcığının blokadası",
+      "Tez-tez mədəcik ekstrasistoliyası",
+      "Döş sümüyünün arxasında ağrı sindromu"
+    ]
+  },
+  {
+    "question": "Dilatasion kardiomiopatiyanın klinik əlamətləri:",
+    "answers": [
+      "bütün cavablar doğrudur",
+      "ürək ritminin pozulması",
+      "ürək catışmazlığı",
+      "qəfləti ölüm",
+      "tromboemboliya"
+    ]
+  },
+  {
+    "question": "Dilatasion KMP zamanı ExoKQ əlamətlərinə aiddir edilir:",
+    "answers": [
+      "Miokardın yığılma qabiliyyətinin diffuz enməsi",
+      "Miokardın lokal diastolik disfunksiyası",
+      "Miokardın diffuz diastolik disfunksiyası",
+      "Miokardın yığılma qabiliyyətinin dəyişməz qalması",
+      "Miokardın yığılma qabiliyyətinin lokal enməsi"
+    ]
+  },
+  {
+    "question": "Dilatasion kardiomiopatiyanın ExoKQ əlamətlərini göstərin:",
+    "answers": [
+      "sol mədəcik divarının zəif qalınlaşması fonunda sol mədəciyin zəif dilatasiyası",
+      "sol mədəciyin atım fraksiyası artmışdır",
+      "sol mədəciyin atım fraksiyası normaldır",
+      "sol mədəcik divarının qalınlığının normal və ya azalması fonunda onun kəskin dilatasiyası",
+      "sol mədəciyin zəif konsentrik hipertrofiyası fonunda sol qulaqcığın və sağ mədəciyin dilatasiyası"
+    ]
+  },
+  {
+    "question": "İdiopatik dilatasion kardiomiopatiyanın müalicə prinsipinə aid deyil:",
+    "answers": [
+      "Kalsium antaqonistləri",
+      "Diuretiklər",
+      "AÇF inhibitorları",
+      "Ürək qlikozidləri",
+      "Beta adrenoblokatorlar"
+    ]
+  },
+  {
+    "question": "Restriktiv KMP zamanı zədələnirlər:",
+    "answers": [
+      "Hər iki mədəcik",
+      "Ancaq qapaq aparatı",
+      "Ancaq qulaqcıq",
+      "Ancaq sağ mədəcik",
+      "Ancaq sol mədəcik"
+    ]
+  },
+  {
+    "question": "Sağ mədəciyin aritmogen displaziyasının ən informativ qeyri- invazivdiaqnostika metodu hansıdır?",
+    "answers": [
+      "Ürəyin MRT",
+      "Miokardın ssintiqrafiyası",
+      "EKQ",
+      "Holter monitorlaşması",
+      "ExoKQ"
+    ]
+  },
+  {
+    "question": "Sağ mədəciyin aritmogen kardiopatiyanın ən çox klinik təzahürü hansıdır:",
+    "answers": [
+      "Qəfləti ürək ölümü",
+      "Keçiricilik pozğunluğu",
+      "Ürək çatışmazlığı",
+      "Tromboembolik ağırlaşmalar",
+      "Qulaqcıq fibrilyasiyası"
+    ]
+  },
+  {
+    "question": "Mitral dəliyin sahəsi normada nə qədərdir:",
+    "answers": [
+      "4,5-6,0 sm²",
+      "<2,0sm²",
+      "3,0-4,0 sm²",
+      "2,0-3,0 sm²",
+      ">6,0sm²"
+    ]
+  },
+  {
+    "question": "Mitral stenozda sol qulaqcığın EKQ əlamətinə aiddir:",
+    "answers": [
+      "P dişinin ikiləşməsi və davam müddətinin artması",
+      "P dişinin V1-2 aparmalarda mənfiləşməsi",
+      "P dişinin QRS kompleksinin üzərinə düşməsi",
+      "P dişinin QRS komplesindən sonra müşahidə edilməsi",
+      "P-pulmonale"
+    ]
+  },
+  {
+    "question": "Mitral stenoz zamanı qanhayxırmanın səbəbidir:",
+    "answers": [
+      "Kiçik qan dövranında durğunluq",
+      "Qulaqcıqların fibrilyasiyası",
+      "Böyük qan dövranında durğunluq",
+      "Tromboembolik ağırlaşmalar",
+      "Ürək kameralarının dilatasiyası"
+    ]
+  },
+  {
+    "question": "Mitral stenozu olan xəstənin erkən şikayəti nədir:",
+    "answers": [
+      "Təngnəfəslik",
+      "Assit",
+      "Qara ciyərin böyüməsi",
+      "Sifətdə ödem",
+      "Aşağı ətraflarda ödem"
+    ]
+  },
+  {
+    "question": "Aşağıdakılardan hansı mitral stenozun ağırlaşması deyil:",
+    "answers": [
+      "AT-nin yüksəlməsi",
+      "Qanhayxırma",
+      "Sol mədəcik çatışmazlığı",
+      "Kəskin ağciyər ödemi",
+      "Səyirici aritmiya"
+    ]
+  },
+  {
+    "question": "“Fiksəolunmuş” vurğu həcmi hansı xəstəlik üçün xarakterikdir:",
+    "answers": [
+      "Mitral stenoz",
+      "Ağciyər arteriyasının stenozu",
+      "Aortal çatışmazlıq",
+      "Mitral qapaq çatışmazlığı",
+      "Üçtaylı qapaq çatışmazlığı"
+    ]
+  },
+  {
+    "question": "Mitral stenoz zamanı ən çox tromboemboliyanın mənbəyi:",
+    "answers": [
+      "Sol qulaqcıq seyvanı",
+      "Sol mədəcik",
+      "Kiçik çanaq venaları",
+      "Baldır venası",
+      "Sağ qulaqcıq seyvanı"
+    ]
+  },
+  {
+    "question": "Mitral stenozun ağırlaşmalarına aiddir:",
+    "answers": [
+      "Ağciyər ödemi",
+      "Kardiomiopatiya",
+      "Pnevmoniya",
+      "Sepsis",
+      "Miokard infarktı"
+    ]
+  },
+  {
+    "question": "Mitral qapaq çatışmazlığı üçün xarakter deyil:",
+    "answers": [
+      "Nəbz təzyiqinin artması",
+      "Passiv ağciyər hipertenziyası",
+      "Mitral requrgitasiyanın olması",
+      "Sol mədəciyin genişlənməsi",
+      "Sol qulaqcığın genişlənməsi"
+    ]
+  },
+  {
+    "question": "Mitral qapaq çatışmazlığının ən çox rast gələn səbəbi:",
+    "answers": [
+      "Miokard infarktı",
+      "Miokardit",
+      "Stenokardiya",
+      "Döş qəfəsinin travması",
+      "Revmatizm"
+    ]
+  },
+  {
+    "question": "Mitral qapaq çatışmazlığında ortopnoe vəziyyəti nə səbəbdən baş verir:",
+    "answers": [
+      "Kiçik qan dövranında kəskin durğunluq",
+      "Beyin qan dövranında durğunluq",
+      "Böyük qan dövranında kəskin durğunluq",
+      "Sağ mədəcik çatışmazlığı",
+      "AT-nin kəskin enməsi"
+    ]
+  },
+  {
+    "question": "Mitral qapaq çatışmazlığında hemodinamik dəyişiklikləri ardıcıllıqla düzün: 1) Ağciyərin arterial hipertenziyası 2) Sol mədəciyin hipertrofiyası və dilatasiyası 3) Sol qulaqcığın hipertrofiyası və dilatasiyası 4) Sağ mədəcik çatışmazlığı 5) Sol mədəcik çatışmazlığı",
+    "answers": [
+      "3,2,5,1,4",
+      "4,5,3,2,1",
+      "2,3,5,4,1",
+      "5,4,3,2,1",
+      "1,2,3,4,5"
+    ]
+  },
+  {
+    "question": "Funksional mitral qapaq çatışmazlığının səbəbi deyil:",
+    "answers": [
+      "Prinsmetal stenokardiyası",
+      "Dilatasion KMP",
+      "Arterial hipertenziya",
+      "Aortal stenoz",
+      "Mitral qapağın prolapsı"
+    ]
+  },
+  {
+    "question": "Aorta qapağının üzvü çatışmazlığının əsas səbəbini seçin:",
+    "answers": [
+      "Revmatizm",
+      "Dermatomiozit",
+      "Ateroskleroz",
+      "Sifilitik aortit",
+      "Revmatoid artrit"
+    ]
+  },
+  {
+    "question": "Aortal çatışmazlıq üçün hansı diaqnostik əlamət xarakterdir?",
+    "answers": [
+      "Yüksək nəbz təzyiqi",
+      "Aşağı nəbz təzyiqi",
+      "Sağ mədəciyin hipertrofiyası",
+      "Diastolik təzyiqin yüksəlməsi",
+      "Aşağı sistolik təzyiq"
+    ]
+  },
+  {
+    "question": "Aortal çatışmazlıq zamanı koronar qan dövranının nisbi çatışmazlığına səbəb nədir:",
+    "answers": [
+      "Aortada diastolik təzyiqin enməsi",
+      "Kollateralların zəif inkişafı",
+      "Koronar arteriyaların spazmı",
+      "Aortada sistolik təzyiqin enməsi",
+      "Mikrovaskulyar disfunksiya"
+    ]
+  },
+  {
+    "question": "Korriqan nəbzi hansı ürək qüsusu üçün xarakterikdir:",
+    "answers": [
+      "Aorta qapağının çatışmazlığı",
+      "Mirtal qapaq çatışmazlığı",
+      "Aoprtal stenoz",
+      "Trikuspital çatışmazlıq",
+      "Mitral stenoz"
+    ]
+  },
+  {
+    "question": "Kvinke simptomu hansı xəstəlik üçün xarakterikdir:",
+    "answers": [
+      "Aortal stenoz",
+      "Mitral çatışmazlıq",
+      "Mitral stenoz",
+      "Sağ atrioventrikulyar dəliyin stenozu",
+      "Aorta qapağının çatışmazlığı"
+    ]
+  },
+  {
+    "question": "Xəstə önə əyiləndə, dərin nəfəs aıdıqda diastolik küyün yaxşı eşidilməsi və zirvəyə doğru ötürülməsi hansı qüsur üçün xarakterik sayılır:",
+    "answers": [
+      "Aorta qapağının çatışmazlığı",
+      "Aortal stenoz",
+      "Mitral stenoz",
+      "Üçtaylı qapaq çatışmazlığı",
+      "Mitral qapaq çatışmazlığı"
+    ]
+  },
+  {
+    "question": "Flint küyü hansı ürək qüsuru üçün xarakterikdir:",
+    "answers": [
+      "Aortal stenoz",
+      "Mitral stenoz",
+      "Mitral qapaq çatışmazlığı",
+      "Üçtaylı qapaq çatışmazlığı",
+      "Aorta qapağının çatışmazlığı"
+    ]
+  },
+  {
+    "question": "Flint küyü harada eşidilir:",
+    "answers": [
+      "Ürəyin zirvəsində",
+      "Botkin-Erb nöqrəsində",
+      "Ürəyin bütün nöqtələrində",
+      "Solda II qabırğaarası sahədə",
+      "Sağda II qabırğaarası sahədə"
+    ]
+  },
+  {
+    "question": "Aortal çatışmazlıqda AT necə dəyişir:",
+    "answers": [
+      "Sistolik AT artır, diastolik AT enir",
+      "Sistolik AT enir, diastolik qalxır",
+      "Yalnız diastolik artır",
+      "Dəyişmir",
+      "Yalnız sistolik artır"
+    ]
+  },
+  {
+    "question": "Aortal stenozun xarakterik simptomlarına aid edilimir:",
+    "answers": [
+      "Öskürək (“paslı” bəlğəmlə)",
+      "Stenokardiya",
+      "Ürəkkeçmə",
+      "Başgicəllənmə",
+      "Təngnəfəslik"
+    ]
+  },
+  {
+    "question": "Aortal stenozda IV tonun yaranma səbəbi nədir:",
+    "answers": [
+      "Sol mədəciyin son diastolik təzyiqinin yüksəlməsi",
+      "Sol qulaqcığın hipertrofiyası",
+      "Sağ mədəciyin hipertrofiyası",
+      "Sol mədəciyin dilatasiyası",
+      "Sol mədəciyin sistolik disfunksiyası"
+    ]
+  },
+  {
+    "question": "Fiziki iş zamanı bayılma daha çox hansı qüsur üçün səciyyəvidir:",
+    "answers": [
+      "Aortal stenoz",
+      "Mitral çatışmazlıq",
+      "Trikuspidal çatışmazlıq",
+      "Mitral stenoz",
+      "Aortal çatışmazlıq"
+    ]
+  },
+  {
+    "question": "Aortal stenozun nəticəsində baş verir:",
+    "answers": [
+      "Sol mədəcikdə sistolik təzyiqin qalxması",
+      "Qol qulaqcıqda sistolik təzyiqin enməsi",
+      "Sol mədəcikdə sistolik təzyiqin enməsi",
+      "Sağ mədəcikdə diastolik təzyiqin enməsi",
+      "Sol mədəcikdə diastolik təzyiqin qalxması"
+    ]
+  },
+  {
+    "question": "Aortal stenozun əsas diaqnostika metodunu seçin:",
+    "answers": [
+      "ExoKQ",
+      "Ürəyin kateterizasiyası",
+      "EKQ",
+      "Angioqrafiya",
+      "Döş qəfəsi orqanlarının rentgenoqrafiyası"
+    ]
+  },
+  {
+    "question": "Üçtaylı qapaq çatışmazlığının hemodinamik dəyişikliyinə aid edilmir:",
+    "answers": [
+      "Sol mədəciyin dilatasiyası",
+      "Ürək atımının enməsi",
+      "Böyük qan dövranı venalarında durğunluq",
+      "Sağ qulaqcığın hipertrofiyası",
+      "Sağ mədəciyin hipertrofiyası"
+    ]
+  },
+  {
+    "question": "Üçtaylı qapaq çatışmazlığında Rivero-Korvallo simptomu nədir:",
+    "answers": [
+      "Nəfəsalma zamanı sistolik küyün güclənməsi",
+      "Sistolo-diastolik küy",
+      "Funksional xarakterli protosistolik küy",
+      "Nəfəsvermə zamanı sistolik küyün güclənməsi",
+      "Funksional xarakterli diastolik küy"
+    ]
+  },
+  {
+    "question": "Sağ atrioventrikulyar dəliyin stenozunun hemodinamik dəyişikliyinə aid edilmir:",
+    "answers": [
+      "Sol qulaqcığın hipertrofiyası və dilatasiyası",
+      "Kiçik qan dövranında “yüklənmənin azalması”",
+      "Ürək atımının enməsi",
+      "Böyük qan dövranında venoz durğunluq",
+      "Sağ qulaqcığın hipertrofiyası və dilatasiyası"
+    ]
+  },
+  {
+    "question": "Ağciyər arteriyası qapağının üzvü çatışmazlığının səbəbi deyil:",
+    "answers": [
+      "AATE",
+      "Marfan sindromu",
+      "Sifilis",
+      "İnfeksion endokardit",
+      "Revmatik qızdırma"
+    ]
+  },
+  {
+    "question": "I dərəcəli A-V blokadanın EKQ əlaməti hansıdır:",
+    "answers": [
+      "PQ intervalının 0,20 saniyədən artıq uzanması",
+      "P dişinin olmaması",
+      "PQ intervalının vaxtaşırı QRS kompleksinin itməsinə qədər tədricən uzanması",
+      "PQ intervalının qısalması",
+      "PQ intervalının müxtəlif ürək tsiklində müxtəlif uzunluğu"
+    ]
+  },
+  {
+    "question": "EKQ-də - P-Q intervalının davam müddəti daimi 0,26 san, hər ikinci mədəcik kompleksinin itməsi müşahidə edilir. Sizin diaqnoz?",
+    "answers": [
+      "A-V blokada II dərəcə, Mobits II",
+      "Tam A-V blokada",
+      "A-V blokada II dərəcə, Mobits I",
+      "Fredirik sindromu",
+      "Sinoaurikulyar blokada II"
+    ]
+  },
+  {
+    "question": "II dərəcəli (Mobits 1) A-V blokadanın EKQ əlaməti hansıdır:",
+    "answers": [
+      "PQ intervalının QRS kompleksinin itməsinə qədər tədricən uzanması",
+      "PQ intervalının sabit uzunması zamanı QRS kompleksinin deformasiyaya uğraması",
+      "PQ intervalının 0,20 saniyədən artıq stabil uzanması",
+      "QRS - kompleksinin genişlənməsi",
+      "PQ intervalının sabit uzunması zamanı QRS kompleksinin nizamsız itməsi"
+    ]
+  },
+  {
+    "question": "II dərəcəli (Mobits 2) A-V blokadanın EKQ əlaməti hansıdır:",
+    "answers": [
+      "PQ intervalının QRS kompleksinin itməsinə qədər tədricən uzanması",
+      "bütün cavablar səhvdir",
+      "PQ intervalının sabit qalması fonunda QRS kompleksinin genişlənməsi",
+      "PQ intervalının qısalması",
+      "PQ intervalının sabit uzunluğu zaman QRS kompleksinin müntəzəm, lakin nadir hallarda itməsi (5 və daha artıq ürək siklindən sonra)"
+    ]
+  },
+  {
+    "question": "Tam A-V blokadasının EKQ əlaməti hansıdır:",
+    "answers": [
+      "Qulaqcıq və mədəciklərin bir-birindən rabitəsiz öz ritmində oyanması",
+      "PQ intervalının 0,20 saniyədən artıq uzanması.",
+      "PQ intervalının sabit uzunluğu zaman hər ikinci və ya iki və daha artıq QRS - kompleksinin müntəzəm itməsi",
+      "PQ intervalının sabit uzunluğu zaman QRS - kompleksinin nizamsız itməsi",
+      "PQ intervalının 0,40-0,60 saniyəyədək uzanması"
+    ]
+  },
+  {
+    "question": "III dərəcəli A-V blokadanın adekvat müalicəsi hansıdır:",
+    "answers": [
+      "kardiostimulyatorun qoyulması",
+      "β - adrenoblokatorların təyin olunması",
+      "kordaronun yükləyici dozalarının qəbulu",
+      "AÇF inhibitorlarının təyin olunması",
+      "eufillinin damardaxili vurulması"
+    ]
+  },
+  {
+    "question": "Volf-Parkinson-Uayt sindromu üçün nə xarakterdir?",
+    "answers": [
+      "PQ-intervalının qısalması, R-dişciyinin qalxan ayaqcığında delta dalğanın olması",
+      "PQ-intervalının qısalması, ST seqmentinin depressiyası",
+      "PQ-intervalının uzanması, T dişinin deformasiyası",
+      "PQ-intervalının qısalması, R-dişciyinin enən ayaqcığında delta dalğanın olması",
+      "PQ-intervalının uzanması, R-dişciyinin qalxan ayaqcığında delta dalğanın olması"
+    ]
+  },
+  {
+    "question": "WPW sindromunun EKQ meyarlarına aiddir:",
+    "answers": [
+      "Delta dalganın olması",
+      "PQ intervalı uzanması",
+      "P dişi mənfi olması",
+      "QRS kompleksinin normal olması",
+      "T dişinin mənfi olması"
+    ]
+  },
+  {
+    "question": "Səyirici aritmiyanın taxisistolik forması üçün yüksək ÜVS-dən başqa daha nə səciyyəvidir?",
+    "answers": [
+      "nəbzin defisiti",
+      "ekstrasistoliya",
+      "bradikardiya",
+      "hipotenziya",
+      "hipertenziya"
+    ]
+  },
+  {
+    "question": "Hansı blokadalar Morqani-Adams-Stoks sindromuna səbəb olur:",
+    "answers": [
+      "II dərəcəli AV blokada",
+      "Sürücü ritminin miqrasiyası",
+      "Hiss dəstəsinin sağ ayaqcığının blokadası",
+      "Supraventrikulyar ekstrasistoliya",
+      "WPW sindromu"
+    ]
+  },
+  {
+    "question": "Morqani - Adams - Stoks tutmalarının yaranma səbəbi aşağıdakı ola bilər:",
+    "answers": [
+      "III dərəcəli AV blokada",
+      "Mədəcik ekstrasistoliyası",
+      "Sinus düyününün zəifliyi sindromu",
+      "His dəstəsi sol ayaqcığının blokadası",
+      "Sinus aritmiyası"
+    ]
+  },
+  {
+    "question": "His dəstəsinin sağ ayaqcığının tam blokadasının EKQ əlaməti deyildir:",
+    "answers": [
+      "V1-2, III, AVF - deformasiya olunmuş S dişi və ya haçalanmış və ya geniş zirvəli QS kompleksi",
+      "QRS kompleksinin 0,12 san-dən çox olması",
+      "V5-6 və I, аVL – genişlənmiş, dişli formalı S dişinin olması",
+      "V1 (III) RS-T seqmentinin depressiyası, mənfi və ya ikifazalı аsimmetrik T dişi",
+      "V1,2 aparmalarda (tez-tez III və aVF) М-formalı rSR* və ya rsR* tipli QRS kompleksinin olması, həmçinin R*>r"
+    ]
+  },
+  {
+    "question": "Anomal Kent dəstəsi ilə yaranan mədəciklərin əlavə lokal oyanması necə adlanır:",
+    "answers": [
+      "Volf-Parkinson Uayt sindromu",
+      "Morqani - Adams - Stoks sindromu",
+      "Laun-Qanonq-Levin sindromu",
+      "Klerk-Levi-Kristesko sindromu",
+      "Frederik sindromu"
+    ]
+  },
+  {
+    "question": "Aritmiyaların müalicəsində hansı qrup preparatlar istifadə olunmur:",
+    "answers": [
+      "AÇF inhibitorları",
+      "Kalium kanalı blokatorları",
+      "Natrium kanallarının blokatorları",
+      "Ləng kalsium kanalı blokatorları",
+      "Beta-adrenoblokatorlar"
+    ]
+  },
+  {
+    "question": "Kəskin ürək çatışmazlığının səbəbidir:",
+    "answers": [
+      "Kəskin miokard infarktı",
+      "Mikrovaskulyar stenokardiya",
+      "Sinus aritmiyası",
+      "Stabil stenokardiya",
+      "Mitral qapağın prolapsı"
+    ]
+  },
+  {
+    "question": "Kəskin sağ mədəcik çatışmazlığının səbəbidir:",
+    "answers": [
+      "Sağ mədəciyin yaylmış miokard infarktı",
+      "Aortal stenoz",
+      "Stabil stenokardiya",
+      "Sinus aritmiyası",
+      "Mitral qapağın prolapsı"
+    ]
+  },
+  {
+    "question": "Kəskin sağ mədəcik çatışmazlığı hansı halda inkişaf edə bilər:",
+    "answers": [
+      "Prinsmetal stenokardiyası",
+      "Kəskin perikardit",
+      "Aortal çatışmazlıq",
+      "Sol mədəciyin yaylmış miokard infarktı",
+      "Tireotoksik ürək"
+    ]
+  },
+  {
+    "question": "Kəskin ürək çatışmazlığının səbəbi deyil:",
+    "answers": [
+      "Spontan stenokardiya",
+      "Ürəyin travması",
+      "Paroksizmal mədəcik taxikardiyası ilə ağırlaşan miokard infarktı",
+      "Ürəyin tamponadası",
+      "AATE"
+    ]
+  },
+  {
+    "question": "Kardiogen şok üçün xarakter əlamətlər:",
+    "answers": [
+      "Sistolik AT-nin 80 mm.c.st aşağı düşməsi, oliqouriya, asidoz",
+      "Poliuriya, taxikardiya, alkaloz",
+      "Asidoz, nəbz təzyiqi 50 mm.c.st-dan çox olması, nikturiya",
+      "Asidoz, poliuriya, sistolik AT-in 90 mm.c.st-dan yuxarı qalxması",
+      "Bradikardiya, pollakiuriya, sistolik AT-nin 180 mm.c.st-dan çox olması"
+    ]
+  },
+  {
+    "question": "Ağciyər ödeminin kliniki şəkli:",
+    "answers": [
+      "Təngnəfəslik, sianoz",
+      "Quru öskürək, fitverici xırıltılar",
+      "Qanlı öskürək, anemik sindrom",
+      "Kusmaul tənəffüsü, ağızdan aseton iyinin gəlməsi",
+      "Temperaturun yüksəlməsi, qusma"
+    ]
+  },
+  {
+    "question": "Ürək astması ürəyin hansı şöbəsinin kəskin çatışmazlığının təzahürüdür:",
+    "answers": [
+      "Sol mədəciyin",
+      "Hər iki mədəciyin",
+      "Sol qulaqcığın",
+      "Sağ qulaqcığın",
+      "Sağ mədəciyin"
+    ]
+  },
+  {
+    "question": "Birincili ürək çatışmazlığının səbəbidir:",
+    "answers": [
+      "Miokarditlər",
+      "Birləşdirici toxumanın sistem xəstəliyi",
+      "İnfarktdan sonrakı kardioskleroz",
+      "Miokardın xronik işemiyası",
+      "Kəskin miokard infarktı"
+    ]
+  },
+  {
+    "question": "Xronik ürək çatışmazlığının ən çox rast gələn səbəbini seçin:",
+    "answers": [
+      "Ürəyin işemik xəstəliyi",
+      "İnfeksion endokardit",
+      "Virus infeksiyası",
+      "Şəkərli diabet",
+      "Siqaret çəkmə"
+    ]
+  },
+  {
+    "question": "Xronik ürək çatışmazlığının səbəbi ola bilər:",
+    "answers": [
+      "Ürək qüsurları",
+      "AÇF inhibitorlarının uzunmüddətli qəbulu",
+      "Kiçikocaqlı pnevmoniya",
+      "Eksudativ plevrit",
+      "Qeyri-spesifik xoralı kolit"
+    ]
+  },
+  {
+    "question": "Mədəciklərin hemodinamik yüklənməsindən yaranan ürək çatışmazlığının səbəbidir:",
+    "answers": [
+      "Aorta dəliyinin stenozu",
+      "HKMP",
+      "Ürəyin amiloidozu",
+      "Eksudativ perikardit",
+      "Mitral stenoz"
+    ]
+  },
+  {
+    "question": "Mədəciklərin dolmasının pozulmasından yaranan ürək çatışmazlığının səbəbidir:",
+    "answers": [
+      "Endomiokardial fibroz",
+      "Üçtaylı qapaq çatışmazlığı",
+      "Mitral qapaq çatışmazlığı",
+      "Ağciyər arteriyasının hipertenziyası",
+      "Ağciyər arteriyasının stenozu"
+    ]
+  },
+  {
+    "question": "Sol mədəcik çatışmazlığına səbəb ola biləcək amilləri seçin:",
+    "answers": [
+      "Sol mədəciyin ön divarının miokard infarktı",
+      "Sağ mədəcik infarktı",
+      "Ağciyər infarktı",
+      "Kiçik dövranın arterial hipertenziyası",
+      "Üçtaylı qapaq çatışmazlığı"
+    ]
+  },
+  {
+    "question": "Hansı xəstəlik sol mədəcik çatışmazlığına gətirib çıxarmır:",
+    "answers": [
+      "Ağciyər arteriyasının tromboemboliyası",
+      "Aortal çatışmazlıq",
+      "Ürəyin işemik xəstəliyi",
+      "Miokardit",
+      "Hipertoniya xəstəliyi"
+    ]
+  },
+  {
+    "question": "XÜÇ-un inkişafında rol oynayan vazokonstriktorlara aid edilmir:",
+    "answers": [
+      "Kallikrein-kinin sistemi",
+      "Antidiuretik hormon",
+      "Endotelin-1",
+      "Simpatoadrenal sistem",
+      "RAAS"
+    ]
+  },
+  {
+    "question": "RAAS aktivliyinin artmasının mənfi effektinə aid edilmir:",
+    "answers": [
+      "Sol mədəciyin remodelləşməsinə mane olur",
+      "Koronar vazokonstriksiya yaradır",
+      "Böyrək qan dövranını pozur",
+      "Miokardın O2-ə tələbatını artırır",
+      "Ürək atımını azaldır"
+    ]
+  },
+  {
+    "question": "Sol mədəciyin diastolik funksiyasını qiymətləndirmək üçün əsas sadə metod hansıdır:",
+    "answers": [
+      "ExoKQ",
+      "Koronar angioqrafiya",
+      "Yeməkborusu daxili stimulyasiya",
+      "Miokardın ssintiqrafiyası",
+      "EKQ-nin sutkalıq monitorinqi"
+    ]
+  },
+  {
+    "question": "Sol mədəciyin atım fraksiyası necə hesablanır:",
+    "answers": [
+      "Vurğu həcminin son diastolik həcmə nisbətidir",
+      "Dəqiqəlik həcmin son diastolik həcmə nisbətidir",
+      "Son diastolik təzyiqin son sistolik təzyiqə nisbətidir",
+      "Son diastolik həcmin son sistolik həcmə nisbətidir",
+      "Vurğu həcminin %-lə ölçüsüdür"
+    ]
+  },
+  {
+    "question": "Xronik ürək çatışmazlığının erkən klinik əlamətlərinə aiddir:",
+    "answers": [
+      "Fiziki iş zamanı təngnəfəslik",
+      "Hidrotoraks",
+      "Anasarka",
+      "Assit",
+      "Qara ciyərin böyüməsi"
+    ]
+  },
+  {
+    "question": "Xronik ürək çatışmazlığının gecikmiş klinik əlamətlərinə aiddir:",
+    "answers": [
+      "Qara ciyərin böyüməsi",
+      "Fiziki işə tolerantlığın azalması",
+      "Fiziki iş zamanı dodaqlarda sianozun yaranması",
+      "Kardialgiya",
+      "Fiziki iş zamanı təngnəfəslik"
+    ]
+  },
+  {
+    "question": "Xronik ürək çatışmazlığının əsas diaqnostik metodunu seçin:",
+    "answers": [
+      "ExoKQ",
+      "Radioizotop ventrikuloqrafiya",
+      "Döş qəfəsi orqanlarının rentgenoqrafiyası",
+      "Spirometriya",
+      "EKQ"
+    ]
+  },
+  {
+    "question": "Ürək çatışmazlığında sianozun əsas səbəbi:",
+    "answers": [
+      "Qanda reduksiya olunmuş hemoqlobinin artması",
+      "Sirkulə edən qanın həcminin artması",
+      "Eritrositoz",
+      "Oksihemoqlobinin azalması",
+      "Hiperkapniya"
+    ]
+  },
+  {
+    "question": "Xroniki ürək çatışmazlıgında ödemlər üçün xarakterdir",
+    "answers": [
+      "İş gününün sonunda baldır və topuqların ödemi",
+      "Göz qapaqlarının qaşınma ilə müşahidə olunan ödemi",
+      "Bir baldırın lokal sianozla ödemi",
+      "Səhər üzdə əmələ gəlir",
+      "Birtərəfli infraorbital ödem"
+    ]
+  },
+  {
+    "question": "Xronik ürək çatışmazlığının proqnostik xoşagəlməz faktoru hansıdır?",
+    "answers": [
+      "Atım fraksiyasının 30% aşağı enməsi",
+      "Qulaqcıq ekstrasistoliyası",
+      "Taxikardiya",
+      "Ayaqda ödemlər",
+      "Qaracyərin böyüməsi"
+    ]
+  },
+  {
+    "question": "Xronik ürək çatışmazlığının Nyu-York təsnifatı nəyə əsaslanır:",
+    "answers": [
+      "Funksional sinifə",
+      "Ürək siklinə",
+      "Mərhələlərinə",
+      "Mənşəyinə",
+      "Klinik variantlara"
+    ]
+  },
+  {
+    "question": "Qanda hansı göstəricinin artması ürək çatışmazlığı barədə məlumat verir?",
+    "answers": [
+      "Natriyuretik peptid",
+      "Kreatinin",
+      "Hemoqlobin",
+      "CRP",
+      "Kreatinfosfokinaza"
+    ]
+  },
+  {
+    "question": "“Kiçik ürək” və zirvə vurğusunun itməsi ilə müşaiyət olunan sağ mədəcik çatışmazlığı hansı xəstəlik üçün xarakterikdir:",
+    "answers": [
+      "Konstriktiv perikardit",
+      "Aortanın anevrizması",
+      "İdiopatik KMP",
+      "Arterial hipertenziya",
+      "Mitral qapaq çatışmazlığı"
+    ]
+  },
+  {
+    "question": "Yaşlı insanlarda durğunluq ürək çatışmazlığının inkişafının əsas səbəbini seçin:",
+    "answers": [
+      "Ürəyin işemik xəstəliyi",
+      "Metabolik sindrom",
+      "Kollagenozlar",
+      "Üçtaylı qapaq çatışmazlığı",
+      "Mitral stenoz"
+    ]
+  },
+  {
+    "question": "Təcridolunmuş sistolik ürək çatışmazlığının xarakterik ExoKQ əlamətlərinə aiddir:",
+    "answers": [
+      "Sol mədəciyin ölçüsünün böyümədiyi halda mədəciklərarası çəpərin qalınlığının artması (>15 mm)",
+      "Sol mədəciyin atım fraksiyası >50%",
+      "Sol mədəciyin normal ölçüdə olması",
+      "Sol mədəciyin ölçüsünün əhəmiyyətli dərəcədə artması",
+      "Perikard boşluğunda çoxlu miqdarda mayenin olması"
+    ]
+  },
+  {
+    "question": "Diastolik ürək çatışmazlığının ExoKQ əlamətinə aiddir:",
+    "answers": [
+      "Atım fraksiyasının normada olması",
+      "Sol mədəciyin dilatasiyası",
+      "Atım fraksiyasının azalması",
+      "Sol mədəciyin son sistolik ölçüsünün artması",
+      "Sol mədəcik həcminin artması"
+    ]
+  },
+  {
+    "question": "Diastolik ürək çatışmazlığının diaqnostik meyarlarına aid edilmir:",
+    "answers": [
+      "Ürəyin yığılma funksiyasının kəskin azalması",
+      "Miokardın yığılma funksiyasının qorunması",
+      "Ürək çatışmazlığının klinik əlamətlərinin olması",
+      "Sol mədəcik əzələsinin sərtliyinin artması",
+      "Sol mədəciyin qanla dolmasının pozulması"
+    ]
+  },
+  {
+    "question": "Xronik ürək çatışmazlığının müalicəsində istifadə olunan əsas preparatı seçin:",
+    "answers": [
+      "ACF inhibitoru",
+      "Kortikosteroid",
+      "Qeyri-steroid iltihab əleyhinə dərman",
+      "Anabolik steroid",
+      "Kalsium kanal blokatoru"
+    ]
+  },
+  {
+    "question": "Müalicə fonunda durğunluq ürək çatışmazlığı olan xəstədə güclü öskürək yaranmışdır. Taktikanız necə olmalıdır:",
+    "answers": [
+      "AÇF inhibitorunu ARB preparatı ilə əvəzləmək",
+      "Beta-blokator qəbulunu dayandırmaq",
+      "Spirinolakton preparatını kəsmək",
+      "Tiazid tiuretikini tiazidəbənzər diuretiklə əvəzləmək",
+      "Beta-blokatoru kalsium antaqonisti ilə əvəzləmək"
+    ]
+  },
+  {
+    "question": "ÜİX olan xəstələrdə xronik ürək çatışmazlığının müalicəsi zamanı yaşam müddətini artıran preparatlar hansıdır:",
+    "answers": [
+      "AÇF inhibitorları",
+      "Kalsium antaqonistləri",
+      "Nitratlar",
+      "Ürək qlikozidləri",
+      "Spirinolakton preparatları"
+    ]
+  },
+  {
+    "question": "Diastolik ürək çatışmazlığında işlədilməsi tövsiyə edilmir:",
+    "answers": [
+      "Ürək qlikozidləri",
+      "Diuretiklər",
+      "Beta-blokatorlar",
+      "ARB",
+      "AÇF inhibitorları"
+    ]
+  }
+]

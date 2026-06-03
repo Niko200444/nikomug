@@ -1,0 +1,332 @@
+<!-- filepath: /mnt/data/index.html -->
+<!DOCTYPE html>
+<html lang="az">
+<head>
+  <meta charset="UTF-8" />
+  <title>DR NİKO </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Libre+Baskerville:wght@400;700&family=Playfair+Display:wght@700;800;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+  <!-- PWA -->
+  <link rel="manifest" href="manifest.webmanifest" />
+  <meta name="theme-color" content="#fdfbf2" />
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+  <!-- Firebase (compat) – doldurmasanız, bulud funksiyası sakitcə söndürülür -->
+  <script>
+    // TODO: Buraya öz Firebase layihənizin config-ni əlavə edin.
+    
+  window.FIREBASE_CONFIG = {
+    apiKey: "AIzaSyCOLGCIOWD0G5pNZWNYSqrT5VJjYehzheU",
+  authDomain: "hola-b40e3.firebaseapp.com",
+  databaseURL: "https://hola-b40e3-default-rtdb.firebaseio.com",
+  projectId: "hola-b40e3",
+  storageBucket: "hola-b40e3.firebasestorage.app",
+  messagingSenderId: "333880238833",
+  appId: "1:333880238833:web:6119d514d2f3267e7e3f50",
+  measurementId: "G-81P0KGGS7J"
+  };
+
+
+    // window.FIREBASE_CONFIG = { apiKey:"", authDomain:"", projectId:"", ... };
+    window.FIREBASE_CONFIG = window.FIREBASE_CONFIG || null;
+  </script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.2/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.2/firebase-auth-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.2/firebase-firestore-compat.js"></script>
+ 
+</head>
+<body>
+  <!-- Dark mode button -->
+  <button id="darkModeToggle" class="floating-dark-btn">
+    <i class="fa fa-moon"></i>
+    <span>Qaranlıq rejim</span>
+  </button>
+
+  <!-- Admin login button -->
+  <button id="adminLoginBtn" class="floating-admin-btn">
+    <i class="fa fa-user-shield"></i>
+    <span>Admin girişi</span>
+  </button>
+
+  <!-- Quick Flashcard toggle -->
+<button id="flashcardFloatingToggle" class="floating-flashcard-btn hidden" title="Flashcard rejimini aç/bağla">
+    🗂️ Flashcard
+  </button>
+
+  <!-- Welcome screen -->
+  <div id="welcomeScreen" class="welcome-screen">
+    <div class="welcome-card">
+      <h1>DR NİKO</h1>
+      <p></p>
+      <button id="startBtn" class="primary-btn">
+        <i class="fa fa-play"></i> Başla
+      </button>
+</div>
+  </div>
+
+  <!-- Main content -->
+  <div id="mainContent" class="main-content" style="display:none;">
+    <header class="top-bar">
+      <div class="logo">
+        <span class="logo-main">DR NİKO</span>
+        <span class="logo-sub"></span>
+      </div>
+
+<div class="top-actions">
+<div id="questionCountContainer" class="top-control">
+<label for="questionsPerPage">Səhifədə sual:</label>
+<select id="questionsPerPage">
+<option value="5">5</option>
+<option value="10" selected>10</option>
+<option value="20">20</option>
+<option value="50">50</option>
+<option value="100">100</option>
+</select> 
+        
+        <button id="installBtn" class="secondary-btn pwa-install hidden" title="Proqram kimi quraşdır">
+          <i class="fa fa-download"></i> Proqram kimi quraşdır
+        </button>
+
+        <div id="authBox" class="top-control auth-box">
+          <button id="googleSignInBtn" class="secondary-btn">
+            <i class="fa fa-google"></i> Google ilə daxil ol
+          </button>
+          <div id="userBadge" class="user-badge hidden">
+            <img id="userPhoto" alt="user" />
+            <span id="userName"></span>
+            <button id="signOutBtn" class="link-btn">Çıxış</button>
+          </div>
+        
+        <div id="syncControls" class="top-control topbar-compact">
+  <button id="syncUpBtn" class="secondary-btn icon-btn icon-only" title="Yerli → Bulud" aria-label="Yerli → Bulud" disabled>↑</button>
+  <button id="pullDownBtn" class="secondary-btn icon-btn icon-only" title="Bulud → Yerli" aria-label="Bulud → Yerli" disabled>↓</button>
+  <label class="top-toggle" title="Yerli dəyişiklikləri avtomatik buluda yaz">
+    <input type="checkbox" id="autoSyncToggle" />
+    <span>Auto‑sync</span>
+  </label>
+  <span id="syncStatus" class="note-pill"></span>
+</div>
+</div>
+</div>
+
+        <button id="focusModeBtn" class="secondary-btn" title="Focus Mode">🎯 Focus</button>
+        <div id="searchContainer" class="top-control">
+          <i class="fa fa-search"></i>
+          <input id="searchInput" type="text" placeholder="Sual və ya cavabda axtar..." />
+        </div>
+
+        <div id="statsTiny" class="top-control tiny-stats">
+          <span id="tinyTotal">0</span> sual ·
+          <span id="tinyAnswered">0</span> cavab ·
+          <span id="tinyCorrect">0</span> düzgün
+        </div>
+      </div>
+    </header>
+
+    <div class="layout">
+      <!-- Left: categories -->
+      <aside class="categories">
+        <h2 class="section-title">
+          <i class="fa fa-layer-group"></i> Kateqoriyalar
+        </h2>
+        <div class="category-list">
+          <div class="all-mix-inline" style="display:flex;align-items:center;gap:6px;"><button class="category-btn" data-category="__ALL__"><i class="fa fa-layer-group"></i> ALL (mix)</button><button id="mixEditBtn" class="icon-btn" title="ALL düzənlə" style="padding:4px 6px;border:1px solid #ddd;border-radius:8px;background:#fff;cursor:pointer"><i class="fa fa-pen"></i></button></div>
+          <button class="category-btn" data-category="fiz.json">
+            <i class="fa fa-stay"></i> Yanağında qara xal
+          </button>
+          <button class="category-btn" data-category="fizets.json">
+            <i class="fa fa-baby"></i> Qal sənə qurban
+          </button>
+          <button class="category-btn" data-category="torak.json">
+            <i class="fa fa-microchip"></i> Torakal sem
+          </button>
+          <button class="category-btn" data-category="aile.json">
+            <i class="fa fa-ambulance"></i> C
+          </button>
+           <button class="category-btn" data-category="kardio1.json">
+            <i class="fa fa-microchip"></i>  👉👈
+          </button>
+           <button class="category-btn" data-category="kardio2.json">
+            <i class="fa fa-microchip"></i> Friends? No thankss                   
+             Best Friendss 🦖
+          </button>
+          <button class="category-btn" data-category="torakal.json">
+            <i class="fa fa-flask"></i> Torakal
+          </button>
+          <button class="category-btn" data-category="plastik.json">
+            <i class="fa fa-heartbeat"></i> Plastik
+          </button>
+          <button class="category-btn" data-category="aaab.json">
+            <i class="fa fa-brain"></i> Seçim
+          </button>
+          <button class="category-btn" data-category="seçim.json">
+            <i class="fa fa-dna"></i> Seçim 2
+          </button>
+          <button class="category-btn" data-category="sec.json">
+            <i class="fa fa-virus"></i> Seçim semestr
+          </button>
+          <button class="category-btn" data-category="patandyes.json">
+            <i class="fa fa-bacteria"></i> DYES
+          </button>
+           <button class="category-btn" data-category="mikroo.json">
+            <i class="fa fa-microchip"></i> Mikrob 954
+          </button>
+          <button class="category-btn" data-category="mikrob1.json">
+            <i class="fa fa-microchip"></i> MİKROB 1
+          </button>
+          <button class="category-btn" data-category="mikrob2.json">
+            <i class="fa fa-microchip"></i> MİKROB 2
+          </button>
+          <button class="category-btn" data-category="norfiz1.json">
+            <i class="fa fa-microchip"></i> NORFİZ 1
+          </button>
+          <button class="category-btn" data-category="abc.json">
+            <i class="fa fa-microchip"></i> aaa
+          </button>
+        </div>
+
+        <div id="categoryResetContainer" class="reset-block">
+          <button id="categoryResetBtn" class="secondary-btn">
+            <i class="fa fa-undo"></i> Bu kateqoriyanı sıfırla
+          </button>
+          <button id="clearAllBtn" class="danger-link">
+            <i class="fa fa-bomb"></i> Bütün məlumatları təmizlə
+          </button>
+        </div>
+      </aside>
+
+      <!-- Center: quiz -->
+      <main class="quiz-area">
+        <!-- Exam panel -->
+        <div class="exam-bar">
+          <div id="examStatusText" class="exam-status">
+            Praktika rejimindəsən və ya imtahana başlaya bilərsən.
+          </div>
+          <div class="exam-controls-inline">
+            <span id="examTimer" class="exam-timer hidden">00:00</span>
+            <button id="examStartBtn" type="button" class="exam-btn hidden">
+              <i class="fa fa-play"></i> İmtahana başla
+            </button>
+            <button id="examFinishBtn" type="button" class="exam-btn secondary hidden">
+              <i class="fa fa-flag-checkered"></i> İmtahanı bitir
+            </button>
+          </div>
+        </div>
+
+        <div id="examSummary" class="exam-summary hidden"></div>
+<!-- Ardıcıl/Random + Prev/Next -->
+        <div id="flashcardControls" class="flashcard-controls hidden">
+          <div class="flash-nav">
+            <button id="prevCard" class="icon-btn large"><i class="fa fa-arrow-left"></i> Əvvəlki</button>
+            <div id="cardCounter" class="card-counter">1/1</div>
+            <button id="nextCard" class="icon-btn large">Növbəti <i class="fa fa-arrow-right"></i></button>
+          </div>
+        </div>
+
+        <!-- Filterlər -->
+        <div class="quiz-filters">
+          <button id="openNotesBtn" class="quiz-filter-btn notes-btn" type="button" title="Qeydləri idarə et">📝 NOTES</button>
+          <button class="quiz-filter-btn active" data-filter="all">Bütün suallar</button>
+          <button class="quiz-filter-btn" data-filter="wrong">Loserlar üçün </button>
+          <button class="quiz-filter-btn" data-filter="flagged">Yalnız flagli suallar</button>
+          <button class="quiz-filter-btn" data-filter="noted">Qeydli suallar</button>
+        </div><div id="quizContainer" class="quiz-container">
+          <div class="empty-hint">
+            <div class="emoji">👋</div>
+            <p>Başlamaq üçün soldan bir kateqoriya seç</p>
+          </div>
+        </div>
+
+        <div id="pageNavigation" class="page-nav"></div>
+      </main>
+
+      <!-- Right: side panel -->
+      <aside class="side-panel" id="sidePanel">
+        <div class="side-panel-header">
+          <h2><i class="fa fa-chart-pie"></i> Nəticələr</h2>
+        </div>
+        <section class="side-section">
+          <h3>Sıralama</h3>
+          <div class="quiz-order-toggle pill-toggle side">
+          <label>
+            <input type="radio" name="quizOrder" value="sequential" checked />
+            <span>Ardıcıl</span>
+          </label>
+          <label>
+            <input type="radio" name="quizOrder" value="random" />
+            <span>Random</span>
+          </label>
+        </div>
+          <p class="hint-small">Sualların göstərilmə qaydasını seç.</p>
+        </section>
+    
+
+        <section class="side-section">
+          <h3>Ümumi statistika</h3>
+          <div id="statsInfo" class="stats-info"></div>
+        </section>
+
+        <section class="side-section">
+          <h3>Səhv suallar</h3>
+          <div id="wrongQuestionsList" class="mini-list"></div>
+        </section>
+
+        <section class="side-section">
+          <h3>İşarələnmiş (flag)</h3>
+          <div id="flaggedQuestionsList" class="mini-list"></div>
+        </section>
+
+        <section class="side-section">
+          <h3>Qeydli suallar</h3>
+          <div id="notedQuestionsList" class="mini-list"></div>
+        </section>
+
+        <section class="side-section">
+          <h3>Təkrar səhvlər</h3>
+          <div id="repeatedMistakesList" class="mini-list"></div>
+        </section>
+
+        <section class="side-section">
+          <h3>Bulud dəyişiklikləri (Firebase)</h3>
+          <p class="side-help">
+            Adminin paylaşdığı sual mətni dəyişiklikləri. Kliklə və yerli tətbiq et.
+          </p>
+          <div style="display:flex;gap:6px;align-items:center;margin-bottom:6px;">
+            <button id="cloudRefreshBtn" class="icon-btn"><i class="fa fa-rotate"></i> Yenilə</button>
+            <span id="cloudStatus" class="note-pill"></span>
+          </div>
+          <div id="cloudEditedQuestionsList" class="mini-list"></div>
+        </section>
+
+        <section class="side-section"><div id="editedQuestionsList" class="mini-list"></div></section>
+      </aside>
+
+      <!-- Yan panel üçün ox -->
+      <button id="sidePanelToggle" class="side-toggle" type="button">
+        <i class="fa fa-chevron-right"></i>
+      </button>
+    </div>
+  </div>
+
+ 
+
+<script src="app.js"></script>
+<script id="flashcardFloatingToggleInit">
+  window.addEventListener('DOMContentLoaded', function(){
+    var fbtn = document.getElementById('flashcardFloatingToggle');
+    if (fbtn) fbtn.classList.add('hidden');
+    var sb = document.getElementById('startBtn');
+    if (sb) sb.addEventListener('click', function(){
+      var fbtn2 = document.getElementById('flashcardFloatingToggle');
+      if (fbtn2) fbtn2.classList.remove('hidden');
+    });
+  });
+</script>
+</body>
+</html>

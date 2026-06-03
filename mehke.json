@@ -1,0 +1,2482 @@
+[
+  {
+    "question": "Ekspertin hüquq və vəzifələri hansı maddədə öz əksini tapmışdır?",
+    "answers": [
+      "CPM-nin 97-ci maddəsi",
+      "CPM-nin 297-ci maddəsi",
+      "CPM-nin 96-ci maddəsi",
+      "CM-nin 97-ci maddəsi",
+      "CM-nin 297-ci maddəsi"
+    ]
+  },
+  {
+    "question": "Ekspertizanın növləri hansılardır?",
+    "answers": [
+      "ilkin, əlavə, təkrari, kompleks, komission ekspertizalar",
+      "əlavə, ilkin, təkrari, komission, prosesual",
+      "əlavə, təkrari, prosesual, əsaslı, ilkin",
+      "ilkin, əlavə, əsaslı, təkrari, komission ekspertizalar",
+      "əlavə, kompleks, komission, təkrari, prosesual"
+    ]
+  },
+  {
+    "question": "Məhkəmə-tibbi müayinə hansı sənədə əsasən aparılır?",
+    "answers": [
+      "müstəntiqin təliqəsinə əsasən",
+      "hakimin qərarına əsasən",
+      "zərərçəkmişin ərizəsinə əsasən",
+      "müstəntiqin qərarına əsasən",
+      "prokurorun qərarına əsasən"
+    ]
+  },
+  {
+    "question": "Məhkəmə-tibbi ekspertiza xidmətinin təşkilinin əsasları hansı qurum tərəfindən müəyyənləşdirilir?",
+    "answers": [
+      "Səhiyyə Nazirliyi",
+      "Ali Məhkəmə",
+      "Ədliyyə Nazirliyi",
+      "Respublika Prokurorluğu",
+      "Daxili İşlər Nazirliyi"
+    ]
+  },
+  {
+    "question": "Ekspert rəyi hansı hissələrdən ibarətdir?",
+    "answers": [
+      "pasport hissəsi, müayinə hissəsi, nəticə",
+      "nəticə, akt, protokol",
+      "nəticə hissəsi, akt, pasport hissəsi",
+      "rəy, müayinə hissəsi, akt",
+      "protokol, rəy, nəticə"
+    ]
+  },
+  {
+    "question": "Bir qayda olaraq hansı halda komissyon məhkəmə-tibb ekspertizası təyin edilir?",
+    "answers": [
+      "tibb işçilərinin peşə sahəsində qanunsuz fəaliyyətinə dair ekspertiza aparılanda",
+      "bədbəxt hadisə nəticəsində həlak olmuş şəxslərin meyitləri müayinə ediləndə",
+      "sağlamlığa zərər vurma dərəcəsinin təyinində",
+      "qətlə yetirilmiş şəxsin meyiti müayinə ediləndə",
+      "intihar etmiş şəxsin meyiti müayinə ediləndə"
+    ]
+  },
+  {
+    "question": "Azərbaycan Respublikasının CPM-nin 140-cı maddəsinə əsasən, hansı halda məhkəmə-tibb ekspertizasının təyin edilməsi mütləqdir?",
+    "answers": [
+      "ölümün səbəbinin təyin edilməsi məqsədi ilə",
+      "sağlamlığın vəziyyətinin təyini məqsədi ilə",
+      "cinsin təyini üçün",
+      "alkoqol sərxoşluğunun təyini məqsədi ilə",
+      "ümumi və peşə əmək qabiliyyətinin itirilmə dərəcəsinin təyini üçün"
+    ]
+  },
+  {
+    "question": "Azərbaycan Respublikasının CPM-nin 140-cı maddəsinə əsasən, hansı halda məhkəmə-tibb ekspertizasının təyin edilməsi mütləqdir?",
+    "answers": [
+      "sağlamlığa zərərvurmanın ağırlıq dərəcəsinin və xarakterinin təyin olunması",
+      "mayalandırma qabiliyyətinin təyini məqsədi ilə",
+      "oxşarlığın təyini üçün",
+      "simulyasiya, dissimulyasiya, aqravasiyanın təyini üçün",
+      "cinsi yetkinliyin təyini üçün"
+    ]
+  },
+  {
+    "question": "Sağlamlığa ağır zərər vurmanın hansı əlamətləri vardır?",
+    "answers": [
+      "ümumi əmək qabiliyyətinin 1/3 hissəsindən az olmamaqla uzun müddətə, daimi (dayanaqlı) itirilməsi",
+      "ümumi əmək qabiliyyətinin 1/3-dən az itirilməsi",
+      "ümumi əmək qabiliyyətinin 10-%-dən 33%-ə qədər itirilməsi",
+      "ümumi əmək qabiliyyətinin cüzi dayanıqlı itirilməsi",
+      "ümumi əmək qabiliyyətinin 10%-ə qədər itirilməsi"
+    ]
+  },
+  {
+    "question": "Sağlamlığa ağır zərər vurmanın əlamətləri hansıdır?",
+    "answers": [
+      "həyat üçün təhlükəlilik",
+      "ümumi əmək qabiliyyətinin cüzi dayanıqlı itirilməsi",
+      "ümumi əmək qabiliyyətinin 33%-dən az itirilməsi",
+      "sağlamlığın qısa müddətə pozulması",
+      "sağlamlığın uzunmüddətli pozulması"
+    ]
+  },
+  {
+    "question": "Aşağıdakılardan hansı sağlamlığa ağır zərər vurmanın əlamətlərinə aiddir?",
+    "answers": [
+      "ruhi xəstəliklərə səbəb olma",
+      "kor gözün çıxarılmasına səbəb olan zədələnmə",
+      "alt çənənin sınığı",
+      "baş beyin silkələnməsi",
+      "mil sümüyünün fəsadlaşmayan sınığı"
+    ]
+  },
+  {
+    "question": "Sağlamlığa ağır zərər vurmanın əlamətlərinə hansı aiddir?",
+    "answers": [
+      "hamiləliyin pozulmasına səbəb olan xəsarətlər",
+      "qamış sümüyünün fəsadlaşmayan qapalı sınığı",
+      "ümumi əmək qabiliyyətinin 30%-ə qədərinin itirilməsi",
+      "sağlamlığın uzun müddətə pozulması",
+      "dirsək sümüyünün fəsadlaşmayan qapalı sınığı"
+    ]
+  },
+  {
+    "question": "Sağlamlığa ağır zərər vurmanın əlamətlərinə aşağıdakılardan hansı aiddir?",
+    "answers": [
+      "narkomanlıq və ya toksokomanlıqla xəstələnmə",
+      "burun sümüyünün sınığı",
+      "alkohol sərxoşluğu",
+      "sağlamlığın uzun müddətə pozulması",
+      "qulaq seyvanının əzilməsi"
+    ]
+  },
+  {
+    "question": "Sağlamlığa ağır zərər vurmanın əlamətləri hansıdır?",
+    "answers": [
+      "peşəkar əmək qabiliyyətinin tam itirilməsi",
+      "sağlamlığın üzün müddətə itirilməsi",
+      "bud sümüyünün qapalı və fəsadlaşmayan sınığı",
+      "alın sümüyünün xarici səhifəsinin xətti sınığı",
+      "ümumi əmək qabiliyyətinin dayanıqlı 30%-ə qədər itirilməsi"
+    ]
+  },
+  {
+    "question": "Sağlamlığa ağır zərər vurmanın əlamətlərinə aşağıdakılardan hansı aiddir?",
+    "answers": [
+      "görmənin itirilməsi",
+      "göz almasının iltihabı",
+      "gözalması nahiyəyə qansızma",
+      "bir gözün kataraktası",
+      "çəpgözlük"
+    ]
+  },
+  {
+    "question": "Sağlamlığa ağır zərər vurmanın əlamətləri hansıdır?",
+    "answers": [
+      "nitqin itirilməsi",
+      "sağlamlığın qısa müddətə pozulması",
+      "səs bağlarının qızartısı",
+      "sağlamlığın uzunmüddətli pozulması",
+      "səsin karlaşması"
+    ]
+  },
+  {
+    "question": "Sağlamlığa ağır zərər vurmanın əlamətləri hansıdır?",
+    "answers": [
+      "hər hansı bir orqanın və yaxud onun funksiyasının itirilməsi",
+      "ayağın bütün barmaqlarının olmaması",
+      "dirsək oynağının kontrakturası",
+      "diz oynağının kontrakturası",
+      "bilək nahiyəsində yalançı oynaq"
+    ]
+  },
+  {
+    "question": "Sağlamlığa az ağır zərər vurmanın əlamətləri hansıdır?",
+    "answers": [
+      "sağlamlığın uzun müddətə pozulması",
+      "bir gözdə görmənin itirilməsi",
+      "sağlamlığın qısa müddətə pozulması",
+      "hamiləliyin pozulması",
+      "həyat üçün təhlükəli olması"
+    ]
+  },
+  {
+    "question": "Sağlamlığa yüngül zərər vurmanın əlamətləri hansıdır?",
+    "answers": [
+      "sağlamlığın qısa müddətə pozulması",
+      "mayalandırma qabiliyyətinin itirilməsi",
+      "bir qulaqda eşitmənin pozulması",
+      "ümumi əmək qabiliyyətinin 10%-dən 33%-ə qədər itirilməsi",
+      "21 gündən artıq sağlamlığın pozulması"
+    ]
+  },
+  {
+    "question": "Sağlamlığa yüngül zərər vurmanın əlamətləri hansıdır?",
+    "answers": [
+      "ümumi əmək qabiliyyətinin cüzi dayanıqlı itirilməsi",
+      "peşəkar əmək qabiliyyətinin tam itirilməsi",
+      "bir gözdə görmənin itirilməsi",
+      "sifətin silinməz dərəcədə eybəcərləşdirilməsi",
+      "sağlamlığın uzun müddətə itirilməsi"
+    ]
+  },
+  {
+    "question": "Hamiləliyin pozulmasının travma ilə əlaqədar olmasının təyinində hansı mütəxəssis həkimin iştirakı vacibdir?",
+    "answers": [
+      "mama-ginekoloqun",
+      "dermatoveneroloqun",
+      "travmatoloqun",
+      "pediatrın",
+      "cərrahın"
+    ]
+  },
+  {
+    "question": "Mayalandırma qabiliyyətinin təyininə nə vaxt zərurət yaranır?",
+    "answers": [
+      "mübahisəli atalığın təyinində",
+      "xəsarət yetirmə müddətinin təyinində",
+      "qadınların istəyi ilə cinsi əlaqədə olma",
+      "zorlama zamanı",
+      "mülki nigaha girdikdə"
+    ]
+  },
+  {
+    "question": "Məhkəmə-tibbi praktikada dərinin süni xəstəliklərindən əsasən hansı törədilir?",
+    "answers": [
+      "abses, fleqmona",
+      "dermatitlər",
+      "şişlər",
+      "ziyillər",
+      "eksema"
+    ]
+  },
+  {
+    "question": "Yaşın təyinində əsas hansı müayinələrdən istifadə olunur?",
+    "answers": [
+      "antropometrik, rentgenoloji, stomatoloji",
+      "ensefaloqrafiyadan",
+      "elektrokardioqrafiyadan",
+      "ultrasəs müayinəsindən",
+      "seroloji müayinədən"
+    ]
+  },
+  {
+    "question": "Yaşın rentgenoloji təyinində hansı sümüklərin müayinəsi üstünlük təşkil edir?",
+    "answers": [
+      "əl və ayaq daraq sümüklərinin",
+      "kürək sümükləri",
+      "diz qapağı",
+      "qabırğalar",
+      "onurğa sütunu"
+    ]
+  },
+  {
+    "question": "Bud arteriyasının zədələnməsi sağlamlığa zərər vurmanın hansı dərəcəsinə aiddir?",
+    "answers": [
+      "sağlamlığa ağır zərər vurmaya",
+      "sağlamlığa zərər vurma dərəcəsi təyin edilmir",
+      "xəsarətin nəticəsinin gözlənilməsi vacibdir",
+      "sağlamlığa az ağır zərər vurmaya",
+      "sağlamlığa yüngül zərər vurmaya"
+    ]
+  },
+  {
+    "question": "Simulyasiya dedikdə nə başa düşülür?",
+    "answers": [
+      "olmayan xəstəliyin əlamətlərini yalandan təqlid etmək",
+      "xora xəstəliyi",
+      "gecələr sidiyin saxlanmaması",
+      "epileptik tutmalar",
+      "karlıq"
+    ]
+  },
+  {
+    "question": "Dissimulyasiya dedikdə nə başa düşülür?",
+    "answers": [
+      "özündə mövcud olan xəstəliyin əlamətlərinin gizlədilməsi",
+      "nitqin itirilməsini təqlid etmək",
+      "xroniki qastrit əlamətlərini təqlid etmək",
+      "mövcud olan xəstəliyin əlamətlərinin artırılması",
+      "olmayan bir xəstəliyin əlamətlərinin göstərilməsi"
+    ]
+  },
+  {
+    "question": "Ölümü təsdiq edən şübhəsiz əlamətlərə aşağıdakılardan hansı aid deyil?",
+    "answers": [
+      "huşun olmaması",
+      "ilkin meyit əlamətlərinin olması",
+      "“Larşe ləkələri”",
+      "uzun müddətli ürək döyünməsi və tənəffüsün olmaması",
+      "“Beloqlazov” əlaməti"
+    ]
+  },
+  {
+    "question": "Bud çanaq oynağının əhəmiyyətli dərəcədə nəzərə çarpan kontrakturası ilə ifadə olunması və bununla əlaqədar ümümi əmək qabiliyyətinin 25% dayanıqlı itirilməsi hansı zərərvurmaya aiddir?",
+    "answers": [
+      "az ağır",
+      "ağır",
+      "həyat üçün təhlükəli",
+      "dərəcə təyin edilmir",
+      "yüngül"
+    ]
+  },
+  {
+    "question": "“Kataleptik” meyit qacımasının səbəbi:",
+    "answers": [
+      "uzunsov beyin və ona yaxın yerləşən hissələrin zədələnməsi",
+      "ürək-damar xəstəlikləri",
+      "qara ciyərin zədələnməsi",
+      "ağ ciyər xəstəlikləri",
+      "fosforlu birləşmələrlə zəhərlənmələrdə"
+    ]
+  },
+  {
+    "question": "Avtomobil travmaları zamanı uzun borulu sümüklərdə yaranan üçbucaq formalı qəlpəli sınığın əsası nəyi göstərir?",
+    "answers": [
+      "sınıqda üçbucaqlı qəlpənin əsası avtomobilin zərbə yerini göstərir",
+      "sınığın pazabənzər qəlpəsinin əsası zərbənin gücünü göstərir",
+      "sınığın pazabənzər qəlpəsinin əsası zərbənin istiqamətini göstərir",
+      "sınığın pazabənzər qəlpəsinin əsası xəsarətin əmələ gəlmə vaxtını göstərir",
+      "sınığın pazabənzər qəlpəsinin əsası zərbəni yetirən əşyanın formasını göstərir"
+    ]
+  },
+  {
+    "question": "Canlı şəxsin ekspertizası zamanı hansı sənəd tərtib edilir?",
+    "answers": [
+      "ekspertin rəyi",
+      "xəstəlik vərəqi",
+      "tibbi arayış",
+      "epikriz",
+      "baxış protokolu"
+    ]
+  },
+  {
+    "question": "Canlı şəxsin müayinəsi zamanı hansı sənəd tərtib edilir?",
+    "answers": [
+      "canlı şəxsin müayinə aktı",
+      "epikriz",
+      "baxış protokolu",
+      "müayinə olunanın dindirmə protokolu",
+      "xəstəlik tarixi"
+    ]
+  },
+  {
+    "question": "Sağlamlığın vəziyyətinin təyini ekspertizası hansı növə aiddir?",
+    "answers": [
+      "komisyon",
+      "təkrari",
+      "əlavə",
+      "birincili",
+      "kompleks"
+    ]
+  },
+  {
+    "question": "Sağlamlığa az ağır zərərvurmaya aşağıdakılardan hansı aid deyil?",
+    "answers": [
+      "səhhətin qısa müddətə pozulması",
+      "ümumi əmək qabiliyyətinin üçdə birindən az hissəsinin əhəmiyyətli dərəcədə dayanıqlı itirilməsi (10-33%)",
+      "səhhətin uzun müddətə pozulması",
+      "hazırki “Qaydalarda” nəzərdə tutulmuş ağır zərərvurmanın əlamət və nəticələrinin olmaması",
+      "həyat üçün təhlükəliliyin olmaması"
+    ]
+  },
+  {
+    "question": "Hansı xəsarətlər sağlamlığa zərər vurmayan xəsarətlərə aiddir?",
+    "answers": [
+      "qançır və sıyrıqlar (məhdud sahədə)",
+      "boşluğa keçən yara",
+      "burun sümüyünün sınıqları",
+      "subdural hematoma",
+      "baş beyinin silkələnməsi"
+    ]
+  },
+  {
+    "question": "“Kriminal abort” nə deməkdir?",
+    "answers": [
+      "hamiləliyin müalicə müəssisəsindən kənarda müxtəlif üsullarla pozulması",
+      "sifilis xəstəliyi səbəbindən hamiləliyin pozulması",
+      "ananın ürək qüsurundan hamiləliyin pozulması",
+      "kəskin infeksiyadan hamiləliyin pozulması",
+      "hamiləliyin stasionarda həkim tərəfindən pozulması"
+    ]
+  },
+  {
+    "question": "Kənarları nahamar, qançır və sıyrıqlı, bucaqlarında toxuma atmalarının olması yaranın hansı xüsusiyyətini göstərir?",
+    "answers": [
+      "əzilmiş",
+      "kəsilmiş",
+      "mişarlanmış",
+      "deşilmiş",
+      "çapılmış"
+    ]
+  },
+  {
+    "question": "Əzilmiş yaranın xarakter xüsusiyyəti aşağıdakılardan hansıdır?",
+    "answers": [
+      "kənarlarının nahamar olması",
+      "yara çapığının incə olması",
+      "çoxlu qanitirmə baş verməsi",
+      "kənarlarının hamar olması",
+      "bucaqlarının iti olması"
+    ]
+  },
+  {
+    "question": "Xəstəlik vəziyyətinin dərəcəsinin azaldılması necə adlanır?",
+    "answers": [
+      "dezaqqravasiya",
+      "cinayət",
+      "simulyasiya",
+      "dissimulyasiya",
+      "aqqravasiya"
+    ]
+  },
+  {
+    "question": "Yara kənarında sıyrığın olması nəyin göstəricisidir?",
+    "answers": [
+      "yaranın küt əşya ilə yetirilməsinin",
+      "yaranın balta ilə yetirildiyinin",
+      "yaranın bıcağın təsirindən əmələ gəldiyini",
+      "yaranın çapıcı alətlə törəndiyini",
+      "yaranın iti əşya ilə yetirilməsinin"
+    ]
+  },
+  {
+    "question": "Qançırın olması məhkəmə-tibbi ekspertlərə nəyi təyin etməyə imkan verir?",
+    "answers": [
+      "küt əşyanın təsirini",
+      "hansı ardıcıllıqla törəndiyini göstərir",
+      "xəsarətin kim tərəfindən törədildiyini sübut edir",
+      "xəsarətin iti alətlə törəndiyini göstərir",
+      "bütün hallarda xəsarət yetirən əşyanın formasını göstərir"
+    ]
+  },
+  {
+    "question": "Sıyrıqların əmələ gəlmə müddətini hansı əlamətə görə təyin etmək olar?",
+    "answers": [
+      "toxumaların sağalmasına",
+      "lokalizasiyasına",
+      "kənarlarının xarakterinə",
+      "formasına",
+      "ölçüsünə"
+    ]
+  },
+  {
+    "question": "Əzilmiş yaranın xarakter xüsusiyyəti aşağıdakilardan hansıdır?",
+    "answers": [
+      "kənarlarının nahamar olması",
+      "qanaxma olmaması",
+      "çoxlu qanitirmə baş verməsi",
+      "kənarlarının hamar olması",
+      "bucaqlarının iti olması"
+    ]
+  },
+  {
+    "question": "Hadisə yerinə baxış keçirilən zaman məhkəmə-tibb eksperti hansı suala cavab verməlidir?",
+    "answers": [
+      "ölümün baş vermə faktı",
+      "xəsarətlərin yetirilmə ardıcıllığı",
+      "xəsarətlərin həyatiliyi",
+      "xəsarətlərin yetirilmə mexanizmi",
+      "ölümün səbəbi"
+    ]
+  },
+  {
+    "question": "Qançırın olması məhkəmə-tibbi ekspertinə nəyi təyin etməyə kömək edir?",
+    "answers": [
+      "küt əşyanın təsirini",
+      "xəsarətin yetirilmə ardıcıllığını",
+      "xəsarət yetirən şəxsi",
+      "iti alətin təsirini göstərir",
+      "bütün hallarda xəsarət yetirən alətin formasını"
+    ]
+  },
+  {
+    "question": "Yastı səthi olan bərk küt əşyanın təsiri nəticəsində başda hansı yara əmələ gəlir?",
+    "answers": [
+      "əzilmiş",
+      "çapılmış",
+      "deşilmiş",
+      "kəsilmiş",
+      "mişarlanmış"
+    ]
+  },
+  {
+    "question": "Kənarları nahamar olan yara aşağıdakılardan hansılardır?",
+    "answers": [
+      "əzilmiş",
+      "mişarlanmış",
+      "kəsilmiş",
+      "deşilmiş-kəsilmiş",
+      "çapılmış"
+    ]
+  },
+  {
+    "question": "Kənarları hamar və bucaqları (ucları) iti olan yara hansıdır?",
+    "answers": [
+      "kəsilmiş",
+      "əzilmış",
+      "didilmiş",
+      "deşilmiş",
+      "əzilmiş-cırılmış"
+    ]
+  },
+  {
+    "question": "«Bamper» sınıqları hansı sümüklərdə əmələ gəlir?",
+    "answers": [
+      "bud və baldır sümüklərində",
+      "çanaq sümüklərində",
+      "kəllə sümüklərində",
+      "qabırğalarda",
+      "kürək sümüklərində"
+    ]
+  },
+  {
+    "question": "Budun daxilə keçmiş və bud arteriyasının zədələnməsi və kəskn qanitirmə ilə müşayiət edilən yaralanması hansı zərərvurmaya aiddir?",
+    "answers": [
+      "ağır zərərvurma",
+      "dərəcəsi təyin edilmir",
+      "yüngül zərərvurma",
+      "az ağır zərərvurma",
+      "həyat üçün təhlükə törətməyən zərərvurma"
+    ]
+  },
+  {
+    "question": "Başın təpə nahiyəsinin əzilmiş yarasını həmin nahiyənin kəsilmiş yarasından fərqləndirən əsas əlaməti göstərin:",
+    "answers": [
+      "yaranın bucaqlarının dərinliyində birləşdirici toxuma atmalarının olması",
+      "yaranın forması",
+      "yaranın qurtaracaqları",
+      "yaranın işlədiyi dərinlik",
+      "kənarların düz və sıyrıqsız olması"
+    ]
+  },
+  {
+    "question": "Kənarları hamar,ucları iti bucaqlı,boylama ölçüsü dərinliyindən çox olan yara hansıdır?",
+    "answers": [
+      "kəsilmiş",
+      "çapılmış",
+      "mişarlanmış",
+      "deşilmiş-kəsilmiş",
+      "deşilmiş"
+    ]
+  },
+  {
+    "question": "Kənarları hamar,sıyrıqsız dərinliyi uzunluğundan çox olan yara hansıdır?",
+    "answers": [
+      "deşilmiş-kəsilmiş",
+      "əzilmiş",
+      "didilmiş",
+      "kəsilmiş",
+      "mişarlanmış"
+    ]
+  },
+  {
+    "question": "Kənarları hamar, azacıq sıyrıqlı ucları iti bucaqlı,dibindəki sümükdə zədələnmə olan yara hansidir?",
+    "answers": [
+      "çapılmış",
+      "deşilmiş-kəsilmiş",
+      "kəsilmiş",
+      "mişarlanmış",
+      "deşilmiş"
+    ]
+  },
+  {
+    "question": "Deşilmiş-kəsilmiş yaranın kənarları necə olur?",
+    "answers": [
+      "hamar",
+      "toxuma defektli,azacıq nahamar",
+      "girintili-çıxıntılı",
+      "nisbi hamar",
+      "nahamar"
+    ]
+  },
+  {
+    "question": "Hansı toxumalardakı zədələrə əsasən çapıcı alətin identifikasiyası mümkündür?",
+    "answers": [
+      "sümük və qığırdaq toxumasındakı",
+      "əzələ və piy toxumasındakı",
+      "dəri toxumasındakı",
+      "dəri və əzələ toxumasındakı",
+      "əzələ toxumasındakı"
+    ]
+  },
+  {
+    "question": "Hərəkət edən avtomaşının piyadanı vurması zamanı əmələ gələn xarakterik xəsarətlərə aşağıdakılardan hansı aiddir?",
+    "answers": [
+      "bamper tipli sümük sınıqları",
+      "çanaq sümüklərinin sınığı",
+      "kəllə əsasının sınığı",
+      "daxili üzvlərin cırılması",
+      "baş beynin əzilməsi"
+    ]
+  },
+  {
+    "question": "Meyitin hissələrə parçalanması hansı növ travmatizmdə tez-tez rast gəlir?",
+    "answers": [
+      "rels tipli nəqliyyat travmaları zamanı",
+      "küçədə baş verən travmada",
+      "məişətdə olan travmalarda",
+      "istehsalat travması vaxtı",
+      "idman travmalarında"
+    ]
+  },
+  {
+    "question": "Əzilmiş yaralar üçün daha xarakterik əlamətlərə aşağıdakılardan hansı aiddir:",
+    "answers": [
+      "yara bucaqlarında toxuma liflərinin olması",
+      "yara kənarlarının qanla hopması",
+      "yara kənarlarının sıyrılması",
+      "yara kənarlarının nahamar olması",
+      "yara bucaqlarının dairəvi olması"
+    ]
+  },
+  {
+    "question": "Uzun borulu sümüklərdə qəlpəli üçbucaq formalı sınıqlar nə zaman törənir?",
+    "answers": [
+      "bamperlə zərbə zamanı",
+      "sümüklərin əyilməsi zamanı",
+      "sümüklərin burulması zamanı",
+      "hündürlükdən ayaq üstə yıxılma zamanı",
+      "təkərlərin ətrafların üzərindən keşməsi zamanı"
+    ]
+  },
+  {
+    "question": "Yanıqların neçə dərəcəsi olur?",
+    "answers": [
+      "4",
+      "2",
+      "6",
+      "5",
+      "3"
+    ]
+  },
+  {
+    "question": "Orqanizmin hansı toxuması zədələnən halda zədə törədən alətin xarakteri haqda qəti fikir söyləmək mümkündür?",
+    "answers": [
+      "sümük toxuması",
+      "selikli qişalar",
+      "piy toxuması",
+      "vətərlər",
+      "əzələ toxuması"
+    ]
+  },
+  {
+    "question": "Kəsici alətin təsir mexanizmi necədir?",
+    "answers": [
+      "yumşaq toxumalara kəsici təsir",
+      "dəri toxumasını didərək cırmaq",
+      "ətrafları amputasiya etmək",
+      "deşici-kəsici təsir",
+      "sümük toxumasını çapmaq"
+    ]
+  },
+  {
+    "question": "Avtotravma nəticəsində əmələ gələn “qamçıya bənzər” sınıqlar aşağıda göstərilən hansı şəraitdə əmələ gəlir?",
+    "answers": [
+      "toqquşma zamanı avtomobilin salonunda sürücüdə və ya sərnişində yaranır",
+      "insanın avtomobildən yıxılması nəticəsində",
+      "insanın hərəkət edən avtomobillə toqquşması nəticəsində",
+      "bədənin avtomobil və başqa bir əşya arasında sıxılması nəticəsində",
+      "avtomobilin insanın bədəni üzərindən keçmə zamanı"
+    ]
+  },
+  {
+    "question": "Bu xəsarətlərdən hansıları avtomobilin hissələri ilə toqquşması üçün xarakterik hesab olunur?",
+    "answers": [
+      "bud sümüyünün “Bamper”sınığı",
+      "qamış sümüyünün vintəbənzər sınığı",
+      "bud sümüyünün pərçimlənmiş sınığı",
+      "daban sümüyünün sınığı",
+      "baldır daban oynağının çıxığı"
+    ]
+  },
+  {
+    "question": "Aşağıda göstərilənlərdən hansı avtotravma üçün spesifik xəsarət hesab edilir?",
+    "answers": [
+      "təkərlərin izini göstərən sıyrıq və qançırlar (protektor izi)",
+      "bazu sümüyünün sınığı",
+      "üzün yumşaq toxumalarının kəsilmiş yaraları",
+      "kəllə sümüklərinin qəlpəli (pazvari) sınıqları",
+      "bədən üzərində zolaq formalı sıyrıqların olması"
+    ]
+  },
+  {
+    "question": "Avtomobil nəqliyyatının bədən üzərindən keçməsi üçün hansı xəsarətlər xarakterik sayılır?",
+    "answers": [
+      "dərinin cibəbənzər cırılmaları və yunşaq toxumadan soyulması",
+      "alın sümüyünün deşilmiş sınığı",
+      "başın yumşaq toxumalarının kəsilmiş yaraları",
+      "bazu oynağının çıxığı",
+      "döş qəfəsinin əzilmiş yaraları"
+    ]
+  },
+  {
+    "question": "Avtomobil nəqliyyatı hissələri ilə piyadanın toqquşması zamanı hansı xəsarətlər spesifik hesab olunur?",
+    "answers": [
+      "avtomobilin faralarının təsirindən əmələ gələn dairəvi qançırlar",
+      "qaraciyərin əzilməsi",
+      "ağciyərin cırılması",
+      "baş beynin yumşaq qişalarına qansızma",
+      "bazu sümüyünün sınığı"
+    ]
+  },
+  {
+    "question": "Avtomobil nəqliyyatının döş qəfəsinin üzərindən keçməsi zamanı hansı xəsarətlər əmələ gəlir?",
+    "answers": [
+      "qabırğaların çoxsaylı ikitərəfli sınığı",
+      "yumşaq toxumaların kəsilmiş yaraları",
+      "çanaq sümüklərinin sınığı",
+      "bədənin bölünməsi",
+      "boyun fəqərələrinin kompression sınıqları"
+    ]
+  },
+  {
+    "question": "Avtomobil nəqliyyatının sürətli hərəkətdə toqquşması və qəflətən dayanması zamanı bədənin kəskin önə və arxaya əyilməsi nəticəsində hansı xəsarətlərin əmələ gəlməsi xarakterikdir?",
+    "answers": [
+      "boyun fəqərələrinin sınığı (qamçıyabənzər sınıq)",
+      "bədənin çoxsaylı əzilmələri",
+      "bud sümüyünün “Bamper”sınığı",
+      "V-VI döş fəqərələrinin sınığı",
+      "boyun fəqərələrinin kompression sınığı"
+    ]
+  },
+  {
+    "question": "Hansı növ nəqliyyat travmaları zamanı yara nahiyyəsində təzyiq, sürtünmə, çirklənmə zolaqları əmələ gəlir?",
+    "answers": [
+      "dəmir-yol nəqliyyatı təkərlərinin bədən üzərindən keçməsi zamanı",
+      "maşının kuzovundan yıxılma zamanı",
+      "maşının kabinəsindən yıxılma zamanı",
+      "avtomobillərin bədən üzərindən keçməsi zamanı",
+      "hərəkətdə olan nəqliyyat vasitəsinin piyada ilə toqquşması zamanı"
+    ]
+  },
+  {
+    "question": "Partlayıcı qazların zədələyici təsiri nəticəsində əmələ gəlir:",
+    "answers": [
+      "qəlpəli yaralanmalar",
+      "dərinin cırılmaları",
+      "güllə yaralanmaları",
+      "termiki yanıqlar",
+      "kimyəvi yanıqlar"
+    ]
+  },
+  {
+    "question": "Bunlardan hansı xəsarətlər tipik dəmiryol travmalarına aiddir?",
+    "answers": [
+      "təkər bədən üzərindən keçdikdə sıxılma və sürtülmə zolağının əmələ gəlməsi",
+      "təkərin protektorunun izi",
+      "“qamçıya bənzər” sınıqlar",
+      "bamper sınığı",
+      "dərinin cibəbənzər cırılmaları"
+    ]
+  },
+  {
+    "question": "Aşağıda göstərilənlərdən kəllənin hansı sınıqları zamanı həyat üçün təhlükə törənmir?",
+    "answers": [
+      "kəllə tağı sümüklərinin xarici səhifəsinin məhdud sahədə çatı",
+      "təpə sümüyünün basılmış sınığı",
+      "ənsə sümüyünün xətti tam sınığı",
+      "alın sümüyünün dəlib keçən sınığı",
+      "kəllə əsasının daxili səhifəsinin sınığı"
+    ]
+  },
+  {
+    "question": "Həyat üçün təhlükəli olan vəziyyətə aiddir:",
+    "answers": [
+      "müxtəlif etiologiyalı koma",
+      "baş beynin silkələnməsi",
+      "beyin qan dövranının yüngül dərəcəli pozulması",
+      "hamiləliyin pozulması",
+      "yüngül dərəcəli şok"
+    ]
+  },
+  {
+    "question": "Həyat üçün təhlükəli xəsarətlərə aiddirlər, birindən başqa:",
+    "answers": [
+      "baş beynin yüngül dərəcəli əzilməsi",
+      "dizaltı arteriyanın zədələnməsi",
+      "sidik kisəsinin daxilə keçən yaralanması",
+      "boyun fəqərələrinin sınığı",
+      "onurğa kanalına keçən və onurğa beynini zədələməyən yaralar"
+    ]
+  },
+  {
+    "question": "Qeyd edilən bir sənəddən savayı digərləri canlı şəxslərin məhkəmə-tibbi ekspertizasının aparılmasına əsas verir:",
+    "answers": [
+      "zərərçəkənin ərizəsi",
+      "müstəntiqin qərarı",
+      "təhqiqatçının qərarı",
+      "məhkəmənin qərarı",
+      "prokurorun qərarı"
+    ]
+  },
+  {
+    "question": "Güllənin giriş dəliyini çıxış dəliyindən fərqləndirən əsas differensial əlamət hansıdır?",
+    "answers": [
+      "silinmə (çirklənmə) halqasının olması",
+      "yara kənarında sıyrılmanın olması",
+      "yumşaq toxumaların rəngi",
+      "zədə kənarının qeyri-düzgünlüyü",
+      "yara kənarının çevrilməsi"
+    ]
+  },
+  {
+    "question": "Kəsilmiş yaralar üçün xarakter əlamət hansıdır?",
+    "answers": [
+      "yaraların kənarlarını yaxınlaşdırdıqda bütün uzunluğu boyu üst-üstə düşür və onlar üçün birləşmək xarakterdir",
+      "yaralar qeyri-müəyyən formada olur",
+      "yaraların kənarlarını yaxınlaşdırdıqda üst-üstə düşmür və birləşmir",
+      "yaraların dibində əzilmiş birləşdirici toxuma lifləri müşahidə olunur",
+      "yaraların ucları küt olur"
+    ]
+  },
+  {
+    "question": "Deşilmiş-kəsilmiş yaraların dərinliyi nə zaman tiyənin uzunluğundan daha artıq olur?",
+    "answers": [
+      "qarın boşluğuna zərbə endirildikdə",
+      "fin bıçağı ilə zərbə endirdikdə",
+      "xəncər ilə zərbə endirdikdə",
+      "bıçağın tiyəsi iti olduqda",
+      "bıçağın tiyəsi uzun olduqda"
+    ]
+  },
+  {
+    "question": "Ov tüfəngindən atəş zamanı atəşin məsafəsi əsasən nəyin hesabına təyin edilir?",
+    "answers": [
+      "qırmanın səpələnməsi hesabına",
+      "mərminin sürəti hesabına",
+      "barıt qazlarının təsiri hesabına",
+      "mərminin kalibrinin hesabına",
+      "hisin hesabına"
+    ]
+  },
+  {
+    "question": "Hansı halda atəşin əlavə faktorları ancaq yara kanalı boyunca tapılır?",
+    "answers": [
+      "tam dirənmiş atəş zamanı",
+      "natamam dirənmiş atəş zamanı",
+      "bütün hallarda",
+      "yaxın məsafədən atəş açıldıqda",
+      "yandan dirəyib atəş açıldıqda"
+    ]
+  },
+  {
+    "question": "Boynun travması nəticəsində kəskin qanitirmə ilə müşayiət olunan ümumi yuxu arteriyasının zədələnməsi, dərəcəsinə görə hansı zərərvurmaya aiddir?",
+    "answers": [
+      "ağır zərərvurmaya",
+      "az ağır zərərvurmaya",
+      "dərəcəsi təyin edilmir",
+      "yüngül zərərvurmaya",
+      "həyat üçün təhlükəli olmayan zərərvurmaya"
+    ]
+  },
+  {
+    "question": "Odlu silah yarasının giriş dəliyində toxuma defektinin əmələ gəlməsi nədən aslıdır?",
+    "answers": [
+      "güllənin kinetik enerjisindən",
+      "zədələnən toxumaların xüsusiyyətindən",
+      "güllənin diametrindən",
+      "güllənin çəkisindən",
+      "güllənin formasından"
+    ]
+  },
+  {
+    "question": "Dirənmiş vəziyyətdə atəşin əsas əlaməti hansıdır?",
+    "answers": [
+      "ştamp izinin olması",
+      "giriş dəliyinin kənarlarının çevrilməsi",
+      "toxuma çatışmazlığı",
+      "yara ətrafında əlavə faktorların olmaması",
+      "silinmə və sıyrılma halqalarının olması"
+    ]
+  },
+  {
+    "question": "Odlu silah güllə yarasının giriş dəliyinin əsas əlamətləri hansıdır?",
+    "answers": [
+      "yara nahiyəsində toxuma deffekti, sıyrılma və çirklənmə halqalarının olması",
+      "yaranın kənarlarının hamar olması",
+      "yaranın mənfəzinin aralı olması",
+      "yaranın kənarlarının uyğun gəlməsi",
+      "yaranın dairəvi forması"
+    ]
+  },
+  {
+    "question": "Odlu silah yarasının giriş dəliyi ətrafında sıyrıq həlqəsinin əmələ gəlməsinə səbəb nədir?",
+    "answers": [
+      "dəri səthinin güllə ilə kontaktı və bu zaman epidermisin əzilməsi",
+      "güllənin giriş dəliyinin çirklənməsi nəticəsində",
+      "güllənin böyük uçuş sürətinə malik olması",
+      "havanın müqavimətini dəf edən zaman güllənin qızması",
+      "güllənin uzununa oxu boyunca sürətlə fərlanması"
+    ]
+  },
+  {
+    "question": "Güllənin giriş dəliyi ətrafında toxuma çatışmazlığının olmaması nə ilə izah olunur?",
+    "answers": [
+      "güllənin kinetik enerjisinin itməsi",
+      "güllənin fırlanma sürətinin azalması",
+      "insan bədəninə toxunanda deformasiyaya uğraması",
+      "güllənin yan səthi ilə bədənə dəyməsi",
+      "güllənin düzgün uçuşunun itməsi"
+    ]
+  },
+  {
+    "question": "Yüksək kinetik enerjiyə malik güllənin hədəfə hansı təsiri var? (Güllənin sürəti 200 m/san-dən çox olarsa).",
+    "answers": [
+      "dəlib-keçən",
+      "pazvari",
+      "uyuşdurucu",
+      "keyləşdirici",
+      "kontuzion"
+    ]
+  },
+  {
+    "question": "Orta kinetik enerjiyə malik güllə hədəfə necə təsir edir? (Güllənin sürəti 100- 200m/san-ə qədər olarsa).",
+    "answers": [
+      "pazvari",
+      "hidrodinamik",
+      "dağıdıcı-partlayıcı",
+      "dəlib –keçən",
+      "yandırıcı"
+    ]
+  },
+  {
+    "question": "Kiçik kinetik enerjiyə malik güllə hədəfə necə təsir edir? (Güllənin sürəti 100 m/san-ə qədər olarsa)",
+    "answers": [
+      "kontuzion",
+      "pazvari",
+      "dəlib-keçən",
+      "dağıdıcı-parçalayıcı",
+      "hidrodinamik"
+    ]
+  },
+  {
+    "question": "Odlu silah güllə yarasının çıxış dəliyinin əsas əlamətləri hansıdır?",
+    "answers": [
+      "yaranın yarıq şəkilli olması,kənarlarının bayıra doğru çevrilməsi",
+      "yarada toxuma defektinin olması",
+      "yara ətrafında silinmə halqasının olması",
+      "yaranın dairəvi formada olması",
+      "yaranın kənarlarının daxilə yönəlməsi"
+    ]
+  },
+  {
+    "question": "Güllənin hidrodinamik təsiri hansı orqanda özünü göstərir?",
+    "answers": [
+      "ürəyin sol mədəciyində diastola fazasında",
+      "bağırsaqlarda",
+      "ağciyərdə",
+      "ürək sistola fazasında",
+      "ətraflarda"
+    ]
+  },
+  {
+    "question": "Dəridə əlavə kəsik tiyənin hansı hərəkəti zamanı əmələ gəlir?",
+    "answers": [
+      "yaradan çıxartma zamanı",
+      "tiyənin yarada qalması nəticəsində",
+      "sümüyə dəydikdə",
+      "deşmə zamanı",
+      "yan səthlərini sürtmə zamanı"
+    ]
+  },
+  {
+    "question": "Uzaq məsafədən açılmış atəşin xüsusiyyətləri hansıdır?",
+    "answers": [
+      "yara ərafında atəşin əlavə faktorlarının olmaması",
+      "dəridə yanığın olması",
+      "dəridə toxuma çatmamazlığının olmaması",
+      "“ştamp” izinin olması",
+      "yara ərafında atəşin əlavə faktorlarının olması"
+    ]
+  },
+  {
+    "question": "Aşağı temperaturun təsirindən ölmüş şəxsin meyitini müayinə edərkən hansı tipik əlamət tapılır?",
+    "answers": [
+      "Puparev əlaməti",
+      "Tardye ləkələri",
+      "Amyuss əlaməti",
+      "Olivye-Danjer əlaməti",
+      "Minakov ləkələri"
+    ]
+  },
+  {
+    "question": "Aşağı temperaturun təsirindən ölmüş şəxsin meyitini müayinə edərkən hansı tipik əlamət tapılır?",
+    "answers": [
+      "Vişnevski əlaməti",
+      "Minakov ləkələri",
+      "Tardye ləkələri",
+      "Olivye-Danjer əlaməti",
+      "Amyuss əlaməti"
+    ]
+  },
+  {
+    "question": "Yanmış sümük fraqmentləri və külün müayinəsində aşağıdakı üsulların hansından istifadə edilə bilər?",
+    "answers": [
+      "göstərilən üsulların hamısından",
+      "spektral",
+      "anatomik",
+      "histoloji",
+      "rentgen"
+    ]
+  },
+  {
+    "question": "Yanığın həyatı olmadığını göstərən hansı əlamətdir?",
+    "answers": [
+      "gözətrafındakı büküşlər nahiyyəsində dərinin tamam yanması",
+      "traxeyanın yanığı",
+      "qırtlağın yanığı",
+      "ağız boşluğunun selikli qişasının yanığı",
+      "udlağın yanığı"
+    ]
+  },
+  {
+    "question": "Aşağıdakı hansı duruş vəziyyəti yanıqlar zamanı əmələ gəlir?",
+    "answers": [
+      "“Boksçu” pozası",
+      "opistotonus vəziyyəti",
+      "kataleptik meyit qacıması vəziyyəti",
+      "“Ştreyx” pozası",
+      "“Yalançı ölüm” pozası"
+    ]
+  },
+  {
+    "question": "Yanmış, kömürləşmiş meyitlərin müayinəsində şəxsiyyətin təyinində aşağıdakılardan hansı daha əhəmiyyətlidir?",
+    "answers": [
+      "dişlərin müayinəsi",
+      "kimyəvi müayinə",
+      "histoloji müayinə",
+      "yanmış dərinin müayinəsi",
+      "tam yanmamış paltarların və ayaqqabıların müayinəsi"
+    ]
+  },
+  {
+    "question": "Bu əlamətlərdən hansı tapıldıqda elektrikvurmanın olmasını qəti demək olar?",
+    "answers": [
+      "dəridə “elektrik nişanəsi”nin olması",
+      "epikard qişası altına qansızmalar",
+      "ürək boşluğunun qanla dolu olması",
+      "visseral plevra altına qansızmalar",
+      "daxili orqanların doluqanlı olması"
+    ]
+  },
+  {
+    "question": "Yanığın həyatı olması hansı metodla daha dəqiq təyin edilə bilər?",
+    "answers": [
+      "histoloji",
+      "fiziki",
+      "bioloji",
+      "kimyəvi",
+      "rentgenoloju"
+    ]
+  },
+  {
+    "question": "Yanığın həyatı olmasını hansı əlamətlər göstərmir?",
+    "answers": [
+      "qulaq seyvanlarında hisin olması",
+      "traxeyada hisin olması",
+      "udlaqda hisin olması",
+      "bronxlarda hisin olması",
+      "ağızın selikli qişasında hisin olması"
+    ]
+  },
+  {
+    "question": "Üzüyəbənzər qığırdağın sınığı ağırlıq dərəcəsinə görə necə qiymətləndirilir?",
+    "answers": [
+      "ağır zərərvurma",
+      "dərəcəsi təyin edilmir",
+      "əmək qabiliyyətinin cüzi hissəsinin dayanıqlı itirilməsi",
+      "az ağır zərərvurma",
+      "yüngül zərərvurma"
+    ]
+  },
+  {
+    "question": "Elektrik cərəyanı ən çox hansı toxuma vasitəsilə keçirilir?",
+    "answers": [
+      "qan",
+      "dəri",
+      "sümük",
+      "vətər",
+      "əzələ"
+    ]
+  },
+  {
+    "question": "İsti maye təsirindən əmələ gəlmiş yanıqlarda aşağıdakı əlamətlərdən hansı olmur?",
+    "answers": [
+      "dərinin kömürləşməsi",
+      "dəridə tüklərin yanmaması",
+      "yanığın axıntı şəklində olması",
+      "dəridə içərisində maye ilə olan suluqların olması",
+      "dəridə qızartı və şişkinliyin olması"
+    ]
+  },
+  {
+    "question": "Yağmumlaşmanın əmələ gəlməsinə nə təsir edir?",
+    "answers": [
+      "ətraf mühitin nəm olması",
+      "hamısı",
+      "yaxşı ventilyasiya",
+      "bataqlıq",
+      "ətraf mühitin quru olması"
+    ]
+  },
+  {
+    "question": "Mumifikasiyanın əmələ gəlməsinə nə təsir edir?",
+    "answers": [
+      "ətraf mühitin quru olması və yaxşı ventilyasiya",
+      "ətraf mühitin quru olması və havanın soyuq olması",
+      "ətraf mühitin quru olması və ventilyasiyanın olmaması",
+      "ətraf mühitin nəm olması və ventilyasiyanın olmaması",
+      "ətraf mühitin nəm olması və yaxşı ventilyasiya"
+    ]
+  },
+  {
+    "question": "Meyitdə çürümə dəyişikliklərinin xarici əlaməti hansıdır?",
+    "answers": [
+      "meyitin emfizematoz şişkinliyi",
+      "autoliz",
+      "meyitin quruması",
+      "yumşaq toxumaların bərkiməsi",
+      "dəri örtüklərinin çəhrayı çalarlığı"
+    ]
+  },
+  {
+    "question": "Çürümə nəticəsində meyit yaşıllığı əsasən ilk növbədə bədənin hansı hissəsində əmələ gəlir?",
+    "answers": [
+      "sağ qalça çuxurunda",
+      "epiqastral nahiyədə",
+      "sol qalça çuxurunda",
+      "üz nahiyəsində",
+      "boynun ön səthində"
+    ]
+  },
+  {
+    "question": "Çürümənin daha sürətli getməsinə təkan verən ölüm səbəbi:",
+    "answers": [
+      "sepsisdən və irinli xəstəliklərdən baş verən ölüm",
+      "yol nəqliyyat travması",
+      "elektrik vurma",
+      "odlu silah travması",
+      "iti alət təsirindən baş verən ölüm"
+    ]
+  },
+  {
+    "question": "Mumifikasiyanın yaranması üçün hansı şərait lazımdır?",
+    "answers": [
+      "quru hava cərəyan edən, iri dənəli, məsaməli qumsallıq",
+      "nəm havalı, gilli torpaq",
+      "0-5°C temperatur, nəm hava, qara torpaq",
+      "minerallarla zəngin torpaq",
+      "dəniz qumu, yüksək temperatur"
+    ]
+  },
+  {
+    "question": "Yağmumlaşmanın əmələ gəlməsində aşağıdakı hansı turşular iştirak edir?",
+    "answers": [
+      "palmetin, stearin turşuları",
+      "palmetin, olein turşuları",
+      "stearin turşusu, qliserin",
+      "palmetin, stearin turşusu, qliserin",
+      "palmetin, olein, stearin turşuları"
+    ]
+  },
+  {
+    "question": "Yağmumlaşmanın əmələ gəlməsi stearin və palmetin turşularının torpaqda aşağıdakı hansı maddələrlə birləşməsi nəticəsində baş verir?",
+    "answers": [
+      "qələvi və qələvi torpaq metalların duzları ilə",
+      "daş kömür",
+      "ağır metalların duzları ilə",
+      "əhəng daşı",
+      "qurğuşunla"
+    ]
+  },
+  {
+    "question": "Sidik kanalının zarlı hissəsinin cırılması ilə müşayiət olunan çanağın küt travmasını qiymətləndirən kriteriya əlaməti hansıdır?",
+    "answers": [
+      "həyat üçün təhlükəlilik",
+      "sepsis",
+      "ümumi əmək qabiliyyətinin xeyli hissəsinin dayanıqlı itirilməsi",
+      "həyat üçün təhlükə yaradan vəziyyət",
+      "əmək qabiliyyətinin cüzi hissəsinin dayanıqlı itirilməsi"
+    ]
+  },
+  {
+    "question": "Hadisə yerinin müayinəsi zamanı məhkəmə-tibb eksperti nə qismində iştirak edir?",
+    "answers": [
+      "mütəxəssis-məsləhətçi qismində",
+      "məhkəmə-tibb eksperti fəaliyyətini icra edir",
+      "təhqiqatçı qismində",
+      "şahid qismində",
+      "müstəntiq qismində"
+    ]
+  },
+  {
+    "question": "Meyitin məhkəmə-tibbi ekspertiza rəyi hansı hissələrdən ibarətdir?",
+    "answers": [
+      "ekspert rəyinin pasport hissəsi, təhqiqat və nəticədən",
+      "ekspert rəyinin protokol hissəsi",
+      "daxili müayinə, diaqnoz, nəticədən",
+      "xarici müayinə, daxili müayinə, diaqnoz, nəticədən",
+      "daxili müayinə, nəticədən"
+    ]
+  },
+  {
+    "question": "Mahiyyətinə görə hadisə yerinə və hadisə yerindəki meyitə baxış nədir?",
+    "answers": [
+      "ilkin istintaq hərəkəti",
+      "meyitin qohumlarına təhvil verilməsi",
+      "meyitin məhkəmə-tibbi müayinəsi",
+      "meyitin məhkəmə-tibbi ekspertizası",
+      "meyitin dəfn mərasiminə hazırlıq"
+    ]
+  },
+  {
+    "question": "Meyitin, onun paltarlarının və maddi sübutlarının meyitxanaya çatdırılması kimin vəzifə səlahiyyətinə daxildir?",
+    "answers": [
+      "hadisə yerinin müayinəsini aparan müstəntiqin",
+      "ekspert-kriminalistin",
+      "məhkəmə-tibb ekspertinin",
+      "məhkəmənin",
+      "baş ekspertiza idarəsinin növbətçi bölməsinin"
+    ]
+  },
+  {
+    "question": "Xarici mühitin eyni temperaturunda meyit hansı şəraitdə daha tez soyuyur?",
+    "answers": [
+      "suda",
+      "neftdə",
+      "qumlu torpaqda",
+      "açıq havada",
+      "gilli torpaqda"
+    ]
+  },
+  {
+    "question": "Hansı hallarda meyitdə soyuma daha tez baş verir?",
+    "answers": [
+      "qanitirmədə",
+      "tetanusda",
+      "sepsisdə",
+      "zəhərlənmələrdə",
+      "mexaniki asfiksiyada"
+    ]
+  },
+  {
+    "question": "Minakov ləkələri nəyin diaqnostik əlaməti hesab olunur?",
+    "answers": [
+      "kəskin qanitirmənin",
+      "hava emboliyasının",
+      "ikitaylı qapağın stenozunun",
+      "şokun",
+      "zəif qanitirmənin"
+    ]
+  },
+  {
+    "question": "Meyitin aşkar olunduğu yerin təkrari müayinəsinə həkim-mütəxəssis nə zaman dəvət oluna bilər?",
+    "answers": [
+      "ibtidai istintaqın gedişində",
+      "meyitin məhkəmə-tibbi ekspertizası keçirilərkən",
+      "mərhumun qohumlarının xahişinə əsasən",
+      "ölümün səbəbi tam aydın olmadıqda",
+      "mərhumun şəxsiyyəti naməlum olduqda"
+    ]
+  },
+  {
+    "question": "Meyiti aşkar olunduğu yerdə müayinə edərkən ekspert ilkin olaraq nəyi təyin etməlidir?",
+    "answers": [
+      "ölümün baş verib-verməməsini",
+      "qidalanma dərəcəsi",
+      "cinsini",
+      "yaşını",
+      "ölümün səbəbini"
+    ]
+  },
+  {
+    "question": "Aşağıdakı mərhələlərdən hansı hadisə yerinə baxışın mərhələsinə aiddir?",
+    "answers": [
+      "dinamik mərhələ",
+      "gözləmə mərhələsi",
+      "başlanğıc mərhələ",
+      "son mərhələ",
+      "aralıq mərhələ"
+    ]
+  },
+  {
+    "question": "Arsenlə kəskin zəhərlənmənin forması hansıdır?",
+    "answers": [
+      "paralitik forma",
+      "qara ciyər forması",
+      "böyrək forması",
+      "hemorrogik forma",
+      "ağ ciyər forması"
+    ]
+  },
+  {
+    "question": "Aşağıdakılardan hansı, hadisə yerinə baxışın mərhələsi hesab olunur?",
+    "answers": [
+      "statik mərhələ",
+      "hadisə yerinə ümumi baxış mərhələsi",
+      "son mərhələ",
+      "məlumatların qiymətləndirilməsi mərhələsi",
+      "aralıq mərhələ"
+    ]
+  },
+  {
+    "question": "Meyit ləkələrinin bədənin müxtəlif səthlərində və müxtəlif inkişaf mərhələlərində olması nəyi təyin etməyə imkan verir?",
+    "answers": [
+      "meyitin pozasının dəyişdirilməsi faktını və müddətini",
+      "ölümün səbəbini",
+      "ölümün baş verməsi faktını",
+      "ölümün baş vermə müddətini",
+      "ölümün növünü"
+    ]
+  },
+  {
+    "question": "Uşağın yeni doğulmuş olmasını hansı əlamət göstərir?",
+    "answers": [
+      "doğuş şişinin olması",
+      "oval dəliyin bitişməməsi",
+      "demarkasion halqalı göbək ciyəsinin olması",
+      "baş beyində xoş xassəli şişin olması",
+      "botal axacağının açıq qalması"
+    ]
+  },
+  {
+    "question": "Uşağın yeni doğulmuş olmasını hansı əlamət göstərir?",
+    "answers": [
+      "xəsarət olmadan dölün bədəninin qana bulaşması",
+      "göbək ciyəsinin qismən qopması",
+      "ciftin olması",
+      "dərinin quru olması və kəpəklənməsi",
+      "demarkasion halqa ilə göbək ciyəsinin olması"
+    ]
+  },
+  {
+    "question": "Uşağın diri doğulmasının təyini məqsədilə hansı sınaq aparılır?",
+    "answers": [
+      "ağciyər sınağı",
+      "gümüş-güzgü sınağı",
+      "Bokarius sınağı",
+      "hava emboliyası sınağı",
+      "Rapoport sınağı"
+    ]
+  },
+  {
+    "question": "Meyit qacıması hansı ardıcıllıqla boşalmağa başlayır?",
+    "answers": [
+      "çeynəmə əzələlərində",
+      "yuxarı ətraflardan başlayaraq",
+      "aşağı ətraflardan başlayaraq",
+      "bütün əzələlərdə eyni vaxtda",
+      "yuxarı və aşağı ətraflardan başlayaraq"
+    ]
+  },
+  {
+    "question": "Çürümədə dəri örtüklərinə yaşıl rəng verən nədir?",
+    "answers": [
+      "sulfhemoqlobin",
+      "oksihemoqlobin",
+      "biliverdin",
+      "bilirubin",
+      "methemoqlobin"
+    ]
+  },
+  {
+    "question": "Hadisə yerində təyin oluna bilən ölümün mütləq (şübhəsiz) əlaməti hansılardır?",
+    "answers": [
+      "Beloqlazov əlaməti",
+      "Tardye ləkələri",
+      "Minakov ləkəsi",
+      "bədən hərarətinin 30°C olması",
+      "arterial təzyiqin müəyyən olunmaması"
+    ]
+  },
+  {
+    "question": "Hadisə yerində təyin oluna bilən ölümün mütləq (şübhəsiz) əlamətləri hansılardır?",
+    "answers": [
+      "meyit ləkələri və meyit qacıması",
+      "nəbzin təyin oluna bilməməsi",
+      "Fabrikantov əlaməti",
+      "tənəffüs hərəkətlərinin olmaması",
+      "arterial təzyiqin müəyyən olunmaması"
+    ]
+  },
+  {
+    "question": "Hadisə yerində təyin oluna bilən ölümün mütləq (şübhəsiz) əlamətləri hansılardır?",
+    "answers": [
+      "geçikmiş (son) meyit əlamətləri",
+      "Vişnevski ləkəsi",
+      "vətər reflekslərinin olmaması",
+      "arterial təzyiqin müəyyən olunmaması",
+      "tənəffüs hərəkətlərinin olmaması"
+    ]
+  },
+  {
+    "question": "Zəhərlənmələri təsdiq etmək üçün meyit müayinəsi zamanı əlavə hansı müayinələr aparılır?",
+    "answers": [
+      "məhkəmə-kimyəvi",
+      "histoloji",
+      "ballistik",
+      "bioloji",
+      "fiziki-texniki"
+    ]
+  },
+  {
+    "question": "Meyitin bədəninin hərarətini ölçmək üçün aşağıdakı nahiyələrdən hansı daha obyektiv məlumat verir?",
+    "answers": [
+      "düz bağırsağ",
+      "ağız boşluğu",
+      "qulaq nahiyəsi",
+      "qasıq nahiyəsi",
+      "qoltuqaltı nahiyə"
+    ]
+  },
+  {
+    "question": "Qəfləti ölüm ən çox hansı orqanların xəstəlikləri nəticəsində baş verir?",
+    "answers": [
+      "ürək-damar sisteminin",
+      "tənəffüs sisteminin",
+      "periferik sinir sisteminin",
+      "mərkəzi sinir sisteminin",
+      "həzm sisteminin"
+    ]
+  },
+  {
+    "question": "Aortanın anevrizmasında qəfləti ölüm nəyin nəticəsində baş verə bilər?",
+    "answers": [
+      "kəskin qanitirmədən",
+      "kəskin böyrək çatmamazlığından",
+      "kəskin damar çatmamazlığından",
+      "kəskin ürək çatmamazlığından",
+      "baş beyinə qansızmadan"
+    ]
+  },
+  {
+    "question": "Uşağın diri və ya ölü doğulmasının təyinində aşağıda göstərilən sınaqlardan hansı aparılmır?",
+    "answers": [
+      "Hoppe-Zeyler sınağı",
+      "Dillon sınağı",
+      "Breslau sınağı",
+      "Vent-Vreden sınağı",
+      "Qalen-Şreyer sınağı"
+    ]
+  },
+  {
+    "question": "Dölün diri doğulmasının təyini məqsədilə hansı sınaq aparılır?",
+    "answers": [
+      "Mədə-bağırsaq sınağı",
+      "Bokarius sınağı",
+      "Hava emboliyası sınağı",
+      "Gümüş-güzgü sınağı",
+      "Rapoport sınağı"
+    ]
+  },
+  {
+    "question": "Mexaniki asfiksiyanın gedişində ekspirator təngnəfəslik mərhələsi üçün nə xarakterikdir?",
+    "answers": [
+      "sfinktorların boşalması nəticəsində qeyri-iradi sidik, nəcis ifrazı",
+      "nəfəsalma və nəfəsvermənin bərabər surətdə dəyişməsi",
+      "ağızın geniş açılması, terminal tənəffüs nadir nəfəsalma ilə müşayiət olunur",
+      "sakitlik vəziyyəti",
+      "kəskin nəfəsalma hərəkətləri"
+    ]
+  },
+  {
+    "question": "Asılma zamanı visseral plevra və epikard altına adətən hansı qansızmalar olur?",
+    "answers": [
+      "tünd qırmızı rəngli nöqtəvari qansızma",
+      "visseral plevra altına tünd-qırmızı rəgli geniş qınsızmalar",
+      "kiçik həcmli və nöqtəvari solğun-qırmızı rəngli",
+      "zolaqlı, yayılmış, sərhədi bilinməyən solğun-qırmızı",
+      "iri həcmli tünd-qırmızı rəngli"
+    ]
+  },
+  {
+    "question": "Asfiktik ölümün hansı növündə ağciyərlərin «karmin ödemi» olur?",
+    "answers": [
+      "döş qəfəsi və qarın sıxılması",
+      "ağız və burun dəliklərinin qapanması",
+      "əllə boğma",
+      "asılma zamanı",
+      "batma zamanı"
+    ]
+  },
+  {
+    "question": "Asfiksiyanın hansı növündə üz və boyun dərisinə çoxsaylı qansızmalar olur (ekximatik maska)?",
+    "answers": [
+      "döş qəfəsi və qarnın sıxılması",
+      "əllə boğmada",
+      "asılma",
+      "suda batma",
+      "ağız və burun dəliklərinin qapanması"
+    ]
+  },
+  {
+    "question": "Asfiksiya zamanı ürək boşluqlarında və damarlarda qan hansı vəziyyətdə olur?",
+    "answers": [
+      "duru halda",
+      "kiçik və iri qırmızı laxta şəklində",
+      "iri qırmızı laxta şəklində",
+      "ağ laxta şəklində",
+      "qarışıq laxta şəklində"
+    ]
+  },
+  {
+    "question": "Dəm qazı ilə zəhərlənməyə şübhə olduqda nəyin konsentrasiyası təyin olunur?",
+    "answers": [
+      "karboksihemoqlobin",
+      "hemin",
+      "bilirubin",
+      "methemoqlobin",
+      "glikogen"
+    ]
+  },
+  {
+    "question": "Hansı halda «suda ölüm» termini işlədilir?",
+    "answers": [
+      "çimərkən ölüm qəflətən ürək dayanmasından baş verir",
+      "ağır alkohol sərxoşluğu vəziyyətində olan şəxs suda batan zaman",
+      "suya baş vurduqda insan kəllə-beyin travması alır, huşunu itirərək batır",
+      "maşınla şəxsi vurduqdan sonra yaralı insanı su hövzəsinə atdıqda",
+      "taqətdən düşmüş üzgüçü yorularaq suda batdıqda"
+    ]
+  },
+  {
+    "question": "Suda batma zamanı ağ ciyərlərdə visseral plevra altındakı iri həcmli, sərhədi aydın olmayan solğun qırmızı rəngli qıansızmalar necə adlanır?",
+    "answers": [
+      "Rasskazov-Lukomski-Paltauf ləkələri",
+      "Vişnevski ləkələri",
+      "Tardye ləkələri",
+      "Kulukov ləkələri",
+      "Minakov ləkələri"
+    ]
+  },
+  {
+    "question": "İlgəyin tipik vəziyyətində düyün harada yerləşir?",
+    "answers": [
+      "boyunun arxasında",
+      "həmişə alt çənə cismi nahiyəsində",
+      "boyunun ön səthində",
+      "boyunun sol yan nahiyəsində",
+      "boyunun sağ yan səthində"
+    ]
+  },
+  {
+    "question": "Asılma zamanı stranqulyasiya şırımı daha çox harada yerləşir?",
+    "answers": [
+      "qalxanvari qığırdaqdan yuxarı",
+      "qalxanvari qığırdaq səviyyəsində və ya həmin səviyyədən aşağı",
+      "qalxanvari qığırdaq səviyyəsində",
+      "qalxanvari qığırdaqdan aşağı",
+      "hər hansı bir səviyyədə"
+    ]
+  },
+  {
+    "question": "Aşağıda göstərilən sınaqlardan hansı stranqulyasiya şırımının həyatiliyini təyin etmək üçün istifadə olunur?",
+    "answers": [
+      "Bokarius sınağı",
+      "Rapaport sınağı",
+      "Takayama sınağı",
+      "Teyxman sınağı",
+      "Hoppe-Zeyler sınağı"
+    ]
+  },
+  {
+    "question": "Aşağıda göstərilən sınaqlardan hansı stranqulyasiya şırımının həyatiliyini təyin etmək üçün istifadə olunur?",
+    "answers": [
+      "Neydinq sınağı",
+      "Rapaport sınağı",
+      "Takayama sınağı",
+      "Teyxman sınağı",
+      "Hoppe-Zeyler sınağı"
+    ]
+  },
+  {
+    "question": "Asfiksiyadan ölmüş şəxslərin meyitində ürək boşluqlarında hansı vəziyyət olur?",
+    "answers": [
+      "ürəyin sağ yarısının qanla daha çox dolması",
+      "ürəyin sol yarsının qanla dolması",
+      "hər iki qulaqcığın qanla dolması",
+      "hər ki mədəciklərin qanla dolu olması",
+      "ürək boşluqlarında qanın olmaması"
+    ]
+  },
+  {
+    "question": "Sudabatmanın əsas əlamətlərindən olan hansıdır?",
+    "answers": [
+      "Rasskazov-Lukomski-Paltauf ləkələri",
+      "Simon əlaməti",
+      "Lakassan əlaməti",
+      "Olivye-Danjer əlaməti",
+      "Tardye ləkələri"
+    ]
+  },
+  {
+    "question": "Sudan çıxarılmış meyitin xarici müayinəsində hansı əlamətlər suda batmanın həyatiliyini göstərir?",
+    "answers": [
+      "ağız və burun dəlikləri ətrafında dayanıqlı köpüyün olması",
+      "dəri örtüyünün qızarması",
+      "«qaz dərisinin» olması",
+      "ağız boşluğunda qum hissəciklərinin olması",
+      "ovucun və pəncənin dərisinin ağarması və büzüşməsi"
+    ]
+  },
+  {
+    "question": "Meyitin sudaqalma müddətinin hansı əlamətlərə əsasən təyin etmək olar?",
+    "answers": [
+      "dəri örtüyünün maserasiyası",
+      "mədədə suyun yığılma dərəcəsindən",
+      "əsas sümüyün cibində sərbəst mayenin miqdarından",
+      "daxili üzvlərdəki dəyişikliklər",
+      "meyit ləkələrinə"
+    ]
+  },
+  {
+    "question": "Ümumi əmək qabiliyyətinin 20% dayanıqlı itirilməsi ilə nəticələnən sağ əlin baş barmağının tam bükülmüş vəziyyətdə olması səbəbindən barmaq funksiyasının kəskin pozulması, dərəcəsinə görə hansı zərərvurmaya aiddir?",
+    "answers": [
+      "az ağır zərərvurma",
+      "yüngül zərərvurma",
+      "zərərvurma yetirilməyib",
+      "ağır zərərvurma",
+      "heç bir cavab düz deyil"
+    ]
+  },
+  {
+    "question": "Aşağıdaki əlamətlərdən hansı çürümüş meyitlərdə sudabatmanı sübut edir?",
+    "answers": [
+      "diatomeyaların sümük iliyində tapılması",
+      "mədənin ifərisində diatomeyaların aşkar edilməsi",
+      "dəri örtüyünün maserasiyası",
+      "ağciyərlərdə diatomeyaların tapılması",
+      "bütün orqanların kəskin doluqanlı olması"
+    ]
+  },
+  {
+    "question": "Əllə boğma hansı əlamətlərlə xarakterizə olunur?",
+    "answers": [
+      "qırtlaq qığırdağı və dilaltı sümüyün sınığı",
+      "yuxu arteriyasının intima qişasının cırılması",
+      "yuxu arteriyasının adventisiya qişasına qansızmalar",
+      "vidaci venanın intima qişasına qansızma",
+      "boyun fəqərələrinin sınıq-çıxıqı"
+    ]
+  },
+  {
+    "question": "Batma zamanı ağ ciyərlərdə visseral plevra altındaki zolaq şəkildəki solğun qırmızı rəngli qansızmalar necə adlanır?",
+    "answers": [
+      "Rasskazov-Lukomski-Paltauf ləkələri",
+      "Valxer əlaməti",
+      "Vişnevski ləkələri",
+      "Minakov ləkələri",
+      "Martin əlaməti"
+    ]
+  },
+  {
+    "question": "Stranqulyasiya şırımının həyatiliyini göstərən əlamət hansıdır?",
+    "answers": [
+      "Bokarius sınağının müsbət olması",
+      "meyit ləkələrinin tez əmələ gəlməsi",
+      "meyitin duruş vəziyyəti",
+      "boynunda ilgəyin olması",
+      "boynunda sarımtıl- qəhvəyimtil rəngdə şırımın olması"
+    ]
+  },
+  {
+    "question": "İlgəklə boğmada stranqulyasiya şırımı boyunda necə yerləşir?",
+    "answers": [
+      "üfüqi",
+      "çəp-şaquli",
+      "çəp-köndələn",
+      "şaquli",
+      "çəp"
+    ]
+  },
+  {
+    "question": "Boyunun əllə sıxılmasından (əllə boğma) boyunda hansı xəsarətlər müşahidə olunur?",
+    "answers": [
+      "qançır və sıyrıqlar",
+      "kəsilmiş yaralar",
+      "çapılmış yaralar",
+      "fəqərələrin kompressiyon sınıqları",
+      "stranqulyasiya şırımı"
+    ]
+  },
+  {
+    "question": "Əllə boğmada ən çox hansı sınıqlar aşkar olunur?",
+    "answers": [
+      "dilaltı sümüyün və qırtlaq qığırdaqlarının sınığı",
+      "alt çənə sümüyünün sınığı",
+      "körpücük sümüklərinin sınığı",
+      "kəllə sümüklərinin sınığı",
+      "qabırğalaran sınığı"
+    ]
+  },
+  {
+    "question": "Kompression (sıxılma) asfiksiyada hansı sınıqlar aşkar olunur?",
+    "answers": [
+      "qabırğaların kompression sınıqları",
+      "dilaltı sümüyün sınığı",
+      "ətraf sümüklərinin sınığı",
+      "çanaq sümüklərinin sınığı",
+      "kəllə sümüklərinin sınığı"
+    ]
+  },
+  {
+    "question": "“Rasskazov-Lukomski-Paltauf” ləkələri mexaniki asfiksiyanın hansı növlərində qeyd olunur?",
+    "answers": [
+      "suda batma",
+      "qusuntu kütləsilə aspirasiyon asfiksiya",
+      "kompression asfiksiya",
+      "ilgəklə boğma",
+      "əllə boğma"
+    ]
+  },
+  {
+    "question": "Hoppe-Zeyler sınağı ilə hansı zəhərlənməni təyin etmək olar?",
+    "answers": [
+      "dəm qazı ilə zəhərlənməni",
+      "etil spirti ilə zəhərlənməni",
+      "yuxu dərmanları ilə zəhərlənməni",
+      "sirkə turşusu ilə zəhərlənməni",
+      "Bertolle duzu ilə zəhərlənməni"
+    ]
+  },
+  {
+    "question": "İsti maye və ya buxarla yanma zamanı müayinə protokolunda nəyi göstərirlər?",
+    "answers": [
+      "hisin olmamasını",
+      "sümüklərin olmamasını",
+      "hisin burun yollarında olmasını",
+      "meyit ləkələrinin çəhrayı olmasını",
+      "xarakter qoxunun olmasını"
+    ]
+  },
+  {
+    "question": "Aşındırıcı zəhər hansıdır?",
+    "answers": [
+      "sulfat turşusu",
+      "dəm qazı",
+      "arsen",
+      "süleymani",
+      "civə"
+    ]
+  },
+  {
+    "question": "Destruktiv zəhər hansıdır?",
+    "answers": [
+      "süleymani",
+      "dəm qazı",
+      "karbon qazı",
+      "narkotiklər",
+      "turşular"
+    ]
+  },
+  {
+    "question": "Aşağıdakılardan hansı qida mənşəli zəhərdir?",
+    "answers": [
+      "botulotoksin",
+      "bertole duzu",
+      "qurğuşun",
+      "etil spirti",
+      "civə"
+    ]
+  },
+  {
+    "question": "Bunlardan hansı maddə hemoqlobinotrop zəhərlərə aiddir?",
+    "answers": [
+      "helvel turşusu",
+      "süleymani",
+      "fenatin",
+      "dəm qazı",
+      "etil spirti"
+    ]
+  },
+  {
+    "question": "Mərkəzi sinir sistemini iflic edən zəhərlərə nə aiddir?",
+    "answers": [
+      "sinil turşusu",
+      "etil spirti",
+      "miorelarksantlar",
+      "skopolamin",
+      "antifriz"
+    ]
+  },
+  {
+    "question": "Mərkəzi sinir sistemini yoran zəhərlərə nə aiddir?",
+    "answers": [
+      "etil spirti",
+      "strixnin",
+      "fenamin",
+      "atropin",
+      "kalium sian"
+    ]
+  },
+  {
+    "question": "Mərkəzi sinir sistemini yoran zəhərlərə nə aiddir?",
+    "answers": [
+      "metil spirti",
+      "kalium sian",
+      "paxikarpin",
+      "dəm qazı",
+      "atropin"
+    ]
+  },
+  {
+    "question": "Mərkəzi sinir sistemini yoran zəhərlərə nə aiddir?",
+    "answers": [
+      "barbituratlar",
+      "paxikarpin",
+      "kalium sian",
+      "strixnin",
+      "sirkə turşusu"
+    ]
+  },
+  {
+    "question": "Mərkəzi sinir sistemini yoran zəhərlərə nə aiddir?",
+    "answers": [
+      "heroin",
+      "sinil turşusu",
+      "atropin",
+      "paxikarpin",
+      "kurare"
+    ]
+  },
+  {
+    "question": "Mərkəzi sinir sisteminə oyandırıcı təsir göstərən zəhərlərə nə aiddir?",
+    "answers": [
+      "atropin",
+      "antifriz",
+      "dəm qazı",
+      "kalium sian",
+      "etil spirti"
+    ]
+  },
+  {
+    "question": "İri qan damarlarının zədələnməsinə şübhə olduqda hansı sınaq aparılmalıdır?",
+    "answers": [
+      "hava emboliyasına",
+      "peritonitə",
+      "miokard infarktına",
+      "hemotoraksa",
+      "hemoperikarda"
+    ]
+  },
+  {
+    "question": "Mərkəzi sinir sisteminə oyandırıcı təsir göstərən zəhərlərə nə aiddir?",
+    "answers": [
+      "adrenalin",
+      "antifriz",
+      "potaş",
+      "bertolle duzu",
+      "sirkə turşusu"
+    ]
+  },
+  {
+    "question": "Mərkəzi sinir sistemində qıcolma yaradan zəhərlərə nə aiddir?",
+    "answers": [
+      "strixnin",
+      "kurare",
+      "kalium sian",
+      "antifriz",
+      "bertolle duzu"
+    ]
+  },
+  {
+    "question": "Görmə və eşitmə sinirlərinin atrofiyası hansı zəhərlənmə zamanı əmələ gəlir?",
+    "answers": [
+      "metil spirti ilə",
+      "arsenlə zəhərlənmədə",
+      "etil spirti ilə zəhərlənmədə",
+      "tiryəklə",
+      "civə preparatları ilə"
+    ]
+  },
+  {
+    "question": "Methemoqlobin əmələ gəlməsi aşağıdakılardan hansı zəhərlənmə üçün əsas göstəricilərdən biridir?",
+    "answers": [
+      "bertolle duzu",
+      "arsen oksidi ilə",
+      "etil spirti ilə",
+      "dixloretanla",
+      "benzolla"
+    ]
+  },
+  {
+    "question": "Aşağıda göstərilən zəhərlənmələrin hansı növündə məhkəmə-botaniki ekspertiza aparmaq məqsədə uyğundur?",
+    "answers": [
+      "solğun poqanka göbələyi ilə",
+      "sirkə turşusu ilə",
+      "natrium trinitrit ilə",
+      "barbituratlarla",
+      "morfinlə"
+    ]
+  },
+  {
+    "question": "Periferik sinir sisteminə təsir göstərən zəhərlərə aiddir:",
+    "answers": [
+      "miorelarksantlar",
+      "anilin",
+      "kalium sian",
+      "sirkə turşusu",
+      "xloroform"
+    ]
+  },
+  {
+    "question": "Ölüm alkoqol zəhərlənməsi zamanı rezorbsiya mərhələsində baş veribsə etanolun miqdarı harada daha çox olur?",
+    "answers": [
+      "qanda daha çox, sidikdə az",
+      "qanda və sidikdə eyni miqdarda",
+      "qanda yox, sidikdə çox",
+      "qanda az, sidikdə də az",
+      "sidikdə daha çox, qanda az"
+    ]
+  },
+  {
+    "question": "Ölüm alkoqol zəhərlənməsi zamanı eliminasiya mərhələsində baş veribsə etanolun miqdarı harada daha çox olur?",
+    "answers": [
+      "sidikdə daha çox, qanda az",
+      "qanda və sidikdə eyni miqdarda",
+      "qanda çox, sidikdə çox",
+      "sidikdə yox, qanda çox",
+      "qanda çox, sidikdə az"
+    ]
+  },
+  {
+    "question": "Göstərilən maddələrdən hansıları opiyatlara aiddir?",
+    "answers": [
+      "tiryək, morfin, heroin, promedol",
+      "barbanil, etaminol natrium",
+      "droperidol",
+      "meskolin, fensiklidin, LSD",
+      "kokain, pervitin"
+    ]
+  },
+  {
+    "question": "Ləkədə qanın olmasını şübhəsiz hansı üsulla təyin etmək olar?",
+    "answers": [
+      "mikrospektroskopik",
+      "adi gözlə baxılsa",
+      "lümunisent üsulu ilə",
+      "rəngli kimyəvi üsulla",
+      "hidrogen-peroksid sınağı ilə"
+    ]
+  },
+  {
+    "question": "Etil spirti ilə kəskin zəhərlənmə zamanı ölüm, alkoqolun mərkəzi sinir sisteminin hansı şöbəsinə yorucu (tənəffüs mərkəzinin iflici) təsiri nəticəsində baş verə bilər?",
+    "answers": [
+      "uzunsov beyin",
+      "beyincik",
+      "hipofiz",
+      "orta beyin",
+      "onurğa beyni"
+    ]
+  },
+  {
+    "question": "Qanın növünü təyin etmək üçün hansı metod sübutedici və praktik əhəmiyyətə malikdir?",
+    "answers": [
+      "Çistoviç-Ulenqut presipitasiya reaksiyası",
+      "komplimentin birləşmə reaksiyası",
+      "lümunisent işıqla müayinə",
+      "qanın morfoloji xüsusiyyətinin öyrənilməsi",
+      "mikrospektral müayinə"
+    ]
+  },
+  {
+    "question": "Qarın boşluğuna keçən yara dərəcəsinə görə hansı zərərvurmaya aiddir?",
+    "answers": [
+      "ağır zərərvurma",
+      "dərəcəsi təyin edilmir",
+      "ümumi əmək qabiliyyətinin cüzi hissəsinin dayanıqlı itirilməsi",
+      "yüngül zərərvurma",
+      "az ağır zərərvurma"
+    ]
+  },
+  {
+    "question": "Qalxanabənzər qığırdağın sınmasının sağlamlığa zərər vurmaya dair təyini əlamətinə aiddir:",
+    "answers": [
+      "həyat üçün təhlükəlilik",
+      "səhhətin qısa müddətə pozulması",
+      "əmək qabiliyyətinin dayanıqlı itirilməsi",
+      "həyat üçün təhlükəli vəziyyət",
+      "səhhətin uzun müddətə pozulması"
+    ]
+  },
+  {
+    "question": "Daha tez rast gəlinən mexaniki asfiksiya:",
+    "answers": [
+      "asılma",
+      "suda batma",
+      "döş qəfəsinin və qarının sıxılması",
+      "ilgəklə boğma",
+      "məhdud bağlı mühitdə qalma"
+    ]
+  },
+  {
+    "question": "Yemək borusunun kimyəvi yanığı nəticəsində keçməməzliyin yaranması və bununla əlaqədar ümumi əmək qabiliyyətinin 90% dayanıqlı itirilməsi hansı zərərvurmaya aiddir?",
+    "answers": [
+      "ağır",
+      "həyat üçün təhlükəli",
+      "az ağır",
+      "həyat üçün təhlükəli olmayan",
+      "yüngül"
+    ]
+  },
+  {
+    "question": "Ümumi əmək qabiliyyətinin 30% dayanıqlı itirilməsi ilə nəticələnən travmadan sonra sağ çiyin oynağında hərəkətin kəskin məhdudlaşması hansı zərərvurmaya aiddir?",
+    "answers": [
+      "az ağır",
+      "yüngül",
+      "ağır",
+      "dərəcəsi təyin edilmir",
+      "həyat üçün təhlükəli"
+    ]
+  },
+  {
+    "question": "Ümumi əmək qabiliyyətinin 20% dayanıqlı itirilməsinə səbəb olan biləyin travması nəticəsində sol əlin əzələ gücünün kəskin nəzərə çarpan dərəcədə azalması hansı zərərvurmaya aiddir?",
+    "answers": [
+      "az ağır",
+      "həyat üçün təhlükəli olmayan",
+      "yüngül",
+      "həyat üçün təhlükəli",
+      "ağır"
+    ]
+  },
+  {
+    "question": "Ümumi əmək qabiliyyətinin 5% dayanıqlı itirilməsinə və hissiyatın yüngül pozulmasına gətirib çıxardan bel kələfinin zədələnməsi zərərvurma kimi qiymətləndirilir:",
+    "answers": [
+      "yüngül",
+      "az ağır",
+      "ağır",
+      "həyat üçün təhlükəli",
+      "dərəcəsi təyin edilmir"
+    ]
+  },
+  {
+    "question": "Xəlbirvari sümüyün sınığı zamanı sağlamlığa zərərvurmanın qiymətləndirilməsinin təyini əlaməti:",
+    "answers": [
+      "həyat üçün təhlükəlilik",
+      "səhhətin qısa müddətə pozulması",
+      "bütün cavablar düzdür",
+      "səhhətin uzun müddətə pozulması",
+      "həyata təhlükə törədən vəziyyət"
+    ]
+  },
+  {
+    "question": "Qoltuqaltı arteriyanın zədələnməsi ilə nəticələnən döş qəfəsinin qapalı küt travması zərərvurma kimi qiymətləndirilir:",
+    "answers": [
+      "ağır",
+      "dərəcəsi təyin edilmir",
+      "az ağır",
+      "yüngül",
+      "uzun müddətli"
+    ]
+  },
+  {
+    "question": "Yaranın kənarları arasında birləşdirici toxuma lifləri nəyə xarakterdi?:",
+    "answers": [
+      "əzilmiş-cırılmış yaraya",
+      "odlu silah yaralarına",
+      "çapılmış yaralara",
+      "kəsilmiş yaraya",
+      "deşilmiş yaralara"
+    ]
+  },
+  {
+    "question": "Avtomobillərin toqquşması zamanı onurğanın boyun hissəsində “qamçıyabənzər” sınığın əmələ gəlmə mexanizmi:",
+    "answers": [
+      "boyunun kəskin surətdə arxaya əyilməsi zamanı",
+      "boyunun önə əyilməsi nəticəsində",
+      "onurğaya yan təsir nəticəsində",
+      "boyunun yana əyilməsi nəticəsində",
+      "boynun fırlanması zamanı"
+    ]
+  },
+  {
+    "question": "Yastı sümüklərin deşilmiş zədələnmələri hansı sınıqlara aid edilir?",
+    "answers": [
+      "deşilmiş",
+      "bütün cavablar düzdür",
+      "torabənzər",
+      "qəlpəli",
+      "terrasabənzər"
+    ]
+  },
+  {
+    "question": "Cırılmış yara əmələ gəlir:",
+    "answers": [
+      "dartılmadan",
+      "fırlanmadan",
+      "sürtülmədən",
+      "sıxılmadan",
+      "zərbədən"
+    ]
+  },
+  {
+    "question": "Sıyrığın hansı əlaməti onun əmələ gəlmə vaxtını təyin etməyə imkan verir?",
+    "answers": [
+      "qartmağı",
+      "ölçüləri",
+      "kənarları",
+      "rəngi",
+      "forması"
+    ]
+  },
+  {
+    "question": "Qançırın rəngi ilk saatlarda:",
+    "answers": [
+      "tünd qırmızı",
+      "qəhvəyi-qırmızı",
+      "qəhvəyi-sarı",
+      "boz-yaşımtıl",
+      "göyümtül qırmızı"
+    ]
+  },
+  {
+    "question": "Tipik kəsilmiş yaranın ən çox dərinliyi haradadır?",
+    "answers": [
+      "orta hissədə",
+      "bütün yara sahəsində",
+      "axır hissədə",
+      "kənarda",
+      "başlanğıc hissədə"
+    ]
+  },
+  {
+    "question": "Meyit qacıması zamanı əzələlər hansı ardıcıllıqla boşalmağa başlayır?",
+    "answers": [
+      "hardan başlayıbsa, ordanda boşalır",
+      "əzələlər boşalmır",
+      "xaotik",
+      "nizamsız",
+      "harda bitib ordan"
+    ]
+  },
+  {
+    "question": "Meyit ləkələri neçə saat ərzində lokalizasiyasını tam dəyişə bilər?",
+    "answers": [
+      "4-8 saat ərzində",
+      "bütün cavablar düzdür",
+      "24-30 saat ərzində",
+      "16-24 saat ərzində",
+      "12-15 saat ərzində"
+    ]
+  },
+  {
+    "question": "Güllənin çıxış dəliyi ətrafında sıyrılma halqası nə vaxt əmələ gələ bilər?",
+    "answers": [
+      "yalnız xüsusi vəziyyətlərdə",
+      "bütün cavablar düzdür",
+      "əmələ gəlmir",
+      "yalnız gülləsiz atəşdə",
+      "həmişə"
+    ]
+  },
+  {
+    "question": "Hansı əlamətlərə əsasən silahın növünü təyin etmək olar, birindən başqa:",
+    "answers": [
+      "xəsarətin lokalizasiyasına",
+      "“Vinoqradov”əlamətinə",
+      "güllənin identifikasiyasına",
+      "“Ştans-izi”nin olmasına",
+      "xəsarətin xüsusiyyətinə"
+    ]
+  },
+  {
+    "question": "Xəsarətin silinməz olmasının təyini kimin səlahiyyətinə aiddir?",
+    "answers": [
+      "məhkəmə-tibb eksperti",
+      "hakim",
+      "cərrah",
+      "həkim-kosmetoloq",
+      "vizajist"
+    ]
+  },
+  {
+    "question": "Sağlamlığa zərərvurmanı təyin etmək məqsədi ilə məhkəmə-tibbi ekspertiza kimin tərəfindən aparılır?",
+    "answers": [
+      "məhkəmə-tibb eksperti",
+      "prokuror",
+      "müstəntiq",
+      "həkim-klinisist",
+      "tibbi komissiyanın həkiimi"
+    ]
+  },
+  {
+    "question": "Uşaq öldürmə dedikdə yeni doğulmuş uşağın kimin tərəfindən qətlə yetirilməsi başa düşülür?",
+    "answers": [
+      "ana",
+      "tibbi personal",
+      "kənar şəxslər",
+      "ata",
+      "qohumlar"
+    ]
+  },
+  {
+    "question": "Odlu silah yaralanmasını hansı xəsarətlə fərqləndirmək lazımdır?",
+    "answers": [
+      "deşilmiş",
+      "elektrik nişanəsi ilə",
+      "deşilmiş-kəsilmiş",
+      "əzilmiş",
+      "çapılmış"
+    ]
+  },
+  {
+    "question": "Ürəyin və aorta qövsünün cırılması kimlər üçün daha xarakteriikdir?",
+    "answers": [
+      "sürücü",
+      "sərnişinlərin hamısı",
+      "arxada solda oturan sərnişin",
+      "arxada sağda oturan sərnişin",
+      "qabaqda oturan sərnişin"
+    ]
+  },
+  {
+    "question": "Aşağı temperaturun ümumi təsirindən ölüm zamanı aşkar edilən xarakterik ləkə :",
+    "answers": [
+      "Vişnevski",
+      "Larşe",
+      "Rasskazov-Lukomski-Paltauf",
+      "Minakov",
+      "Tardye"
+    ]
+  },
+  {
+    "question": "Həkim sirrini yaymaya görə tibb işçilərinin məsuliyyəti:",
+    "answers": [
+      "cinayət",
+      "inzibati",
+      "intizam",
+      "heç biri",
+      "hamısı"
+    ]
+  },
+  {
+    "question": "Tibb işçilərinin peşə sahəsində qanunsuz hərəkətləri zamanı məhkəmə-tibbi ekspertiza bütün hallarda aparılır:",
+    "answers": [
+      "komisyon",
+      "əlavə",
+      "birincili",
+      "təkrar",
+      "stasionar"
+    ]
+  },
+  {
+    "question": "Sağlamlığa zərər vurmanın dərəcəsinin təyininə dair məhkəmə-tibbi ekspertiza hansı sənədə əsasən aparılır?",
+    "answers": [
+      "müstəntiqin qərarı",
+      "hərbi hospital rəisinin göndərişi",
+      "zərərçəkənin ərizəsi",
+      "həkim əmək ekspert komissiyasının göndərişi",
+      "istintaqın göndərişi"
+    ]
+  },
+  {
+    "question": "Kəskin çürümə prosesinə məruz qalmış meyitlərin məhkəmə-tibbi müayinəsi necə aparılmalıdır?",
+    "answers": [
+      "tam müayinə olunmalıdır",
+      "meyit təşrih olunmur",
+      "kəllə boşluğu açılır, lakin daxili orqanlar müayinə edilmir",
+      "müayinə olunması məqsədəuyğyn sayılmır",
+      "tam müayinə olunur, lakin kəllə boşluğu açılmır"
+    ]
+  },
+  {
+    "question": "Kombinasiya olunmuş təsir göstərən iti alətlərə aiddir:",
+    "answers": [
+      "deşici-kəsici",
+      "çapıcı",
+      "mişarlayıcı",
+      "kəsici",
+      "deşici"
+    ]
+  },
+  {
+    "question": "Çəhrayı çalarlı dəri səthi, meyit ləkələrinin, qanın və yumşaq toxumaların al qırmızı rəngdə olması hansı zəhərlənmə üçün daha xarakterikdir?",
+    "answers": [
+      "dəm qazı ilə",
+      "arsenlə",
+      "kalium-sianidlə",
+      "metanolla",
+      "karbonat turşusu ilə"
+    ]
+  },
+  {
+    "question": "Sağlamlığa ağır zərərvurmanın əlamətlərinə aid deyil:",
+    "answers": [
+      "səhhətin 21 gündən çox müddətə pozulması",
+      "peşəkar əmək qabiliyyətinin tam itirilməsi",
+      "ümumi əmək qabiliyyətinin üçdə bir hissəsindən az olmamaqla dayanıqlı itirilməsi",
+      "ruhi xəstəliklərə səbəb olma",
+      "həyat üçün təhlükəlilik"
+    ]
+  },
+  {
+    "question": "Kəsilmiş yara necə xarakterizə olunur?",
+    "answers": [
+      "kənarları hamar, hər iki ucu iti",
+      "yara kanalının uzun olması",
+      "qan axma ilə müşayiət olan",
+      "bir ucunun iti olması",
+      "kənarları nahamar, yara kənarlarını birləşdirən toxuma liflərinin olması"
+    ]
+  },
+  {
+    "question": "Aşağı temperaturun orqanizmə təsirini artıran hallara aiddir:",
+    "answers": [
+      "bütün cavablar düzdür",
+      "ümumi azqanlılıq",
+      "xroniki xəstəliklər",
+      "küləkli, rütubətli, yağışlı hava şəraiti",
+      "alkoqol intoksikasiyası"
+    ]
+  },
+  {
+    "question": "Aşağıda göstərilənlər məhkəmə təbabəti sahəsində mütəxəssis qismində hadisə yerinin müayinəsinə cəlb oluna bilər, birindən başqa{",
+    "answers": [
+      "əczaçı",
+      "pediatr",
+      "mama-ginekoloq",
+      "cərrah",
+      "terapevt"
+    ]
+  },
+  {
+    "question": "Aşağıdakı hallarda məhkəmə-tibbi ekspertizanın təyin edilməsi mütləqdir:",
+    "answers": [
+      "bütün cavablar düzdür",
+      "müqəssirin, şübhəli şəxsin və zərərçəkmişin fiziki və psixi vəziyyətinin təyin edilməsi",
+      "müqəssirin, şübhəli şəxsin və zərərçəkmişin yaşının təyin olunması",
+      "sağlamlığa zərər vurmanın dərəcəsinin və xarakterinin təyin olunması",
+      "ölümün səbəbinin təyin edilməsi"
+    ]
+  },
+  {
+    "question": "İlkin meyit əlamətlərinə aiddir:",
+    "answers": [
+      "hamısı",
+      "meyit ləkələri",
+      "autoliz",
+      "meyit soyuması",
+      "meyit qacıması"
+    ]
+  },
+  {
+    "question": "Meyit ləkələrinin müayinəsi aşağıdakıları təyin etməyə imkan verir:",
+    "answers": [
+      "bütün cavablar düzdür",
+      "meyitin duruş vəziyyətinin dəyişdirilməsini",
+      "meyitin uzandığı səthin relyef xüsusiyyətlərini",
+      "ölümün baş vermə müddətini",
+      "ölümün mümkün səbəbini"
+    ]
+  },
+  {
+    "question": "Meyit qacımasının əhəmiyyəti aşağıdakıları təyin etməkdən ibarətdir:",
+    "answers": [
+      "bütün cavablar düzdür",
+      "ölümün səbəbi haqqında eksperti istiqamətləndirə bilər",
+      "ölümün baş vermə müddəti haqqında fikir söyləməyə imkan verir",
+      "bəzi hallarda ölümün baş vermə anında şəxsin duruş vəziyyəti haqqında mühakimə yürütməyə imkan yaradır",
+      "ölümün baş verməsini təsdiq edir"
+    ]
+  },
+  {
+    "question": "Hadisə yerində meyitə baxış keçiriləndə dəri səthində deşilmiş yara olan zaman aşağıdakıları etmək lazımdır:",
+    "answers": [
+      "meyitin paltarında və dəri səthində olan xəsarəti ətraflı təsvir etmək",
+      "cavabların hamısı düzdür",
+      "aləti yaradan çıxartmaq",
+      "zond vasitəsilə yara kanalının uzunluğunu ölçmək",
+      "xəsarəti su ilə yuyub təmizləmək"
+    ]
+  },
+  {
+    "question": "Sağlamlığa zərər vurmanın dərəcəsinin təyininə dair məhkəmə-tibbi ekspertiza aparılan zaman hansı əlamətlər nəzərə alınır?",
+    "answers": [
+      "cavabların hamısı düzdür",
+      "peşəkar əmək qabiliyyətinin tam itirilməsi",
+      "ümumi əmək qabiliyyətinin dayanıqlı itirilməsi",
+      "səhhətin uzun müddətə pozulması",
+      "həyat üçün təhlükəlilik"
+    ]
+  },
+  {
+    "question": "Meyitin soyuması aşağıdakılardan asılıdır:",
+    "answers": [
+      "cavabların hamısı düzdür",
+      "meyitin əynində olan paltarlardan",
+      "ölümün səbəbindən",
+      "ətraf mühitin temperaturundan",
+      "bədən çəkisindən"
+    ]
+  },
+  {
+    "question": "Hadisə yerində meyitə baxış keçirilən zaman aşağıdakı halların qiymətləndirilməsi zəhərlənmələrə şübhələr yarada bilər:",
+    "answers": [
+      "cavabların hamısı düzdür",
+      "ağızdan iyin hiss edilməsi",
+      "meyit qacımasının inkişaf dərəcəsi",
+      "dəri örtüyünün rəngi",
+      "meyit ləkələrinin rəngi"
+    ]
+  },
+  {
+    "question": "Aşağıdakıların olmaması ölümü sübut edən şübhəli əlamətlər hesab edilir:",
+    "answers": [
+      "bütün cavablar düzdür",
+      "iri arteriyalarda nəbzin",
+      "tənəffüsün",
+      "bəbəklərin işığa qarşı reaksiyasının",
+      "huşun"
+    ]
+  },
+  {
+    "question": "Hadisə yerində meyitə baxış keçirən zaman boyunda ilgək olarsa protokolda aşağıdakı hallar qeyd olunmalıdır:",
+    "answers": [
+      "bütün cavablar düzdür",
+      "ilgəyin stranqulyasiya şırımına uyğun gəlməsi",
+      "ilgəyin hazırlandığı material",
+      "ilgəyin xarakteri və onun xüsusiyyətləri",
+      "boyunda stranqulyasiya şırımının olması"
+    ]
+  },
+  {
+    "question": "Sağlamlığa ağır zərərvurmanın əlamətlərinə aiddir:",
+    "answers": [
+      "bütün cavablar düzdür",
+      "ümumi əmək qabiliyyətinin üçdə bir hissəsindən az olmamaqla uzun müddətdə daimi (dayanıqlı) itirilməsi",
+      "peşəkar (professional) əmək qabiliyyətinin tam itirilməsi",
+      "psixi pozulmaya səbəb olma",
+      "insan həyatı üçün təhlükəlilik"
+    ]
+  },
+  {
+    "question": "Meyitin yerinin və ya duruş vəziyyətinin dəyişdirilməsini göstərən əlamətlər:",
+    "answers": [
+      "bütün cavablar düzdür",
+      "meyit ləkələrinin lokalizasiyasının onun duruş vəziyyətinə uyğun gəlməməsi",
+      "ayrı-ayrı əzələ qrupunda meyit qacımasının olmaması",
+      "bədəni üzərində çoxlu miqdarda bir-birinə paralel sıyrıqların olması",
+      "meyit ləkələrinin bədənin həm ön həm də arxa nahiyələrində yerləşməsi"
+    ]
+  },
+  {
+    "question": "Ölümün baş vermə vaxtının təyini üçün aşağıdakılar tədqiq olunur:",
+    "answers": [
+      "bütün cavablar düzdür",
+      "köndələn zolaqlı əzələlərin mexaniki təsirə reaksiyası öyrənilir",
+      "meyit qacımasının inkişaf etmə dərəcəsi təyin edilir",
+      "rektal termometriya üsulundan istifadə edilir",
+      "meyit ləkələrinin dövrləri təyin olunur"
+    ]
+  },
+  {
+    "question": "Ölümün baş vermə vaxtının təyini üçün aşağıdakılar tədqiq olunur:",
+    "answers": [
+      "bütün cavablar düzdür",
+      "tər vəzilərinin dəri altına adrenalinin yeridilməsinə reaksiyası",
+      "əzələlərin elektriklə qıcıqlandırılması",
+      "əzələlərin mexaniki qıcıqlandırılması",
+      "göz bəbəyinin atropin və pilokarpinin yeridilməsinə reaksiyası"
+    ]
+  },
+  {
+    "question": "Dəri səthinin çəhrayı çalarlı və meyit ləkələrinin al-qırmızı rəngdə olması hansı zəhərlənmə üçün xarakterikdir?",
+    "answers": [
+      "dəm qazı ilə",
+      "bütün cavablar düzdür",
+      "karbonat turşusu ilə",
+      "metanolla",
+      "kalium sianidlə"
+    ]
+  },
+  {
+    "question": "Hadisə yerində meyitə baxış keçirilən zaman ölümün zəhərlənmədən baş verməsinə şübhə yaranarsa aşağıdakılara diqqət yetirmək lazımdır:",
+    "answers": [
+      "bütün cavablar düzdür",
+      "ağızdan iyin hiss edilməsinə",
+      "dəri örtüyünün və selikli qişaların rənginə",
+      "meyit ləkələrinin rənginə",
+      "iynə yerinin olmasına"
+    ]
+  }
+]

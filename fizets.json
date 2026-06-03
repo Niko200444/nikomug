@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "Fizioterapiya nədir?",
+    "answers": [
+      "Təbii amillərlə müalicə",
+      "İqlimlə müalicə",
+      "Elektrik cərəyanı ilə müalicə",
+      "Mineral sularla müalicə",
+      "Palçıqla müaliçə"
+    ]
+  },
+  {
+    "question": "Göstərilən xəstəliklərdən hansı fiziki üsullarla müalicəyə göstərişdir?",
+    "answers": [
+      "Hipertoniya xəstəliyi, II mərhələ",
+      "Stenokardiya III funksional sinif",
+      "Kaxeksiya",
+      "Anemiya",
+      "Psixomotor oyanıqlarla gedən psixozlar"
+    ]
+  },
+  {
+    "question": "Göstərilənlərdən hansı fiziki amillərlə müalicənin üstünlüklərinə aid deyildir?",
+    "answers": [
+      "Onkoloji xəstəliklərin yaranmasının qarşısını alır",
+      "Xroniki xəstəliklərin remissiya dövrünü uzadır",
+      "Bilavasitə patoloji prosesə təsir göstərir",
+      "Müalicə qeyri – invaziv üsulla aparılır",
+      "Dərman xəstəliyi və allergiya törətmir"
+    ]
+  },
+  {
+    "question": "İkincili profilaktikada məqsəd nədir?",
+    "answers": [
+      "Xəstəliklərin proqressivləşməsinin qarşısının alınması",
+      "Sümük toxumasında mübadiləni ğücləndirmək",
+      "İtirilmiş əmək qabiliyyətinin bərpa olunması",
+      "Mübadilə proseslərinin intensivliyinin qarşısının alınması",
+      "Xəstəliklərin kəskin mərhələdə müalicəsini aparmaq"
+    ]
+  },
+  {
+    "question": "Fiziki amillərlə ikincili profilaktikanın təşkilində nə nəzərdə tutulmalıdır?",
+    "answers": [
+      "Elektroişıq müalicə şöbəsinin olması",
+      "Dərman müalicəsinin olması",
+      "Cərrahi əməliyyat otаğının olması",
+      "Reanimasiya şöbəsinin olması",
+      "Funksional diaqnostika şöbəsinin olması"
+    ]
+  },
+  {
+    "question": "Aşağıda göstərilənlərdən hansı yüksək elektrik keçiriciliyinə malikdir?",
+    "answers": [
+      "Qan",
+      "Dəri",
+      "Dərialtı piy",
+      "Sümük",
+      "Qığırdaq"
+    ]
+  },
+  {
+    "question": "Qalvanizasiya göstərilən effektlərdən hansına malikdir?",
+    "answers": [
+      "Damargenişləndirici",
+      "Hipokoaqulyasiya edici",
+      "Bakterisid",
+      "Hiperkoaqulyqsiya edici",
+      "Damardaraldıcı"
+    ]
+  },
+  {
+    "question": "Qalvanizasiyada istifadə olunan cərəyanın gərginliyi nə qədər olur?",
+    "answers": [
+      "80 V-dək",
+      "160 V-dək",
+      "220 V-dək",
+      "110 V-dək",
+      "90 V-dək"
+    ]
+  },
+  {
+    "question": "Qalvanizasiya zamanı döşəkçələr nə ilə isladılır?",
+    "answers": [
+      "Adi şirin su ilə",
+      "Distillə olunmuş su ilə",
+      "Dimeksidlə",
+      "Fizioloji məhlulla",
+      "Spirtlə"
+    ]
+  },
+  {
+    "question": "Dərman elektroforezi üçün əksər pereparatların optimal konsentrasiyası nə qədər olmalıdır?",
+    "answers": [
+      "2 – 5%",
+      "25% və daha çox",
+      "10 – 15%",
+      "5 – 10 %",
+      "1% - dək"
+    ]
+  },
+  {
+    "question": "Qalvanik cərəyanın təsirindən hansı biofiziki effektlər yaranır?",
+    "answers": [
+      "İon konsentrasiyasının dəyişilməsi",
+      "Qaz boşalması effekti, qütbləşmiş ionların yaranması",
+      "Biomolekulların rəqsi və dövri hərəkətləri",
+      "Sərbəst radikalların əmələ gəlməsi",
+      "Mexaniki rəqslər"
+    ]
+  },
+  {
+    "question": "Hansı xəstələrə dərman elektroforezi göstərişdir?",
+    "answers": [
+      "Ağ ciyərlərin xroniki qeyri-spesifik xəstəlikləri",
+      "Kəskin mikrob ekzeması zamanı",
+      "Dəri tamlığının böyük ərazidə pozulmaları zamanı",
+      "Qanaxmaya meyllik olarsa",
+      "Kəskin psixozlar"
+    ]
+  },
+  {
+    "question": "Elektroyuxu terapiyasında müalicə hansı tezlik diapazonunda verilir?",
+    "answers": [
+      "1 - 160 Hs",
+      "2000 HS və daha çox",
+      "600 – 1000 Hs",
+      "1000 – 1500 Hs",
+      "!50 - 350 HS"
+    ]
+  },
+  {
+    "question": "Transkranial elektroanalgeziya hansı müalicəvi effektə malikdir?",
+    "answers": [
+      "Antiabstinent",
+      "İmmunodepressiv",
+      "Hipokoaquləedici",
+      "Miostimuləedici",
+      "Damardaraldıcı"
+    ]
+  },
+  {
+    "question": "Transkranial elektroanalgeziya ilə müalicəyə göstərişdir?",
+    "answers": [
+      "Kauzalgiya və fantom ağrılar",
+      "Ürək ritminin pozğunluqları",
+      "Doğuş sancıları",
+      "Kəskin miokard infarktı",
+      "Böyrək sancıları"
+    ]
+  },
+  {
+    "question": "Elektroyuxu ilə müalicəyə hansı xəstəlik göstərişdir?",
+    "answers": [
+      "Ürəyin işemik xəstəliyi gərginlik stenokardiyası I funksional sinif",
+      "Qlaukoma",
+      "Araxnoidit",
+      "Epilepsiya",
+      "İsteriya"
+    ]
+  },
+  {
+    "question": "Diadinamoterapiyada orqanizmə hansı cərəyanla müalicəvi təsir edilir?",
+    "answers": [
+      "Yarımsinusoidal formalı alçaq tezlikli impuls cərəyanla",
+      "Ultrayüksək tezlikli cərəyanla",
+      "Daimi fasiləsiz elektrik cərəyanla",
+      "Dəyişən sinusoidal cərəyanla",
+      "Yüksək tezlikli impuls cərəyanla"
+    ]
+  },
+  {
+    "question": "Amplipulsterapiya zamanı hansı müalicəvi effekti almaq mümkündür?",
+    "answers": [
+      "Analgetik",
+      "İltihabəleyhinə",
+      "Yuxugətirici",
+      "Venatonuslandırıcı",
+      "Diaforetik"
+    ]
+  },
+  {
+    "question": "Amplipulsterapiyaya əks göstərişdir:",
+    "answers": [
+      "Tomboflebit",
+      "Xroniki daşsız xolesistit",
+      "Şəkərli diabet orta ağırlıq",
+      "Hipertonoya xəstəliyi II mərhələ",
+      "Obliterasiya edici endarteriit"
+    ]
+  },
+  {
+    "question": "Drsonvalla müalicəyə əks göstərişdir:",
+    "answers": [
+      "Qanayan yaralar",
+      "Ürəyin işemik xəstəliyi, I-II funksional sinif",
+      "Gicişən dermatozlar",
+      "Trofiki xoralar",
+      "Bronxial astma"
+    ]
+  },
+  {
+    "question": "İnterferens cərəyanların hansı müalicəvi təsiri vardır?",
+    "answers": [
+      "Periferik qan dövranını fəallaşdırır",
+      "Sinir lifinin keçiriciliyini bərpa edir",
+      "Toxumaların trofikasını yaxşılaşdırır",
+      "Desensibilizəedici təsir göstərir",
+      "Bakterisid təsir göstərir"
+    ]
+  },
+  {
+    "question": "Elektrodiaqnostikanın aparılması üçün hansı cərəyandan istifadə olunur?",
+    "answers": [
+      "Qalvanik",
+      "İmpuls",
+      "Eksponensial",
+      "Sinusoidal",
+      "Yarımsinusoidal"
+    ]
+  },
+  {
+    "question": "Ultrayüksək tezlikli terapiya hansı müalicəvi effektə malikdir?",
+    "answers": [
+      "Damargenişləndirici",
+      "Hemolitik",
+      "Miostimulyasiya edici",
+      "Bakterisid",
+      "Sedativ"
+    ]
+  },
+  {
+    "question": "Ultrayüksək tezlikli terapiyanı iltihabın hansı mərhələsində təyin etmək olar?",
+    "answers": [
+      "İltihabın istənilən mərhələsində",
+      "İltihabi proseslərdə təyin olunmur",
+      "Yalnız iltihabın eksudasiya mərhələsində",
+      "Yalnız iltihabın proliferasiya mərhələsində",
+      "Yalnız iltihabın alterasiya mərhələsində"
+    ]
+  },
+  {
+    "question": "Ultrayüksək tezlikli –terapiya hansı xəstəlik əks göstərişdir ?",
+    "answers": [
+      "İrinli haymorit punksiyaya qədər",
+      "Hidradenit",
+      "Don vurma II dərəcə",
+      "Hipertoniya xəstəliyi II mərhələ",
+      "Bronxial astma"
+    ]
+  },
+  {
+    "question": "Alçaq tezlikli maqnitoterapiya hansı xəstəlikdə göstərişdir?",
+    "answers": [
+      "Ürəyin işemik xəstəliyi I-II funksional sinif",
+      "Bağırsaqların atoniyası",
+      "Pankreonekroz",
+      "Babasil",
+      "Spastik kolit"
+    ]
+  },
+  {
+    "question": "Desimetr diapazonlu elektromaqnit rəqslərini hansı toxuma strukturları daha çox udur?",
+    "answers": [
+      "Parenximatoz orqanlar",
+      "Oynaqların bağ aparatı",
+      "Sümük toxuması",
+      "Dəri",
+      "Dəri altı piy təbəqəsi"
+    ]
+  },
+  {
+    "question": "İnfraqırmızı şüalarla müalicəyə hansı xəstəlik əks göstərişdir?",
+    "answers": [
+      "Hamiləlk",
+      "Çapıqlar",
+      "Don vurma",
+      "Nevralgiya",
+      "Yataq yaraları"
+    ]
+  },
+  {
+    "question": "Xromoterapiyaya hansı xəstəliklər əks göstərişdir?",
+    "answers": [
+      "Fotooftalmiya",
+      "Yeni doğulmuşların sarılığı",
+      "Yorğunluq",
+      "Yaralar",
+      "Nevrozlar"
+    ]
+  },
+  {
+    "question": "Ortadalğalı ultrabənövşəyi şüalanma necə dozalaşdırılır?",
+    "answers": [
+      "Biodoza ilə",
+      "Vt/sm2- lə",
+      "Dəqiqə ilə",
+      "mTl- ilə",
+      "Lükslə"
+    ]
+  },
+  {
+    "question": "Ultrabənövşəyi eritemanın inkişafının əsasında nə dayanır?",
+    "answers": [
+      "Zülalların fotolizi",
+      "Fotosintez",
+      "Fotobiosintez",
+      "Fotoreaktivasiya",
+      "Toxumaların polyarizasiyası"
+    ]
+  },
+  {
+    "question": "Qısadalğalı ultrabənövşəyi şüalarla yerli müalicəyə göstəriş hansıdır?",
+    "answers": [
+      "Burunudlaq və qulaq xəstəlikləri",
+      "Ekzema",
+      "Ağ ciyər vərəmi",
+      "Daxili üzvlərin kəskin iltihabi xəstəlikləri",
+      "Neyrodermit"
+    ]
+  },
+  {
+    "question": "Ultrasəs terapiyası ilə müalicə təyin olunarkən hansı parametr göstərilmir?",
+    "answers": [
+      "Cərəyanın gücü",
+      "Proseduranın sayı",
+      "Təsir etmə rejimi",
+      "İntensivlik",
+      "Proseduranın davam etmə müddəti"
+    ]
+  },
+  {
+    "question": "Ultrasəsin fiziki-kimyəvi təsirindən nə baş verir?",
+    "answers": [
+      "Müxtəlif fermentlər fəallaşır",
+      "Qanın bufer tutumu dəyişilir",
+      "Ultrasəs verilən hahiyyədə elektroliz məhsulları əmələ gəlir",
+      "Maqnithidrodinamik güc əmələ gəlir",
+      "İstiliyin əmələ gəlməsi"
+    ]
+  },
+  {
+    "question": "Bir neçə nahiyyəyə təsir zamanı ultrasəsin maksimal davam etmə müddəti nə qədər olmalıdır?",
+    "answers": [
+      "15 dəq",
+      "20 dəq",
+      "25 dəq",
+      "5 dəq",
+      "10 dəq"
+    ]
+  },
+  {
+    "question": "Aerozolterapiyanın yerli reaksiyası özünü necə biruzə verir?",
+    "answers": [
+      "Səyirici epitellərin kirpiklərinin hərəkət amplitudasının artması",
+      "Tənəffüsün səthiləşməsi xarakterində onun tezləşməsi",
+      "Tənəffüsün tezləşməsi və dərinləşməsi",
+      "Bradikardiya",
+      "Bəlğəmin qatılığının artması"
+    ]
+  },
+  {
+    "question": "Aerozolterapiya ilə müalicəyə hansı xəstəliklər göstərişdir?",
+    "answers": [
+      "Dəri və selikli qişaların zədələnmələri",
+      "Xroniki qastrit",
+      "ÜİX, gərginlik stenokardiyası I-II funksional sinif",
+      "Spontan pnevmotoraks",
+      "Kəskin pnevmoniyanın başlanğıc mərhələsi"
+    ]
+  },
+  {
+    "question": "İnhalyasiya qəbulundan sonra xəstə nə etməlidir?",
+    "answers": [
+      "Bir saat ərzində ucadan danışmamalıdır",
+      "İki saat yalnız burundan tənəffüs etməlidir",
+      "İnhalyasiyadan həmən sonra yatmalıdır",
+      "İntensiv tənəffüs hərəkətləri etməlidir",
+      "İki saat istirahət etməlidir"
+    ]
+  },
+  {
+    "question": "Azotlu vannaların hansı müalicəvi effekti vardır?",
+    "answers": [
+      "Sedativ",
+      "Trofiki",
+      "Dezintoksikasiyaedici",
+      "İltihabəleyhinə",
+      "Tonuslandırıcı"
+    ]
+  },
+  {
+    "question": "Duşun müalicəvi effektini təyin edən amil hansıdır?",
+    "answers": [
+      "Termiki və mexaniki",
+      "Bioloji və mexaniki",
+      "Kimyəvi və termiki",
+      "Bioloji və termiki",
+      "Kimyəvi və mexaniki"
+    ]
+  },
+  {
+    "question": "Daxilə mineral suların qəbulu hansı xəstəlikdə əks göstərişdir?",
+    "answers": [
+      "Mədə-bağırsaq mənşəli qusmalar",
+      "Piylənmə",
+      "Tireotoksikoz",
+      "Xronoki hepatit",
+      "Sidik daşı xəstəliyi"
+    ]
+  },
+  {
+    "question": "Hipoasid vəziyyət zamanı mineral sular neçə içilməlidir?",
+    "answers": [
+      "Yeməkdən 20 – 30 dəqiqə qabaq",
+      "Yeməkdən 60 dəqiqə sonra",
+      "Yeməkdən 20 – 30 dəqiqə sonra",
+      "Yeməkdən 1 saat qabaq",
+      "Yeməkdən 40 – 50 dəqiqə qabaq"
+    ]
+  },
+  {
+    "question": "Parafin hansı müalicəvi təsirə malikdir?",
+    "answers": [
+      "Fiziki, mexaniki",
+      "Bakterisid",
+      "Bioloji",
+      "Kimyəvi",
+      "Ossilyator"
+    ]
+  },
+  {
+    "question": "Balneoterapiya hansı müalicəvi amili özündə ehtiva edir?",
+    "answers": [
+      "Mineral suları",
+      "Müalicəvi palçığı",
+      "Hava vannasını",
+      "Naftalan neftini",
+      "Dənizdə çimməyi"
+    ]
+  },
+  {
+    "question": "Peloidoterapiya nədir?",
+    "answers": [
+      "Palçıqla müalicə",
+      "Qum ilə müalicə",
+      "Dənizlə müalicə",
+      "Şirin su ilə müalicə",
+      "Mineral su ilə müalicə"
+    ]
+  },
+  {
+    "question": "Göstərilənlərdən hansı palçıqla müalicəyə əks göstərişdir?",
+    "answers": [
+      "Amiloidoz",
+      "Çapıq xəstəliyi",
+      "Prostatit",
+      "Vibrasiya xəstəliyi",
+      "Bexterev xəstəliyi"
+    ]
+  },
+  {
+    "question": "Göstərilənlərdən hansı palçıqla müalicəyə əks göstərişdir?",
+    "answers": [
+      "Tireotoksikoz",
+      "Trofiki xoralar",
+      "Reyno xəstəliyi",
+      "Sonsuzluq",
+      "Mədə və on iki barmaq bağırsaq xorası, yarımkəskin dövr"
+    ]
+  },
+  {
+    "question": "Göstərilənlərdən hansı palçıqla müalicəyə göstərişdir?",
+    "answers": [
+      "Revmatoidli artrit",
+      "Vərəm",
+      "Anevrizmalar",
+      "Qlomerulunefrit",
+      "Qara ciyər sirrozu"
+    ]
+  },
+  {
+    "question": "Naftalan vannasının davam etmə müddəti nə qədər olmalıdır?",
+    "answers": [
+      "8 – 12 dəq",
+      "15 – 20 dəq",
+      "6 – 8 dəq",
+      "20 – 25 dəq",
+      "10 – 15 dəq"
+    ]
+  },
+  {
+    "question": "Ocağı səthdə yerləşən kəskin ağrılar zamanı hansı müalicə üsulundan istifadə etmək olar?",
+    "answers": [
+      "Dərman elektroforezi",
+      "Maqnitoterapiya",
+      "Yerli darsonvalizasiya",
+      "Ultrafonoforez",
+      "Lazerterapiyası"
+    ]
+  },
+  {
+    "question": "İdman təbabəti - ...",
+    "answers": [
+      "fiziki məşğələlərin orqanizmə göstərdiyi təsirin tibbi-biloji aspeklərini öyrənən elmdir.",
+      "idmançıların hərbi hazırlığını öyrənən tibbi-biloji elmdir.",
+      "bədən tərbiyəsi dərslərinin təşkil olunmasını təmin edən sahədir.",
+      "idman qurğularının təchizatını təşkil edən sahədir.",
+      "idman yarışlarını təşkil edən tibbi fəndir."
+    ]
+  },
+  {
+    "question": "MBT nə deməkdir?",
+    "answers": [
+      "Müalicə bədən tərbiyəsı.",
+      "Maraqlı bilik təcrübəsi.",
+      "Mülki bərpa təbabəti.",
+      "Müalicə bədən təmizliyi.",
+      "Milli bədən tərbiyəsı."
+    ]
+  },
+  {
+    "question": "MBT anlayışına hansı termin aid deyil?",
+    "answers": [
+      "Refleksoterapiya.",
+      "Fiziki reabilitasiya.",
+      "Massaj.",
+      "Mexanoterapiya.",
+      "Kinezoterapiya."
+    ]
+  },
+  {
+    "question": "İdman təbabətinin ölkəmizdə yaranmasının başlanması hansı dövrə aiddir?",
+    "answers": [
+      "1920-ci illər.",
+      "2000-ci illər.",
+      "1960-ci illər.",
+      "1950-ci illər.",
+      "1940-ci illər."
+    ]
+  },
+  {
+    "question": "Neçənci ildən başlayaraq idmanda dopinglərin qəbulu qadağan olunmuşdur?",
+    "answers": [
+      "1961",
+      "1900",
+      "1941",
+      "1990",
+      "1979"
+    ]
+  },
+  {
+    "question": "İdman təbabətinin əsas məqsədini göstərin.",
+    "answers": [
+      "İdmançılara yüksək nailiyyətlərin qazanılmasında köməklik edilməsi.",
+      "İdmançıların sosial problemlərinin həll edilməsi.",
+      "İdmançıların təhsilinin artırılması.",
+      "İdman yarışlarını təşkil edilməsi.",
+      "İdmançılar arasında mükafat fondunun bölüşdürülməsı."
+    ]
+  },
+  {
+    "question": "İdmanda qadağan olunmuş dərman priparatları hansılardır?",
+    "answers": [
+      "Dopinqlər.",
+      "Krebs dövranı turşuları.",
+      "Vitaminlər.",
+      "Adaptogenlər",
+      "Biostimulyatorlar."
+    ]
+  },
+  {
+    "question": "Yarış qabağı hansı metodun tətbiq olunması qadağandır?",
+    "answers": [
+      "Eritrositlərin autotransfuziyası.",
+      "Ultrasəs müayinəsi.",
+      "Məşq rejiminin dəyişdirilməsi.",
+      "Masaj.",
+      "Cəkinin təcili azaldılması."
+    ]
+  },
+  {
+    "question": "Dopinqlər nədir?",
+    "answers": [
+      "İdmanda ədalət prinsipini pozan qadağan olunmuş dərman preparatlarıdır.",
+      "İdmanda qadağan olunmuş vasitə və metodlardır.",
+      "Yeni dərman preparatlarıdır.",
+      "Adaptogenlərdir.",
+      "İdmançıların nəaliyyətlərini artıran ziyansız dərman preparatlarıdır."
+    ]
+  },
+  {
+    "question": "Sağlamlıq anlayışı nədir?",
+    "answers": [
+      "Sağlamlıq təkcə xəstəlik və fiziki qüsurların olmaması deyil, tam fiziki, psixi və sosial rahatlıqdır.",
+      "Sağlamlıq təkcə xəstəlik və fiziki qüsurların olmaması deyil, tam əqli, psixi və sosial rahatlıqdır.",
+      "Sağlamlıq psixi və sosial rahatlıqdır.",
+      "Sağlamlıq təkcə xəstəlik və fiziki qüsurların olmamasıdır.",
+      "Sağlamlıq təkcə xəstəlik və fiziki qüsurların olmaması deyil, tam fiziki, maddi və sosial rahatlıqdır."
+    ]
+  },
+  {
+    "question": "Yalnız adaptogenlərdən ibarət olan dərmanlar sırasını seçın:",
+    "answers": [
+      "Aktovegin, Əzvay, Jenşen.",
+      "Aktovegin, Streptocid, Analgin.",
+      "Anestezin, Mildronat, Aspirin.",
+      "Penicillin, Sulfadimezin, Əzvay.",
+      "Aminazin, Efedrin, Jenşen."
+    ]
+  },
+  {
+    "question": "Kennet Kuperə əsasən uzun müddətli hipokineziyadan sonra rasional hərəkət rejiminin ilk 3 ayında nəbzin sayı məşq zamanı hansı tezlikdə olmalıdır?",
+    "answers": [
+      "110-120 vurğu/dəq.",
+      "180-200 vurğu/dəq.",
+      "150-160 vurğu/dəq.",
+      "130-140 vurğu/dəq.",
+      "200-230 vurğu/dəq."
+    ]
+  },
+  {
+    "question": "Kennet Kuperə əsasən rasional məşq etdikdə qadınlar həftədə neçə xal toplanmalıdır?",
+    "answers": [
+      "25",
+      "40",
+      "10",
+      "15",
+      "20"
+    ]
+  },
+  {
+    "question": "Aerob məşğələlərin təsiri altında qanda xolesterinin miqdarı:",
+    "answers": [
+      "azalır",
+      "tədricən artır",
+      "artır",
+      "sürətlə artır.",
+      "dəyişmır"
+    ]
+  },
+  {
+    "question": "Kennet Kuperə əsasən məşqetdirici qaçış zamanı 58 yaşlı kişi üçün nəbzin tövsiyə olunan sayı neçə olmalıdır?",
+    "answers": [
+      "122",
+      "160",
+      "155",
+      "138",
+      "135"
+    ]
+  },
+  {
+    "question": "Rasional məşqin fərdilik prinsipinin mənası.",
+    "answers": [
+      "Fiziki yükün orqanizmin funksional imkanlarına və səhhətinə uyğun secilməsidir.",
+      "Rasional məşq prinsiplərinin hamısının tətbiq olunmasıdır.",
+      "Məşqlər arasında eyni müddətli fasilələrin tətbiq olunmasıdır.",
+      "Fiziki yükün fərdin arzu və istəklərinə uyğun olmamasıdır.",
+      "Rasionda fərdi xüsusiyətlərin nəzərə alınmasıdır."
+    ]
+  },
+  {
+    "question": "Fiziki məşğələlərin bioloji roluna nə aid deyil?",
+    "answers": [
+      "Kinezofiliyanın yaranması.",
+      "Akselerasiya.",
+      "Əzələ sevinci hissinin yaranması.",
+      "Fəal uzunömürlülüyün təmin olunması.",
+      "Hipokineziyanın qarşısının alınması."
+    ]
+  },
+  {
+    "question": "Praktiki sağlam insanlarda hipokineziyanın qarşısını almaq üçün hansı vasitəyə üstünlük verilməlidir?",
+    "answers": [
+      "Fiziki məşqələlər.",
+      "Kinezofiliya.",
+      "Psixoloji stimiliyatorlar.",
+      "Massaj.",
+      "Elektrik stimiliyatorlar."
+    ]
+  },
+  {
+    "question": "Qeyri-spesifik rezistentlik –",
+    "answers": [
+      "Orqanizmin müxtəlif təsiredici amillərə qarşı davamlılığıdır",
+      "Spesitikasiyalı davamlılıqdır.",
+      "Müxtəlif rezistorların tətbiqidir.",
+      "Orqanizmin bir amilə qarşı davamlılığıdır.",
+      "Orqanizmin xəstəlik törədicisinə qarşı davamlılığıdır."
+    ]
+  },
+  {
+    "question": "Hansı vasıtələr idmançılarda stress reaksiyasının tükənmə mərhələsinin qarşısını almaq üçün tövsiyə olunur?",
+    "answers": [
+      "Adaptogenlər.",
+      "Sedativ maddələr.",
+      "Psixotrop maddələr.",
+      "Analgetiklər",
+      "Dopinqlər."
+    ]
+  },
+  {
+    "question": "Akselerasiyanın mənfi nəticələrini seçin: 1) piylənmə 2) kriminal elementlərə qoşulma 3) daxili orqanların funksional imkanlarının geriləməsi 4) ürək çatışmazlığı 5) tənəffüs çatışmazlığı",
+    "answers": [
+      "2,3",
+      "1,4",
+      "1,4,5",
+      "1,5",
+      "4,5"
+    ]
+  },
+  {
+    "question": "Kinezoterapiyanın sinonimini seçin:",
+    "answers": [
+      "Müalicə bədən tərbiyəsi.",
+      "Kinezofiliya.",
+      "Akineziya.",
+      "Bədən tərbiyyəsi.",
+      "Hipokineziya."
+    ]
+  },
+  {
+    "question": "Reabilitasiyanın hansı aspektlərini tibb işçiləri həyata keçirir?",
+    "answers": [
+      "Fiziki",
+      "Hüquqi",
+      "Metodik",
+      "Təcrübəvi",
+      "Peşə"
+    ]
+  },
+  {
+    "question": "İdman təbabətinin iş formalarına aid deyil",
+    "answers": [
+      "İdmançıların nailiyyətlərinin qiymətləndirilməsi.",
+      "Bədən tərbiyəsi və idman üzrə həkim məsləhətləri.",
+      "Həkim-pedaqoji müşahidələri.",
+      "Bədən tərbiyəsi və idmanla məşqul olan şəxslərin həkim müayinəsi.",
+      "Bədən tərbiyəsi və idmanla məşqul olanların dispanserizasiyası."
+    ]
+  },
+  {
+    "question": "Həkim-pedaqoji müşahidə hansı məqsəd ilə aparılır.",
+    "answers": [
+      "Fiziki məşğələlərin orqanizmə göstərdiyi təsirin öyrənilməsi.",
+      "Obyektiv reaksiyaların qeydə alınması.",
+      "Sağlamlıq vəziyyətinin təyin edilməsi",
+      "Diaqnozun düzgun qiymətləndirilməsi.",
+      "Patoloji vəziyyətin öyrənilməsi."
+    ]
+  },
+  {
+    "question": "İdman təbabətində neçə iş forması mövcuddur?",
+    "answers": [
+      "11",
+      "14",
+      "12",
+      "9",
+      "16"
+    ]
+  },
+  {
+    "question": "Bədən tərbiyəsi və idman tədbirləri aparılan yerlərə və onların şəraitinə sanitar nəzarətin növləri:",
+    "answers": [
+      "Xəbərdaredici nəzarət.",
+      "Həkim nəzarəti.",
+      "Endokrinoloji nəzarət.",
+      "Həkim-pedaqoji nəzarət.",
+      "Dispanser nəzarəti."
+    ]
+  },
+  {
+    "question": "Bədən tərbiyəsi və idman tədbirləri aparılan yerlərə və onların şəraitinə sanitar nəzarətin növləri:",
+    "answers": [
+      "İdman tikintilərə və qurğularına nəzarət.",
+      "Fitnes məşqçilərinə nəzarət.",
+      "Neft hövzələrinə nəzarət.",
+      "Təhsil binalarına nəzarət.",
+      "Yaşayış binalara nəzarət."
+    ]
+  },
+  {
+    "question": "Həyat indeksinin qadınlar üçün orta göstəricisi:",
+    "answers": [
+      "55-60 ml/kq.",
+      "65-70 ml/kq.",
+      "61-65 ml/kq.",
+      "35-40 ml/kq.",
+      "45-50 ml/kq."
+    ]
+  },
+  {
+    "question": "Əl qüvvəsi indeksinin kişilər üçün orta göstəricisi:",
+    "answers": [
+      "48-50 %",
+      "35-40 %",
+      "30-40 %",
+      "55-6 0%",
+      "65-80 %"
+    ]
+  },
+  {
+    "question": "Sprint qaçışı əsasən hansı fiziki keyfiyyəti formalaşdırır?",
+    "answers": [
+      "Sürət.",
+      "Yüksək tənzimləmə qabiliyyəti.",
+      "Hərəkətlərin koordinasiyası.",
+      "Yüksək mənimsəmə qabiliyyəti.",
+      "Dözümlülük."
+    ]
+  },
+  {
+    "question": "Döş qəfəsi indeksi nəyi nəzərə alır?",
+    "answers": [
+      "Döş qəfəsinin dairəsi (pauzada), boy uzunluğu.",
+      "Oturaq vəziyyətdə boyun ölçüsü.",
+      "Döş qəfəsinin həcmini.",
+      "Ağ ciyərlərin tutum həcmini.",
+      "Boyu, çəkini."
+    ]
+  },
+  {
+    "question": "Bədən çəkisi 60 kq, boyun uzunluğu 175 sm olan kişinin I Ketle indeksini qiymətləndirin:",
+    "answers": [
+      "Orta dərəcədən aşağı.",
+      "Zəif.",
+      "Orta dərəcədən yuxarı.",
+      "Yaxşı.",
+      "Orta."
+    ]
+  },
+  {
+    "question": "İstinad qüvvəsi 150 kq. çəkisi 60 kq olan kişinin istinad qüvvəsi indeksini qiymətləndirin:",
+    "answers": [
+      "Yaxşı.",
+      "Orta dərəcədən yuxarı.",
+      "Orta dərəcədən aşağı.",
+      "Orta.",
+      "Zəif."
+    ]
+  },
+  {
+    "question": "Gençi sınağı üçün kafı nəticəni seçin.",
+    "answers": [
+      "60 saniyə.",
+      "50saniyə.",
+      "70 saniyə.",
+      "15 saniyə.",
+      "25 saniyə."
+    ]
+  },
+  {
+    "question": "Gençi sınağı üçün qeyri kafi nəticəni seçin.",
+    "answers": [
+      "25 saniyə.",
+      "75 saniyə.",
+      "60saniyə.",
+      "55 saniyə.",
+      "15 saniyə."
+    ]
+  },
+  {
+    "question": "Gençi sınağının nəticəsi 40 san. olduqda necə qiymətləndirilməlidir?",
+    "answers": [
+      "Yaxşı.",
+      "Orta dərəcədən yuxarı.",
+      "Orta.",
+      "Qeyri kafi.",
+      "Kafi."
+    ]
+  },
+  {
+    "question": "Gençi sınağının nəticəsi 35 san. olduqda necə qiymətləndirilməlidir?",
+    "answers": [
+      "Yaxşı.",
+      "Orta.",
+      "Orta dərəcədən yuxarı.",
+      "Zəif.",
+      "Qeyri kafi."
+    ]
+  },
+  {
+    "question": "Rozental sınağında alınan nəticələr ardıcıllığı: 3500, 3600, 3700, 3750, 4100 sm3 necə qiymətləndirilməlidir?",
+    "answers": [
+      "Yaxşı.",
+      "Zəif.",
+      "Orta dərəcədən yuxarı.",
+      "Qeyri kafi.",
+      "Kafi."
+    ]
+  },
+  {
+    "question": "Fiziki inkişafından asılı olmayaraq, xəstə şəxslər bədən tərbiyəsi dərsində hansı tibbi qrupda məşqul olmalıdırlar?",
+    "answers": [
+      "Xüsusi.",
+      "Əsas.",
+      "Əlavə.",
+      "Hazırlıq.",
+      "Fiziki."
+    ]
+  },
+  {
+    "question": "Xəstə, fiziki inkişafı orta olan şəxslər bədən tərbiyəsi dərsində hansı tibbi qrupda məşqul olmalıdırlar?",
+    "answers": [
+      "Xüsusi.",
+      "Hazırlıq.",
+      "Fiziki.",
+      "Əsas.",
+      "Əlavə."
+    ]
+  },
+  {
+    "question": "Xəstə, fiziki inkişafı orta dərəcədən yuxarı olan şəxslər bədən tərbiyəsi dərsində hansı tibbi qrupda məşqul olmalıdırlar?",
+    "answers": [
+      "Xüsusi.",
+      "Fiziki.",
+      "Əlavə.",
+      "Əsas.",
+      "Hazırlıq."
+    ]
+  },
+  {
+    "question": "Bronxial astma xəstəliyində fiziki yükə qarşı cavab reaksiyasının subyektiv göstəricilərinə aid deyil:",
+    "answers": [
+      "ağ ciyərlərin həyat tutumu.",
+      "boğulma hissi.",
+      "təngənəfəslik.",
+      "yorğunluq.",
+      "zəiflik."
+    ]
+  },
+  {
+    "question": "Miokard infarktı xəstəliyində reabilitasiyanın hospital mərhələsində hansı hərəkət rejimi təyin edilmir.",
+    "answers": [
+      "məşqedici rejim.",
+      "III - ümumi genişləndirilmiş rejim.",
+      "II - yarım yataq.",
+      "I b - yataq.",
+      "I a - ciddi yataq."
+    ]
+  },
+  {
+    "question": "Ürəyin işemik xəstəliyində müalicə bədən tərbiyəsinin aparılmasına dair əks göstərişlər hansılardır?",
+    "answers": [
+      "stenokardiya tutmalarının tez-tez müşahidəsi.",
+      "stenokardiya tutmalarının nadir hallarda müşahidəsi.",
+      "hipertoniya xəstəliyinin II mərhələsi.",
+      "damarların aterosklerozu.",
+      "60 yaşdan yuxarı yaş dövrü."
+    ]
+  },
+  {
+    "question": "Xəstəxana şəraitində hansı hərəkət rejimi tətbiq edilmir?",
+    "answers": [
+      "qoruyucu rejim.",
+      "III - ümumi genişləndirilmiş rejim.",
+      "II - yarım yataq rejimi.",
+      "I b – yataq rejimi.",
+      "I a - ciddi yataq rejimi."
+    ]
+  },
+  {
+    "question": "Piylənmə zamanı hansı növ məşqlər önəmli deyil?",
+    "answers": [
+      "kicik əzələ qrupları üçün gimnastik məşğələlər.",
+      "orta və tez temptə yeriş.",
+      "qaçış.",
+      "trenajorlarda məşqlər.",
+      "hovuzda üzmə."
+    ]
+  },
+  {
+    "question": "Travmaların müalicəsi zamanı immobilizasiya dövründə müalicə bədən tərbiyəsinin hansı tətbiq formaları təyin edilir?",
+    "answers": [
+      "müalicəvi gimnastika.",
+      "refleksoterapiya.",
+      "mexanoterapiya.",
+      "müalicəvi üzgüçülük.",
+      "massaj."
+    ]
+  },
+  {
+    "question": "Travmalarda müalicə bədən tərbiyəsinin tətbiqi nəyin qarşısını alır?",
+    "answers": [
+      "əzələ atrofiyası və hərəkət məhdudiyyətinin.",
+      "fiziki iş qabiliyyətinin artmasının.",
+      "tromboembolik fəsadların.",
+      "orqanizmin qocalmasının.",
+      "osteoporozun"
+    ]
+  },
+  {
+    "question": "Skolioz zamanı müalicə bədən tərbiyəsinin müalicə məqsədinə aid deyil:",
+    "answers": [
+      "onurğa sütununa gərginləşdirici təsir.",
+      "onurğa deformasiyasına korreksiyaedici təsir.",
+      "düzgün qamətin saxlanılması.",
+      "döş qəfəsinə korreksiyaedici təsir.",
+      "əzələ korsetinin möhkəmləndirilməsi."
+    ]
+  }
+]

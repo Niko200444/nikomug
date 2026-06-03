@@ -1,0 +1,1725 @@
+[
+  {
+    "question": "Sığortalı reseptdə maksimum neçə dərman yazıla bilər ?",
+    "answers": [
+      "4",
+      "7",
+      "5",
+      "6",
+      "3"
+    ]
+  },
+  {
+    "question": "Neçə növ reseptlər mövcuddur ?",
+    "answers": [
+      "2",
+      "6",
+      "4",
+      "3",
+      "5"
+    ]
+  },
+  {
+    "question": "Psixotrop maddələr və sui-istifadə potensialı olan dərmanlar üçün verilən resept hansıdır?",
+    "answers": [
+      "yaşıl",
+      "narıncı",
+      "bənövşəyi",
+      "qırmızı",
+      "ümumi (adi)"
+    ]
+  },
+  {
+    "question": "Bir xəstəyə tərkibində opioidlər və kokain olan dərmanlardan maksimum neçə günlük resept verilə bilər ?",
+    "answers": [
+      "5-10",
+      "4",
+      "2",
+      "1",
+      "3"
+    ]
+  },
+  {
+    "question": "Ailə həkimi resept yazdıqda, hansı xəbərdarlıqları etməməlidir ?",
+    "answers": [
+      "xəstəni hər hansı aptekə yönəltməmək",
+      "alkoqol qəbulu ilə qarşılıqlı əlaqə",
+      "maksimum doza neçədir",
+      "qida ilə qarşılıqlı əlaqə",
+      "dərman nə vaxt qəbul edilməlidir"
+    ]
+  },
+  {
+    "question": "Tərkibində opioidlər və kokain olan dərmanlar hansı reseptə yazıla bilər ?",
+    "answers": [
+      "qırmızı",
+      "narıncı",
+      "ümumi (adi)",
+      "yaşıl",
+      "bənövşəyi"
+    ]
+  },
+  {
+    "question": "Qastroezofageal reflü xəstəliyinin inkişafı üçün ən ümumi mexanizmi göstərin:",
+    "answers": [
+      "aşağı özofagus sfinkterinin funksiyasının pozulması",
+      "qida borusunun saglam peristaltikası",
+      "yuxarı özofagus sfinkterinin disfunksiyası",
+      "qarın içi təziqin azalması",
+      "hipoasid qastrit"
+    ]
+  },
+  {
+    "question": "QERX-nin ağırlaşmalarına daxildir:",
+    "answers": [
+      "qida borusunun adenokarsinoması",
+      "qida borusunun polipləri",
+      "hiatal yırtıq",
+      "malabsorbsiya sindromu",
+      "hipoasid qastrit"
+    ]
+  },
+  {
+    "question": "Astmada dərinin fiziki müayinəsi zamanı hansı patologiya aşkar olunur?",
+    "answers": [
+      "atopik dermatit",
+      "piodermiya",
+      "neyrodermatit",
+      "sadə herpes",
+      "psoriaz"
+    ]
+  },
+  {
+    "question": "QERX-nin müalicəsində tövsiyə olunur:",
+    "answers": [
+      "proton pompa inhibitorları",
+      "ürək qlıkozidlərı",
+      "antikoaqulyant",
+      "sidikqovucular",
+      "qeyi steroid iltihab əleyhi preparatlar"
+    ]
+  },
+  {
+    "question": "Qastroezofagial reflyu xəstəliyinin diaqnozu üçün istifadə olunan metod:",
+    "answers": [
+      "pH-metriya",
+      "qanın biokimyası",
+      "rentgenoqrafiya",
+      "qarın boşluğu orqanlarının MRT-si",
+      "ultrasəs müayinəsi"
+    ]
+  },
+  {
+    "question": "Hansı dərman qrupu stabil AXOX-un müalicəsində istifadə olunur:",
+    "answers": [
+      "metilksantinlər",
+      "metobolik preparatlar",
+      "immunostimulyatorlar",
+      "narkotik analqetiklər",
+      "virus əleyhinə preparatlar"
+    ]
+  },
+  {
+    "question": "Qastroezofagial reflüks xəstəliyinin ağırlaşmalarına daxildir:",
+    "answers": [
+      "qida borusunun adenokarsinoması",
+      "hiatal yırtıq",
+      "hipoasid qastrit",
+      "qida borusunun polipləri",
+      "mədə xorası"
+    ]
+  },
+  {
+    "question": "Mədə xorasının etioloji faktoru",
+    "answers": [
+      "Helicobacter pylori",
+      "spazmolitiklərin uzun mqddətli istifadəsi",
+      "mineral sulardan uzun mqddətli istifadə",
+      "hiperparatiroidizm",
+      "travmatik beyin zədəsi"
+    ]
+  },
+  {
+    "question": "Arterial hipertenziyanın birinci dərəcəsi üçün xarakterikdir:",
+    "answers": [
+      "SAT 140-159 mm c.st DAT 90-99 mm c.st",
+      "SAT > 180 mm c.st DAT > 110 mm c.st",
+      "SAT 120-129 mm c.st DAT 80-84 mm c.st",
+      "SAT 160-179 mm c.st DAT 100-109 mm c.st",
+      "SAT 130-139 mm c.st DAT 85-89 mm c.st"
+    ]
+  },
+  {
+    "question": "Arterial hipertenziyalı xəstədə rutin laborator müayinələrə aid deyil",
+    "answers": [
+     "nəcisin ümumi müayinəsi",
+      "qan lipidləri",
+      "qanda kreatinin və QFS",
+      "sidik müayinəsi",
+      "aclıq qan şəkəri"
+    
+    ]
+  },
+  {
+    "question": "Mədə xoralarının əsas infeksion törədicisini qeyd edin:",
+    "answers": [
+      "H.pylori",
+      "Proteus",
+      "Cl.difficile A və B toksinləri",
+      "St.aureus",
+      "Candida albicans"
+    ]
+  },
+  {
+    "question": "AXOX xəstəliyində hansı əlamət açağı risk hesab olunur",
+    "answers": [
+      "ildə bir dəfə kəskinləşmənin olması",
+      "ayda bir dəfə kəskinləşmənin olması",
+      "ayda üç dəfə kəskinləşmənin olması",
+      "ildə dörd dəfə kəskinləşmənin olması",
+      "ildə iki dəfə kəskinləşmənin olması"
+    ]
+  },
+  {
+    "question": "Mədənin hansı amilləri xora xəstəliyi əmələ gətirir və aqressiv faktor adlanır?",
+    "answers": [
+      "HCl turşusu və pepsin",
+      "surfaktantabənzər maddələr",
+      "bikarbonatlar",
+      "prostoqlandinlər",
+      "qastromukoproteidlər"
+    ]
+  },
+  {
+    "question": "QERX-ni müalicə edərkən tövsiyə olunur:",
+    "answers": [
+      "yeməkdən sonra 2-3 saat uzanmamaq",
+      "yeməkdən sonra dərhal yatmaq",
+      "arxası üstə yatmaq",
+      "yeməkdən 15 dəqiqə sonra yatmaq",
+      "aşağı başlıq ilə yatmaq"
+    ]
+  },
+  {
+    "question": "Mədə xorasına səbəb olan dərmanlar hansılardır?",
+    "answers": [
+      "qeyri-steroid iltihabəleyhinə preparatlar",
+      "spazmolitiklər",
+      "prokinetiklər",
+      "diuretiklər",
+      "probiyotiklər"
+    ]
+  },
+  {
+    "question": "H. Pilori infeksiyasına yoluxma yoludur:",
+    "answers": [
+      "fekal-oral",
+      "transmissiv",
+      "hava-damcı",
+      "limfogen",
+      "hematogen"
+    ]
+  },
+  {
+    "question": "H. pylori infeksiyası üçün müalicə müddəti olmalıdır",
+    "answers": [
+      "2 həftə",
+      "8 həftə",
+      "6 həftə",
+      "4 həftə",
+      "10 həftə"
+    ]
+  },
+  {
+    "question": "İkinci dərəcə hipertenziya üçün xarakter olan rəqəmlər:",
+    "answers": [
+      "SAT 160-179 mm c.st. DAT 100-109 mm c.st",
+      "SAT < 120 mm c.st. DAT < 80 mm c.st",
+      "SAT ≥ 180 mm c.st. DAT ≥ 110 mm c.st",
+      "SAT 130-139 mm c.st. DAT 85-89 mm c.st",
+      "SAT 140-159 mm c.st. DAT 90-99 mm c.st"
+    ]
+  },
+  {
+    "question": "Aşağıdakılardan hansı diabetik neyropatiya üçün risk faktoru hesab edilmir?",
+    "answers": [
+      "ailə anamnezində diabetik nefropatiya olması",
+      "piylənmə",
+      "siqaretçəkmə",
+      "hiperlipidemiya",
+      "idarə oluna bilməyən hiperqlikemiya"
+    ]
+  },
+  {
+    "question": "Aşağıdakılardan hansı diabetik nefropatiyanın risk faktorlarına aid deyil?",
+    "answers": [
+      "arterial hipertenziya",
+      "ailə anamnezində diabetik nefropatiya olması",
+      "siqaretçəkmə",
+      "ateroskleroz",
+      "sidik kisəsinin divertikulu"
+    ]
+  },
+  {
+    "question": "Arterial hipertenziyanın müalicəsində bu preparatlar istifadə olunmur",
+    "answers": [
+      "nitratlar",
+      "diuretiklər",
+      "Ca-kanal blokatorları",
+      "ARB-lər",
+      "AÇF inhibitorları"
+    ]
+  },
+  {
+    "question": "Arterial hipertenziyanın hədəf orqanlarına aid deyildir",
+    "answers": [
+      "qara ciyər",
+      "ürək",
+      "böyrəklər",
+      "sinir sistemi",
+      "göz dibi"
+    ]
+  },
+  {
+    "question": "Şəkərli diabetin kəskin ağırlaşmalarını seçin:",
+    "answers": [
+      "laktoasidoz, ketoasidoz",
+      "nefropatiya, retinopatiya",
+      "retinopatiya, laktoasidoz",
+      "nefropatiya, ketoasidoz",
+      "nefropatiya, laktoasidoz"
+    ]
+  },
+  {
+    "question": "AÇF inhibitorlarına aiddir",
+    "answers": [
+      "perindopril",
+      "amlodipin",
+      "papaverin",
+      "indapamid",
+      "metoprolol"
+    ]
+  },
+  {
+    "question": "İkincili arterial hipertenziyanı aşkarlamaq üçün vacib addımlara aid deyildir:",
+    "answers": [
+      "oynaqların palpasiyası",
+      "Kuşinq xəstəliyi və akromeqaliya əlamətlərin aşkarlanması",
+      "BKİ-hesablanması",
+      "ürəyin və karotid arteriyaların palpasiya və auskultasiyası",
+      "periferik arteriyaların palpasiyası"
+    ]
+  },
+  {
+    "question": "Arterial hipertenziya zamanı duzun miqdarı neçə qrama qədər azaldılmalıdır",
+    "answers": [
+      "<5",
+      "<6",
+      "<8",
+      "<10",
+      "<7"
+    ]
+  },
+  {
+    "question": "Stenokardiyalı xəstədə damarlarda gedən dəyişiklikləri müşahidə etmək üçün hansı müayinə vacibdir",
+    "answers": [
+      "koronar angioqrafiya",
+      "fonokardioqrafiya",
+      "exokardioqrafiya",
+      "MRT",
+      "EKG"
+    ]
+  },
+  {
+    "question": "Miokard infarktı zamanı yüksək həssaslığa malik marker hansıdır",
+    "answers": [
+      "troponinlər",
+      "Qələvi fosfataza",
+      "QQT",
+      "ALT",
+      "AST"
+    ]
+  },
+  {
+    "question": "Kəskin koronar sindrom zamanı koronaroqrafiyanın aparılmasında məqsəd",
+    "answers": [
+      "reperfuziyanı bərpa etmək",
+      "mitral stenozu aradan qaldırmaq",
+      "ürək transplantasiyası",
+      "mitral qapaq yenilənməsi",
+      "aritmik ocağı ablasiya etmək"
+    ]
+  },
+  {
+    "question": "EKQ göstəricilərinə görə kəskin miokard infarktı",
+    "answers": [
+      "davamlı ST seqmentin yüksəlməsidir",
+      "“P” dişciyinin neqativ olması",
+      "“T” dişciyinin pozitiv olması",
+      "QT intervalının uzanması",
+      "PQ intervalının qısalması"
+    ]
+  },
+  {
+    "question": "Miokard infarktı zamanı ağrını aradan qaldırmaq üçün istifadə edilən preparat",
+    "answers": [
+      "aspirin",
+      "amlodipin",
+      "propranolol",
+      "nitrogliserin",
+      "morfin hydrochlorid"
+    ]
+  },
+  {
+    "question": "Antiaqreqantlara aiddir",
+    "answers": [
+      "aspirin",
+      "nitrogliserin",
+      "rivaroksaban",
+      "heparin",
+      "enoksaparin"
+    ]
+  },
+  {
+    "question": "Ürək çatışmazlığı vaxtı ilkin durğunluq əlaməti:",
+    "answers": [
+      "ortopnoe",
+      "oliqouriya",
+      "bradikardiya",
+      "aritmiya",
+      "arterial hipertenziya"
+    ]
+  },
+  {
+    "question": "Exokardioqrafiya zamanı ürək çatışmazlığının əsas göstəricisi:",
+    "answers": [
+      "atım fraksiyası",
+      "mədəcikarası çəpərin qalınlığı",
+      "miokardın kütləsi",
+      "sağ mədəcik hipertrofiyası",
+      "sol mədəcik hipertrofiyası"
+    ]
+  },
+  {
+    "question": "Pulsus alternans hansı xəstəliyin ilkin simptomlarından sayılır",
+    "answers": [
+      "arterial hipertenziya",
+      "arterial hipotenziya",
+      "stenokardiya",
+      "miokard infarktı",
+      "ürək çatışmazlığı"
+    ]
+  },
+  {
+    "question": "Bu preparatlardan statin deyildir:",
+    "answers": [
+      "inozitol",
+      "simvastatin",
+      "pravastatin",
+      "atorvastatin",
+      "rozuvastatin"
+    ]
+  },
+  {
+    "question": "Ürək çatışmazlığı zamanı mütləq müayinələrə aid deyildir",
+    "answers": [
+      "aşağı ətraf damarların doppler müayinəsi",
+      "laborator müayinələr",
+      "döş qəfəsi orqanların rentgen müayinəsi",
+      "ExoKQ",
+      "EKG"
+    ]
+  },
+  {
+    "question": "Ürək çatışmazlığı olan xəstədə həyat tərzində diqqət ediləsi tövsiyyəyə aid deyil",
+    "answers": [
+      "bol maye qəbulu",
+      "BKİ-yə nəzarət",
+      "tütünçəkmədən imtina",
+      "kalium tərkibli qidalara üstünlük vermək",
+      "duz miqdarına diqqət"
+    ]
+  },
+  {
+    "question": "Aşağıdakı müddəalardan hansı yuxarı tənəffüs yollarının virus infeksiyalarına aid deyil?",
+    "answers": [
+      "profilaktik antibiotik təyini ağırlaşmanın qarşısını alır",
+      "bəzən viral pnevmoniya ilə ağırlaşma ola bilər",
+      "bakterial pnevmoniya ilə ağırlaşma ola bilər",
+      "immun çatışmazlıq zamanı təhlükəli infeksiyalar inkişaf edə bilər",
+      "adətən xəstəlik öz-özünə keçib gedir"
+    ]
+  },
+  {
+    "question": "Soyuqdəymənin etioloji amilidir?",
+    "answers": [
+      "rinoviruslar və adenoviruslar",
+      "paramiksoviruslar və parvoviruslar",
+      "mikoplazma və xlamidiyalar",
+      "A və B tip ortomiksoviruslar",
+      "stafilokokk və streptokokklar"
+    ]
+  },
+  {
+    "question": "Aşağıdakılardan hansı soyuqdəymənin etioloji amili deyil?",
+    "answers": [
+      "ortomiksoviruslar",
+      "adenoviruslar",
+      "ECHO virusları",
+      "koksaki virusları",
+      "rinoviruslar"
+    ]
+  },
+  {
+    "question": "Soyuqdəymənin klinik təzahürləri hansılardır?",
+    "answers": [
+      "burun tutulması, burun axıntısı, öskürək",
+      "asqırma, burun qaşınması, burun tutlması",
+      "baş ağrısı, burun tutulması, yüksək hərarət",
+      "titrəmə, mialgiya, baş ağrısı",
+      "yüksək hərarət, titrəmə, öskürək"
+    ]
+  },
+  {
+    "question": "Aşağıdakılardan hansı soyuqdəymə zamanı rast gəlinmir?",
+    "answers": [
+      "yüksək hərarət və əzələ ağrıları",
+      "hərarət və boğazda quruluq",
+      "burun axması və asqırma",
+      "burun tutulması və öskürək",
+      "boğaz ağrısı və öskürək"
+    ]
+  },
+  {
+    "question": "Qrip haqqında doğru deyil?",
+    "answers": [
+      "rinoviruslarla yoluxma nəticəsində yaranan sistem xəstəlikdir",
+      "infeksiya bu virusa qarşı immuniteti olanlarda da residiv verə bilər",
+      "peyvənd almış insanlarda xəstəliyin qarşısını almaq mümkündür",
+      "payız aylarında epidemiyaya səbəb ola biləcək ştamma qarşı peyvənd olunmalıdır",
+      "yaş artıqca qrip peyvəndinin effektivliyi azalır"
+    ]
+  },
+  {
+    "question": "Qriplə xəstələnmə zamanı diaqnoz necə təsdiqlənir?",
+    "answers": [
+      "burnun selikli qişasından götürülmüş yaxmanın müayinəsi ilə",
+      "ağciyərlərin rentgenoloji müayinəsi ilə",
+      "bronxoskopiya",
+      "xəstəliyin klinik gedişinin xüsusiyyəti ilə",
+      "bəlğəmin əkilməsi ilə"
+    ]
+  },
+  {
+    "question": "Aşağıdakı əlamətlərdən hansı qrip zamanı rast gəlinmir?",
+    "answers": [
+      "təngnəfəslik",
+      "halsızlq",
+      "yüksək hərarət",
+      "quru öskürək",
+      "baş ağrısı"
+    ]
+  },
+  {
+    "question": "Aşağıdakıladan hansı vərəmin müayinəsi üçün göstəriş deyil:",
+    "answers": [
+      "herpes infeksiyası",
+      "qocalar evində işləmək",
+      "xroniki böyrək çatışmazlığı",
+      "HİV infeksiyası",
+      "narkomaniya"
+    ]
+  },
+  {
+    "question": "Mantu sınağı qoyulduqdan neçə saat sonra reaksiya qiymətləndirilir?",
+    "answers": [
+      "72 saat sonra",
+      "36 saat sonra",
+      "48 saat sonra",
+      "24 saat sonra",
+      "60 saat sonra"
+    ]
+  },
+  {
+    "question": "Yaşdan asılı olmayaraq vərəmin profilaktik müalicəsi hansı hallarda aparılmalıdır?",
+    "answers": [
+      "aktiv vərəmli xəstənin ailə üzvlərinə",
+      "mantu sınağı mənfi olan limfoma xəstələrində",
+      "5 il əvvəl Mantu sınağı virajı olanlara",
+      "həbsxanalarda işləyənlərə",
+      "gəliri az olan ailənin üzvlərinə"
+    ]
+  },
+  {
+    "question": "Aşağıdakılardan hansı böyüklərdə vərəmin profilaktik müalicəsinə aiddir?",
+    "answers": [
+      "6-12 ay ərzində izoniazid 300 mq/gün daxilə",
+      "1-3 ay ərzində izoniazid 300 mq/gün daxilə",
+      "6-12 ay ərzində izoniazid 100 mq/gün daxilə",
+      "12-18 ay ərzində izoniazid 100 mq/gün daxilə",
+      "3-6 ay ərzində izoniazid 300 mq/gün daxilə"
+    ]
+  },
+  {
+    "question": "Piylənmə hansı xəstəliklərlə daha sıx əlaqəlidir?",
+    "answers": [
+      "tip 2 şəkərli diabet",
+      "mədənin xora xəstəliyi",
+      "pnvmoniya",
+      "qastrit",
+      "bronxit"
+    ]
+  },
+  {
+    "question": "Bədən kütlə indeksinə görə hansı nəticə Piylənmə hesab olunur?",
+    "answers": [
+      "30 və yuxarı",
+      "25-29.9",
+      "18.5-24.9",
+      "15-19.9",
+      "20-24.9"
+    ]
+  },
+  {
+    "question": "Piylənmədən əziyyət çəkən şəxslərdə hansı komplikasiya riski daha yüksəkdir?",
+    "answers": [
+      "ürək-damar xəstəlikləri",
+      "katarakta",
+      "hiperhidroz",
+      "appendisit",
+      "böyrək daşları"
+    ]
+  },
+  {
+    "question": "Piylənmənin müalicəsində ən effektiv yanaşma hansıdır?",
+    "answers": [
+      "sağlam pəhriz və fiziki aktivlik",
+      "hipodinamiya",
+      "yalnız dərman müalicəsi",
+      "yüksək zülallı pəhriz",
+      "yalnız su istehlakının artması"
+    ]
+  },
+  {
+    "question": "Piylənmənin qarşısının alınmasında hansı addım daha önəmlidir?",
+    "answers": [
+      "qidalanma vərdişlərinin dəyişdirilməsi",
+      "immunitet gücləndiricilərin qəbulu",
+      "antibiotik istifadəsi",
+      "yalnız su qəbulunun artırılması",
+      "dərinin elastikliyinin artırılması"
+    ]
+  },
+  {
+    "question": "Piylənmənin diaqnozunda ən çox hansı göstərici istifadə olunur?",
+    "answers": [
+      "bədən kütlə indeksi (BKİ)",
+      "boy göstəricisi",
+      "gözlərin rengi",
+      "tərləmə səviyyəsi",
+      "qan şəkəri səviyyəsi"
+    ]
+  },
+  {
+    "question": "Tip 1 şəkərli diabet üçün aşağıdakılardan hansı yanlışdır?",
+    "answers": [
+      "xəstələrin əksəriyyətində artıq çəki xarakterdir",
+      "insulinin mütləq çatışmazlığı səbəb olur",
+      "əsasən 30 yaşdan əvvəl başlayır",
+      "tək müalicəsi əvəzedici insulin terapiyasıdır",
+      "hiperqlikemiya əlamətləri qəflətən meydana çıxır"
+    ]
+  },
+  {
+    "question": "Xroniki böyrək çatışmazlığı böyrəklərin funksiyasının itirilməsi nəticəsində yaranır:",
+    "answers": [
+      "üç ay və daha çox müddətdə",
+      "bir il və daha çox müddətdə",
+      "iki ay müddətində",
+      "bir ay müddəində",
+      "altı ay və daha çox müddətdə"
+    ]
+  },
+  {
+    "question": "Xroniki böyrək çatışmazlığının səbəbi deyil:",
+    "answers": [
+      "yanıqlar",
+      "qlomerulonefrit",
+      "hipertoniya xəstəliyi",
+      "böyrəyin kistoz xəstəliyi",
+      "şəkərli diabet"
+    ]
+  },
+  {
+    "question": "Terminal böyrək çatışmazlığının inkişafında böyrək funksiyası hansı üsulla əvəz edilməlidir:",
+    "answers": [
+      "hemodializ",
+      "plazmoferez",
+      "infusion terapiya",
+      "eritrositofarez",
+      "enterosorbentlərin qəbulu"
+    ]
+  },
+  {
+    "question": "Dializ xəstələrində ən çox rast gəlinən ölüm səbəbi:",
+    "answers": [
+      "Ürək-damar xəstəlikləri",
+      "Hiperkalemiya",
+      "Yoluxucu ağırlaşmalar",
+      "Onkoloji xəstəliklər",
+      "Uremiya"
+    ]
+  },
+  {
+    "question": "Kəskin böyrək çatışmazlığına əsasən hansı qrup dərmanlar səbəb ola bilər:",
+    "answers": [
+      "aminoqlikozidlər",
+      "hormonlar",
+      "vitaminlər",
+      "ürək qlikozidləri",
+      "minerallar"
+    ]
+  },
+  {
+    "question": "Xroniki böyrək çatışmazlığının əsas laborator göstəricisidir:",
+    "answers": [
+      "karbamid və kreatinin səviyyəsinin artması",
+      "hipokalemiya",
+      "hipourekemiya",
+      "hipofosfatemiya",
+      "hiperkalsemiya"
+    ]
+  },
+  {
+    "question": "Kəskin böyrək çatışmazlığının səbəbi ola bilər:",
+    "answers": [
+      "qanitirmə",
+      "qiomerulonefrit",
+      "şəkərli diabet",
+      "böyrək daşı xəstəliyi",
+      "hipertoniya"
+    ]
+  },
+  {
+    "question": "Xroniki böyrək çatışmazlıgının 4-cu mərhələsində qlomerular filtrasiya sürəti (ML/dəq/1,73m2) təşkil edir:",
+    "answers": [
+      "15-29",
+      "< 15",
+      "30-44",
+      ">90",
+      "60-89"
+    ]
+  },
+  {
+    "question": "Kəskin böyrək çatışmazlığının rast gəlinən renal səbəbi:",
+    "answers": [
+      "tubulyar nekroz",
+      "böyrəyin kistoz xəstəlikləri",
+      "hipertoniya",
+      "böyrək daşı xəstəliyi",
+      "xoş xassəli prostat hiperplaziyası"
+    ]
+  },
+  {
+    "question": "Kəskin böyrək çatışmazlığını müəyyən etmək ən müasir meyarlar:",
+    "answers": [
+      "AST",
+      "ALT",
+      "Amilaza",
+      "Qələvi fosfataza",
+      "Qanda kreatinin və RİFLE testləri"
+    ]
+  },
+  {
+    "question": "Nefrolitiazda diaqnostika üçün qızıl standart hesab edilir",
+    "answers": [
+      "kontrastlı KT",
+      "Qanın ümumi müayinəsi",
+      "Qanin biokimyəvi müayinəsi",
+      "USM",
+      "MRT"
+    ]
+  },
+  {
+    "question": "Hematuriyanın interstisial səbəblərinə aıddir:",
+    "answers": [
+      "Böyrək polikistozu",
+      "Bədxassəli şişlər",
+      "Travmalar.",
+      "Qlomerulonefrit",
+      "Alport sindromu"
+    ]
+  },
+  {
+    "question": "Təkrarlanan hematuriyalar və yuxarı tənəffüs yollarının infeksıyasının birgə müşahidə olunması hansı xəstəlikdə baş verir?",
+    "answers": [
+      "Poststreptokokk qlomerulonefrit",
+      "Qudpasçer xəstəliyi",
+      "Mezengioproliferativ qlomerulonefrit",
+      "Membranoproliferativ qlomerulonefrit",
+      "Membranoz qlomerulonefrit"
+    ]
+  },
+  {
+    "question": "Hematuriyanın epitelial səbəblərinə aiddir:",
+    "answers": [
+      "Travmalar",
+      "Kəskin pielonefrit.",
+      "Alport sindromu",
+      "Böyrək polikistozu",
+      "Analgetik nefropatiya"
+    ]
+  },
+  {
+    "question": "Fibrinolitik/Trombolitik müalicə üçün əks göstəriş deyil",
+    "answers": [
+      "arterial hipertenziya",
+      "aktiv qanaxma",
+      "son 3 ay ərzində qapalı kəllə beyin travması",
+      "hemorragik insult",
+      "struktur serebrovaskulyar xəstəlik"
+    ]
+  },
+  {
+    "question": "Sistitin meydana gəlməsində əsas rol oynayır:",
+    "answers": [
+      "İnfeksiyalar",
+      "ümumi amillər",
+      "kimyəvi amillər",
+      "yerli qan dövranı pozğunluqları",
+      "fiziki amillər"
+    ]
+  },
+  {
+    "question": "Kəskin sistitin əsas simptomlarına aid deyil:",
+    "answers": [
+      "poliuriya",
+      "ağrı",
+      "piyelonefrit",
+      "hematuriya",
+      "sidik saxlamamaq"
+    ]
+  },
+  {
+    "question": "Uretritin laborator diaqnostikasında hər bir baxış sahəsində nə qədər leykosit olmalıdır?",
+    "answers": [
+      "≥4",
+      "0",
+      "2",
+      "1",
+      "3"
+    ]
+  },
+  {
+    "question": "Böyüklərdən fərqli oiaraq uşaqlarda sidik yolu infeksiyalarında hansı symptom müşahidə edilə bilər?",
+    "answers": [
+      "Hərarətin yüksəlməsi",
+      "Hematuriya",
+      "İmperativ çagırışlar",
+      "Enurez",
+      "Qasıq nahiyəsində agrı"
+    ]
+  },
+  {
+    "question": "Qadınlarda kəskin sistitin müalicəsində üstünlük təşkil edən preparat hansıdır?",
+    "answers": [
+      "Trimetoprim-sulfametoksazol",
+      "Sitostatiklər.",
+      "Hormonlar",
+      "Antasidlər",
+      "Vitaminlər"
+    ]
+  },
+  {
+    "question": "Arterial hipertenziyalı xəstədə rutin laborator müayinələrə aid deyil",
+    "answers": [
+      "Nəcisin ümumi müayinəsi",
+      "Qan lipidləri",
+      "sidik müayinəsi",
+      "aclıq qan şəkəri",
+      "Qanda kreatinin və QFS"
+    ]
+  },
+  {
+    "question": "Preeklampsiyanın əsas diaqnostik əlaməti hansıdır?",
+    "answers": [
+      "Proteinuriya və arterial təzyiqin artması",
+      "Hamiləlik boyu fol turşusunun çatışmazlığı",
+      "Sidikdə bakteriyaların olması",
+      "Arterial təzyiqin 110/70 mm civə sütunundan aşağı olması",
+      "Yuxusuzluq və başgicəllənmə"
+    ]
+  },
+  {
+    "question": "Hamiləlik zamanı HCG-nin maksimal səviyyəyə çatdığı həftə hansıdır?",
+    "answers": [
+      "10-cu həftə",
+      "18-ci həftə",
+      "15-ci həftə",
+      "12-ci həftə",
+      "8-ci həftə"
+    ]
+  },
+  {
+    "question": "Ağır preeklampsiyanın əsas meyarlarından biri hansıdır?",
+    "answers": [
+      "Sidikdə proteinuriya >5 g/l",
+      "Qanda şəkərin aşağı düşməsi",
+      "Böyrəklərdə daşın aşkarlanması",
+      "Bədən temperaturunun qalxması",
+      "Dölün hərəkətliliyinin artması"
+    ]
+  },
+  {
+    "question": "Preeklampsiyanın ağır formalarında hansı dəyişiklik müşahidə edilmir?",
+    "answers": [
+      "Qanın hemoqlobin səviyyəsinin yüksəlməsi",
+      "Trombositopeniya",
+      "Ciftin ayrılması",
+      "Epigastral ağrılar",
+      "Görmə pozuntuları"
+    ]
+  },
+  {
+    "question": "Hamiləliyin fizioloji gedişatı zamanı qadın tibb müəssisəsinə neçə dəfə müraciət etməlidir?",
+    "answers": [
+      "7",
+      "3",
+      "9",
+      "11",
+      "5"
+    ]
+  },
+  {
+    "question": "Hestasion hipertenziyanın əsas əlaməti hansıdır?",
+    "answers": [
+      "Arterial təzyiqin yüksəlməsi",
+      "Görmə pozuntuları və qıcolmalar",
+      "Dölün inkişafında ləngimə",
+      "Böyrək funksiyalarının zəifləməsi",
+      "Proteinuriya və trombositopeniya"
+    ]
+  },
+  {
+    "question": "HELLP sindromunun əsas xüsusiyyəti nədir?",
+    "answers": [
+      "Hemoliz, qaraciyər fermentlərinin artması, trombositopeniya",
+      "Ana südü ifrazının azalması",
+      "Görmə pozuntularının azalması",
+      "Hipertenziyanın yüngül forması",
+      "Sidiyin miqdarının artması"
+    ]
+  },
+  {
+    "question": "Fol turşusunun təyini hansı məqsədlə edilir?",
+    "answers": [
+      "Dölün sinir borusu qüsurlarının inkişaf tezliyini azaldır",
+      "Sidik yolları infeksiyasının müalicəsi üçün",
+      "Hamilə qadının çəkisini artırmaq üçün",
+      "Proteinuriyanın müalicəsi üçün",
+      "Ananın arterial təzyiqini tənzimləmək üçün"
+    ]
+  },
+  {
+    "question": "Erkən zahılıq dövrünün qanaxmaları hansı dövrü əhatə edir?",
+    "answers": [
+      "Cift ayrılandan 2 saat sonra",
+      "Ciftin ayrılmasından əvvəl",
+      "Qeysəriyyə əməliyyatından 24 saat sonra",
+      "Doğumun başladığı ilk saat",
+      "Hamiləliyin 20-ci həftəsi"
+    ]
+  },
+  {
+    "question": "\"4T\" qısaltması zahılıq qanaxmalarının hansı səbəblərini əhatə edir?",
+    "answers": [
+      "Tonus, Toxuma, Travma, Trombin",
+      "Toxuma, Təzyiq, Travma, Təhlükə",
+      "Təzyiq, Travma, Trombin, Toxuma",
+      "Tonus, Təzyiq, Toxuma, Trombositlər",
+      "Təzyiq, Tənəffüs, Trombositlər, Toksinlər"
+    ]
+  },
+  {
+    "question": "Hemorragik şokun yüngül dərəcəsində qan itkisinin miqdarı nə qədərdir?",
+    "answers": [
+      "1000–1500 ml",
+      "2100–2500 ml",
+      "1600–2000 ml",
+      "800–900 ml",
+      "500–800 ml"
+    ]
+  },
+  {
+    "question": "Dessiminə olunmuş damardaxili laxtalanma sindromunun hiperkoaqulyasiya fazasında hansı klinik əlamətlər müşahidə olunur?",
+    "answers": [
+      "Ağızda quruluq, arterial təzyiqin aşağı düşməsi",
+      "Tənəffüsün sürətlənməsi",
+      "Sidik miqdarının artması",
+      "Dərinin qızarması",
+      "Yüksək arterial təzyiq"
+    ]
+  },
+  {
+    "question": "Zahılıq qanaxmalarında hansı vəziyyət \"uşaqlığın hipotoniyası\" kimi tanınır?",
+    "answers": [
+      "Uşaqlığın yığılma qabiliyyətinin azalması",
+      "Uterotonik preparatların effektsizliyi",
+      "Doğuş yollarının travması",
+      "Uşaqlığın tonusunun artması",
+      "Ciftin tam çıxarılması"
+    ]
+  },
+  {
+    "question": "Ağır hemorragik şok zamanı sistolik arterial təzyiq hansı səviyyəyə düşür?",
+    "answers": [
+      "50–70 mm civə sütunu",
+      "75–80 mm civə sütunu",
+      "100–110 mm civə sütunu",
+      "90–100 mm civə sütunu",
+      "120–130 mm civə sütunu"
+    ]
+  },
+  {
+    "question": "Kritik qan itkisi nə zaman baş verir?",
+    "answers": [
+      "Ümumi qan dövranının 50%-dən çox 3 saat müddətində itirilməsi",
+      "300 ml qan itirildikdə",
+      "Eritrosit səviyyəsi azaldıqda",
+      "Hematokrit səviyyəsi 30%-dən aşağı olduqda",
+      "10%-lik qan itkisi zamanı (1 həftə ərzində)"
+    ]
+  },
+  {
+    "question": "Ümumdünya Səhiyyə Təşkilatının təklif etdiyi Hemostasis tədbirləri nəyi əhatə edir?",
+    "answers": [
+      "Kömək çağırmaq, qan itkisinin miqdarını təyin etmək, uterotonik preparatlardan istifadə",
+      "Sidik kisəsinin kateterizasiyası",
+      "Anesteziya tətbiqi və dərhal əməliyyat",
+      "Ciftin əllə ayrılması",
+      "Qeysəriyyə əməliyyatı ilə doğum"
+    ]
+  },
+  {
+    "question": "Ciddiliyə görə göz zədələrinin fərqləndirilmir:",
+    "answers": [
+      "latent",
+      "son dərəcə ağır",
+      "ağır",
+      "yüngül",
+      "mülayim"
+    ]
+  },
+  {
+    "question": "Təsnifata görə göz zədələri hansı növlərə ayrılır?",
+    "answers": [
+      "bağlı, açıq, nüfuz edən",
+      "sadə, mürəkkəb",
+      "Ön, arxa, orta",
+      "dərin, səthi",
+      "mərkəzi, lateral"
+    ]
+  },
+  {
+    "question": "Göz zədələrində rast gəlinən simptomlara aid deyil:",
+    "answers": [
+      "miopiya",
+      "gözlərdə “qum” hissi",
+      "gözdən yaş axma",
+      "gözlərdə ağrı",
+      "fotofobiya"
+    ]
+  },
+  {
+    "question": "Gözdə yaralanma növlərinə aid deyil:",
+    "answers": [
+      "Glaukoma",
+      "travmatik irit",
+      "orbitin aşağı hissəsinin hifeması və sınığı",
+      "Yad cism",
+      "kimyavi zərər"
+    ]
+  },
+  {
+    "question": "Göz zədələnmələrin müalicəsində istifadə olunmur:",
+    "answers": [
+      "antikoaqulyantlar",
+      "ağrikəsicilər",
+      "göz yaşardıcı maye",
+      "qlükokortikoidlər",
+      "antibiotiklər"
+    ]
+  },
+  {
+    "question": "Göz zədələnməsində istifadə olunan müayinə üsullarına ayid deyil:",
+    "answers": [
+      "gözün biopsiyası",
+      "ultrasəs vasitəsilə retinanın vəziyyətinin qiymətləndirilməsi.",
+      "biomikroskopiyadan istifadə edərək linza və irisin yoxlanılması;",
+      "göz daxili təzyiqinin ölçülməsi;",
+      "görmə itiliyinin qiymətləndirilməsi;"
+    ]
+  },
+  {
+    "question": "Hansı vəziyyətlərdə qırmızı göz sidromu mövcut deyil:",
+    "answers": [
+      "astiqmatizm",
+      "Allergiya",
+      "Göz daxili təzyiqinin artması (nadir hallarda)",
+      "İltihab (qeyri-infeksion)",
+      "İnfeksiya"
+    ]
+  },
+  {
+    "question": "Gözdə yaranan qızartını azaldan dərman hansıdır?",
+    "answers": [
+      "2,5% fenilefrin",
+      "omez",
+      "nitroqliserin",
+      "veroşpiron",
+      "aspirin"
+    ]
+  },
+  {
+    "question": "Hansı xəstəliklərdə qirmizi göz sindromu yaranmır?",
+    "answers": [
+      "çəpgözlük",
+      "sklerit",
+      "kəskin qapqlı bucaql qlaukoma",
+      "iridosiklit",
+      "konyunktivit"
+    ]
+  },
+  {
+    "question": "Hansı vəziyyətlərdə fenilefrin istifadə olunmamalıdır?",
+    "answers": [
+      "qapalı bucaqlı qlaukoma",
+      "allerqik konyunktivit",
+      "göz dibinin müayinəsinnən əvvəl",
+      "KRVİ",
+      "allerqik rinit"
+    ]
+  },
+  {
+    "question": "Psixosomatik xəstəliklərin yaranmasında əsas rolu hansı amil oynayır?",
+    "answers": [
+      "Emosional stress",
+      "Yalnız yaş faktoru",
+      "Fiziki travmalar",
+      "İmmunitet sistemi zəifliyi",
+      "Genetik mutasiyalar"
+    ]
+  },
+  {
+    "question": "Somatoform pozuntuların xarakterik xüsusiyyəti nədir?",
+    "answers": [
+      "Obyektiv tibbi təsdiqin olmaması ilə müşayiət olunan somatik şikayətlər",
+      "Təzyiq dəyişiklikləri",
+      "Artan fiziki aktivlik",
+      "Yüksək hərarət",
+      "İştahanın azalması"
+    ]
+  },
+  {
+    "question": "Somatogen (nozogen) psixi pozuntular hansı halda yaranır?",
+    "answers": [
+      "Ağır somatik xəstəliklərin emosional və fiziki təsiri nəticəsində",
+      "Aşırı qidalanma zamanı",
+      "Vitamin çatışmazlığı səbəbindən",
+      "İnfeksion xəstəliklər nəticəsində",
+      "Fiziki travma zamanı"
+    ]
+  },
+  {
+    "question": "Depressiyanın klassik triadasına hansı simptomlar daxildir?",
+    "answers": [
+      "Azalmış əhval, maraq itkisi, enerji azlığı",
+      "Təzyiqin yüksəlməsi, yuxusuzluq, narahatlıq",
+      "Yüksək hərəkətlilik, diqqət artımı, motivasiya",
+      "Artan iştaha, yüksək təzyiq, narahatlıq",
+      "Qan təzyiqi dəyişkənliyi, halsızlıq, iş qabiliyyətinin azalması"
+    ]
+  },
+  {
+    "question": "Hipoxondriya ideyaları daha çox hansı hallarda müşahidə olunur?",
+    "answers": [
+      "Tiroid vəzinin xəstəliklərində və somatik xəstəlik strukturunda",
+      "Diabet zamanı",
+      "Fiziki travmalar zamanı",
+      "Böyrək daşlarında",
+      "İnfeksion xəstəliklərdə"
+    ]
+  },
+  {
+    "question": "Posttravmatik stress pozuntusunun əsas əlamətlərindən biri hansıdır?",
+    "answers": [
+      "Sosial uzaqlaşma və davranış dəyişiklikləri",
+      "Dəri xəstəliklərinin azalması",
+      "İş qabiliyyətinin artması",
+      "Yaddaşın yaxşılaşması",
+      "Fiziki gücün artması"
+    ]
+  },
+  {
+    "question": "Obsessiv-kompulsiv pozuntunun əsas xüsusiyyəti nədir?",
+    "answers": [
+      "Narahatlıq yaradan təkrarlanan düşüncələr və rituallar",
+      "Görmə qabiliyyətinin yaxşılaşması",
+      "İştahanın artması",
+      "Hərəkətin sürətlənməsi",
+      "Diqqətin artırılması"
+    ]
+  },
+  {
+    "question": "Sosial fobiyanın əsas simptomlarından biri nədir?",
+    "answers": [
+      "Diqqət mərkəzində olmaq qorxusu",
+      "Görmənin yaxşılaşması",
+      "Yorğunluğun azalması",
+      "Təzyiqin qalxması",
+      "Artan hərəkətlilik"
+    ]
+  },
+  {
+    "question": "Tez-tez rast gələn əsas heriatrik sindromlara aid deyil:",
+    "answers": [
+      "raxit",
+      "qocalıq asteniyası",
+      "malnutrisiya",
+      "müvazinətin pozulması",
+      "sidik qaçırma"
+    ]
+  },
+  {
+    "question": "Tez-tez rast gələn əsas heriatrik sindromlara aid deyil:",
+    "answers": [
+      "eksudativ-kataral diatez",
+      "hərəkətliliyin azalması",
+      "sakropeniya",
+      "yıxılmalar",
+      "malnutrisiya"
+    ]
+  },
+  {
+    "question": "Qocalıq asteniyası diaqnozu bunun təsdiqlənməsi ilə qoyulmaz:",
+    "answers": [
+      "fiziki aktivliyin artması",
+      "hərəkət sürətinin zəifləməsi",
+      "əlin əzələ gücünün aşağı düşməsi",
+      "sarkopeniya",
+      "nəzərə çarpan artan yorğunluq"
+    ]
+  },
+  {
+    "question": "Qocalıq asteniyası diaqnozu bunun təsdiqlənməsi ilə qoyulmaz:",
+    "answers": [
+      "sümük-əzələ kütləsinin artması",
+      "sarkopeniya",
+      "əlin əzələ gücünün aşağı düşməsi",
+      "hərəkət sürətinin zəifləməsi",
+      "fiziki aktivliyin xeyli azalması"
+    ]
+  },
+  {
+    "question": "Qocalıq asteniyası bu şkalanın köməyi ilə dəyərləndirilir:",
+    "answers": [
+      "FRAİL",
+      "HAS-BLED",
+      "GLAZKO",
+      "SCORE",
+      "STOPP/START"
+    ]
+  },
+  {
+    "question": "Sarkopeniyanın meydana gəlməsinə təsir göstərmir:",
+    "answers": [
+      "anabolik hormonların artması",
+      "kortizolun səviyyəsinin artması",
+      "D vitamininin defisiti",
+      "əzələ liflərinin innervasiyasının pozulması",
+      "anabolik hormonların azalması"
+    ]
+  },
+  {
+    "question": "Sarkopeniyanın meydana gəlməsinə təsir göstərmir:",
+    "answers": [
+      "kartizolun səviyyəsinin azalması",
+      "anabolik hormonların azalması",
+      "D vitamininin defisiti",
+      "əzələ liflərinin innervasiyasının pozulması",
+      "katabolik proseslərin sürətlənməsi"
+    ]
+  },
+  {
+    "question": "Aşağıdakılardan malnutrisiya haqqında doğru deyil:",
+    "answers": [
+      "yaddaşın erkən zəifləməsidir",
+      "qidalanma çatışmazlığıdır",
+      "orqanizmin quru kütlənin azalmasıdır",
+      "bədən çəkisinin azalmasıdır",
+      "qida maddələrin daxil olması ilə sərfiyyatı arasında uyğunsuzluqdur"
+    ]
+  },
+  {
+    "question": "Yıxılma riskini qiymətləndirmək üçün hansı şkaladan istifadə edilir:",
+    "answers": [
+      "MORSE",
+      "SCORE",
+      "MONREAL",
+      "STOPP/START",
+      "GLAZKO"
+    ]
+  },
+  {
+    "question": "131. Miokard infarktı differensial diqanostikası bu xəstəliklə aparılmır",
+    "answers": [
+      "nefrolitiaz",
+      "ağ ciyər emboliyası",
+      "kəskin aorta disseksiyası",
+      "miokardit",
+      "perikardit"
+    ]
+  },
+  {
+    "question": "Sidik qaçırmaya səbəb olan risk faktorlarına daxil deyil:",
+    "answers": [
+      "mütəmadi idmanla məşğul olmaq",
+      "artıq çəki",
+      "cavanlıqda ağır fiziki işdə çalışmaq",
+      "urogenital sistemin yoluxucu xəstəlikləri",
+      "MSS xəstəlikləri"
+    ]
+  },
+  {
+    "question": "Yataq yaralarının risk amili hesab edilmir:",
+    "answers": [
+      "gənc yaş",
+      "xəstənin yaşı >65",
+      "sidik, nəcis qaçırma nətıcəsində dərinin qıcıqlanması",
+      "yataq rejimi, hərəkətsizlik",
+      "hissiyyatın zəifləməsi"
+    ]
+  },
+  {
+    "question": "Herontofarmakologiyanın şərtlərinə daxil deyil:",
+    "answers": [
+      "qısa təsirə malik dərman formalarına üstünlük verilməlidir",
+      "dərman minimal sayda təyin edilməlidir",
+      "yüngül simptomatikalı hallarda qeyri - medikamentoz müalicə təyin ola bilər",
+      "yüksək riskli dərman təyin edilərkən ziyan/xeyir nisbəti hökmən nəzərə alınmalıdır",
+      "dərmanların istifadə qaydası ilə xəstə və yaxınları təlimatlandırılmalıdır"
+    ]
+  },
+  {
+    "question": "Herontofarmakologiyanın şərtlərinə daxil deyil:",
+    "answers": [
+      "xəstə özbaşına bioloji aktiv əlavə və müalicəvi otlar qəbul edə bilər",
+      "yüngül simptomatikalı hallarda qeyri - medikamentoz müalicə təyin ola bilər",
+      "dərman minimal sayda təyin edilməlidir",
+      "preparatların istifadə qaydası ilə xəstə və yaxınları təlimatlandırılmalıdır",
+      "yüksək riskli dərman təyin edilərkən ziyan/xeyir nisbəti hökmən nəzərə alınmalıdır"
+    ]
+  },
+  {
+    "question": "Herontofarmakologiyanın şərtlərinə daxil deyil:",
+    "answers": [
+      "effektivliyi sübut olunmuş preparatların təyini önəmli deyil",
+      "dərmanların kombinasiyalar şəklində istifadəsi",
+      "dərman minimal sayda təyin edilməlidir",
+      "təyin olan dərmanların qarşılıqlı təsirinin nəzərə alınması",
+      "preparatların istifadə qaydası ilə xəstə və yaxınları təlimatlandırılmalıdır"
+    ]
+  },
+  {
+    "question": "İcmanın immunizasiyasının prinsiplərinə daxildir:",
+    "answers": [
+      "nə qədər çox insan peyvənd olunursa, xəstəliyə qarşı kollektiv immunitet yaranır",
+      "yalnız təbii immuniteti olan insanları qoruyur",
+      "yalnız peyvənd olunan şəxsləri qoruyur",
+      "yalnız körpə və uşaqları qoruyur",
+      "xəstəliklərin yayılmasını tamamilə dayandırır"
+    ]
+  },
+  {
+    "question": "İnfeksiyanın eradikasiyası nədir:",
+    "answers": [
+      "infeksiyanın dünya miqyasında tezliyinin daimi olaraq sıfıra endirilməsi",
+      "müəyyən bir xəstəliyin tezliyinin sıfıra endirilməsi",
+      "xəstəliyin tezliyinin və yayılmasının məqbul səviyyəyə endirilməsi",
+      "müəyyən xəstəlikdən ölümün məqbul səviyyəyə endirilməsi",
+      "spesifik infeksiya hallarının tezliyinin sıfıra endirilməsi"
+    ]
+  },
+  {
+    "question": "İnfeksiyanın eliminasiyası nədir:",
+    "answers": [
+      "spesifik infeksiya hallarının tezliyinin sıfıra endirilməsi",
+      "müəyyən xəstəlikdən ölümün məqbul səviyyəyə endirilməsi",
+      "xəstəliyin tezliyinin və yayılmasının məqbul səviyyəyə endirilməsi",
+      "infeksiyanın dünya miqyasında tezliyinin daimi olaraq sıfıra endirilməsi",
+      "müəyyən bir xəstəliyin tezliyinin sıfıra endirilməsi"
+    ]
+  },
+  {
+    "question": "Xəstəliyə (PQX - peyvəndlə qarşısı alına bilən xəstəliklərə) nəzarət nədir:",
+    "answers": [
+      "xəstəliyin tezliyinin, yayılmasının və/və ya ölümün hallarının endirilməsi",
+      "müəyyən bir xəstəliyin tezliyinin sıfıra endirilməsi",
+      "spesifik infeksiya hallarının tezliyinin sıfıra endirilməsi",
+      "müəyyən xəstəlikdən ölümün məqbul səviyyəyə endirilməsi",
+      "infeksiyanın dünya miqyasında tezliyinin daimi olaraq sıfıra endirilməsi"
+    ]
+  },
+  {
+    "question": "Vaksinasiyadan sonra baş verən əlavə təsirlər buna bağlı deyil:",
+    "answers": [
+      "vaksindən 2 gün əvvəldən antihistamin dərman istifadə olunmaması;",
+      "peyvəndin keyfiyyəti ilə bağlı reaksiya;",
+      "açılmış peyvəndin təkrar istifadə edilməsi;",
+      "inyeksiya sahəsinin qeyri-düzgün seçilməsi",
+      "inyeksiya qorxusu ilə bağlı reaksiya;"
+    ]
+  },
+  {
+    "question": "Göyöskürək üçün şübhəli hal olaraq hesab edilmir:",
+    "answers": [
+      "burunda yapışan psevdomembran",
+      "öskürək tutmaları",
+      "öskürək sonrası və ya başqa səbəb olmadan qusma",
+      "inspirator təngnəfəslik",
+      "≥ 2 həftə ərzində davam edən öskürək"
+    ]
+  },
+  {
+    "question": "Peyvəndləməyə əks göstəriş deyil:",
+    "answers": [
+      "qızdırma ilə və qızdırmasız yuxarı tənəffüs yollarının infeksiyası",
+      "orta dərəcəli kəskin xəstəlik",
+      "peyvəndlərin tərkibində olan hər hansı bir maddəyə olan anafilaktik reaksiya",
+      "əvvəlki dozaya anafilaktik şok",
+      "ağır dərəcəli kəskin xəstəlik"
+    ]
+  },
+  {
+    "question": "Peyvəndləməyə əks göstəriş deyil:",
+    "answers": [
+      "qızdırma ilə və qızdırmasız orta otit",
+      "ağır dərəcəli kəskin xəstəlik",
+      "peyvəndlərin tərkibində olan maddəyə olan anafilaktik reaksiya",
+      "əvvəlki dozaya anafilaktik şok",
+      "orta dərəcəli kəskin xəstəlik"
+    ]
+  },
+  {
+    "question": "BCG üçün əks göstəriş deyil:",
+    "answers": [
+      "yenidoğulanın çəkisinin 2 kq üstündə olması",
+      "anadangəlmə ağır immunosupressiv vəziyyətlər",
+      "ailədə aktiv vərəm olanlar",
+      "İİV/QİÇS",
+      "müsbət tuberkulin testi"
+    ]
+  },
+  {
+    "question": "Göyöskürək üçün doğru deyil:",
+    "answers": [
+      "sağaldıqdan sonra orqanizmdə davamlı immunitet yaranır",
+      "öskürək sonrası səbəb olmadan qusma",
+      "1 yaşın altında olan uşaqlarda apnoe",
+      "alovlanma mənbəyində olanda istənilən müddət ərzində davam edən öskürək",
+      "≥ 2 həftə ərzində öskürək paroksizmləri"
+    ]
+  },
+  {
+    "question": "QPM (qızılca-parotit-məxmərək) peyvəndi üçün əks göstərişdir:",
+    "answers": [
+      "raxit",
+      "autizim",
+      "immundefisitli ailə üzvünün olması",
+      "ağır immunçatışmazlıq",
+      "pozitiv tuberkulin sınağı"
+    ]
+  },
+  {
+    "question": "Həyatın ilk iki günündə normal əmən və ağlayan, 3-28-ci günləri arasında ölmüş yeni doğulan körpənin olüm ehtimalıdır:",
+    "answers": [
+      "neonatal tetanus",
+      "klasik respirator-toksik difteriya",
+      "anadangəlmə B hepatiti",
+      "anadangəlmə məxmərək sindromu",
+      "qeyri-neonatal tetanus"
+    ]
+  },
+  {
+    "question": "QPM (qızılca-parotit-məxmərək) peyvəndi üçün əks göstərişdir:",
+    "answers": [
+      "aktiv vərəm",
+      "autizim",
+      "raxit",
+      "pozitiv tuberkulin sınağı",
+      "immundefisitli ailə üzvünün olması"
+    ]
+  },
+  {
+    "question": "Vaksinasiyanın qorunma mexanizmlərindən deyil:",
+    "answers": [
+      "xəstələnmə göstəricisini yüksəldir",
+      "iqtisadi cəhətdən effektiv səhiyyə xidməti göstərir",
+      "infeksion xəstəliyi eradikasiya edir",
+      "fərdi immunitet yaradır",
+      "infeksion xəstəliyi eliminasiya edir"
+    ]
+  },
+  {
+    "question": "Vaksinasiyanın qorunma mexanizmlərindən deyil:",
+    "answers": [
+      "xəstələnmə göstəricisini yüksəldir",
+      "icma səviyyəsində immunitet formalaşdırır",
+      "infeksion xəstəliyi eradikasiya edir",
+      "fərdi immunitet yaradır",
+      "infeksion xəstəliyi eliminasiya edir"
+    ]
+  },
+  {
+    "question": "Hansı vəziyyət peyvənd vurdurmaq üçün əks-göstərişdir:",
+    "answers": [
+      "tərkibində olan hər hansı bir maddəyə anafilaktik reaksiya",
+      "vaxtından əvvəl doğum",
+      "yüngül soyuqdəymə",
+      "antibiotik müalicəsi",
+      "inyeksiya yerində ağrı"
+    ]
+  },
+  {
+    "question": "İnsan papilloma virusuna (HPV) qarşı peyvəndin əsas məqsədi nədir:",
+    "answers": [
+      "uşaqlıq boynu xərçəngini önləmək",
+      "sinir sistemi pozuntularını müalicə etmək",
+      "qaraciyər xərçəngini önləmək",
+      "dəri xəstəliklərinin qarşısını almaq",
+      "hamiləlik problemlərini aradan qaldırmaq"
+    ]
+  },
+  {
+    "question": "Vaksinasiyanın qorunma mexanizmlərindən deyil:",
+    "answers": [
+      "ölüm göstəricisini yüksəldir",
+      "icma səviyyəsində immunitet formalaşdırır",
+      "xəstəliyin digər ölkələrə yayaılmasının qarşısını alır",
+      "fərdi immunitet yaradır",
+      "xəstələnmə göstəricisini azaldır"
+    ]
+  },
+  {
+    "question": "Vaksinasiyanın qorunma mexanizmlərindən deyil:",
+    "answers": [
+      "icma səviyyəsində immunitet formalaşdırmır",
+      "xəstələnmə göstəricisini azaldır",
+      "ölüm göstəricisini azaldır",
+      "xəstəliyin digər ölkələrə yayaılmasının qarşısını alır",
+      "fərdi immunitet yaradır"
+    ]
+  },
+  {
+    "question": "Peyvədlərdən sonra müşahidə edilə bilən ümumi əlavə təsirlər hansıdır:",
+    "answers": [
+      "yüngül hərarət və inyeksiya yerində ağrı",
+      "halsızlıq və saç tökülməsi",
+      "qaşınma və təzyiqin düşməsi",
+      "baş ağrısı və yuxusuzluq",
+      "ishal və mədə ağrısı"
+    ]
+  },
+  {
+    "question": "Hansı peyvəndin dozası körpələrə adətən doğumdan dərhal sonra vurulur:",
+    "answers": [
+      "hepatit B peyvəndi",
+      "difteriyapeyvəndi",
+      "qızılça peyvəndi",
+      "məxmərək peyvənd",
+      "tetanus peyvəndi"
+    ]
+  },
+  {
+    "question": "Arterial təzyiq səviyyəsi optimal olaraq müşahidə edilərsə, pasientə nə qədər müddət sonra AT qeydiyyatı tövsiyə olunur?",
+    "answers": [
+      "5 ildən bir",
+      "3 ildən bir",
+      "Hər gün",
+      "Hər ay",
+      "Hər il"
+    ]
+  },
+  {
+    "question": "Qeyri-stabil stenokardiyada risk göstəricisi deyil",
+    "answers": [
+      "Stenokardiya tutması (<10’)",
+      "Ürək çatışmazlığı əlamətləri",
+      "Sol mədəcik disfunksiyası",
+      "İstirahət stenokardiyası (>20’)",
+      "Son 48 saat ərzində işemik simptomların artması"
+    ]
+  },
+  {
+    "question": "Qeyri-stabil stenokardiya və non-ST elevasiya miokard infarktı müalicəsində SƏT-ə görə tövsiyə olunanlar",
+    "answers": [
+      "BAƏ (bioloji aktiv əlavələr)",
+      "Antiplatelet terapiya",
+      "Antikoqulyantlar",
+      "Antianginal terapiya",
+      "Ca++ kanal blokatorları"
+      
+    ]
+  },
+  {
+    "question": "Mədə bağırsaq simptomları miokard infarktı hansı nahiyədə olarsa önə çıxır?",
+    "answers": [
+      "Arxa (inferior)",
+      "Ön yan divar",
+      "Mədəciklərarası çəpər",
+      "Ön divar",
+      "Zirvə"
+    ]
+  },
+  {
+    "question": "Miokard infarktı differensial diqanostikası bu xəstəliklə aparılmır",
+    "answers": [
+      "Nefrolitiaz",
+      "Kəskin aorta disseksiyası",
+      "Ağ ciyər emboliyası",
+      "Perikardit",
+      "Miokardit"
+    ]
+  },
+  {
+    "question": "Fibrinolitik/Trombolitik müalicə üçün əks göstəriş deyil",
+    "answers": [
+      "Arterial hipertenziya",
+      "Aktiv qanaxma",
+      "Son 3 ay qapalı kəllə beyin travması",
+      "Struktur serebrovaskulyar xəstəlik",
+      "Hemorragik insult"
+    ]
+  },
+  {
+    "question": "Arterial hipertenziyanın birinci dərəcəsi üçün xarakterikdir:",
+    "answers": [
+      "SAT 140-159 mm c.st DAT 90-99 mm c.st",
+      "SAT > 180 mm c.st DAT > 110 mm c.st",
+      "SAT 120-129 mm c.st DAT 80-84 mm c.st",
+      "SAT 130-139 mm c.st DAT 85-89 mm c.st",
+      "SAT 160-179 mm c.st DAT 100-109 mm c.st"
+    ]
+  },
+  {
+    "question": "Extremal kiçik bədən kütləsi ilə doğulan körpə hesab olunur?",
+    "answers": [
+      "<1000 qr doğulan körpə",
+      "<3000 qr doğulan körpə",
+      "<2500 qr doğulan körpə",
+      "<2000 qr doğulan körpə",
+      "<1500 qr doğulan körpə"
+    ]
+  },
+  {
+    "question": "Yarımçıq doğulan hesab olunur:",
+    "answers": [
+      "37 həftədən əvvəl doğulan",
+      "42 həftədən əvvəl doğulan",
+      "39 həftədən əvvəl doğulan",
+      "40 həftədən əvvəl doğulan",
+      "38 həftədən əvvəl doğulan"
+    ]
+  },
+  {
+    "question": "Baş ağrısının əsas növünə aid deyil:",
+    "answers": [
+      "kranial nevralgiya",
+      "müxtəlif",
+      "gərginlik (epizodik və xroniki)",
+      "klaster",
+      "miqren (auralı və aurasız)"
+    ]
+  },
+  {
+    "question": "Klaster baş ağrılarının xarakterik xüsusiyyətlərinə aid deyil:",
+    "answers": [
+      "işığa və səsə həssaslıq",
+      "başladığı kimi bitir",
+      "1-4 həftə ərzində hər gün əkrarlanır",
+      "aura olmadan qəfil baş verir",
+      "qadınlara nəzərən kişilərdə daha çox rast gəlinir"
+    ]
+  },
+  {
+    "question": "Aşağıdakılardan hansı ən çox rast gəlinən baş ağrısının növüdür?",
+    "answers": [
+      "miqren",
+      "üçlü sinir zədələnməsi mənşəli",
+      "kəllədaxili təyziq mənşəli",
+      "travma mənşəli",
+      "sinus ağrıları"
+    ]
+  },
+  {
+    "question": "Hemorragik insult zamanı qan laxtalanması baş verdikdə qandurulaşdırıcı dərmanların təsirini azaltmaq üçün nə etmək lazımdır?",
+    "answers": [
+      "dərmanlar və qan məhsullarının köçrülməsi",
+      "sidik yolunun kateteriziyasiyası",
+      "qanın ixracı",
+      "arterial təyziqin ölçülməsi",
+      "süni tənəffüsün verilməsi"
+    ]
+  },
+  {
+    "question": "Hemorragik insult zamanı cərrahi müdaxilə nə vaxt mütləq göstərişdir?",
+    "answers": [
+      "qanaxma sahəsi böyük olarsa",
+      "baş beyin travmalarında",
+      "xroniki ürək çatışmamazlığında",
+      "hipertonik kriz zamanı",
+      "huşun itməsi zamanı"
+    ]
+  },
+  {
+    "question": "Arterial təzyiq səviyyəsi optimal olaraq müşahidə edilərsə, pasientə nə qədər müddət sonra AT qeydiyyatı tövsiyə olunur?",
+    "answers": [
+      "ən azı 5 ildən bir",
+      "Hər ay",
+      "Hər gün",
+      "Hər il",
+      "ən azı 3 ildən bir"
+    ]
+  },
+  {
+    "question": "Qeyri-stabil stenokardiyada risk göstəricisi deyil",
+    "answers": [
+      "stenokardiya tutması (<10’)",
+      "istirahət stenokardiyası (>20’)",
+      "ürək çatışmazlığı əlamətləri",
+      "sol mədəcik disfunksiyası",
+      "son 48 saat ərzində işemik simptomların artması"
+    ]
+  },
+  {
+    "question": "Qeyri-stabil stenokardiya və non-ST elevasiya miokard infarktı müalicəsində SƏT-ə (sübuta əsaslanan təbabət) görə tövsiyə olunanlar",
+    "answers": [
+     "BAƏ (bioloji aktiv əlavələr)",
+      "Ca++ kanal blokatorları",
+      "Antikoqulyantlar",
+      "Antiplatelet terapiya",
+      "Antianginal terapiya"
+      
+    ]
+  },
+  {
+    "question": "Mədə bağırsaq simptomları miokard infarktı hansı nahiyədə olarsa önə çıxır?",
+    "answers": [
+      "arxa (inferior)",
+      "ön yan divar",
+      "ön divar",
+      "zirvə",
+      "mədəciklərarası çəpər"
+    ]
+  }
+]

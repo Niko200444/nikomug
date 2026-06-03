@@ -1,0 +1,802 @@
+[
+  {
+    "question": "Toxumaların qopmasını yarada bilər:",
+    "answers": [
+      "Küt əşya ilə zərbə",
+      "Sıyrıntılar",
+      "Elektrik travmaları",
+      "Kəsici alətlə zərbə",
+      "Deşici alətlə zərbə"
+    ]
+  },
+  {
+    "question": "Yaralar neçə həftə sağalmadıqda “xroniki” sayılır?",
+    "answers": [
+      "6-8 həftə",
+      "4-5 həftə",
+      "3-4 həftə",
+      "1-2 həftə",
+      "2-3 həftə"
+    ]
+  },
+  {
+    "question": "Yaraların sağalmasına mənfi təsir göztərən əsas ağırlaşmalar:",
+    "answers": [
+      "İnfeksiya, nekroz, osteomielit",
+      "İnfeksiya, nekroz, çapıqlaşma",
+      "Nekroz, osteomielit, atrofiya",
+      "Nekroz, osteomielit, qranulyasiya",
+      "İnfeksiya, nekroz, epitelizasiya"
+    ]
+  },
+  {
+    "question": "Arterial xoraların yaranma səbəbidir:",
+    "answers": [
+      "Arterial axının azalması səbəbindən yaranan işemiya",
+      "Arterial qanın venaya reflüksü",
+      "Venoz qanın arteriyaya reflüksü",
+      "Arterial təzyiqin yüksəlməsi",
+      "Arterial axının sürətlənməsi"
+    ]
+  },
+  {
+    "question": "Venoz xoralar adətən bədənin hansı nahiyyəsində müşahidə olunur?",
+    "answers": [
+      "Ayaqların distal nahiyyəsində",
+      "Döş qəfəsinin yan divarında",
+      "Kürək nahiyyəsində",
+      "Yuxarı ətrafların proksimal nahiyyəsində",
+      "Qarının ön divarında"
+    ]
+  },
+  {
+    "question": "Limfatik xoraların yaranma səbəbidir:",
+    "answers": [
+      "Limfatik durğunluq",
+      "Varikoz xəstəliyi",
+      "Arterio-venoz şuntlar",
+      "Arterial durğunluq",
+      "Venoz durğunluq"
+    ]
+  },
+  {
+    "question": "Təzyiq yaralarının səbəbidir:",
+    "answers": [
+      "Dəriyə uzunmüddətli təzyiq",
+      "Dəriyə kompresin qoyulması",
+      "Dərinin qabıqlanması (kəpəklənməsi)",
+      "Dərinin nəmli olması",
+      "Dərinin quruması"
+    ]
+  },
+  {
+    "question": "Radiodermatit nəticəsində yaranan yaraların səbəbidir:",
+    "answers": [
+      "Şüa müalicəsi",
+      "Dəri inyeksiyaları",
+      "Dəri masajları",
+      "Fizioterapevtik müalicə",
+      "Dəriyə kompresin qoyulması"
+    ]
+  },
+  {
+    "question": "Çapıq nədən təşkil olunmuşdur?",
+    "answers": [
+      "Birləşdirici toxumadan",
+      "Əzələdən",
+      "Qığırdaqdan",
+      "Sümükdən",
+      "Qan laxtasından"
+    ]
+  },
+  {
+    "question": "Regenerasiya nədir?",
+    "answers": [
+      "Toxumanın normal arxitekturasının bərpası prosesidir",
+      "Toxumanın infeksiyalaşmasıdır",
+      "Toxumada displaziyanın baş verməsidir",
+      "Toxumada hematomanın yaranmasıdır",
+      "Toxumanın atrofiyasıdır"
+    ]
+  },
+  {
+    "question": "İlkin yara sağalması hansı yaralarda müşahidə olunur?",
+    "answers": [
+      "Tikilmiş cərrahi yaralarda",
+      "Odlu silah yaralarında",
+      "Qəlpə yaralarında",
+      "Əzilmiş yaralarda",
+      "İnfeksiyalaşmış yaralarda"
+    ]
+  },
+  {
+    "question": "Yaranın sağalma mərhələləridir:",
+    "answers": [
+      "İltihab, proliferasiya, yenidən bərpa",
+      "İltihab, displaziya, yenidən bərpa",
+      "İnfeksiyalaşma, proliferasiya, yenidən bərpa",
+      "İltihab, displaziya, atrofiya",
+      "İltihab, atrofiya, yenidən bərpa"
+    ]
+  },
+  {
+    "question": "Yaraların sağalmasının proliferasiya mərhələsində fibroblastların rolu:",
+    "answers": [
+      "Toxuma itkisini əvəz etmək üçün qranulyasiya toxuması komponentləri istehsal etmək",
+      "Yaranın xroniki vəziyyətə keçməsini təmin etmək",
+      "Yarada displaziya prosesini təmin etmək",
+      "Yaranın infeksiyalaşmasını təmin etmək",
+      "Yarada atrofiya prosesini təmin etmək"
+    ]
+  },
+  {
+    "question": "Hipertrofik yaralar və keloidlər nəyin nəticəsidir?",
+    "answers": [
+      "Həddindən artıq kollagen istehsalının",
+      "Toxumalarda baş vermiş atrofiyanın",
+      "Toxumalarda baş vermiş displaziyanın",
+      "Qranulyasion toxumanın lizisinin",
+      "Həddindən az kollagen istehsalının"
+    ]
+  },
+  {
+    "question": "Çapıqların təsnifatında istifadə olunan terminlərdir:",
+    "answers": [
+      "Yetkin çapıq, hipertrofik çapıq, keloid çapıq",
+      "Yetkin çapıq, keloid çapıq, kvadrat çapıq",
+      "Kəmərləyici çapıq, üçbucaq çapıq, kvadrat çapıq",
+      "Yetkin çapıq, hipertrofik çapıq, kəmərləyici çapıq",
+      "Hipertrofik çapıq, keloid çapıq, üçbucaqlı çapıq"
+    ]
+  },
+  {
+    "question": "Hipertrofik yaraların xüsusiyyətləri:",
+    "answers": [
+      "Qırmızı rəngdədir, elastik deyil, ağrılıdır",
+      "Sarı rəngdədir, elastikdir, ağrısızdır",
+      "Ağrısızdır, qaşınır, elastik deyil",
+      "Qırmızı rəngdədir, elastikdir, ağrılıdır",
+      "Sarı rəngdədir, elastik deyil, ağrılıdır"
+    ]
+  },
+  {
+    "question": "Təşkil olunduğu toxuma növünün sayından asılı olaraq qreftlər (transplantatlar) təsnif olunur:",
+    "answers": [
+      "Sadə qreftlər, kompleks qreftlər",
+      "Kompleks qreftlər, autoqreftlər",
+      "Kompleks qreftlər, homoqreftlər",
+      "Sadə qreftlər, ksenoqreftlər",
+      "İzotopik qreftlər, ortotopik qreftlər"
+    ]
+  },
+  {
+    "question": "Dəri köçürülməsi zamanı qreftin (transplantatın) adekvat fiksasiyası üçün vacibdir:",
+    "answers": [
+      "Qreftin altında piy toxumasının olmaması",
+      "Qreftin üzərində tükün olması",
+      "Qreftin altında hematomanın olması",
+      "Qreftin altında piy toxumasının olması",
+      "Qreftin infeksiyalı olması"
+    ]
+  },
+  {
+    "question": "Saç əkilməsi zamanı saçların toplanması üçün əsas donor sahəsidir:",
+    "answers": [
+      "Orta ənsə bölgəsi",
+      "Baldır nahiyəsi",
+      "Qarın nahiyəsi",
+      "Qasıq nahiyəsi",
+      "Qoltuqaltı nahiyə"
+    ]
+  },
+  {
+    "question": "Autoloji piy köçürülməsi hansı hallarda istifadə olunur?",
+    "answers": [
+      "Üzün cavanlaşdırılması, döşün böyüdülməsi",
+      "Vətərlərin bərpası",
+      "Sinirlərin bərpası",
+      "Əzələ defektlərinin bərpası",
+      "Sümük defektlərinin bərpası"
+    ]
+  },
+  {
+    "question": "Autoloji piy köçürülməsi zamanı əsas donor sahəsidir:",
+    "answers": [
+      "Qarın nahiyəsi",
+      "Ayaqaltı nahiyə",
+      "Baldır nahiyəsi",
+      "Barmaqlar",
+      "Ovuc nahiyəsi"
+    ]
+  },
+  {
+    "question": "Qreftin (transplantatın) qopmasının qarşısını almaq üçün profilaktik tədbirlərdir:",
+    "answers": [
+      "Dəqiq hemostaz, antiseptika, kortikosteroidlərin tətbiqi",
+      "Dəqiq hemostaz, antiseptika, xondroprotektorların tətbiqi",
+      "Dəqiq hemostaz, antiseptika, diuretiklərin tətbiqi",
+      "Dəqiq hemostaz, antiseptika, ürək qlikozidlərinin tətbiqi",
+      "Dəqiq hemostaz, antiseptika, hepatotrop preparatların tətbiqi"
+    ]
+  },
+  {
+    "question": "Böyük dəri qreftləri (transplantatları) hansı alətin köməyi ilə əldə olunur?",
+    "answers": [
+      "Dermatom",
+      "İynə",
+      "Skalpel",
+      "Troakar",
+      "Sıxıcı"
+    ]
+  },
+  {
+    "question": "Piy transplantasiyası zamanı piy toxuması əldə olunur:",
+    "answers": [
+      "Şpris aspirasiyası və ya liposaksiya yolu ilə",
+      "Dermatomla",
+      "Sıxıcılarla",
+      "Skalpellə",
+      "Troakarla"
+    ]
+  },
+  {
+    "question": "Tikişin vəzifələrinə aid deyil:",
+    "answers": [
+      "İrinləmiş nahiyyənin (toxumanın) üstünü örtmək",
+      "Yara kənarları arasındakı boşluqları məhdudlaşdırmaq",
+      "Yara kənarlarında gərilməyə qarşı dayanıqlıq yaratmaq",
+      "İnfeksiyalaşma və qanaxmanın qarşısını almaq",
+      "Sürətli sağalmağa nail olmaq üçün yara kənarlarının təmasını təmin etmək"
+    ]
+  },
+  {
+    "question": "Tikiş materialları qarşısında qoyulmuş tələb deyil:",
+    "answers": [
+      "Orqanizmin iltihaba qarşı cavab reaksiyasını gücləndirmək",
+      "Steril olmaq",
+      "Bioloji uyğunluluq",
+      "Ətraf toxumalara təsirsiz (inert) olmaq",
+      "Yara kənarlarında gərilməyə qarşı dayanıqlıq yaratmaq"
+    ]
+  },
+  {
+    "question": "Tikiş materialları qarşısında qoyulmuş tələb deyil:",
+    "answers": [
+      "Toxumaların yerli zədələnməsini maksimum təmin etmək",
+      "Steril olmaq",
+      "Toxumaların yerli zədələnməsini minimuma endirmək",
+      "Bioloji uyğunluluq",
+      "Ətraf toxumalara təsirsiz (inert) olmaq"
+    ]
+  },
+  {
+    "question": "Cərrahi qayçının funksiyasına aid deyil:",
+    "answers": [
+      "Toxumanı köçürmək",
+      "Sarğı materialını kəsmək",
+      "Tikişi sökmək",
+      "Toxumanı disseksiya etmək",
+      "Toxumanı kəsmək"
+    ]
+  },
+  {
+    "question": "Toxumaların keyləşdirilməsi zamanı hansı amil inyeksiya narahatlığına səbəb ola bilər:",
+    "answers": [
+      "İri diametrli iynələrin istifadəsi",
+      "Kiçik diametrli iynələrin istifadəsi",
+      "İnyeksiyanın yavaş sürəti",
+      "Kiçik həcmli şprislərdən istifadə",
+      "Otaq temperaturuna malik inyeksiya mayesindən istifadə"
+    ]
+  },
+  {
+    "question": "Tikiş materiallarının ideal xüsusiyyətlərinə aid deyil:",
+    "answers": [
+      "Yaranın irinləməsini təmin etmək",
+      "Əlverişli sorulma qabiliyyəti",
+      "Düyünün etibarlı olması",
+      "Bakterial çirklənməyə müqavimət göstərmək qabiliyyəti",
+      "Qırılmaya qarşı davamlılıq"
+    ]
+  },
+  {
+    "question": "Tikiş materialının ideal xüsusiyyətlərinə aid deyil:",
+    "answers": [
+      "Toxumaların maksimal reaksiyası",
+      "Əlverişli işlədilmə və istifadə rahatlığı",
+      "Toxumaların minimal reaksiyası",
+      "Düyünün etibarlı olması",
+      "Qırılmaya qarşı davamlılıq"
+    ]
+  },
+  {
+    "question": "Tikis saplarına aid deyil:",
+    "answers": [
+      "Titan",
+      "Prolen",
+      "İpək",
+      "Vikril",
+      "Ketqut"
+    ]
+  },
+  {
+    "question": "Standart sarğılara aiddir:",
+    "answers": [
+      "Steril cuna və bintlər",
+      "Plyonkalı (qaysaq, nazik təbəqə) sarğılar",
+      "Hidrokolloidlər və hidroliflər",
+      "Hidrogellər",
+      "Köpüklər"
+    ]
+  },
+  {
+    "question": "Dəri əvəzedicilərinin tətbiqi üçün göstəriş deyil:",
+    "answers": [
+      "İrinləmiş yaralar",
+      "Dərin yaralar",
+      "Yanıqlar",
+      "Damarların çılpaqlaşdırılması ilə müşayət olunan yaralar",
+      "Sümüküstlüyünün açılması ilə olan yaralar"
+    ]
+  },
+  {
+    "question": "Dəri əvəzedicilərinin tətbiqi üçün göstəriş deyil:",
+    "answers": [
+      "Diabetik osteoartropatiya",
+      "Sinirlərin çılpaqlaşdırılması ilə müşayət olunan yaralar",
+      "Diabetik ayaq xoraları",
+      "Dərin yaralar",
+      "Yanıqlar"
+    ]
+  },
+  {
+    "question": "Amputasiya zamanı replantasiya üçün işemiyaya yol verilən vaxt:",
+    "answers": [
+      "12 saat isti və 24 saat soyuq şəraitdə",
+      "22 saat isti və 44 saat soyuq şəraitdə",
+      "20 saat isti və 40 saat soyuq şəraitdə",
+      "14 saat isti və 28 saat soyuq şəraitdə",
+      "16 saat isti və 32 saat soyuq şəraitdə"
+    ]
+  },
+  {
+    "question": "Əl və proksimal amputasiya zamanı replantasiya üçün işemiyaya yol verilən vaxt:",
+    "answers": [
+      "6 saat isti və 12 saat soyuq şəraitdə",
+      "12 saat isti və 24 saat soyuq şəraitdə",
+      "10 saat isti və 20 saat soyuq şəraitdə",
+      "14 saat isti və 28 saat soyuq şəraitdə",
+      "8 saat isti və 16 saat soyuq şəraitdə"
+    ]
+  },
+  {
+    "question": "Səthi yanıqlar zamanı zədələnir:",
+    "answers": [
+      "Epidermis",
+      "Epidermis, papillyar və retikulyar derma",
+      "Epidermis və retikulyar derma",
+      "Epidermis və papillyar derma",
+      "Epidermis və dərialtı piy toxuma"
+    ]
+  },
+  {
+    "question": "Orta-səthi yanıqlar zamanı zədələnir:",
+    "answers": [
+      "Epidermis və papillyar derma",
+      "Əzələlər",
+      "Dərialtı piy toxuma",
+      "Epidermis",
+      "Retikulyar derma"
+    ]
+  },
+  {
+    "question": "Orta-dərin yanıqlar zamanı zədələnir:",
+    "answers": [
+      "Epidermis, papillyar və retikulyar derma",
+      "Epidermis",
+      "Dərialtı piy toxuma",
+      "Əzələlər",
+      "Epidermis və papillyar derma"
+    ]
+  },
+  {
+    "question": "Dərin yanıqlar zamanı zədələnir:",
+    "answers": [
+      "Epidermis və papillyar derma",
+      "Epidermis",
+      "Papillyar və retikulyar derma",
+      "Epidermis, papillyar və retikulyar derma",
+      "Epidermis, papillyar və retikulyar derma, dərialtı piy toxuma"
+    ]
+  },
+  {
+    "question": "Yanıqlar zamanı əsas kritik (risk) zonalar:",
+    "answers": [
+      "Üz nahiyyələri",
+      "Aralıq nahiyyəsinin dərisi",
+      "Qarnın dərisi",
+      "Başın tüklü nahiyyəsinin dərisi",
+      "ayaq barmaqlarının dərisi"
+    ]
+  },
+  {
+    "question": "Bədənin ən böyük orqanı:",
+    "answers": [
+      "dəri",
+      "beyin",
+      "qaraciyər",
+      "dalaq",
+      "qırmızı sümük iliyi"
+    ]
+  },
+  {
+    "question": "Dərinin ən xarici təbəqəsini secin:",
+    "answers": [
+      "epidermis",
+      "dermis",
+      "dərialtı piy qatı",
+      "periton",
+      "aponevroz"
+    ]
+  },
+  {
+    "question": "Keratinositlərin yenilməsi təxminən necə gün davam edir:",
+    "answers": [
+      "30",
+      "20",
+      "60",
+      "15",
+      "40"
+    ]
+  },
+  {
+    "question": "Dəri hansı vitaminin sintezində əsas rol oynayır?",
+    "answers": [
+      "vitamin D",
+      "vitamin A",
+      "vitamin K",
+      "vitamin C",
+      "vitamin B12"
+    ]
+  },
+  {
+    "question": "Melanositlər hansı hüceyrələrdən əmələ gəlir?",
+    "answers": [
+      "sinir",
+      "vəzili",
+      "qan",
+      "əzələ",
+      "dəri"
+    ]
+  },
+  {
+    "question": "“Plastik cərrahiyə” termini yunan sözündən götürülərək nə məna daşıyır:",
+    "answers": [
+      "“forma vermək”",
+      "“cərrahiyə”",
+      "“skalpel”",
+      "“cərrah”",
+      "“kəsmək”"
+    ]
+  },
+  {
+    "question": "Yara nə zaman “xroniki”sayılır:",
+    "answers": [
+      "6-8 həftədən sonra",
+      "1-2 həftədən sonra",
+      "1-3 həfdəyədək",
+      "2-4 həfdəyədək",
+      "4-6 həftədən sonra"
+    ]
+  },
+  {
+    "question": "Xərçəngin müalicəsində radiasiya terapiyasının istifadəsindən sonra baş verən yaralar necə adlanır?",
+    "answers": [
+      "ekstravazasiya",
+      "arterial",
+      "venoz",
+      "posttravmatik",
+      "radiodermatit"
+    ]
+  },
+  {
+    "question": "Venadaxili tətbiq olunan dərmanların və ya preparatların nifuz etməsi nəticəsində yaranan yaralar necə adlanır?",
+    "answers": [
+      "ekstravazasiya",
+      "venoz",
+      "radiodermatit",
+      "posttravmatik",
+      "arterial"
+    ]
+  },
+  {
+    "question": "Rekostruktiv cərrahiyyə aid olanları secin:",
+    "answers": [
+      "gözəllik baxımından xarici görnüşün yaxşılaşdırılması",
+      "qarın boşluğunun drenajı",
+      "döş qəfəsinin drenajı",
+      "orqanın fəaliyyətinin bərpası",
+      "maksimal kosmetik effektin əldə olunması"
+    ]
+  },
+  {
+    "question": "Rekostruktiv cərrahiyyə aid olanları secin:",
+    "answers": [
+      "ümumi görünüşü eybəcərləşdirən xarici deformasiyaların aradan qaldırılması",
+      "döş qəfəsinin drenajı",
+      "gözəllik baxımından xarici görnüşün yaxşılaşdırılması",
+      "maksimal kosmetik effektin əldə olunması",
+      "qarın boşluğunun drenajı"
+    ]
+  },
+  {
+    "question": "Dəri orta yaşlı insanda nə qədər sahəni əhatə edir:",
+    "answers": [
+      "1,7 m2",
+      "0,7 m2",
+      "2,7 m2",
+      "1,1 m2",
+      "3,7 m2"
+    ]
+  },
+  {
+    "question": "Dəri qreftinin sağalması üç mərhələdə təsvir edilir. Birinci mərhələni secin:",
+    "answers": [
+      "İmbibisyon və İnoskulasion",
+      "Rekonvalissensiya",
+      "Maturasion",
+      "Revaskulyarizasiya",
+      "Reqenerasiya"
+    ]
+  },
+  {
+    "question": "HyalomatrixR PA (Fidia Advanced Biopolymers S. R. L. ) nədən ibarətdir?",
+    "answers": [
+      "quş mənşəli matrisdən",
+      "matrisi I,III və V tipli iribuynuzlu heyvan kollagendən",
+      "insan dərisindən",
+      "matrisi I tip iribuynuzlu kollagendən",
+      "donuz mənşəli kseomaterial"
+    ]
+  },
+  {
+    "question": "E-Z DermTM Porcine Xenograft (Brennen Medical , LLC) nədən ibarətdir?",
+    "answers": [
+      "donuz mənşəli kseomaterial",
+      "quş mənşəli matrisdən",
+      "matrisi I tip iribuynuzlu kollagendən",
+      "matrisi I,III və V tipli iribuynuzlu heyvan kollagendən",
+      "insan dərisindən"
+    ]
+  },
+  {
+    "question": "GammagraftTM (Promethean Lifesciences, İnC) ) nədən ibarətdir?",
+    "answers": [
+      "insan dərisindən",
+      "matrisi I,III və V tipli iribuynuzlu heyvan kollagendən",
+      "quş mənşəli matrisdən",
+      "matrisi I tip iribuynuzlu kollagendən",
+      "donuz mənşəli kseomaterial"
+    ]
+  },
+  {
+    "question": "Birinci qrupa aid olan dəri əvəzediciləri bioloji sarğı kimi istifadə olunur. Bu sarğılar necə gündən sonra çıxarılır?",
+    "answers": [
+      "12-21",
+      "9-12",
+      "7-12",
+      "21-28",
+      "8-10"
+    ]
+  },
+  {
+    "question": "Hidrokolloidlər və hidroliflər hansı maddələrdən hazırlanır?",
+    "answers": [
+      "pektin və karboksimetilselüloz",
+      "poliuretan",
+      "silikon",
+      "hidrofilik madə",
+      "dəniz yosunlarından"
+    ]
+  },
+  {
+    "question": "Modifikasiya olunmuş döşək tikişini secin :",
+    "answers": [
+      "Pulley tikişi",
+      "Schmieden tikişi",
+      "sadə təkişi",
+      "davamlı tikiş",
+      "Donatti tikişi"
+    ]
+  },
+  {
+    "question": "Horizontal matris tikişinə göstəriş:",
+    "answers": [
+      "alın dəri toxuması",
+      "aponevroz",
+      "əzələ",
+      "dərialtı piy toxuması",
+      "güdülun salınması"
+    ]
+  },
+  {
+    "question": "Qızıl standart qəbul edilən tikiş növünü secin:",
+    "answers": [
+      "sadə tək",
+      "Horizontal matris",
+      "davamlı (Continuous Over and Over)",
+      "Pulley",
+      "vertikal döşək"
+    ]
+  },
+  {
+    "question": "Dəri qreftinin sağalması üç mərhələdə təsvir edilir. İkinci mərhələni secin:",
+    "answers": [
+      "Revaskulyarizasiya",
+      "Rekonvalissensiya",
+      "Reqenerasiya",
+      "Maturasion",
+      "İmbibisyon və İnoskulasion"
+    ]
+  },
+  {
+    "question": "Dəri qreftinin sağalması üç mərhələdə təsvir edilir. 3-ü mərhələni secin:",
+    "answers": [
+      "Maturasion",
+      "Rekonvalissensiya",
+      "İmbibisyon və İnoskulasion",
+      "Reqenerasiya",
+      "Revaskulyarizasiya"
+    ]
+  },
+  {
+    "question": "STSG-lər (hissəvi qalınlıqda dəri qrefti) orjinal ölçüsündən necə dəfə cox böyüdülə bilər:",
+    "answers": [
+      "6 dəfə",
+      "4 dəfə",
+      "10 dəfə",
+      "1 dəfə",
+      "2dəfə"
+    ]
+  },
+  {
+    "question": "Fiddler hörümcəyi kimi həşarat dişləməsi hansı yaraların səbəbidir?",
+    "answers": [
+      "kəskin travmatik yaralar",
+      "diabetik yaralar",
+      "sıxılmış yaralar",
+      "arterial yaralar",
+      "limfatik yaralar"
+    ]
+  },
+  {
+    "question": "Dəri və dırnaqların kiçik zədələnməsi hansı yaraların səbəbidir?",
+    "answers": [
+      "diabetik",
+      "sıxılmış",
+      "arterial",
+      "limfatik",
+      "neyropatik"
+    ]
+  },
+  {
+    "question": "Sıxılmış yaralar daha cox necə adlandırılır:",
+    "answers": [
+      "yataq",
+      "neyropatik",
+      "limfatik",
+      "arterial",
+      "venoz"
+    ]
+  },
+  {
+    "question": "Aşağı ətrafların limfa damarlarının qeyri-kafi mikrosirkulyasiyası hansı yaraların səbəbidir?",
+    "answers": [
+      "limfatik",
+      "sıxılmış",
+      "neyropatik",
+      "arterial",
+      "venoz"
+    ]
+  },
+  {
+    "question": "Sıxılmış yaraların səbəbi:",
+    "answers": [
+      "yataq yaraları olan yaşlı insanlar",
+      "Fiddler hörümcəyinin dişləməsi nəticəsində",
+      "radiasiya terapiyasının istifadəsi nəticəsində",
+      "Dəri və dırnaqların kiçik zədələnməsi",
+      "limfa damarlarının qeyri-kafi mikrosirkulyasiyası"
+    ]
+  },
+  {
+    "question": "Müxtəlif əzələlərin təsnif edildiyi beş fərqli damar nümunəsi var. Aşağdakılardan I tip-damar ayağcığı (pedikülü) secin :",
+    "answers": [
+      "əzələlər tək damar ayaqcığı ilə qidalandırılır",
+      "əzələlər tək dominant pedikül və ikikncili seqmentar damar pedikülləri ilə qidalandırır",
+      "əzələlər qarın əzələsi boyunca daxil olan seqmentar damar pedikülləri ilə qidalandırır",
+      "əzələlər ayrı-ayrı damar mənbələrindən iki böyük damar pedikülünə malikdir",
+      "əzələlər həm dominant, həm də kiçik damar ayaqcığı tərəfindən qidalandırılır"
+    ]
+  },
+  {
+    "question": "Müxtəlif əzələlərin təsnif edildiyi beş fərqli damar nümunəsi var. Aşağdakılardan II tip-damar ayağcığı (pedikülü) secin :",
+    "answers": [
+      "əzələlər həm dominant, həm də kiçik damar ayaqcığı tərəfindən qidalandırılır",
+      "əzələlər tək dominant pedikül və ikikncili seqmentar damar pedikülləri ilə qidalandırır",
+      "əzələlər qarın əzələsi boyunca daxil olan seqmentar damar pedikülləri ilə qidalandırır",
+      "əzələlər ayrı-ayrı damar mənbələrindən iki böyük damar pedikülünə malikdir",
+      "əzələlər tək damar ayaqcığı ilə qidalandırılır"
+    ]
+  },
+  {
+    "question": "Müxtəlif əzələlərin təsnif edildiyi beş fərqli damar nümunəsi var. Aşağdakılardan III tip-damar ayağcığı (pedikülü) secin :",
+    "answers": [
+      "əzələlər ayrı-ayrı damar mənbələrindən iki böyük damar pedikülünə malikdir",
+      "əzələlər tək dominant pedikül və ikikncili seqmentar damar pedikülləri ilə qidalandırır",
+      "əzələlər qarın əzələsi boyunca daxil olan seqmentar damar pedikülləri ilə qidalandırır",
+      "əzələlər tək damar ayaqcığı ilə qidalandırılır",
+      "əzələlər həm dominant, həm də kiçik damar ayaqcığı tərəfindən qidalandırılır"
+    ]
+  },
+  {
+    "question": "Müxtəlif əzələlərin təsnif edildiyi beş fərqli damar nümunəsi var. Aşağdakılardan İV tip-damar ayağcığı (pedikülü) secin :",
+    "answers": [
+      "əzələlər qarın əzələsi boyunca daxil olan seqmentar damar pedikülləri ilə qidalandırır",
+      "əzələlər tək dominant pedikül və ikikncili seqmentar damar pedikülləri ilə qidalandırır",
+      "əzələlər tək damar ayaqcığı ilə qidalandırılır",
+      "əzələlər ayrı-ayrı damar mənbələrindən iki böyük damar pedikülünə malikdir",
+      "əzələlər həm dominant, həm də kiçik damar ayaqcığı tərəfindən qidalandırılır"
+    ]
+  },
+  {
+    "question": "Müxtəlif əzələlərin təsnif edildiyi beş fərqli damar nümunəsi var. Aşağdakılardan V tip-damar ayağcığı (pedikülü) secin :",
+    "answers": [
+      "əzələlər tək dominant pedikül və ikikncili seqmentar damar pedikülləri ilə qidalandırır",
+      "əzələlər tək damar ayaqcığı ilə qidalandırılır",
+      "əzələlər qarın əzələsi boyunca daxil olan seqmentar damar pedikülləri ilə qidalandırır",
+      "əzələlər həm dominant, həm də kiçik damar ayaqcığı tərəfindən qidalandırılır",
+      "əzələlər ayrı-ayrı damar mənbələrindən iki böyük damar pedikülünə malikdir"
+    ]
+  },
+  {
+    "question": "Dəri qreftinin sağalması üç mərhələdə təsvir edilir. 1-ci mərhələni secin:",
+    "answers": [
+      "İmbibisyon və İnoskulasion",
+      "Rekonvalissensiya",
+      "Maturasion",
+      "Reqenerasiya",
+      "Revaskulyarizasiya"
+    ]
+  },
+  {
+    "question": "Epidermis hüceyrələrinin əsas növlərindən birini secin:",
+    "answers": [
+      "keratinositlər",
+      "monositlər",
+      "eritrositlər",
+      "leykositlər",
+      "eozinofillər"
+    ]
+  },
+  {
+    "question": "Sıxılmış yaraların səbəbi:",
+    "answers": [
+      "nevroloji öəstəlikdən əziyyət cəkən xəstələr",
+      "Fiddler hörümcəyinin dişləməsi nəticəsində",
+      "radiasiya terapiyasının istifadəsi nəticəsində",
+      "limfa damarlarının qeyri-kafi mikrosirkulyasiyası",
+      "Dəri və dırnaqların kiçik zədələnməsi"
+    ]
+  },
+  {
+    "question": "Estetik cərrahiyyə aiddir:",
+    "answers": [
+      "gözəllik baxımından xarici görnüşün yaxşılaşdırılması",
+      "qarın boşluğuna drenaj yeridilməsi",
+      "hemostazın yoxlanılması",
+      "ümumi görünüşü eybəcərləşdirən xarici deformasiyaların aradan qaldırılması",
+      "orqanın fəaliyyətinin bərpası"
+    ]
+  }
+]
