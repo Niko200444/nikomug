@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="styles.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
   <!-- PWA -->
@@ -62,8 +62,12 @@
   <!-- Welcome screen -->
   <div id="welcomeScreen" class="welcome-screen">
     <div class="welcome-card">
-      <h1>DR NİKO</h1>
-      <p></p>
+      <div class="welcome-brand" aria-label="DR NİKO Premium">
+        <span class="premium-badge"><i class="fa fa-crown"></i> (Premium)</span>
+        <h1><span>DR</span> NİKO</h1>
+        <span class="premium-rule" aria-hidden="true"></span>
+      </div>
+      <p class="welcome-tagline">Bilik · Fokus · Nəticə</p>
       <button id="startBtn" class="primary-btn">
         <i class="fa fa-play"></i> Başla
       </button>

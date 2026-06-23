@@ -141,10 +141,19 @@ body.dark-mode ::-webkit-scrollbar-thumb:hover{background:#6b7280;}
 
 /* Welcome */
 .welcome-screen{ min-height: 100vh; display:flex; align-items:center; justify-content:center; padding:24px; }
-.welcome-card{ max-width:420px; width:100%; background:rgba(255,255,255,0.96); border-radius:26px; padding:32px 28px 28px; box-shadow:0 22px 50px rgba(15,23,42,0.18); text-align:center; position:relative; overflow:hidden; }
-.welcome-card::before{ content:""; position:absolute; inset:-40%; background: radial-gradient(circle at top left, rgba(129,140,248,0.2), transparent 60%), radial-gradient(circle at bottom right, rgba(45,212,191,0.2), transparent 55%); opacity:0.9; pointer-events:none; }
-.welcome-card h1{ font-size:2.4rem; margin:0 0 8px; letter-spacing:0.08em; text-transform:uppercase; position:relative; z-index:1; }
-.welcome-card p{ margin:0 0 24px; color:var(--text-muted); font-size:0.98rem; position:relative; z-index:1; }
+.welcome-card{ max-width:440px; width:100%; background:linear-gradient(145deg,#111827 0%,#020617 58%,#172033 100%); border:1px solid rgba(226,196,112,0.55); border-radius:30px; padding:38px 30px 30px; box-shadow:0 32px 80px rgba(2,6,23,0.38),0 0 0 6px rgba(226,196,112,0.06); text-align:center; position:relative; overflow:hidden; isolation:isolate; }
+.welcome-card::before{ content:""; position:absolute; inset:-45%; background:radial-gradient(circle at 30% 22%,rgba(251,220,133,0.20),transparent 32%),radial-gradient(circle at 78% 82%,rgba(99,102,241,0.20),transparent 35%); opacity:1; pointer-events:none; z-index:-2; }
+.welcome-card::after{ content:""; position:absolute; inset:1px; border-radius:28px; border:1px solid rgba(255,255,255,0.08); pointer-events:none; z-index:-1; }
+.welcome-brand{ position:relative; z-index:1; display:flex; flex-direction:column; align-items:center; }
+.premium-badge{ display:inline-flex; align-items:center; gap:7px; padding:6px 12px; margin-bottom:13px; border:1px solid rgba(251,220,133,0.52); border-radius:999px; background:rgba(251,220,133,0.08); color:#f8dda0; font-size:0.7rem; font-weight:800; letter-spacing:0.18em; box-shadow:inset 0 1px 0 rgba(255,255,255,0.12); }
+.premium-badge i{ font-size:0.72rem; }
+.welcome-card h1{ font-size:clamp(2.65rem,9vw,3.55rem); line-height:0.95; margin:0; letter-spacing:-0.035em; text-transform:uppercase; font-weight:900; color:#fff; text-shadow:0 3px 20px rgba(0,0,0,0.38); position:relative; z-index:1; }
+.welcome-card h1 span{ color:#e8c86e; font-weight:900; }
+.premium-rule{ width:78px; height:3px; margin-top:17px; border-radius:999px; background:linear-gradient(90deg,transparent,#f4d477,transparent); box-shadow:0 0 18px rgba(244,212,119,0.52); }
+.welcome-card p{ margin:15px 0 25px; color:#aeb9cc; font-size:0.82rem; font-weight:600; letter-spacing:0.16em; text-transform:uppercase; position:relative; z-index:1; }
+.welcome-card .primary-btn{ position:relative; z-index:1; min-width:150px; background:linear-gradient(135deg,#f8dda0,#c99b35); color:#17120a; font-weight:800; box-shadow:0 16px 34px rgba(201,155,53,0.28); }
+.welcome-card .primary-btn:hover{ box-shadow:0 20px 42px rgba(201,155,53,0.38); }
+@media (max-width:480px){ .welcome-card{ padding:34px 22px 26px; border-radius:26px; } }
 
 /* Buttons */
 .primary-btn, .secondary-btn{
