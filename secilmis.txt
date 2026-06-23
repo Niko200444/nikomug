@@ -1,0 +1,255 @@
+159. Peutz-Yeghers sindromu nə ilə səciyyələnir:
+A) əsasən nazik bağırsağı zədələməklə qastrointestinal traktın bağırsağın hamartomatoz polipozu və mukokutaneoz piqmentasiya ilə
+B) mədə-bağırsaq traktının çoxsaylı retension polipləri ilə
+C) yoğun bağırsağın autosom-domunant yolla irsən ötürülən adenomatoz polipozu, yumşaq toxuma və sümük şişləri ilə
+D) yoğun bağırsaqda autosom-domunant yolla irsən ötürülən çoxsaylı adenomatoz poliplərin olması ilə
+E) yoğun bağırsağın autosom-resessiv yolla ötürülmə tərzinə malik adenomatoz polipozu və mərkəzi sinir sisteminin şişi ilə
+Düzgün cavab: əsasən nazik bağırsağı zədələməklə qastrointestinal traktın bağırsağın hamartomatoz polipozu və mukokutaneoz piqmentasiya ilə
+
+185. Qida borusu xərçənginin əsas histoloji forması aşağıdakıdır:
+A) buynuzlaşmayan yasti hüceyrəli xərçəng
+B) keçid hüceyrəli xərçəng
+C) sarkoma
+D) adenokarsinoma
+E) xırda hüceyrəli xərçəng
+Düzgün cavab: buynuzlaşmayan yasti hüceyrəli xərçəng
+
+199. Qida borusunun boyun hissəsinin xərçəngində əsas tətbiq olunur.
+A) şüa müalicəsi
+B) targent terapiya
+C) hormonal terapiya
+D) kimyəvi terapiya
+E) cərrahiyə müalicə
+Düzgün cavab: şüa müalicəsi
+
+205. Mədə xərçənginin əmələ gəlməsində aşağıdakılardan hansı irsi gen mutasiyalarının rolu təsdiq edilməmişdir:
+A) BRCA2 gen mutasiyası
+B) APC gen mutasıyası
+C) CDH gen mutasiyası
+D) P53 gen mutasıyası
+E) MMR gen mutasiyası
+Düzgün cavab: BRCA2 gen mutasiyası
+
+213. Mədə xərçənginin TNM təsnifatında Tis nəyi səciyyələndirir:
+A) şişin bazal membranı keçməməsini
+B) şişin əzələ qişasına keçmədiyini
+C) birincili şişin aşkar edilə bilməməsini
+D) şişin selikli qişa hüdudunda məhdudlaşmasını
+E) şişin selikaltı qatda məhdudlaşmasını
+Düzgün cavab: şişin bazal membranı keçməməsini
+
+217. İnstrumental müayinələr arasında mədə xərçənginin aşkar edilməsi baxımından ən informativi hansıdır:
+A) qastroskopiya
+B) nüvə-maqnit tomoqrafiyası
+C) ultrasəs müayinəsi
+D) kompüter tomoqrafiya
+E) həzm traktının kontrast rentgenoloji müayinəsi
+Düzgün cavab: qastroskopiya
+
+218. Mədə xərçənginin rezektabelliyinin preoperativ dövrdə qiymətləndirməsində aşağıdakı müayinələrdən ən dəqiqi hansıdır:
+A) kompüter-tomoqrafiya, yaxud maqnit-rezonans tomoqrafiya
+B) qastroskopiya
+C) bioptatın patohistoloji müayinəsi
+D) ultrasəs müayinəsi
+E) rentgenoloji müayinə
+Düzgün cavab: kompüter-tomoqrafiya, yaxud maqnit-rezonans tomoqrafiya
+
+231. Süd vəzisi xərçənginin ən geniş yayılmış histoloji forması hansıdır:
+A) infiltrativ axardaxili xərçəng
+B) papillyar xərçəng
+C) infiltrativ paycıq xərçəng
+D) qeyri- infiltrativ paycıq xərçəng
+E) qeyri-infiltrativ axardaxili xərçəng
+Düzgün cavab: infiltrativ axardaxili xərçəng
+
+255. Müasir dövrdə ən çox istifadə edilən mastektomiya modifikasiyası hansıdır:
+A) Maden üsülü ilə mastektomiya
+B) sadə mastektomiya
+C) Urban üsulu ilə mastektomiya
+D) Peyti-Dayson üsulu ilə mastektomiya
+E) Xolsted-Mayer üsulu ilə mastektomiya
+Düzgün cavab: Maden üsülü ilə mastektomiya
+
+275. Sümük sarkomalarının diqanostikasında hansı müayinə üsulu həll edicidir:
+A) morfoloji müayinə
+B) radioizotop müayinə
+C) angioqrafik müayinə
+D) KT müayinə
+E) rentgenoloji müayinə
+Düzgün cavab: morfoloji müayinə
+
+277. Osteogen sarkomanın müasir müalicə üsulu:
+A) kompleks müalicə (əməliyyatönü kimyəvi dərman müalicəsi + əməliyyat + adyuvant kimyəvi dərman müalicəsi)
+B) cərrahi müalicə
+C) cərrahi müalicə + şüa müalicəsi
+D) kimyəvi dərman müalicəsi
+E) şüa müalicəsi
+Düzgün cavab: kompleks müalicə (əməliyyatönü kimyəvi dərman müalicəsi + əməliyyat + adyuvant kimyəvi dərman müalicəsi)
+
+278. Bu şişlərdən hansı şüa terapiyasına daha həssasdır:
+A) sümüyün bədxassəli limfoması + Yuinq sarkoması
+B) osteogen sarkoma
+C) xondrosarkoma
+D) bədxassəli fibroz histiositoma
+E) parostal sarkoma
+Düzgün cavab: sümüyün bədxassəli limfoması + Yuinq sarkoması
+
+290. Uşaqlıq boynu xərçənginin əsas metastazvermə yolu:
+A) limfogen
+B) kontakt
+C) limfohematogen
+D) implantasion
+E) hematogen
+Düzgün cavab: limfogen
+
+310. Uşaqlıq boynu xərçəngi zamanı kimyəvi dərman müalicəsində ən yüksək effektivliyə malik preparatlar:
+A) Sisplatin, İzofosfamid
+B) Letrozol
+C) Zoladex
+D) Fareston
+E) Tamoksifen
+Düzgün cavab: Sisplatin, İzofosfamid
+
+315. Uşaqlıq cismi xərçənginin estrogendən asılı olmayan patogenetik variantı xəstələrin neçə faizində müşahidə olunur:
+A) 30%
+B) 15%
+C) 20%
+D) 60%
+E) 70%
+Düzgün cavab: 30%
+
+328. Uşaqlıq cismi xərçəngi hematogen yolla metastaz verir:
+A) bütün cavablar düzgündür
+B) qaraciyərə
+C) baş beyinə
+D) ağciyərlərə
+E) sümüklərə
+Düzgün cavab: bütün cavablar düzgündür
+
+361. Cüt orqanların bədxassəli şişlərində M kateqoriyası hansı orqanın şişinə aid olduğu təyin olunur:
+A) morfoloji müayinə ilə
+B) KT
+C) PET
+D) qanın biokimyəvi müayinəsi ilə
+E) MRT
+Düzgün cavab: morfoloji müayinə ilə
+
+384. Hansı orqan və sistemlərin bədxassəli proseslərinin diaqnostikasında radioizotop müayinəsindən istifadə edilmir:
+A) bazaliomalar
+B) böyrək şişlərində
+C) qalxanabənzər vəzinin şişlərində
+D) qaraciyərin birincili və ikincili şişlərində
+E) sümüklərə metastazlar zamanı
+Düzgün cavab: bazaliomalar
+
+390. Bədxassəli fibroz-histiositomanın hansı histoloji variantı yoxdur:
+A) alveolyar
+B) iltihabi
+C) nəhənghüceyrəli
+D) pleomorf
+E) miksoid
+Düzgün cavab: alveolyar
+
+398. Yumurtalıqların epitelial şişlərin diaqnostikası və müalicə effektivliyinin qiymətləndirilməsində istifadə edilən onkomarker göstəricisi:
+A) CA-125
+B) İXQ
+C) CA-15-3
+D) PSA
+E) AFP
+Düzgün cavab: CA-125
+
+401. Yumurtalıq şişlərinin histoloji tipinə aid deyil:
+A) medulyar xərçəng
+B) qranulyoz hüceyrəli şiş
+C) disherminoma
+D) androblastoma
+E) Brenner şişi
+Düzgün cavab: medulyar xərçəng
+
+407. Aşağıdakılardan hansı yumurtalıqların bədxassəli şişlərindən radioterapiyaya ən həssas olanıdır:
+A) disherminomalar
+B) endometriod xərçəng
+C) musinoz xərçəng
+D) seroz xərçəng
+E) uşaqlıq artımı stromanın şişləri
+Düzgün cavab: disherminomalar
+
+408. Sümük sarkomalarının hansı növü skeletin digər sümüklərinə metastaz verməyə daha meyillidir:
+A) Yuinq sarkoması
+B) Osteogen sarkoma
+C) Sümüyün primitiv neyroektodermal şişi
+D) Xondrosarkoma
+E) Fibrosarkoma
+Düzgün cavab: Yuinq sarkoması
+
+409. Sümüyün nəhənghüceyrəli şişi maliqnizasiyaya uğradıqda hansı sarkoma növünə çevrilə bilər:
+A) Fibrosarkoma və ya osteogen sarkoma
+B) Sümüyün nəhənghüceyrəli şişi maliqnizasiyaya uğramır
+C) Sümüyün primitiv neyroektodermal şişi
+D) Yuinq sarkoması
+E) Xondrosarkoma
+Düzgün cavab: Fibrosarkoma və ya osteogen sarkoma
+
+412. Hansı halda yalnız cərrahi müalicə ilə kifayətlənmək olar:
+A) Sümüyün bədxassəli fibroz histiositoması və osteoxondroma
+B) Bütün cavablar doğrudur
+C) Sümüyün primitiv neyroektodermal şişi
+D) Sümüyün nəhənghüceyrəli şişi və osteogen sarkoma
+E) Osteoid-osteoma və osteoxondroma
+Düzgün cavab: Sümüyün bədxassəli fibroz histiositoması və osteoxondroma
+
+415. Qaraciyər xərçənginin müalicəsinə aid deyil:
+A) total-mezorektal ekssiziya
+B) mikrodalğa ilə koaqulyasion terapiya
+C) perikutans sirkə turşu inyeksiyası
+D) krioablasiya
+E) radiotezliklə ablasiya
+Düzgün cavab: total-mezorektal ekssiziya
+
+417. Mədənin antral hissəsinin stenozla ağırlaşmış inrezektabel xərçəngi zamanı hansı cərrahi əməliyyat aparılır:
+A) qastroenterostomiya
+B) total kolektomiya
+C) proksimal subtotal rezeksiya
+D) distal subtotal rezeksiya
+E) qastroektomiya
+Düzgün cavab: qastroenterostomiya
+
+419. Düz bağırsağın hansı şöbəsini xərçəngi üçün şüa müalicəsi xarakterikdir:
+A) aşağı ampulyar hissə
+B) yuxarı ampulyar hissə
+C) s-vari bağırsaq
+D) rektosiqmoid nahiyə
+E) bütün şöbələri üçün xarakterikdir
+Düzgün cavab: aşağı ampulyar hissə
+
+430. Süd vəzisinin hansı şişləri daha tez maliqnizasiya uğrayır:
+A) filloid şişlər
+B) perikanalikulyar fibroadenomalar
+C) lipomalar
+D) adenomalar
+E) intrakanalikulyar fibroadenomalar
+Düzgün cavab: filloid şişlər
+
+431. Uşaqlıq boununun xərçəngönü xəstəliklərinə aiddir:
+A) Epitelial displaziya
+B) Keyra eritroplaziyası
+C) Xaşimoto tireoiditi
+D) Intestinal metaplaziya
+E) Pecet xəstəliyi
+Düzgün cavab: Epitelial displaziya
+
+433. Uşaqlıq boynu xərçənginin cərrahi müalicəsinə aiddir:
+A) Vertheym əməliyyatı
+B) Bilobektomiya
+C) Soltərəfli hemikolektomiya
+D) Lyuis əməliyyatı
+E) Düken əməliyyatı
+Düzgün cavab: Vertheym əməliyyatı
+
+435. Endometriumun xərçəngi zamanı hormonal terapiyada istifadə olunan peparatlar:
+A) 17-oksiprogesteron kapronat
+B) testesteron propionat
+C) prednizolon
+D) L-tiroksin
+E) Tamoksifen
+Düzgün cavab: 17-oksiprogesteron kapronat

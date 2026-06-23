@@ -7,12 +7,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Libre+Baskerville:wght@400;700&family=Playfair+Display:wght@700;800;900&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="styles.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
   <!-- PWA -->
   <link rel="manifest" href="manifest.webmanifest" />
-  <meta name="theme-color" content="#fdfbf2" />
+  <meta name="theme-color" content="#020617" />
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -51,7 +51,7 @@
   <!-- Admin login button -->
   <button id="adminLoginBtn" class="floating-admin-btn">
     <i class="fa fa-user-shield"></i>
-    <span>Admin girişi</span>
+    <span>Adminomu</span>
   </button>
 
   <!-- Quick Flashcard toggle -->
@@ -74,7 +74,7 @@
   <div id="mainContent" class="main-content" style="display:none;">
     <header class="top-bar">
       <div class="logo">
-        <span class="logo-main">DR NİKO</span>
+        <span class="logo-main">DR NİKOMU</span>
         <span class="logo-sub"></span>
       </div>
 
@@ -85,6 +85,7 @@
 <option value="5">5</option>
 <option value="10" selected>10</option>
 <option value="20">20</option>
+<option value="25">25</option>
 <option value="50">50</option>
 <option value="100">100</option>
 </select> 
@@ -137,58 +138,10 @@
         </h2>
         <div class="category-list">
           <div class="all-mix-inline" style="display:flex;align-items:center;gap:6px;"><button class="category-btn" data-category="__ALL__"><i class="fa fa-layer-group"></i> ALL (mix)</button><button id="mixEditBtn" class="icon-btn" title="ALL düzənlə" style="padding:4px 6px;border:1px solid #ddd;border-radius:8px;background:#fff;cursor:pointer"><i class="fa fa-pen"></i></button></div>
-          <button class="category-btn" data-category="fiz.json">
-            <i class="fa fa-stay"></i> Yanağında qara xal
+          <button class="category-btn" data-category="aa.json">
+            <i class="fa fa-stay"></i> Qara gözlər
           </button>
-          <button class="category-btn" data-category="fizets.json">
-            <i class="fa fa-baby"></i> Qal sənə qurban
-          </button>
-          <button class="category-btn" data-category="torak.json">
-            <i class="fa fa-microchip"></i> Torakal sem
-          </button>
-          <button class="category-btn" data-category="aile.json">
-            <i class="fa fa-ambulance"></i> C
-          </button>
-           <button class="category-btn" data-category="kardio1.json">
-            <i class="fa fa-microchip"></i>  👉👈
-          </button>
-           <button class="category-btn" data-category="kardio2.json">
-            <i class="fa fa-microchip"></i> Friends? No thankss                   
-             Best Friendss 🦖
-          </button>
-          <button class="category-btn" data-category="torakal.json">
-            <i class="fa fa-flask"></i> Torakal
-          </button>
-          <button class="category-btn" data-category="plastik.json">
-            <i class="fa fa-heartbeat"></i> Plastik
-          </button>
-          <button class="category-btn" data-category="aaab.json">
-            <i class="fa fa-brain"></i> Seçim
-          </button>
-          <button class="category-btn" data-category="seçim.json">
-            <i class="fa fa-dna"></i> Seçim 2
-          </button>
-          <button class="category-btn" data-category="sec.json">
-            <i class="fa fa-virus"></i> Seçim semestr
-          </button>
-          <button class="category-btn" data-category="patandyes.json">
-            <i class="fa fa-bacteria"></i> DYES
-          </button>
-           <button class="category-btn" data-category="mikroo.json">
-            <i class="fa fa-microchip"></i> Mikrob 954
-          </button>
-          <button class="category-btn" data-category="mikrob1.json">
-            <i class="fa fa-microchip"></i> MİKROB 1
-          </button>
-          <button class="category-btn" data-category="mikrob2.json">
-            <i class="fa fa-microchip"></i> MİKROB 2
-          </button>
-          <button class="category-btn" data-category="norfiz1.json">
-            <i class="fa fa-microchip"></i> NORFİZ 1
-          </button>
-          <button class="category-btn" data-category="abc.json">
-            <i class="fa fa-microchip"></i> aaa
-          </button>
+      
         </div>
 
         <div id="categoryResetContainer" class="reset-block">
