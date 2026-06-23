@@ -385,7 +385,7 @@ let flashOrderMode = "sequential"; // "sequential" | "random"
 let orderedIds = [];
 let randomOrderIds = [];
 
-let exam = { running:false, durationSec:1800, endTime:null, timerId:null, lastResult:null, questionIds:[] };
+let exam = { running:false, durationSec:1800, endTime:null, timerId:null, lastResult:null, questionIds:[], closedCount:0, openCount:0 };
 // active card for keyboard navigation
 let activeQuestionId = null;
 
@@ -396,7 +396,41 @@ let allMixConfig = loadJSON('quiz_all_mix', []);
 // ---------- Helpers ----------
 function storageKey(name){ return currentCategory ? ("quiz_"+currentCategory+"_"+name) : ("quiz_global_"+name); }
 
+function extractQuestionsFromData(data){
+  if (Array.isArray(data)) return data.slice();
+  if (!data || typeof data !== "object") return [];
+
+  const normal = Array.isArray(data.questions) ? data.questions.slice()
+    : (Array.isArray(data.closedQuestions) ? data.closedQuestions.slice() : []);
+  const open = Array.isArray(data.openQuestions)
+    ? data.openQuestions.map(q=>Object.assign({}, q, { openQuestion:true }))
+    : [];
+  return normal.concat(open);
+}
+
 function normalizeQuestion(raw, index){
+  const optionRows = Array.isArray(raw.options) ? raw.options : [];
+  if (optionRows.length){
+    const options = optionRows.map((option)=>({
+      text: typeof option === "string" ? option : String(option.text || ""),
+      correct: !!(option && typeof option === "object" && option.correct)
+    })).filter(option=>option.text);
+    const seedBase = hashString((raw.question||raw.q||"")+"|"+options.map(o=>o.text+":"+o.correct).join("||"));
+    const seed = (seedBase ^ SESSION_SALT ^ VIEW_SALT) >>> 0;
+    const shuffledOptions = stableShuffle(options, seed);
+    const correctIndexes = [];
+    shuffledOptions.forEach((option, idx)=>{ if (option.correct) correctIndexes.push(idx); });
+    return {
+      id:index,
+      question:raw.question||raw.q||"",
+      answers:shuffledOptions.map(option=>option.text),
+      correctIndex:correctIndexes[0] ?? 0,
+      correctIndexes,
+      isOpen:true,
+      section:raw.section||"Açıq suallar"
+    };
+  }
+
   const originalAnswers = Array.isArray(raw.answers) ? raw.answers.slice() : [];
   const correctAnswer = originalAnswers[0] || "";
   // Make answer order change on each page load while staying consistent within a single session
@@ -404,7 +438,7 @@ function normalizeQuestion(raw, index){
   const seed = (seedBase ^ SESSION_SALT ^ VIEW_SALT) >>> 0;
   const shuffled = stableShuffle(originalAnswers, seed);
   let correctIndex = Math.max(0, shuffled.indexOf(correctAnswer));
-  return { id:index, question: raw.question||"", answers: shuffled, correctIndex };
+  return { id:index, question: raw.question||"", answers: shuffled, correctIndex, correctIndexes:[correctIndex], isOpen:false, section:raw.section||"" };
 }
 function applyEditedQuestions(){
   Object.values(editedQuestions||{}).forEach((e)=>{
@@ -457,14 +491,36 @@ function _resolveSelectedIndex(q, info){
   }
   return (typeof info.index==="number") ? info.index : -1;
 }
+function _resolveSelectedIndexes(q, info){
+  if (!info) return [];
+  if (!q.isOpen){
+    const index = _resolveSelectedIndex(q, info);
+    return index >= 0 ? [index] : [];
+  }
+  if (Array.isArray(info.values)){
+    return info.values.map(value=>q.answers.indexOf(value)).filter(index=>index>=0);
+  }
+  return Array.isArray(info.indexes)
+    ? info.indexes.filter(index=>Number.isInteger(index) && index>=0 && index<q.answers.length)
+    : [];
+}
+function _isAnswerCorrect(q, info){
+  const selected = _resolveSelectedIndexes(q, info).slice().sort((a,b)=>a-b);
+  const correct = (q.correctIndexes||[q.correctIndex]).slice().sort((a,b)=>a-b);
+  return selected.length === correct.length && selected.every((index,i)=>index===correct[i]);
+}
+function _isQuestionAnswered(q, info){
+  return _resolveSelectedIndexes(q, info).length > 0;
+}
 function computeStats(){
   const total = allQuestions.length;
   let answered=0, correct=0, wrong=0;
   for (const q of allQuestions){
     const info = selectedAnswers[q.id]; if (!info) continue;
-    const idx = _resolveSelectedIndex(q, info); if (idx===-1) continue;
+    if (!_isQuestionAnswered(q, info)) continue;
     answered++;
-    if (idx===q.correctIndex) correct++; else wrong++;
+    if (q.isOpen && !exam.running && !info.checked) continue;
+    if (_isAnswerCorrect(q, info)) correct++; else wrong++;
   }
   return { total, answered, correct, wrong, flagged: flaggedQuestions.length };
 }
@@ -488,6 +544,7 @@ function getFilteredQuestionsRaw(){
     if (filterMode === "wrong")   list = list.filter(q=>wrongQuestions.includes(q.id));
     if (filterMode === "flagged") list = list.filter(q=>flaggedQuestions.includes(q.id));
     if (filterMode === "noted")   list = list.filter(q=>!!questionNotes[q.id]);
+    list = list.filter(q=>!q.isOpen).concat(list.filter(q=>q.isOpen));
   }
 
   // Normal rejim random sıralama
@@ -496,7 +553,11 @@ function getFilteredQuestionsRaw(){
     if (orderRadio && orderRadio.value === "random"){
       const ids = list.map(q=>q.id);
       const same = (randomOrderIds.length===ids.length) && ids.every(id=>randomOrderIds.includes(id));
-      if (!same) randomOrderIds = shuffleArray(ids);
+      if (!same){
+        const closedIds = list.filter(q=>!q.isOpen).map(q=>q.id);
+        const openIds = list.filter(q=>q.isOpen).map(q=>q.id);
+        randomOrderIds = shuffleArray(closedIds).concat(shuffleArray(openIds));
+      }
       list = randomOrderIds.map(id => list.find(q=>q.id===id)).filter(Boolean);
     } else {
     updateSyncControlsUI();
@@ -508,7 +569,11 @@ function getFilteredQuestionsRaw(){
 function recomputeOrderedIds(){
   const ids = getFilteredQuestionsRaw().map(q=>q.id);
   if (!singleQuestionMode){ orderedIds = ids; return; }
-  orderedIds = (flashOrderMode === "random") ? shuffleArray(ids) : ids;
+  if (flashOrderMode === "random"){
+    const closedIds = allQuestions.filter(q=>ids.includes(q.id) && !q.isOpen).map(q=>q.id);
+    const openIds = allQuestions.filter(q=>ids.includes(q.id) && q.isOpen).map(q=>q.id);
+    orderedIds = shuffleArray(closedIds).concat(shuffleArray(openIds));
+  } else orderedIds = ids;
   currentPage = 1;
 }
 function getFilteredQuestions(){
@@ -664,7 +729,7 @@ async function selectAllMixedCategory(){
   let rawMerged = [];
   for (const {file, weight, data} of results){
     const needed = Math.max(0, Math.min(100, weight));
-    const arr = Array.isArray(data)? data.slice():[];
+    const arr = extractQuestionsFromData(data);
     // random sample needed from arr
     const shuffled = shuffleArray(arr);
     const take = shuffled.slice(0, needed);
@@ -688,6 +753,20 @@ function renderAll(){
   renderSidePanel(stats);
   renderTinyStats(stats);
   updateFlashcardUI();
+}
+
+function getQuestionStatusText(q, info, maskActive){
+  if (exam.running) return "İmtahan gedir – nəticə imtahandan sonra görünəcək.";
+  if (maskActive) return "Bu baxışda cavablar gizlədilib";
+  if (q.isOpen){
+    const count = _resolveSelectedIndexes(q, info).length;
+    if (!count) return "Bir və ya bir neçə variant seç, sonra cavabı yoxla";
+    if (!info.checked) return `${count} variant seçilib · “Cavabı yoxla” düyməsinə kliklə`;
+    return _isAnswerCorrect(q, info) ? "✅ Düzgün cavab vermisən" : "❌ Bu sualda səhvin var idi";
+  }
+  const selIdx = _resolveSelectedIndex(q, info);
+  if (info && selIdx!==-1) return selIdx===q.correctIndex ? "✅ Düzgün cavab vermisən" : "❌ Bu sualda səhvin var idi";
+  return "Cavab seçmək üçün variantlardan birinə kliklə";
 }
 
 function renderQuiz(){
@@ -724,7 +803,8 @@ function renderQuiz(){
     title.appendChild(num); title.appendChild(tt);
 
     const meta = document.createElement("div"); meta.className="question-meta";
-    const wc = questionWrongCount[q.id]||0; if (wc>0){ const s=document.createElement("span"); s.innerHTML=`<i class="fa fa-fire"></i> ${wc} səhv`; meta.appendChild(s); }
+    if (q.isOpen){ const s=document.createElement("span"); s.className="open-question-badge"; s.innerHTML=`<i class="fa fa-list-check"></i> Açıq · çoxseçimli`; meta.appendChild(s); }
+    const wc = questionWrongCount[q.id]||0; if (!exam.running && wc>0){ const s=document.createElement("span"); s.innerHTML=`<i class="fa fa-fire"></i> ${wc} səhv`; meta.appendChild(s); }
     if (flaggedQuestions.includes(q.id)){ const s=document.createElement("span"); s.className="question-flag-meta"; s.innerHTML=`<i class="fa fa-flag"></i> flag`; meta.appendChild(s); }
     if (editedQuestions[q.id]){ const s=document.createElement("span"); s.innerHTML=`<i class="fa fa-pen"></i> dəyişib`; meta.appendChild(s); }
 
@@ -735,6 +815,8 @@ function renderQuiz(){
     // MASK: wrong/flagged daxilində ilk açılışda cavab gizlədilir; klikdən sonra görünür
     const info = maskActive ? null : selectedAnswers[q.id];
     const selIdx = _resolveSelectedIndex(q, info);
+    const selectedIndexes = new Set(_resolveSelectedIndexes(q, info));
+    const correctIndexes = new Set(q.correctIndexes||[q.correctIndex]);
 
     q.answers.forEach((ans, idx)=>{
       const btn = document.createElement("button"); btn.className="answer-btn";
@@ -742,7 +824,16 @@ function renderQuiz(){
       const text = document.createElement("span"); text.textContent = ans;
       btn.appendChild(letter); btn.appendChild(text);
       if (info){
-        if (exam.running){ if (idx===selIdx) btn.classList.add("exam-selected"); }
+        if (q.isOpen){
+          if (exam.running || !info.checked){
+            if (selectedIndexes.has(idx)) btn.classList.add("exam-selected");
+          } else {
+            if (selectedIndexes.has(idx) && correctIndexes.has(idx)) btn.classList.add("correct");
+            else if (selectedIndexes.has(idx)) btn.classList.add("wrong");
+            else if (correctIndexes.has(idx)) btn.classList.add("missed");
+          }
+          btn.setAttribute("aria-pressed", selectedIndexes.has(idx) ? "true" : "false");
+        } else if (exam.running){ if (idx===selIdx) btn.classList.add("exam-selected"); }
         else if (idx===selIdx){ (idx===q.correctIndex?btn.classList.add("correct"):btn.classList.add("wrong")); }
       }
       btn.addEventListener("click", ()=> onAnswerClick(q.id, idx));
@@ -756,6 +847,14 @@ function renderQuiz(){
     const flagBtn = document.createElement("button"); flagBtn.className="icon-btn flag-toggle"; if (flaggedQuestions.includes(q.id)) flagBtn.classList.add("flagged");
     flagBtn.innerHTML = `<i class="fa fa-flag"></i> Flag`; flagBtn.addEventListener("click", ()=> toggleFlag(q.id)); actions.appendChild(flagBtn);
 
+    if (q.isOpen && !exam.running){
+      const checkBtn = document.createElement("button"); checkBtn.className="icon-btn open-check-btn";
+      checkBtn.disabled = selectedIndexes.size===0;
+      checkBtn.innerHTML = `<i class="fa fa-circle-check"></i> Cavabı yoxla`;
+      checkBtn.addEventListener("click", ()=> checkOpenAnswer(q.id));
+      actions.appendChild(checkBtn);
+    }
+
     if (!exam.running){
       const showBtn = document.createElement("button"); showBtn.className="icon-btn";
       showBtn.innerHTML = `<i class="fa fa-check-circle"></i> Düzgün cavab`; showBtn.addEventListener("click", ()=> toggleCorrectAnswer(q.id)); actions.appendChild(showBtn);
@@ -764,21 +863,21 @@ function renderQuiz(){
     const noteBtn = document.createElement("button"); noteBtn.className="icon-btn"; if (questionNotes[q.id]) noteBtn.classList.add("has-note");
     noteBtn.innerHTML = `<i class="fa fa-sticky-note"></i> Qeyd`; noteBtn.addEventListener("click", ()=> toggleNoteEditor(q.id)); actions.appendChild(noteBtn);
 
-    if (wrongQuestions.includes(q.id)){
+    if (!exam.running && wrongQuestions.includes(q.id)){
       const rmWrongBtn = document.createElement("button"); rmWrongBtn.className="icon-btn";
       rmWrongBtn.innerHTML=`<i class="fa fa-minus-circle"></i> Səhv siyahısından çıxar`; rmWrongBtn.addEventListener("click", ()=> removeFromWrong(q.id)); actions.appendChild(rmWrongBtn);
     }
 
-    const editBtn = document.createElement("button"); editBtn.className="icon-btn admin-only";
-    editBtn.innerHTML = `<i class="fa fa-pen"></i> Redaktə (admin)`; editBtn.addEventListener("click", ()=> editQuestion(q.id)); actions.appendChild(editBtn);
+    if (!q.isOpen){
+      const editBtn = document.createElement("button"); editBtn.className="icon-btn admin-only";
+      editBtn.innerHTML = `<i class="fa fa-pen"></i> Redaktə (admin)`; editBtn.addEventListener("click", ()=> editQuestion(q.id)); actions.appendChild(editBtn);
+    }
 
     footer.appendChild(actions);
 
     const infoPillWrap = document.createElement("div");
     const pill = document.createElement("span"); pill.className="note-pill";
-    if (exam.running) pill.textContent="İmtahan gedir – nəticə imtahandan sonra görünəcək.";
-    else if (info && selIdx!==-1) pill.textContent = (selIdx===q.correctIndex) ? "✅ Düzgün cavab vermisən" : "❌ Bu sualda səhvin var idi";
-    else pill.textContent = maskActive ? "Bu baxışda cavablar gizlədilib" : "Cavab seçmək üçün variantlardan birinə kliklə";
+    pill.textContent = getQuestionStatusText(q, info, maskActive);
     infoPillWrap.appendChild(pill);
     footer.appendChild(infoPillWrap);
 
@@ -798,7 +897,8 @@ function renderQuiz(){
     // re-render can no longer expose it accidentally.
     if (!exam.running){
       const correctDiv = document.createElement("div"); correctDiv.id="correct-answer-"+q.id; correctDiv.className="correct-answer-text";
-      correctDiv.textContent = "Düzgün cavab: " + (q.answers[q.correctIndex]||"");
+      const answers = (q.correctIndexes||[q.correctIndex]).map(index=>q.answers[index]).filter(Boolean);
+      correctDiv.textContent = "Düzgün cavab: " + answers.join(" · ");
       card.appendChild(correctDiv);
     }
 
@@ -840,12 +940,14 @@ function renderSidePanel(stats, options){
   const editedList = document.getElementById("editedQuestionsList");
 
   const s = stats || computeStats();
+  const visibleCorrect = exam.running ? "—" : s.correct;
+  const visibleWrong = exam.running ? "—" : s.wrong;
   if (statsDiv){
     statsDiv.innerHTML = `
       <span class="label">Ümumi sual:</span><span class="value">${s.total}</span>
       <span class="label">Cavab verdiyin:</span><span class="value">${s.answered}</span>
-      <span class="label">Düzgün:</span><span class="value" style="color:var(--success);">${s.correct}</span>
-      <span class="label">Səhv:</span><span class="value" style="color:var(--danger);">${s.wrong}</span>
+      <span class="label">Düzgün:</span><span class="value" style="color:var(--success);">${visibleCorrect}</span>
+      <span class="label">Səhv:</span><span class="value" style="color:var(--danger);">${visibleWrong}</span>
       <span class="label">Flag:</span><span class="value">${s.flagged}</span>
     `;
   }
@@ -856,7 +958,8 @@ function renderSidePanel(stats, options){
 
   if (wrongList){
     wrongList.innerHTML=""; 
-    if (!wrongQuestions.length){ wrongList.classList.add("empty"); wrongList.textContent="Səhv sual yoxdur 🎉"; }
+    if (exam.running){ wrongList.classList.add("empty"); wrongList.textContent="İmtahan bitəndən sonra göstəriləcək"; }
+    else if (!wrongQuestions.length){ wrongList.classList.add("empty"); wrongList.textContent="Səhv sual yoxdur 🎉"; }
     else {
       wrongList.classList.remove("empty");
       wrongQuestions.forEach(id=>{ const b=document.createElement("button"); b.className="mini-pill"; b.textContent="#"+id; b.addEventListener("click",()=>scrollToQuestion(id)); wrongList.appendChild(b); });
@@ -885,7 +988,8 @@ function renderSidePanel(stats, options){
   if (repeatedList){
     repeatedList.innerHTML="";
     const rep = Object.entries(questionWrongCount||{}).filter(([_,c])=>c>=2).map(([id,c])=>({id:Number(id), c}));
-    if (!rep.length){ repeatedList.classList.add("empty"); repeatedList.textContent="Təkrar səhv etdiyin sual yoxdur"; }
+    if (exam.running){ repeatedList.classList.add("empty"); repeatedList.textContent="İmtahan bitəndən sonra göstəriləcək"; }
+    else if (!rep.length){ repeatedList.classList.add("empty"); repeatedList.textContent="Təkrar səhv etdiyin sual yoxdur"; }
     else {
       repeatedList.classList.remove("empty");
       rep.sort((a,b)=>b.c-a.c).forEach(it=>{ const b=document.createElement("button"); b.className="mini-pill"; b.textContent=`#${it.id} · ${it.c} dəfə`; b.addEventListener("click",()=>scrollToQuestion(it.id)); repeatedList.appendChild(b); });
@@ -920,7 +1024,7 @@ function renderSidePanel(stats, options){
 function renderTinyStats(stats){
   const s = stats || computeStats();
   const t=document.getElementById("tinyTotal"); const a=document.getElementById("tinyAnswered"); const c=document.getElementById("tinyCorrect");
-  if (t) t.textContent = s.total; if (a) a.textContent = s.answered; if (c) c.textContent = s.correct;
+  if (t) t.textContent = s.total; if (a) a.textContent = s.answered; if (c) c.textContent = exam.running ? "—" : s.correct;
 }
 
 let sidePanelIdleHandle = null;
@@ -959,9 +1063,9 @@ function updateExamUI(){
   if (!exam.running) timerEl.textContent = formatTime(exam.durationSec);
 
   if (exam.lastResult){
-    const { total, answered, correct, wrong } = exam.lastResult;
+    const { total, answered, correct, wrong, closed, open } = exam.lastResult;
     summaryEl.classList.remove("hidden");
-    summaryEl.innerHTML = `<div><strong>İmtahan nəticəsi</strong></div><div>Ümumi sual: ${total}</div><div>Cavab verdiyin: ${answered}</div><div>Düzgün: ${correct}</div><div>Səhv: ${wrong}</div>`;
+    summaryEl.innerHTML = `<div><strong>İmtahan nəticəsi</strong></div><div>Ümumi sual: ${total}</div><div>Cavab verdiyin: ${answered}</div><div>Düzgün: ${correct}</div><div>Səhv: ${wrong}</div><div>Qapalı: ${closed.correct}/${closed.total} düzgün</div><div>Açıq: ${open.correct}/${open.total} düzgün</div>`;
   } else {
     updateSyncControlsUI(); summaryEl.classList.add("hidden"); summaryEl.innerHTML=""; }
 }
@@ -970,19 +1074,29 @@ function startExam(){
   if (!currentCategory){ alert("Əvvəlcə soldan bir kateqoriya seç."); return; }
   if (exam.running) return;
   const totalQuestions = allQuestions.length; if (!totalQuestions){ alert("Bu kateqoriyada sual tapılmadı."); return; }
+  const closedPool = allQuestions.filter(q=>!q.isOpen);
+  const openPool = allQuestions.filter(q=>q.isOpen);
   let minutesStr = prompt("İmtahan müddəti (dəqiqə):", "30"); if (minutesStr===null) return;
   let minutes = parseInt(minutesStr,10); if (isNaN(minutes)||minutes<=0) minutes=30;
-  let countStr = prompt(`İmtahanda neçə sual olsun? (1 - ${totalQuestions})`, String(totalQuestions)); if (countStr===null) return;
-  let qCount = parseInt(countStr,10); if (isNaN(qCount)||qCount<=0) qCount = totalQuestions; if (qCount>totalQuestions) qCount=totalQuestions;
+  let closedStr = prompt(`Qapalı sual sayı (0 - ${closedPool.length}):`, String(closedPool.length)); if (closedStr===null) return;
+  let closedCount = parseInt(closedStr,10); if (isNaN(closedCount)) closedCount=closedPool.length; closedCount=Math.max(0,Math.min(closedPool.length,closedCount));
+  let openStr = prompt(`Açıq sual sayı (0 - ${openPool.length}):`, String(openPool.length)); if (openStr===null) return;
+  let openCount = parseInt(openStr,10); if (isNaN(openCount)) openCount=openPool.length; openCount=Math.max(0,Math.min(openPool.length,openCount));
+  const qCount = closedCount + openCount;
+  if (!qCount){ alert("İmtahan üçün ən azı bir sual seçilməlidir."); return; }
 
-  if (!confirm(`İmtahan başlayır: ${qCount} sual, ${minutes} dəqiqə.\nMövcud cavabların silinəcək. Davam edək?`)) return;
+  if (!confirm(`İmtahan başlayır: ${closedCount} qapalı + ${openCount} açıq sual, ${minutes} dəqiqə.\nMövcud cavabların silinəcək. Davam edək?`)) return;
 
   exam.running = true; exam.lastResult = null; exam.durationSec = minutes*60;
-  const shuffledIds = shuffleArray(allQuestions.map(q=>q.id));
-  exam.questionIds = shuffledIds.slice(0, qCount);
+  exam.closedCount = closedCount; exam.openCount = openCount;
+  const closedIds = shuffleArray(closedPool.map(q=>q.id)).slice(0, closedCount);
+  const openIds = shuffleArray(openPool.map(q=>q.id)).slice(0, openCount);
+  exam.questionIds = closedIds.concat(openIds);
   exam.endTime = Date.now() + exam.durationSec*1000;
 
   filterMode = "all";
+  searchQuery = "";
+  const searchInput = document.getElementById("searchInput"); if (searchInput) searchInput.value="";
   resetMaskMode(false);
   currentPage = 1;
   document.querySelectorAll(".quiz-filter-btn[data-filter]").forEach(btn=>{
@@ -1007,15 +1121,28 @@ function finishExam(manual){
   exam.running = false; if (exam.timerId){ clearInterval(exam.timerId); exam.timerId=null; }
   let list = allQuestions;
   if (Array.isArray(exam.questionIds) && exam.questionIds.length){
-    const set = new Set(exam.questionIds); list = allQuestions.filter(q=>set.has(q.id));
+    const byId = new Map(allQuestions.map(q=>[q.id,q]));
+    list = exam.questionIds.map(id=>byId.get(id)).filter(Boolean);
   }
   const total = list.length; let answered=0, correct=0, wrong=0;
+  const closed = { total:0, answered:0, correct:0, wrong:0 };
+  const open = { total:0, answered:0, correct:0, wrong:0 };
   list.forEach((q)=>{
+    const bucket = q.isOpen ? open : closed; bucket.total++;
     const ans = selectedAnswers[q.id]; if (!ans) return;
-    const idx = _resolveSelectedIndex(q, ans); if (idx===-1) return;
-    answered++; if (idx===q.correctIndex) correct++; else wrong++;
+    if (!_isQuestionAnswered(q, ans)) return;
+    answered++; bucket.answered++;
+    if (q.isOpen) ans.checked = true;
+    if (_isAnswerCorrect(q, ans)){
+      correct++; bucket.correct++;
+    } else {
+      wrong++; bucket.wrong++;
+      if (!wrongQuestions.includes(q.id)) wrongQuestions.push(q.id);
+      questionWrongCount[q.id] = (questionWrongCount[q.id]||0)+1;
+    }
   });
-  exam.lastResult = { total, answered, correct, wrong };
+  exam.lastResult = { total, answered, correct, wrong, closed, open };
+  saveAnswerState();
   updateExamUI(); renderAll();
   if (manual) alert("İmtahan bitdi. Nəticəni yuxarıdakı paneldə görə bilərsən.");
 }
@@ -1030,39 +1157,81 @@ function updateQuestionCardVisuals(id){
   const buttons = card.querySelectorAll(".answers .answer-btn");
   const info = maskActive ? null : selectedAnswers[id];
   const selIdx = _resolveSelectedIndex(q, info);
+  const selectedIndexes = new Set(_resolveSelectedIndexes(q, info));
+  const correctIndexes = new Set(q.correctIndexes||[q.correctIndex]);
 
   buttons.forEach((btn, idx)=>{
-    btn.classList.remove("correct","wrong","exam-selected");
+    btn.classList.remove("correct","wrong","missed","exam-selected");
     if (info){
-      if (exam.running){ if (idx===selIdx) btn.classList.add("exam-selected"); }
+      if (q.isOpen){
+        if (exam.running || !info.checked){
+          if (selectedIndexes.has(idx)) btn.classList.add("exam-selected");
+        } else {
+          if (selectedIndexes.has(idx) && correctIndexes.has(idx)) btn.classList.add("correct");
+          else if (selectedIndexes.has(idx)) btn.classList.add("wrong");
+          else if (correctIndexes.has(idx)) btn.classList.add("missed");
+        }
+        btn.setAttribute("aria-pressed", selectedIndexes.has(idx) ? "true" : "false");
+      } else if (exam.running){ if (idx===selIdx) btn.classList.add("exam-selected"); }
       else if (idx===selIdx){ (idx===q.correctIndex?btn.classList.add("correct"):btn.classList.add("wrong")); }
     }
   });
 
+  const checkBtn = card.querySelector(".open-check-btn");
+  if (checkBtn) checkBtn.disabled = selectedIndexes.size===0;
+
   const pill = card.querySelector(".question-footer .note-pill");
   if (pill){
-    if (exam.running) pill.textContent="İmtahan gedir – nəticə imtahandan sonra görünəcək.";
-    else if (info && selIdx!==-1) pill.textContent = (selIdx===q.correctIndex) ? "✅ Düzgün cavab vermisən" : "❌ Bu sualda səhvin var idi";
-    else pill.textContent = maskActive ? "Bu baxışda cavablar gizlədilib" : "Cavab seçmək üçün variantlardan birinə kliklə";
+    pill.textContent = getQuestionStatusText(q, info, maskActive);
   }
 }
 
 function onAnswerClick(id, index){
   const q = allQuestions.find(qq=>qq.id===id); if (!q) return;
 
-  const previousIndex = _resolveSelectedIndex(q, selectedAnswers[id]);
-
-  // Dərhal yadda saxla
-  selectedAnswers[id] = { index, value: q.answers[index], updatedAt: Date.now() };
-
-  if (index !== q.correctIndex && previousIndex !== index){
-    if (!wrongQuestions.includes(id)) wrongQuestions.push(id);
-    questionWrongCount[id] = (questionWrongCount[id]||0)+1;
+  if (q.isOpen){
+    const indexes = new Set(_resolveSelectedIndexes(q, selectedAnswers[id]));
+    if (indexes.has(index)) indexes.delete(index); else indexes.add(index);
+    const sorted = Array.from(indexes).sort((a,b)=>a-b);
+    if (sorted.length){
+      selectedAnswers[id] = {
+        indexes:sorted,
+        values:sorted.map(i=>q.answers[i]),
+        checked:false,
+        updatedAt:Date.now()
+      };
+    } else delete selectedAnswers[id];
+  } else {
+    const previousIndex = _resolveSelectedIndex(q, selectedAnswers[id]);
+    selectedAnswers[id] = { index, value: q.answers[index], updatedAt: Date.now() };
+    if (!exam.running && index !== q.correctIndex && previousIndex !== index){
+      if (!wrongQuestions.includes(id)) wrongQuestions.push(id);
+      questionWrongCount[id] = (questionWrongCount[id]||0)+1;
+    }
   }
 
   // Reveal only this question in wrong/flagged views.
   if (maskMode.active) maskMode.revealedIds.add(Number(id));
 
+  updateQuestionCardVisuals(id);
+  const stats = computeStats();
+  renderTinyStats(stats);
+  renderSidePanel(stats, { lists:false });
+  scheduleSidePanelRender();
+  saveAnswerState();
+}
+
+function checkOpenAnswer(id){
+  if (exam.running) return;
+  const q = allQuestions.find(qq=>qq.id===id); if (!q || !q.isOpen) return;
+  const info = selectedAnswers[id]; if (!_isQuestionAnswered(q, info)) return;
+  const wasChecked = !!info.checked;
+  info.checked = true;
+  info.updatedAt = Date.now();
+  if (!wasChecked && !_isAnswerCorrect(q, info)){
+    if (!wrongQuestions.includes(id)) wrongQuestions.push(id);
+    questionWrongCount[id] = (questionWrongCount[id]||0)+1;
+  }
   updateQuestionCardVisuals(id);
   const stats = computeStats();
   renderTinyStats(stats);
@@ -1431,7 +1600,7 @@ currentCategory = filename;
     if(!r.ok) throw new Error("Fayl tapılmadı");
     return r.json();
   }).then(data=>{
-    allQuestions = (data||[]).map((q, idx)=>normalizeQuestion(q, idx+1));
+    allQuestions = extractQuestionsFromData(data).map((q, idx)=>normalizeQuestion(q, idx+1));
     loadCategoryState();
     applyEditedQuestions();
     flashOrderMode = getSelectedQuizOrder();

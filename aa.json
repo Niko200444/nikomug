@@ -999,7 +999,7 @@
       "Bağırsaqların təmizlənməsi"
     ]
   },
-   {
+  {
     "question": "Morfinin venadaxili sürətli bolus yeridilməsi zamanı ən çox rast gəlinən ağırlaşma hansıdır?",
     "answers": [
       "Tənəffüsün dayanması",
@@ -1498,5 +1498,3307 @@
       "Traxeal intubasiya",
       "Hava yolu borusunun yeridilməsi"
     ]
+  },
+  {
+    "id": 1,
+    "section": "Faizli test sualları",
+    "source_page": 1,
+    "pdf_question_number": "1",
+    "type": "multiple_select",
+    "question": "Klinik ölümün əlamətləri:",
+    "options": [
+      {
+        "text": "Solğun dəri",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Şüurun itməsi",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "İşığa reaksiyası olmayan genişlənmiş bəbəklər",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Bradikardiya",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Hipotoniya",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Solğun dəri",
+      "Şüurun itməsi",
+      "İşığa reaksiyası olmayan genişlənmiş bəbəklər"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 2,
+    "section": "Faizli test sualları",
+    "source_page": 1,
+    "pdf_question_number": "2",
+    "type": "multiple_select",
+    "question": "Klinik ölümün əlamətləri:",
+    "options": [
+      {
+        "text": "Tənəffüsün dayanması",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Auskultasiyada ürək tonlarının olmaması",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "EKQ-də düz xətt",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Bəbəklərin daralması",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Zəif radial nəbz",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Tənəffüsün dayanması",
+      "Auskultasiyada ürək tonlarının olmaması",
+      "EKQ-də düz xətt"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 3,
+    "section": "Faizli test sualları",
+    "source_page": 2,
+    "pdf_question_number": "3",
+    "type": "multiple_select",
+    "question": "Klinik ölümün əlamətləri bunlardır:",
+    "options": [
+      {
+        "text": "Arterial təzyiq təyin olunmur",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Yuxu arteriyasında nəbz yoxdur",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Tənəffüsün dayanması",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Bəbəklərin daralması",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Boyun əzələlərinin rigidliyi",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Arterial təzyiq təyin olunmur",
+      "Yuxu arteriyasında nəbz yoxdur",
+      "Tənəffüsün dayanması"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 4,
+    "section": "Faizli test sualları",
+    "source_page": 2,
+    "pdf_question_number": "4",
+    "type": "multiple_select",
+    "question": "Hemodinamik dayanmanın mexanizmləri bunlardır:",
+    "options": [
+      {
+        "text": "Elektromexaniki dissosiasiya",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Mədəciklərin asistoliyası",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Beyin ödemi",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Kardiogen şok",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Astmatik status",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "correctAnswers": [
+      "Elektromexaniki dissosiasiya",
+      "Mədəciklərin asistoliyası"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 5,
+    "section": "Faizli test sualları",
+    "source_page": 2,
+    "pdf_question_number": "5",
+    "type": "multiple_select",
+    "question": "Hemodinamik dayanmanın mexanizmləri bunlardır:",
+    "options": [
+      {
+        "text": "Mədəciklərin fibrilyasiyası",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Mədəcik taxikardiyası",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Hipertonik kriz",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Massiv qanaxma",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Diabetik koma",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "correctAnswers": [
+      "Mədəciklərin fibrilyasiyası",
+      "Mədəcik taxikardiyası"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 6,
+    "section": "Faizli test sualları",
+    "source_page": 2,
+    "pdf_question_number": "6",
+    "type": "multiple_select",
+    "question": "Dekortikasiya (sosial ölüm) əlamətləri bunlardır:",
+    "options": [
+      {
+        "text": "Dərin koma",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Total arefleksiya",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Artan bradikardiya",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Bəbəklərin daralması",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "EEQ-də beyin qabığı hüceyrələrinin aşkar olunan fəallığı",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Dərin koma",
+      "Total arefleksiya",
+      "Artan bradikardiya"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 7,
+    "section": "Faizli test sualları",
+    "source_page": 2,
+    "pdf_question_number": "7",
+    "type": "multiple_select",
+    "question": "“Sosial ölüm” zamanı baş verir:",
+    "options": [
+      {
+        "text": "Beyin-onurğa mayesində laktatın artması",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Xolinesteraza səviyyəsinin azalması",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Yuxu arteriyası və boyun venasındakı (V. jugularis) oksigen səviyyəsi fərqinin 2%-dən az olması",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Beyin-onurğa mayesində laktatın azalması",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Hemodinamik sabitlik",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Beyin-onurğa mayesində laktatın artması",
+      "Xolinesteraza səviyyəsinin azalması",
+      "Yuxu arteriyası və boyun venasındakı (V. jugularis) oksigen səviyyəsi fərqinin 2%-dən az olması"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 8,
+    "section": "Faizli test sualları",
+    "source_page": 2,
+    "pdf_question_number": "8",
+    "type": "multiple_select",
+    "question": "Bioloji ölümün əlamətləri:",
+    "options": [
+      {
+        "text": "Reanimasiya zamanı spontan tənəffüsün bərpa olunmaması",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Reanimasiya zamanı ürək fəaliyyətinin bərpa olunmaması",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Reanimasiya zamanı şüurun bərpası",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Reanimasiya zamanı reflekslərin bərpa olunması",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Reanimasiya zamanı bəbəklərin daralması",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "correctAnswers": [
+      "Reanimasiya zamanı spontan tənəffüsün bərpa olunmaması",
+      "Reanimasiya zamanı ürək fəaliyyətinin bərpa olunmaması"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 9,
+    "section": "Faizli test sualları",
+    "source_page": 2,
+    "pdf_question_number": "9",
+    "type": "multiple_select",
+    "question": "Hemodinamik dayanmanın növü necə müəyyən edilir?",
+    "options": [
+      {
+        "text": "EKQ ilə",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Monitor göstəriciləri ilə",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Klinik əlamətlərlə",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Laborator testlərlə",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "EEQ ilə",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "correctAnswers": [
+      "EKQ ilə",
+      "Monitor göstəriciləri ilə"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 10,
+    "section": "Faizli test sualları",
+    "source_page": 3,
+    "pdf_question_number": "10",
+    "type": "multiple_select",
+    "question": "Mədəciklərin fibrilyasiyasının əlamətləri bunlardır:",
+    "options": [
+      {
+        "text": "Şüurun itməsi",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Dərinin solğunluğu",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "EKQ-də yüksək sürətli mədəcik rəqsləri",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Ürək tonlarının karlaşması",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "EKQ-də düz xətt",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Şüurun itməsi",
+      "Dərinin solğunluğu",
+      "EKQ-də yüksək sürətli mədəcik rəqsləri"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 11,
+    "section": "Faizli test sualları",
+    "source_page": 3,
+    "pdf_question_number": "11",
+    "type": "multiple_select",
+    "question": "Asistoliyanın əlamətləri bunlardır:",
+    "options": [
+      {
+        "text": "Tənəffüsün dayanması",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Şüurun itməsi",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "EKQ-də düz xətt",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Bəbəklərin daralması",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Arterial təzyiqin yüksəlməsi",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Tənəffüsün dayanması",
+      "Şüurun itməsi",
+      "EKQ-də düz xətt"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 12,
+    "section": "Faizli test sualları",
+    "source_page": 3,
+    "pdf_question_number": "12",
+    "type": "multiple_select",
+    "question": "Elektromexaniki dissosiasiyanın əlamətləri:",
+    "options": [
+      {
+        "text": "Yuxu arteriyalarında nəbzin itməsi",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Tənəffüsün dayanması",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "EKQ-də geniş QRS kompleksi ilə müşayiət olunan bradikardiya",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Ürək tonlarının karlaşması",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Arterial təzyiqin yüksəlməsi",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Yuxu arteriyalarında nəbzin itməsi",
+      "Tənəffüsün dayanması",
+      "EKQ-də geniş QRS kompleksi ilə müşayiət olunan bradikardiya"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 13,
+    "section": "Faizli test sualları",
+    "source_page": 3,
+    "pdf_question_number": "13",
+    "type": "multiple_select",
+    "question": "Baza həyat təminatı (BLS) bura daxildir:",
+    "options": [
+      {
+        "text": "Tənəffüs yollarının açılması",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Ağciyərlərin süni ventilyasiyası",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Döş qəfəsinin kompressiyası (masajı) vasitəsilə hemodinamikanın saxlanılması",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Ürəkdaxili inyeksiyalar",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Elektrik defibrilyasiyası",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Tənəffüs yollarının açılması",
+      "Ağciyərlərin süni ventilyasiyası",
+      "Döş qəfəsinin kompressiyası (masajı) vasitəsilə hemodinamikanın saxlanılması"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 14,
+    "section": "Faizli test sualları",
+    "source_page": 3,
+    "pdf_question_number": "14",
+    "type": "multiple_select",
+    "question": "Mədəciklərin fibrilyasiyası zamanı reanimasiya?",
+    "options": [
+      {
+        "text": "Ürək-ağciyər reanimasiyası (ÜAR)",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Elektrik defibrilyasiyası",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Prekordial zərbə",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Elektrokardiostimulyasiya",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Koronar angiometriya",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Ürək-ağciyər reanimasiyası (ÜAR)",
+      "Elektrik defibrilyasiyası",
+      "Prekordial zərbə"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 15,
+    "section": "Faizli test sualları",
+    "source_page": 3,
+    "pdf_question_number": "15",
+    "type": "multiple_select",
+    "question": "Mədəciklərin fibrilyasiyası zamanı istifadə olunan dərmanlar?",
+    "options": [
+      {
+        "text": "Epinefrin (Adrenalin)",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Amiodaron",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Natrium-bikarbonat",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Atropin",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Kordiamin",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Epinefrin (Adrenalin)",
+      "Amiodaron",
+      "Natrium-bikarbonat"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 16,
+    "section": "Faizli test sualları",
+    "source_page": 4,
+    "pdf_question_number": "16",
+    "type": "multiple_select",
+    "question": "Asistoliya zamanı ÜAR prinsipləri?",
+    "options": [
+      {
+        "text": "Baza həyat təminatı (BLS)",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Epinefrin (Adrenalin)",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Elektrik kardiostimulyasiyası",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Ürək qlikozidləri",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Elektrik defibrilyasiyası",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Baza həyat təminatı (BLS)",
+      "Epinefrin (Adrenalin)",
+      "Elektrik kardiostimulyasiyası"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 17,
+    "section": "Faizli test sualları",
+    "source_page": 4,
+    "pdf_question_number": "17",
+    "type": "multiple_select",
+    "question": "Asistoliya zamanı istifadə olunan dərmanlar?",
+    "options": [
+      {
+        "text": "Epinefrin (Adrenalin)",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Atropin",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Natrium-bikarbonat",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Anaprilin",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Laziks",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Epinefrin (Adrenalin)",
+      "Atropin",
+      "Natrium-bikarbonat"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 18,
+    "section": "Faizli test sualları",
+    "source_page": 4,
+    "pdf_question_number": "18",
+    "type": "multiple_select",
+    "question": "Elektromexaniki dissosiasiya zamanı ÜAR:",
+    "options": [
+      {
+        "text": "Döş qəfəsinin kompressiyası",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Ağciyərlərin süni ventilyasiyası",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Elektrik kardiostimulyasiyası",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Elektrik defibrilyasiyası",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "β-blokatorlar",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Döş qəfəsinin kompressiyası",
+      "Ağciyərlərin süni ventilyasiyası",
+      "Elektrik kardiostimulyasiyası"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 19,
+    "section": "Faizli test sualları",
+    "source_page": 4,
+    "pdf_question_number": "19",
+    "type": "multiple_select",
+    "question": "Elektromexaniki dissosiasiya zamanı istifadə olunan dərmanlar:",
+    "options": [
+      {
+        "text": "Epinefrin (Adrenalin)",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Atropin",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Natrium-bikarbonat",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Amiodaron",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Kordiamin",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Epinefrin (Adrenalin)",
+      "Atropin",
+      "Natrium-bikarbonat"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 20,
+    "section": "Faizli test sualları",
+    "source_page": 4,
+    "pdf_question_number": "20",
+    "type": "multiple_select",
+    "question": "Monofazik defibrilyasiyada enerji səviyyəsi:",
+    "options": [
+      {
+        "text": "200 J",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "300 J",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "360 J",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "100 J",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "500 J",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "200 J",
+      "300 J",
+      "360 J"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 21,
+    "section": "Faizli test sualları",
+    "source_page": 4,
+    "pdf_question_number": "21",
+    "type": "multiple_select",
+    "question": "Açıq ürək masajı üçün göstəriş:",
+    "options": [
+      {
+        "text": "Çoxsaylı qabırğa sınıqları",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Döş qəfəsinin deformasiyası",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Ürək tamponadası",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Total AV blokada",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Mədəciklərin fibrilyasiyası",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Çoxsaylı qabırğa sınıqları",
+      "Döş qəfəsinin deformasiyası",
+      "Ürək tamponadası"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 22,
+    "section": "Faizli test sualları",
+    "source_page": 5,
+    "pdf_question_number": "22",
+    "type": "multiple_select",
+    "question": "Effektiv ÜAR-ın əlamətləri:",
+    "options": [
+      {
+        "text": "Yuxu arteriyasında nəbzin yaranması",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Bəbəklərin daralması",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Sianozun (göyərmənin) azalması",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Ürək tonlarının yaranması",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Şüurun bərpası",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Yuxu arteriyasında nəbzin yaranması",
+      "Bəbəklərin daralması",
+      "Sianozun (göyərmənin) azalması"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 23,
+    "section": "Faizli test sualları",
+    "source_page": 5,
+    "pdf_question_number": "23",
+    "type": "multiple_select",
+    "question": "ÜAR-ın ilkin mərhələsində beyin funksiyasını bərpa etmək üçün istifadə olunur:",
+    "options": [
+      {
+        "text": "Oksigen təminatı",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Kranioserebral hipotermiya",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Nootroplar",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Yüksək molekullu dekstranlar",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "İdarə olunan hipotoniya",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Oksigen təminatı",
+      "Kranioserebral hipotermiya",
+      "Nootroplar"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 24,
+    "section": "Faizli test sualları",
+    "source_page": 5,
+    "pdf_question_number": "24",
+    "type": "multiple_select",
+    "question": "İdarə olunan hipotoniyada istifadə olunan dərmanlar:",
+    "options": [
+      {
+        "text": "Natrium-nitroprussid",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Perlinqanit (nitroqliserin)",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Dobutamin",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Eofillin",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Epinefrin (Adrenalin)",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "correctAnswers": [
+      "Natrium-nitroprussid",
+      "Perlinqanit (nitroqliserin)"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 25,
+    "section": "Faizli test sualları",
+    "source_page": 5,
+    "pdf_question_number": "25",
+    "type": "multiple_select",
+    "question": "İdarə olunan hipotoniya üçün əks-göstəriş?",
+    "options": [
+      {
+        "text": "Hipovolemiya",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Böyrək zədələnməsi",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Antikoaqulyant qəbulu",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Bürünxial astma",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Şəkərli diabet",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "correctAnswers": [
+      "Hipovolemiya",
+      "Böyrək zədələnməsi"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 26,
+    "section": "Faizli test sualları",
+    "source_page": 5,
+    "pdf_question_number": "26",
+    "type": "multiple_select",
+    "question": "İdarə olunan hipotoniya üçün göstərişlər?",
+    "options": [
+      {
+        "text": "Cərrahiyyədə “quru zona” təmin etmək üçün",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Ağciyər ödemi",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Mədə-bağırsaq keçməməzliyi",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Ağır ateroskleroz",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Böyrəküstü vəzi çatışmazlığı",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "correctAnswers": [
+      "Cərrahiyyədə “quru zona” təmin etmək üçün",
+      "Ağciyər ödemi"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 27,
+    "section": "Faizli test sualları",
+    "source_page": 5,
+    "pdf_question_number": "27",
+    "type": "multiple_select",
+    "question": "İdarə olunan hipotoniya üçün göstərişlər:",
+    "options": [
+      {
+        "text": "Ürək cərrahiyyəsi",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Hipertermik sindromlar",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Geniş yanıqlar",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Qaraciyər çatışmazlığı",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Kəskin respirator distress sindromu",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "correctAnswers": [
+      "Ürək cərrahiyyəsi",
+      "Hipertermik sindromlar"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 28,
+    "section": "Faizli test sualları",
+    "source_page": 6,
+    "pdf_question_number": "28",
+    "type": "multiple_select",
+    "question": "Süni hipotermiyada bədənin soyudulmasının hansı üsullarından istifadə olunur?",
+    "options": [
+      {
+        "text": "Xüsusi soyuducu adyalların istifadəsi",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Kranioserebral hipotermiya",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Ekstrakorporal qan soyutma",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Farmakoloji “süni hibernasiya” (qış yuxusu)",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Daxili orqanların soyuq səthlərlə təması",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "correctAnswers": [
+      "Xüsusi soyuducu adyalların istifadəsi",
+      "Kranioserebral hipotermiya"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 29,
+    "section": "Faizli test sualları",
+    "source_page": 6,
+    "pdf_question_number": "29",
+    "type": "multiple_select",
+    "question": "Klinik ölümün əsas əlamətləri bunlardır:",
+    "options": [
+      {
+        "text": "Yuxu arteriyasında nəbzin itməsi",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Apne (tənəffüsün dayanması)",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Şüurun itməsi",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Aydın şüur",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Bəbəklərin daralması",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Yuxu arteriyasında nəbzin itməsi",
+      "Apne (tənəffüsün dayanması)",
+      "Şüurun itməsi"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 30,
+    "section": "Faizli test sualları",
+    "source_page": 6,
+    "pdf_question_number": "30",
+    "type": "multiple_select",
+    "question": "Klinik ölümün əsas əlamətləri hesab olunmur:",
+    "options": [
+      {
+        "text": "Zəif radial nəbz",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Açıq yaradan qanaxmanın tədricən zəifləməsi",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Anuriya (sidik ifrazının dayanması)",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "İşıq reaksiyası olmayan genəlmiş bəbəklər",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Solğun dəri və sianoz",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Zəif radial nəbz",
+      "Açıq yaradan qanaxmanın tədricən zəifləməsi",
+      "Anuriya (sidik ifrazının dayanması)"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 31,
+    "section": "Faizli test sualları",
+    "source_page": 6,
+    "pdf_question_number": "31",
+    "type": "multiple_select",
+    "question": "Klinik ölümün əlavə əlamətləri bunlardır:",
+    "options": [
+      {
+        "text": "Açıq yaradan qanaxmanın dayanması",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Arterial təzyiqin təyin olunmaması",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "EKQ-də düz xətt",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Nəfəs darlığı",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Bəbəklərin daralması",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Açıq yaradan qanaxmanın dayanması",
+      "Arterial təzyiqin təyin olunmaması",
+      "EKQ-də düz xətt"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 32,
+    "section": "Faizli test sualları",
+    "source_page": 6,
+    "pdf_question_number": "32",
+    "type": "multiple_select",
+    "question": "Ürək dayanmasının növləri bunlardır:",
+    "options": [
+      {
+        "text": "Mədəciklərin fibrilyasiyası",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Asistoliya",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Elektromexaniki dissosiasiya",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Qulaqcıqların fibrilyasiyası",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "I dərəcəli AV blokada",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Mədəciklərin fibrilyasiyası",
+      "Asistoliya",
+      "Elektromexaniki dissosiasiya"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 33,
+    "section": "Faizli test sualları",
+    "source_page": 6,
+    "pdf_question_number": "33",
+    "type": "multiple_select",
+    "question": "Preaqoniya zamanı baş verir:",
+    "options": [
+      {
+        "text": "Hemodinamik pozğunluq",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Şüur pozğunluğu",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Mikrosirkulyasiya pozğunluğu",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Hüceyrələrin anaerob qlikolizi",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Normal dəri rəngi",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Hemodinamik pozğunluq",
+      "Şüur pozğunluğu",
+      "Mikrosirkulyasiya pozğunluğu"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 34,
+    "section": "Faizli test sualları",
+    "source_page": 6,
+    "pdf_question_number": "34",
+    "type": "multiple_select",
+    "question": "Terminal vəziyyətin mərhələləri:",
+    "options": [
+      {
+        "text": "Aqoniya",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Klinik ölüm",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Preaqoniya",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Sinkope (bayılma)",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Kollaps",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Aqoniya",
+      "Klinik ölüm",
+      "Preaqoniya"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 35,
+    "section": "Faizli test sualları",
+    "source_page": 7,
+    "pdf_question_number": "35",
+    "type": "multiple_select",
+    "question": "Hemodinamik dayanmanın mexanizmləri:",
+    "options": [
+      {
+        "text": "Atonik mədəcik fibrilyasiyası",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Mədəciklərin asistoliyası",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Tonik mədəcik fibrilyasiyası",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Qulaqcıqların fibrilyasiyası",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Qulaqcıqların səyriməsi",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Atonik mədəcik fibrilyasiyası",
+      "Mədəciklərin asistoliyası",
+      "Tonik mədəcik fibrilyasiyası"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 36,
+    "section": "Faizli test sualları",
+    "source_page": 7,
+    "pdf_question_number": "36",
+    "type": "multiple_select",
+    "question": "Dekortikasiya əlamətləri bunlardır:",
+    "options": [
+      {
+        "text": "Onurğa beyin mayesində laktatın yüksək səviyyəsi",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Əzələ atoniyası",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Arterial təzyiqin davamlı yüksəlməsi",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Venadaxili Atropin inyeksiyasından sonra taxikardiya",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "EEQ-də hüceyrə fəallığı",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "correctAnswers": [
+      "Onurğa beyin mayesində laktatın yüksək səviyyəsi",
+      "Əzələ atoniyası"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 37,
+    "section": "Faizli test sualları",
+    "source_page": 7,
+    "pdf_question_number": "37",
+    "type": "multiple_select",
+    "question": "Bioloji ölümün əlamətləri bunlardır:",
+    "options": [
+      {
+        "text": "ÜAR zamanı şüurun bərpa olunmaması",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "ÜAR zamanı ürək fəaliyyətinin bərpa olunmaması",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "ÜAR zamanı tənəffüsün bərpası",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "ÜAR zamanı reflekslərin bərpası",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "ÜAR-dan sonra EEQ-də hüceyrələrin elektrik fəallığı",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "correctAnswers": [
+      "ÜAR zamanı şüurun bərpa olunmaması",
+      "ÜAR zamanı ürək fəaliyyətinin bərpa olunmaması"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 38,
+    "section": "Faizli test sualları",
+    "source_page": 7,
+    "pdf_question_number": "38",
+    "type": "multiple_select",
+    "question": "Dekortikasiya zamanı baş verir:",
+    "options": [
+      {
+        "text": "Total arefleksiya",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Əzələ atoniyası",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Davamlı hipotoniya",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Aydın şüur",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "EEQ-də hüceyrə fəallığı",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Total arefleksiya",
+      "Əzələ atoniyası",
+      "Davamlı hipotoniya"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 39,
+    "section": "Faizli test sualları",
+    "source_page": 7,
+    "pdf_question_number": "39",
+    "type": "multiple_select",
+    "question": "Yeni mədəcik fibrilyasiyası paroksizminin qarşısını almaq üçün effektiv defibrilyasiyadan sonra hansı dərmanın venadaxili infuziyası davam etdirilməlidir?",
+    "options": [
+      {
+        "text": "Amiodaron",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Lidokain",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Epinefrin (Adrenalin)",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Atropin",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Kordiamin",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "correctAnswers": [
+      "Amiodaron",
+      "Lidokain"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 40,
+    "section": "Faizli test sualları",
+    "source_page": 7,
+    "pdf_question_number": "40",
+    "type": "multiple_select",
+    "question": "Bifazik defibrilyasiyada enerji səviyyələri:",
+    "options": [
+      {
+        "text": "120 J",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "150 J",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "200 J",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "300 J",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "400 J",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "120 J",
+      "150 J",
+      "200 J"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 41,
+    "section": "Faizli test sualları",
+    "source_page": 8,
+    "pdf_question_number": "41",
+    "type": "multiple_select",
+    "question": "Qeyri-effektiv defibrilyasiyadan sonra mədəcik fibrilyasiyasının idarə olunması?",
+    "options": [
+      {
+        "text": "ÜAR-ın davam etdirilməsi",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Epinefrin (Adrenalin)",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Defibrilyasiya 360 J",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Elektrik kardiostimulyasiyası",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Defibrilyasiya – 200 J",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "ÜAR-ın davam etdirilməsi",
+      "Epinefrin (Adrenalin)",
+      "Defibrilyasiya 360 J"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 42,
+    "section": "Faizli test sualları",
+    "source_page": 8,
+    "pdf_question_number": "42",
+    "type": "multiple_select",
+    "question": "ÜAR-ın travmatik ağırlaşmaları bunlardır:",
+    "options": [
+      {
+        "text": "Ağciyərlərin cırılması",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Qabırğa və ya döş sümüyünün sınıqları",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Səs tellərinin zədələnməsi",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Septik ağırlaşmalar",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Osmotik tubulonekroz",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Ağciyərlərin cırılması",
+      "Qabırğa və ya döş sümüyünün sınıqları",
+      "Səs tellərinin zədələnməsi"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 43,
+    "section": "Faizli test sualları",
+    "source_page": 8,
+    "pdf_question_number": "43",
+    "type": "multiple_select",
+    "question": "ÜAR-dan sonrakı qeyri-travmatik ağırlaşmalar bunlardır:",
+    "options": [
+      {
+        "text": "Transfuziya (qan köçürmə) ağırlaşmaları",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Forsə edilmiş diurez dən sonra osmotik tubulonekroz",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Qabırğa sınıqları",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Ürək tamponadası",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Defibrilyasiyadan sonra dəri yanıqları",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "correctAnswers": [
+      "Transfuziya (qan köçürmə) ağırlaşmaları",
+      "Forsə edilmiş diurez dən sonra osmotik tubulonekroz"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 44,
+    "section": "Faizli test sualları",
+    "source_page": 8,
+    "pdf_question_number": "44",
+    "type": "multiple_select",
+    "question": "Döş qəfəsinin kompressiyası və süni nəfəs nisbəti?",
+    "options": [
+      {
+        "text": "1 reanimatoloq tərəfindən icra olunan 30:2",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Bütün şəraitlərdə 30:2",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "2 reanimatoloq tərəfindən icra olunan 15:1",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "30:1",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Reanimatoloqların sayına görə dəyişikliklər",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "correctAnswers": [
+      "1 reanimatoloq tərəfindən icra olunan 30:2",
+      "Bütün şəraitlərdə 30:2"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 45,
+    "section": "Faizli test sualları",
+    "source_page": 8,
+    "pdf_question_number": "45",
+    "type": "multiple_select",
+    "question": "Böyüklərdə BLS zamanı süni tənəffüs bu şəkildə icra edilməlidir:",
+    "options": [
+      {
+        "text": "Ağızdan-ğıza",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Ağızdan-buruna",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Müasir ventilyatorla",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Hava yolu borusu (tuba) vasitəsilə",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Ambu kisəsi (maskası) ilə",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "correctAnswers": [
+      "Ağızdan-ğıza",
+      "Ağızdan-buruna"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 46,
+    "section": "Faizli test sualları",
+    "source_page": 8,
+    "pdf_question_number": "46",
+    "type": "multiple_select",
+    "question": "Ağrının növləri bunlardır:",
+    "options": [
+      {
+        "text": "Nosiseptiv",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Psixogen",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Neyropatik",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Analgetik",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Autoimmun",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Nosiseptiv",
+      "Psixogen",
+      "Neyropatik"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 47,
+    "section": "Faizli test sualları",
+    "source_page": 8,
+    "pdf_question_number": "47",
+    "type": "multiple_select",
+    "question": "Ağrı qiymətləndirilməsinin subyektiv üsulları bunlardır:",
+    "options": [
+      {
+        "text": "Vizual analoq şkalası",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "5 ballıq şifahi şkala",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Sensometriya",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Tənəffüsün qiymətləndirilməsi",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Qanda stress hormonlarının səviyyəsi",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "correctAnswers": [
+      "Vizual analoq şkalası",
+      "5 ballıq şifahi şkala"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 48,
+    "section": "Faizli test sualları",
+    "source_page": 9,
+    "pdf_question_number": "48",
+    "type": "multiple_select",
+    "question": "Opioidlərin əsas təsirləri hansılardır?",
+    "options": [
+      {
+        "text": "Analgeziya (ağrısızlaşdırma)",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Ürəkbulanma və qusma",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Bradikardiya",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Həyəcan/təşviş",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Diarreya (ishal)",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Analgeziya (ağrısızlaşdırma)",
+      "Ürəkbulanma və qusma",
+      "Bradikardiya"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 49,
+    "section": "Faizli test sualları",
+    "source_page": 9,
+    "pdf_question_number": "49",
+    "type": "multiple_select",
+    "question": "Qeyri-opioid analgetiklər üçün xarakterikdir:",
+    "options": [
+      {
+        "text": "Analgetik təsir",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "İltihab əleyhinə təsir",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Qızdırmasalıcı təsir",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Tənəffüs mərkəzinə təsir",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Psixoloji asılılıq",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Analgetik təsir",
+      "İltihab əleyhinə təsir",
+      "Qızdırmasalıcı təsir"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 50,
+    "section": "Faizli test sualları",
+    "source_page": 9,
+    "pdf_question_number": "50",
+    "type": "multiple_select",
+    "question": "Miokard infarktında ağrısızlaşdırma üçün hansı dərman istifadə olunmalıdır?",
+    "options": [
+      {
+        "text": "Morfin",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Promedol",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Droperidol",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Sotalol",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Fenkarol",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "correctAnswers": [
+      "Morfin",
+      "Promedol"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 51,
+    "section": "Əlavə Açıq (Suallar)",
+    "source_page": 9,
+    "pdf_question_number": "1",
+    "type": "multiple_select",
+    "question": "Hansı əzələ relaksantları postsinaptik membranın asetilxolin reseptorlarını bloklayır?",
+    "options": [
+      {
+        "text": "Arduan",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Tubokurarin",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Miorelaxin (Myorelaxin)",
+        "correct": false,
+        "weight_percent": 100
+      },
+      {
+        "text": "Ditilin (Dithylene)",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Suksometon xlorid",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "correctAnswers": [
+      "Arduan",
+      "Tubokurarin"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 52,
+    "section": "Əlavə Açıq (Suallar)",
+    "source_page": 9,
+    "pdf_question_number": "2",
+    "type": "multiple_select",
+    "question": "Hansı əzələ relaksantları postsinaptik membranda uzunmüddətli depolyarizasiyaya səbəb olur?",
+    "options": [
+      {
+        "text": "Ditilin",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Listenon",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Suksometon xlorid",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Mivakuron",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Rokuronium",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Ditilin",
+      "Listenon",
+      "Suksometon xlorid"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 53,
+    "section": "Əlavə Açıq (Suallar)",
+    "source_page": 10,
+    "pdf_question_number": "3",
+    "type": "multiple_select",
+    "question": "5 yaşından kiçik uşaqlarda anesteziya apararkən aşağıdakılardan hansı seçilir?",
+    "options": [
+      {
+        "text": "Yarım-açıq dövrə",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Yüksək axınlı anestetik-qaz qarışığı",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "İntubasiya üçün manjetsiz boru",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Qapalı dövrə",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "İntubasiya üçün manjetli boru",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Yarım-açıq dövrə",
+      "Yüksək axınlı anestetik-qaz qarışığı",
+      "İntubasiya üçün manjetsiz boru"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 54,
+    "section": "Əlavə Açıq (Suallar)",
+    "source_page": 10,
+    "pdf_question_number": "4",
+    "type": "multiple_select",
+    "question": "Endotraxial anesteziya üçün göstərişlər:",
+    "options": [
+      {
+        "text": "Əzələ relaksantlarının istifadəsi",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Döş qəfəsi orqanlarında cərrahi əməliyyatlar",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Nazoqastral zondu daxil edilməsi",
+        "correct": false,
+        "weight_percent": 100
+      },
+      {
+        "text": "Sidik kisəsinin kateterizasiyası",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Koronar angiometriya",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "correctAnswers": [
+      "Əzələ relaksantlarının istifadəsi",
+      "Döş qəfəsi orqanlarında cərrahi əməliyyatlar"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 55,
+    "section": "Əlavə Açıq (Suallar)",
+    "source_page": 10,
+    "pdf_question_number": "5",
+    "type": "multiple_select",
+    "question": "İnhalyasiya anesteziyası üsullarını seçin:",
+    "options": [
+      {
+        "text": "Endotraxial",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Endobronxial",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Aparat-maska vasitəsilə",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Oral (ağızdan)",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "İntranazal (burundan)",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Endotraxial",
+      "Endobronxial",
+      "Aparat-maska vasitəsilə"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 56,
+    "section": "Əlavə Açıq (Suallar)",
+    "source_page": 10,
+    "pdf_question_number": "6",
+    "type": "multiple_select",
+    "question": "Traxeyanı intubasiya etmək üçün hansı üsullardan istifadə edilə bilər?",
+    "options": [
+      {
+        "text": "Orotraxial (ağızdan)",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Nazotraxial (burundan)",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Nazoqastral",
+        "correct": false,
+        "weight_percent": 100
+      },
+      {
+        "text": "Nazofaringeal",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "correctAnswers": [
+      "Orotraxial (ağızdan)",
+      "Nazotraxial (burundan)"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 57,
+    "section": "Əlavə Açıq (Suallar)",
+    "source_page": 10,
+    "pdf_question_number": "7",
+    "type": "multiple_select",
+    "question": "Endotraxial anesteziyanın üstünlükləri nələrdir?",
+    "options": [
+      {
+        "text": "Aspirasiya təhlükəsinin olmaması",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Anestetik dozasının düzgün seçilməsi",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Tənəffüs yollarının sərbəst və etibarlı keçiriciliyinin təmin edilməsi",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "“Ölü sahə”nin artması",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Traxeya bərpasının ağırlaşması",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Aspirasiya təhlükəsinin olmaması",
+      "Anestetik dozasının düzgün seçilməsi",
+      "Tənəffüs yollarının sərbəst və etibarlı keçiriciliyinin təmin edilməsi"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 58,
+    "section": "Əlavə Açıq (Suallar)",
+    "source_page": 10,
+    "pdf_question_number": "8",
+    "type": "multiple_select",
+    "question": "Premedikasiyanın məqsədi:",
+    "options": [
+      {
+        "text": "Xəstənin emosional həyəcanını azaltmaq",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Neyrovegetativ stabilləşmə",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Allergik reaksiyaların qarşısını almaq",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Əzələ relaksasiyası",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Ətraf mühit stimullarına qarşı reaksiyanı artırmaq",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Xəstənin emosional həyəcanını azaltmaq",
+      "Neyrovegetativ stabilləşmə",
+      "Allergik reaksiyaların qarşısını almaq"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 59,
+    "section": "Əlavə Açıq (Suallar)",
+    "source_page": 10,
+    "pdf_question_number": "9",
+    "type": "multiple_select",
+    "question": "Profilaktik premedikasiyada hansı qrup dərmanlar istifadə olunur?",
+    "options": [
+      {
+        "text": "Trankvilizatorlar",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Narkotik analgetiklər",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Ürək qlikozidləri",
+        "correct": false,
+        "weight_percent": 100
+      },
+      {
+        "text": "Diuretiklər",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Əzələ relaksantları",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "correctAnswers": [
+      "Trankvilizatorlar",
+      "Narkotik analgetiklər"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 60,
+    "section": "Əlavə Açıq (Suallar)",
+    "source_page": 11,
+    "pdf_question_number": "10",
+    "type": "multiple_select",
+    "question": "Hansı anestetik “dissosiativ” təsirə malik deyil?",
+    "options": [
+      {
+        "text": "Propofol",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Natrium-tiopental",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Heksanal",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Ketamin",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Kalipsol",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Propofol",
+      "Natrium-tiopental",
+      "Heksanal"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 61,
+    "section": "Əlavə Açıq (Suallar)",
+    "source_page": 11,
+    "pdf_question_number": "11",
+    "type": "multiple_select",
+    "question": "Propofolun istifadəsi zamanı hansı ağırlaşmalar baş verə bilər?",
+    "options": [
+      {
+        "text": "Apne",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Bradikardiya",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Hipotoniya",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Delirium",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Hipertoniya",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Apne",
+      "Bradikardiya",
+      "Hipotoniya"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 62,
+    "section": "Əlavə Açıq (Suallar)",
+    "source_page": 11,
+    "pdf_question_number": "12",
+    "type": "multiple_select",
+    "question": "Ketamin anesteziyası zamanı müşahidə olunur:",
+    "options": [
+      {
+        "text": "Arterial təzyiqin yüksəlməsi",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Taxikardiya",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Anesteziyadan sonra psixomotor oyanıqlıq",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Beyindaxili təzyiqin azalması",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Midriaz (bəbəklərin genəlməsi)",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Arterial təzyiqin yüksəlməsi",
+      "Taxikardiya",
+      "Anesteziyadan sonra psixomotor oyanıqlıq"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 63,
+    "section": "Əlavə Açıq (Suallar)",
+    "source_page": 11,
+    "pdf_question_number": "13",
+    "type": "multiple_select",
+    "question": "Natrium-tiopental anesteziyası zamanı müşahidə oluna bilər:",
+    "options": [
+      {
+        "text": "Bürünxospazm",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Larinqospazm",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Allergik reaksiya",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Qıcolma",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Əzələ rigidliyinin artması",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Bürünxospazm",
+      "Larinqospazm",
+      "Allergik reaksiya"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 64,
+    "section": "Əlavə Açıq (Suallar)",
+    "source_page": 11,
+    "pdf_question_number": "14",
+    "type": "multiple_select",
+    "question": "Hansı maye inhalyasiya anestetikidir?",
+    "options": [
+      {
+        "text": "Halotan (Ftorotan)",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "İzofluran",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Sevofluran",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Siklopropan",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Azot-1 oksid (Azot-suboksid)",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Halotan (Ftorotan)",
+      "İzofluran",
+      "Sevofluran"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 65,
+    "section": "Əlavə Açıq (Suallar)",
+    "source_page": 11,
+    "pdf_question_number": "15",
+    "type": "multiple_select",
+    "question": "Spinal anesteziya zamanı hansı ağırlaşmalar baş verə bilər?",
+    "options": [
+      {
+        "text": "Arterial təzyiqin düşməsi",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Bradikardiya",
+        "correct": true,
+        "weight_percent": 50
+      },
+      {
+        "text": "Arterial təzyiqin yüksəlməsi",
+        "correct": false,
+        "weight_percent": 100
+      },
+      {
+        "text": "Daxili qanaxma",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Bürünxospazm",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "correctAnswers": [
+      "Arterial təzyiqin düşməsi",
+      "Bradikardiya"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 66,
+    "section": "Əlavə Açıq (Suallar)",
+    "source_page": 12,
+    "pdf_question_number": "16",
+    "type": "multiple_select",
+    "question": "Spinal anesteziyaya əks-göstərişlər:",
+    "options": [
+      {
+        "text": "Travmatik şok",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Arterial hipotoniya",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Punksiya sahəsində irinli-iltihabi proses",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Arterial hipertoniya",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Hipotireoz",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Travmatik şok",
+      "Arterial hipotoniya",
+      "Punksiya sahəsində irinli-iltihabi proses"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 67,
+    "section": "Əlavə Açıq (Suallar)",
+    "source_page": 12,
+    "pdf_question_number": "17",
+    "type": "multiple_select",
+    "question": "Narkotik analgetiklərin istifadəsi zamanı müşahidə olunan ağırlaşmalar:",
+    "options": [
+      {
+        "text": "Tənəffüs zəifliyi",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Ürək-damar mərkəzinin depressiyası",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Yuxululuq",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Əzələ tonusunun artması",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Qan şəkərinin azalması",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Tənəffüs zəifliyi",
+      "Ürək-damar mərkəzinin depressiyası",
+      "Yuxululuq"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 68,
+    "section": "Əlavə Açıq (Suallar)",
+    "source_page": 12,
+    "pdf_question_number": "18",
+    "type": "multiple_select",
+    "question": "Narkotik analgetiklərə aiddir:",
+    "options": [
+      {
+        "text": "Fentanil",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Morfin",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Promedol",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Voltaren",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Analgin",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Fentanil",
+      "Morfin",
+      "Promedol"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 69,
+    "section": "Əlavə Açıq (Suallar)",
+    "source_page": 12,
+    "pdf_question_number": "19",
+    "type": "multiple_select",
+    "question": "Tənəffüs dövrələrinə (konturlarına) aiddir:",
+    "options": [
+      {
+        "text": "Yarım-qapalı",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Yarım-açıq",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Qapalı",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Qismən",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Yarım-qismən",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Yarım-qapalı",
+      "Yarım-açıq",
+      "Qapalı"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 70,
+    "section": "Əlavə Açıq (Suallar)",
+    "source_page": 12,
+    "pdf_question_number": "20",
+    "type": "multiple_select",
+    "question": "Süni tənəffüs aparatlarının iş rejimlərini göstərin:",
+    "options": [
+      {
+        "text": "Təzyiq nəzarəti ilə (Pressure control)",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Həcm nəzarəti ilə (Volume control)",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Axın nəzarəti ilə (Flow control)",
+        "correct": true,
+        "weight_percent": 33.33333
+      },
+      {
+        "text": "Hava nəzarəti ilə",
+        "correct": false,
+        "weight_percent": -100
+      },
+      {
+        "text": "Sürət nəzarəti ilə",
+        "correct": false,
+        "weight_percent": -100
+      }
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "correctAnswers": [
+      "Təzyiq nəzarəti ilə (Pressure control)",
+      "Həcm nəzarəti ilə (Volume control)",
+      "Axın nəzarəti ilə (Flow control)"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 71,
+    "section": "Əlavə Açıq (Suallar)",
+    "source_page": 12,
+    "pdf_question_number": "21",
+    "type": "multiple_choice",
+    "question": "Terminal vəziyyət zamanı hansı simptom proqnozun ağırlığını göstərir?",
+    "options": [
+      {
+        "text": "Sidik ifrazının azalması (oliquriya)",
+        "correct": true
+      },
+      {
+        "text": "Meteorizm (qarın köpü)",
+        "correct": false
+      },
+      {
+        "text": "Sidik ifrazının artması (poliuriya)",
+        "correct": false
+      },
+      {
+        "text": "Dəri səpgiləri",
+        "correct": false
+      },
+      {
+        "text": "Bürünx-obstruktiv sindrom",
+        "correct": false
+      }
+    ],
+    "correctIndexes": [
+      0
+    ],
+    "correctAnswers": [
+      "Sidik ifrazının azalması (oliquriya)"
+    ],
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
+  },
+  {
+    "id": 72,
+    "section": "Əlavə Açıq (Suallar)",
+    "source_page": 12,
+    "pdf_question_number": "22",
+    "type": "multiple_select",
+    "question": "Asistoliyada istifadə olunur:",
+    "options": [
+      {
+        "text": "Atropin",
+        "correct": true
+      }
+    ],
+    "correctIndexes": [
+      0
+    ],
+    "correctAnswers": [
+      "Atropin"
+    ],
+    "note": "PDF-in 12-ci səhifəsində bu sualın yalnız görünən variantı saxlanılıb.",
+    "openQuestion": true,
+    "source_dataset": "aciqlae"
   }
 ]
