@@ -1,0 +1,352 @@
+[
+  {
+    "question": "Mədənin sekretor funksiyasını öyrənmək üçün hansı parenteral qıcıqlandırıcılardan istifadə olunur? 1) xolesistokinin 2) histamin 3) тbradikinin 4) pentaqastrin",
+    "answers": [
+      "2. 4",
+      "1. 4",
+      "3. 4",
+      "2. 3",
+      "1. 2"
+    ]
+  },
+  {
+    "question": "Çölyak xəstəliyində aşkarlanan seroloji markerlər: 1) antimitoxondral anticisimlər 2) qliadina qarşı anticisimlər 3) saya əzələlərə qarşı anticisimlər 4) endomizia qarşı anticisimlər 5) toxuma transglutaminazasına qarşı anticismlər. 6) antinüvə AT.",
+    "answers": [
+      "2,4,5",
+      "1,2,5",
+      "1,2,3",
+      "3,4,6",
+      "2,5,6."
+    ]
+  },
+  {
+    "question": "Xolesistitin müsbət ağrı simptomları: 1) Merfi əlaməti 2) Kera 3) Kerniq 4) Quberqrits",
+    "answers": [
+      "1. 2",
+      "1,4",
+      "3. 4",
+      "2. 4.",
+      "2. 3"
+    ]
+  },
+  {
+    "question": "Helicobacter pylori-nin virulentlik faktorları: 1) faqositozu gücləndirir. 2) ureaza ifraz edir. 3) fosfolipaza ifraz edir. 4) faqositozun ləngidir. 5) qastrin ifrazını zəiflədir.",
+    "answers": [
+      "2,3,4",
+      "3,4,5",
+      "2,4,5",
+      "1,2,5.",
+      "1,2,3"
+    ]
+  },
+  {
+    "question": "Xroniki atrofik qastrit tez-tez aşağıdakı patologiyalarla birgə olur: 1) Berje xəstəliyi. 2) tireoidit. 3) Addison-Birmer anemiyası. 4) Reyter xəstəliyi.",
+    "answers": [
+      "2. 3",
+      "3. 4",
+      "1,3",
+      "1. 4.",
+      "1. 2"
+    ]
+  },
+  {
+    "question": "Sukralfat aşağıdakı təsirlərə malikdir: 1) qastrini birləşdirir 2) izolesitini birləşdirir 3) pepsini birləşdirir. 4) prostaglandinlərin miqdarını artırır 5) proton nasosunu bloklayır",
+    "answers": [
+      "2,3,4",
+      "1,3,5.",
+      "1,4,5",
+      "3,4,5",
+      "1,2,3"
+    ]
+  },
+  {
+    "question": "Atrofik qastritin ən çox rast gələn əlamətləri: 1) yeməkdən sonra epiqastral nahiyədə ağırlıq hissi 2) gəyirmə turş 3) gəyirmə hava ilə 4) yeməkdən sonra ağırlıq hissi 5) daimi aclıq hissi 6) qıcqırma",
+    "answers": [
+      "1,3,4",
+      "3,4,6",
+      "3,5,6",
+      "1,3,6",
+      "1,2,4"
+    ]
+  },
+  {
+    "question": "Atrofik qastritə aiddir: 1) cavanlarda rast gəlir 2) yaşlı insanlarda rast gəlir 3) yeməkdən sonra ağırlıq hissi 4) yeməkdən sonra qusma 5) meteorizm 6) qıcqırma",
+    "answers": [
+      "2,3,5",
+      "1,3,6",
+      "3,5,6",
+      "3,4,6",
+      "1,3,4"
+    ]
+  },
+  {
+    "question": "Duodenal xora üçün hansı əlamətlər xarakterikdir? 1) ağrı yeməkdən dərhal sonra əmələ gəlir 2) gecə ağrıları xarakterikdir 3) iştahanın artması 4) anoreksiya 5) qusma 6) ağrılar orta xətdən sağda əmələ gəlir",
+    "answers": [
+      "2,3,6",
+      "1,3,6",
+      "1,3,5",
+      "2,3,5",
+      "2,4,6."
+    ]
+  },
+  {
+    "question": "Onikibarmaq bağırsağın xorası üçün nə səciyəvidir? 1) erkən ağrı 2) gec ağrı 3) aclıq ağrıları 4) ağrı yeməkdən sonra yox olur 5) ağrı orta xəttin sağında lokallaşır 6) ağrı orta xəttin solunda lokallaşır.",
+    "answers": [
+      "2,3,4,5",
+      "1,3,4,6",
+      "1,3,4,5",
+      "2,3,4,6",
+      "1,3,4,5"
+    ]
+  },
+  {
+    "question": "Xoralı kolitin aparıcı sindromları: 1) bağırsaq dispepsiyası 2) malabsorbsiya 3) hemorragik 4) ağrı 5) ishal",
+    "answers": [
+      "3. 4. 5",
+      "1,2,4",
+      "2,3,4",
+      "1,2,5.",
+      "2,3,5"
+    ]
+  },
+  {
+    "question": "Xoralı kolitdə rast gələn makroskopik əlamətlər: 1) damar şəkli itir 2) damar şəkli güclənir 3) hiperemiya 4) daşlı küçə simptomu 5) kontakt qanama",
+    "answers": [
+      "1,3,5",
+      "2,4,5",
+      "1,3,4",
+      "2,3,4",
+      "2,3,5"
+    ]
+  },
+  {
+    "question": "Xoralı kolitin ağırlıq dərəcəsi hansı göstəricilərə əsasən dəyərləndirilir: 1) qanda leykositlərin miqdarı 2) nəcisdə leykositlərin miqdarı 3) hemoqlobinin miqdarı 4) ECS-nin səviyyəsi 5) defekasiya aktının sayı",
+    "answers": [
+      "3,4,5",
+      "1,2,5.",
+      "2,3,4",
+      "1,2,4",
+      "2,3,5"
+    ]
+  },
+  {
+    "question": "Xoralı kolitə aiddir: 1) yoğun bağırsağın diffuz zədələnməsi 2) yoğun bağırsağın qranulematoz zədələnməsi 3) transmural iltihab 4) limfotik follikulların hipoplaziyası 5) yoğun bağırsağın xoralı-destruktiv zədələnməsi 6) adətən ilk olaraq selikli qişa zədələnir",
+    "answers": [
+      "1,5,6",
+      "1,2,3,",
+      "2,3,4",
+      "2,4,6",
+      "1,4,6"
+    ]
+  },
+  {
+    "question": "Kron xəstəliyinin X-Ray əlamətləri: 1) dolma defekti 2) fasiləsiz zədələnmə 3) su borusu simptomu 4) fistullar 5) <<daşdöşənmiş yol>> 6) seqmentar zədələnmə",
+    "answers": [
+      "4,5,6",
+      "1,3,5.",
+      "3,4,5",
+      "1,2,3",
+      "2,3,4"
+    ]
+  },
+  {
+    "question": "Xoralı kolitə aid olan X-Ray əlamətləri: 1) qeyri-düz dolma defekti 2) haustraların düzlənməsi 3) su borusu simptomu 4) strikturalar 5) daşlı küçə simptomu 6) seqmentar zədələnmə",
+    "answers": [
+      "2,3",
+      "4,5",
+      "5,6",
+      "1,4",
+      "3,4"
+    ]
+  },
+  {
+    "question": "Xoralı kolitində hansı dəyişiklər rast gəlir: 1) yüksək EÇS 2) anemiya 3) leykopeniya 4) hiponatriyemiya 5) hipoxloremiya 6) hiperalbuminemiya",
+    "answers": [
+      "1,2,4,5",
+      "1,2,3,6",
+      "2,3,4,5",
+      "3,4,5,6",
+      "1,3,4,5"
+    ]
+  },
+  {
+    "question": "Autoimmun hepatitin ağır gedişı zamanı qanda olan dəyişiklər: 1) hipoalbuminemiya 2) hiperalbuminemiya 3) protrombin indeksin azalması 4) protrombin indeksi çoxalması 5) xolinesterazanın azalması 6) xolinesterazanın yüksəlməsi",
+    "answers": [
+      "1,3,5",
+      "2,4,5",
+      "2,3,5",
+      "1,4,6",
+      "2,4,6"
+    ]
+  },
+  {
+    "question": "I tip autoimmun hepatinin markerləri hansılardır: 1) ASMA 2) anti-CCP 3) ANA 4) anti-LKM",
+    "answers": [
+      "1,3",
+      "2,4",
+      "2,3",
+      "1,4",
+      "1,2"
+    ]
+  },
+  {
+    "question": "Autoimmun hepatitin klinik-biokimyəvi analizində səciyyəvi olan göstəricilər: 1) protrombin zamanı qısalır 2) hipoalbuminemiya 3) prothrombin indeksi yüksəlir 4) BNN artır 5) protrombin indeksi azalır. 6) xolinesteraza artır",
+    "answers": [
+      "2,4,5",
+      "1,4,5",
+      "2,3,6",
+      "1,2,3",
+      "2,4,5"
+    ]
+  },
+  {
+    "question": "Alkoqollu hepatitə aid olan laborator əlamətlər: 1) makrositoz 2) AST-in aktivliyi yüksəlir 3) QQTP -in aktivliyi yüksəlir 4) İgE artır 5) EÇS artır 6) mikrositoz 7) hipourikemiya",
+    "answers": [
+      "1,2,3,5",
+      "1,4,5,7",
+      "1,2,3,4",
+      "2,3,4,6",
+      "2,4,6,7"
+    ]
+  },
+  {
+    "question": "Xroniki alkoqollu hepatitə aid olan əlamətlər: 1) hepatomeqaliya 2) AST-in aktivliyi yüksəlir 3) QQTP -in aktivliyi yüksəlir 4) AST/ALT nisbəti 2-dən çox olur 5) AST/ALT nisbəti 1,5-dən az olur 6) mikrositoz 7) hipourikemiya",
+    "answers": [
+      "1,2,3,4",
+      "1,4,5,7",
+      "2,3,4,6",
+      "2,4,6,7",
+      "1,2,3,5"
+    ]
+  },
+  {
+    "question": "İrsi hemoxromatozun diaqnostik meyarları: 1) transferrinin dəmirlə doyması>50-55% 2) transferrinin dəmirlə doyması>30-35% 3) qan zərdabında ferritinin konsentrasiyası qadınlarda >200 mkq/l, kişilərdə >300. 4) HFE gen mutasiyasının təsdiqnməsi 5) α-polipeptid gen mutasiyasının aşkarlanması 6) transaminazalar aktivliyinin yüksəlməsi",
+    "answers": [
+      "1,3,4",
+      "2,4,6",
+      "2,5,6.",
+      "1,3,5",
+      "3,4,6"
+    ]
+  },
+  {
+    "question": "İrsi hemoxromatozun əsas klinik təzahürləri: 1) hiperpiqmentasiya 2) xroniki qlomerulonefrit 3) artrit 4) hepatit 5) tireotoksikoz 6) spondilit",
+    "answers": [
+      "1,3,4",
+      "3,4,6",
+      "2,4,6",
+      "2,3,5",
+      "1,4,5."
+    ]
+  },
+  {
+    "question": "Qaraciyər sirrozun dekompensasiya əlamətləri: 1) meduza başı 2) hipopiqmentasiya 3) trombositoz 4) qida borusu venalarının varikoz genişlənməsi 5) assit 6) ödemlər 7) ksantomalar",
+    "answers": [
+      "1,4,5,6",
+      "3,4,5,6",
+      "1,2,4,5",
+      "2,3,5,6",
+      "1,2,4,6"
+    ]
+  },
+  {
+    "question": "Qaraciyər sirrozun ağırlıq dərəcəsinin dəyərləndirməsində Çayid-Pyu təsnifatı üçün səciyəvi deyil: 1) ALT aktivliyi 2) bilirubinin miqdarı 3) protrombin zamanı 4) assitin dərəcəsi 5) albuminin miqdarı 6) AST aktivliyi",
+    "answers": [
+      "2,3,4,5",
+      "1,2,4,5",
+      "1,2,4,6",
+      "1,2,3,5",
+      "3,4,5,6"
+    ]
+  },
+  {
+    "question": "Birincili biliar sirroza aid olan meyyarlar: 1) antimitoxondral anticisimlər 2) anti-LKM 3) anti-LP 4) gecələr güclənən qaşınma 5) qələvi fosfatazanın aktivliyinin artması 6) melanodermiya",
+    "answers": [
+      "1,4,5",
+      "2,5,6",
+      "2,3,5",
+      "3,5,6",
+      "1,2,4"
+    ]
+  },
+  {
+    "question": "Kəskin qaraciyər çatışmazlığın əlamətləri hansılardır: 1) PTZ qısalır 2) PTZ uzanır 3) BNN uzanır 4) BNN qısalır 5) azotemiya 6) hiperkaliyemiya",
+    "answers": [
+      "2,3,5",
+      "1,3,5",
+      "2,4,5",
+      "1,3,6.",
+      "2,3,6"
+    ]
+  },
+  {
+    "question": "Onikibarmaq bağırsağın xorası üçün xarakterik olan nədir: 1) erkən ağrı 2) gecikmiş ağrı 3) ac ağrılar 4) ağrı yeməkdən sonra yox olur 5) ağrı orta xəttin sağında lokallaşır 6) ağrı orta xəttin solunda lokallaşır.",
+    "answers": [
+      "2,3,4,5",
+      "1,3,4,6.",
+      "2,3,4,6",
+      "1,3,4,5",
+      "1,3,4,5"
+    ]
+  },
+  {
+    "question": "Xroniki pankreatitin ağrı sindromun təzahürləri: 1) Ağrının lokalizasiyası vəzin hissəsindən aslı olmayaraq hər zaman sol qabırğaaltında yerləşir 2) Ağrının lokalizasiyası vəzin başlıca olaraq hansı hissəsinin zədələnməsindən aslıdır 3) Ağrı uzananda güclənir 4) Ağrı uzananda azalır 5) Agri yemekdən dərhal sonra başlayır",
+    "answers": [
+      "2,3",
+      "1,3.",
+      "1,5",
+      "4,5",
+      "2,4"
+    ]
+  },
+  {
+    "question": "Qıcıqlanmış bağırsaq sindromun (QBS) diaqnozunu istisna edən <<təşviş sindromuna>> aid olanlar hansıdır: 1) siyiğabənzər diareya 2) qəbizlik 3) gecələr simptomların əmələgəlməsi 4) leykositoz 5) nəcisdə selik olması 6) nəcisdə qanın olması.",
+    "answers": [
+      "3,4,6",
+      "3,4,5.",
+      "1,3,6",
+      "2,4,6",
+      "1,3,4"
+    ]
+  },
+  {
+    "question": "Xroniki qeyri-kalkulyoz xolesistit zamanı intensiv tutma şəkilli ağrı iltihab prosesinin hansı lokalizasiyası üçün xarakterikdir: 1) öd kisəsinin cismi 2) öd kisəsinin boynu 3) öd kisəsinin alt hissəsi 4) öd kisəsinhin axacağı",
+    "answers": [
+      "2,4",
+      "1,2",
+      "1,3.",
+      "3,4",
+      "2,3"
+    ]
+  },
+  {
+    "question": "Xroniki daşsız xolesistit zamanı daimi ağrılar iltihab prosesinin hansı lokalizasiyası üçün xarakterikdir: 1) öd kisəsinin cismi 2) öd kisəsinin boynu 3) öd kisəsinin dibi 4) öd kisəsi kanalı",
+    "answers": [
+      "1. 3",
+      "2. 4",
+      "3. 4",
+      "2. 3",
+      "1. 2"
+    ]
+  },
+  {
+    "question": "Xroniki pankreatitin ağrı sindromun təzahürləri: 1) Ağrının lokalizasiyası vəzin hissəsindən aslı olmayaraq hər zaman sol qabırğaaltında yerləşir 2) Ağrının lokalizasiyası vəzin başlıca olaraq hansı hissəsinin zədələnməsindən aslıdır 3) Ağrı uzananda güclənir 4) Ağrı uzananda azalır 5) Agri yemekdən dərhal sonra başlayır",
+    "answers": [
+      "2,3",
+      "4,5",
+      "1,5",
+      "1,3",
+      "2,4"
+    ]
+  },
+  {
+    "question": "Xroniki pankreatit üçün səciyəvi olan nədir: 1) ağri yeməkdən 40-60 dəq sonra əmələ gəlir 2) steatoreya 3) ishal 4) ağrı dərhal yeməkdən sonra olur 5) ağrı arxası üstə uzandıqda zəifləyir 6) oturaq vəziyyətində güclənir.",
+    "answers": [
+      "1,2,3",
+      "4,5,6",
+      "2,4,6.",
+      "2,3,4",
+      "3,4,5"
+    ]
+  }
+]
