@@ -1,10 +1,10 @@
 // PWA service worker (robust, no install-time failures)
-const CACHE_NAME = 'ets-quiz-v12';
+const CACHE_NAME = 'ets-quiz-v13';
 const CORE = [
   './',
   './index.html',
   './styles.css',
-  './app.js',
+  './app.js?v=13',
   './aa.json',
   './manifest.webmanifest'
 ];
