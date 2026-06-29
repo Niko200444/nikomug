@@ -1,0 +1,1023 @@
+[
+  {
+    "question": "Mədənin sekretor funksiyasını öyrənmək üçün hansı parenteral qıcıqlandırıcılardan istifadə olunur?",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) xolesistokinin",
+        "correct": false
+      },
+      {
+        "text": "2) histamin",
+        "correct": true
+      },
+      {
+        "text": "3) тbradikinin",
+        "correct": false
+      },
+      {
+        "text": "4) pentaqastrin",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Çölyak xəstəliyində aşkarlanan seroloji markerlər:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) antimitoxondral anticisimlər",
+        "correct": false
+      },
+      {
+        "text": "2) qliadina qarşı anticisimlər",
+        "correct": true
+      },
+      {
+        "text": "3) saya əzələlərə qarşı anticisimlər",
+        "correct": false
+      },
+      {
+        "text": "4) endomizia qarşı anticisimlər",
+        "correct": true
+      },
+      {
+        "text": "5) toxuma transglutaminazasına qarşı anticismlər.",
+        "correct": true
+      },
+      {
+        "text": "6) antinüvə AT.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Xolesistitin müsbət ağrı simptomları:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) Merfi əlaməti",
+        "correct": true
+      },
+      {
+        "text": "2) Kera",
+        "correct": true
+      },
+      {
+        "text": "3) Kerniq",
+        "correct": false
+      },
+      {
+        "text": "4) Quberqrits",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Helicobacter pylori-nin virulentlik faktorları:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) faqositozu gücləndirir.",
+        "correct": false
+      },
+      {
+        "text": "2) ureaza ifraz edir.",
+        "correct": true
+      },
+      {
+        "text": "3) fosfolipaza ifraz edir.",
+        "correct": true
+      },
+      {
+        "text": "4) faqositozun ləngidir.",
+        "correct": true
+      },
+      {
+        "text": "5) qastrin ifrazını zəiflədir.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Xroniki atrofik qastrit tez-tez aşağıdakı patologiyalarla birgə olur:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) Berje xəstəliyi.",
+        "correct": false
+      },
+      {
+        "text": "2) tireoidit.",
+        "correct": true
+      },
+      {
+        "text": "3) Addison-Birmer anemiyası.",
+        "correct": true
+      },
+      {
+        "text": "4) Reyter xəstəliyi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sukralfat aşağıdakı təsirlərə malikdir:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) qastrini birləşdirir",
+        "correct": false
+      },
+      {
+        "text": "2) izolesitini birləşdirir",
+        "correct": true
+      },
+      {
+        "text": "3) pepsini birləşdirir.",
+        "correct": true
+      },
+      {
+        "text": "4) prostaglandinlərin miqdarını artırır",
+        "correct": true
+      },
+      {
+        "text": "5) proton nasosunu bloklayır",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Atrofik qastritin ən çox rast gələn əlamətləri:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) yeməkdən sonra epiqastral nahiyədə ağırlıq hissi",
+        "correct": true
+      },
+      {
+        "text": "2) gəyirmə turş",
+        "correct": false
+      },
+      {
+        "text": "3) gəyirmə hava ilə",
+        "correct": true
+      },
+      {
+        "text": "4) yeməkdən sonra ağırlıq hissi",
+        "correct": true
+      },
+      {
+        "text": "5) daimi aclıq hissi",
+        "correct": false
+      },
+      {
+        "text": "6) qıcqırma",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Atrofik qastritə aiddir:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) cavanlarda rast gəlir",
+        "correct": false
+      },
+      {
+        "text": "2) yaşlı insanlarda rast gəlir",
+        "correct": true
+      },
+      {
+        "text": "3) yeməkdən sonra ağırlıq hissi",
+        "correct": true
+      },
+      {
+        "text": "4) yeməkdən sonra qusma",
+        "correct": false
+      },
+      {
+        "text": "5) meteorizm",
+        "correct": true
+      },
+      {
+        "text": "6) qıcqırma",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Duodenal xora üçün hansı əlamətlər xarakterikdir?",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) ağrı yeməkdən dərhal sonra əmələ gəlir",
+        "correct": false
+      },
+      {
+        "text": "2) gecə ağrıları xarakterikdir",
+        "correct": true
+      },
+      {
+        "text": "3) iştahanın artması",
+        "correct": true
+      },
+      {
+        "text": "4) anoreksiya",
+        "correct": false
+      },
+      {
+        "text": "5) qusma",
+        "correct": false
+      },
+      {
+        "text": "6) ağrılar orta xətdən sağda əmələ gəlir",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Onikibarmaq bağırsağın xorası üçün nə səciyəvidir?",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) erkən ağrı",
+        "correct": false
+      },
+      {
+        "text": "2) gec ağrı",
+        "correct": true
+      },
+      {
+        "text": "3) aclıq ağrıları",
+        "correct": true
+      },
+      {
+        "text": "4) ağrı yeməkdən sonra yox olur",
+        "correct": true
+      },
+      {
+        "text": "5) ağrı orta xəttin sağında lokallaşır",
+        "correct": true
+      },
+      {
+        "text": "6) ağrı orta xəttin solunda lokallaşır.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Xoralı kolitin aparıcı sindromları:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) bağırsaq dispepsiyası",
+        "correct": false
+      },
+      {
+        "text": "2) malabsorbsiya",
+        "correct": false
+      },
+      {
+        "text": "3) hemorragik",
+        "correct": true
+      },
+      {
+        "text": "4) ağrı",
+        "correct": true
+      },
+      {
+        "text": "5) ishal",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Xoralı kolitdə rast gələn makroskopik əlamətlər:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) damar şəkli itir",
+        "correct": true
+      },
+      {
+        "text": "2) damar şəkli güclənir",
+        "correct": false
+      },
+      {
+        "text": "3) hiperemiya",
+        "correct": true
+      },
+      {
+        "text": "4) daşlı küçə simptomu",
+        "correct": false
+      },
+      {
+        "text": "5) kontakt qanama",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Xoralı kolitin ağırlıq dərəcəsi hansı göstəricilərə əsasən dəyərləndirilir:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) qanda leykositlərin miqdarı",
+        "correct": false
+      },
+      {
+        "text": "2) nəcisdə leykositlərin miqdarı",
+        "correct": false
+      },
+      {
+        "text": "3) hemoqlobinin miqdarı",
+        "correct": true
+      },
+      {
+        "text": "4) ECS-nin səviyyəsi",
+        "correct": true
+      },
+      {
+        "text": "5) defekasiya aktının sayı",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Xoralı kolitə aiddir:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) yoğun bağırsağın diffuz zədələnməsi",
+        "correct": true
+      },
+      {
+        "text": "2) yoğun bağırsağın qranulematoz zədələnməsi",
+        "correct": false
+      },
+      {
+        "text": "3) transmural iltihab",
+        "correct": false
+      },
+      {
+        "text": "4) limfotik follikulların hipoplaziyası",
+        "correct": false
+      },
+      {
+        "text": "5) yoğun bağırsağın xoralı-destruktiv zədələnməsi",
+        "correct": true
+      },
+      {
+        "text": "6) adətən ilk olaraq selikli qişa zədələnir",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Kron xəstəliyinin X-Ray əlamətləri:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) dolma defekti",
+        "correct": false
+      },
+      {
+        "text": "2) fasiləsiz zədələnmə",
+        "correct": false
+      },
+      {
+        "text": "3) su borusu simptomu",
+        "correct": false
+      },
+      {
+        "text": "4) fistullar",
+        "correct": true
+      },
+      {
+        "text": "5) <<daşdöşənmiş yol>>",
+        "correct": true
+      },
+      {
+        "text": "6) seqmentar zədələnmə",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Xoralı kolitə aid olan X-Ray əlamətləri:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) qeyri-düz dolma defekti",
+        "correct": false
+      },
+      {
+        "text": "2) haustraların düzlənməsi",
+        "correct": true
+      },
+      {
+        "text": "3) su borusu simptomu",
+        "correct": true
+      },
+      {
+        "text": "4) strikturalar",
+        "correct": false
+      },
+      {
+        "text": "5) daşlı küçə simptomu",
+        "correct": false
+      },
+      {
+        "text": "6) seqmentar zədələnmə",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Xoralı kolitində hansı dəyişiklər rast gəlir:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) yüksək EÇS",
+        "correct": true
+      },
+      {
+        "text": "2) anemiya",
+        "correct": true
+      },
+      {
+        "text": "3) leykopeniya",
+        "correct": false
+      },
+      {
+        "text": "4) hiponatriyemiya",
+        "correct": true
+      },
+      {
+        "text": "5) hipoxloremiya",
+        "correct": true
+      },
+      {
+        "text": "6) hiperalbuminemiya",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Autoimmun hepatitin ağır gedişı zamanı qanda olan dəyişiklər:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) hipoalbuminemiya",
+        "correct": true
+      },
+      {
+        "text": "2) hiperalbuminemiya",
+        "correct": false
+      },
+      {
+        "text": "3) protrombin indeksin azalması",
+        "correct": true
+      },
+      {
+        "text": "4) protrombin indeksi çoxalması",
+        "correct": false
+      },
+      {
+        "text": "5) xolinesterazanın azalması",
+        "correct": true
+      },
+      {
+        "text": "6) xolinesterazanın yüksəlməsi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "I tip autoimmun hepatinin markerləri hansılardır:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) ASMA",
+        "correct": true
+      },
+      {
+        "text": "2) anti-CCP",
+        "correct": false
+      },
+      {
+        "text": "3) ANA",
+        "correct": true
+      },
+      {
+        "text": "4) anti-LKM",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Autoimmun hepatitin klinik-biokimyəvi analizində səciyyəvi olan göstəricilər:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) protrombin zamanı qısalır",
+        "correct": false
+      },
+      {
+        "text": "2) hipoalbuminemiya",
+        "correct": true
+      },
+      {
+        "text": "3) prothrombin indeksi yüksəlir",
+        "correct": false
+      },
+      {
+        "text": "4) BNN artır",
+        "correct": true
+      },
+      {
+        "text": "5) protrombin indeksi azalır.",
+        "correct": true
+      },
+      {
+        "text": "6) xolinesteraza artır",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Alkoqollu hepatitə aid olan laborator əlamətlər:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) makrositoz",
+        "correct": true
+      },
+      {
+        "text": "2) AST-in aktivliyi yüksəlir",
+        "correct": true
+      },
+      {
+        "text": "3) QQTP -in aktivliyi yüksəlir",
+        "correct": true
+      },
+      {
+        "text": "4) İgE artır",
+        "correct": false
+      },
+      {
+        "text": "5) EÇS artır",
+        "correct": true
+      },
+      {
+        "text": "6) mikrositoz",
+        "correct": false
+      },
+      {
+        "text": "7) hipourikemiya",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Xroniki alkoqollu hepatitə aid olan əlamətlər:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) hepatomeqaliya",
+        "correct": true
+      },
+      {
+        "text": "2) AST-in aktivliyi yüksəlir",
+        "correct": true
+      },
+      {
+        "text": "3) QQTP -in aktivliyi yüksəlir",
+        "correct": true
+      },
+      {
+        "text": "4) AST/ALT nisbəti 2-dən çox olur",
+        "correct": true
+      },
+      {
+        "text": "5) AST/ALT nisbəti 1,5-dən az olur",
+        "correct": false
+      },
+      {
+        "text": "6) mikrositoz",
+        "correct": false
+      },
+      {
+        "text": "7) hipourikemiya",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "İrsi hemoxromatozun diaqnostik meyarları:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) transferrinin dəmirlə doyması>50-55%",
+        "correct": true
+      },
+      {
+        "text": "2) transferrinin dəmirlə doyması>30-35%",
+        "correct": false
+      },
+      {
+        "text": "3) qan zərdabında ferritinin konsentrasiyası qadınlarda >200 mkq/l, kişilərdə >300.",
+        "correct": true
+      },
+      {
+        "text": "4) HFE gen mutasiyasının təsdiqnməsi",
+        "correct": true
+      },
+      {
+        "text": "5) α-polipeptid gen mutasiyasının aşkarlanması",
+        "correct": false
+      },
+      {
+        "text": "6) transaminazalar aktivliyinin yüksəlməsi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "İrsi hemoxromatozun əsas klinik təzahürləri:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) hiperpiqmentasiya",
+        "correct": true
+      },
+      {
+        "text": "2) xroniki qlomerulonefrit",
+        "correct": false
+      },
+      {
+        "text": "3) artrit",
+        "correct": true
+      },
+      {
+        "text": "4) hepatit",
+        "correct": true
+      },
+      {
+        "text": "5) tireotoksikoz",
+        "correct": false
+      },
+      {
+        "text": "6) spondilit",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qaraciyər sirrozun dekompensasiya əlamətləri:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) meduza başı",
+        "correct": true
+      },
+      {
+        "text": "2) hipopiqmentasiya",
+        "correct": false
+      },
+      {
+        "text": "3) trombositoz",
+        "correct": false
+      },
+      {
+        "text": "4) qida borusu venalarının varikoz genişlənməsi",
+        "correct": true
+      },
+      {
+        "text": "5) assit",
+        "correct": true
+      },
+      {
+        "text": "6) ödemlər",
+        "correct": true
+      },
+      {
+        "text": "7) ksantomalar",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qaraciyər sirrozun ağırlıq dərəcəsinin dəyərləndirməsində Çayid-Pyu təsnifatı üçün səciyəvi deyil:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) ALT aktivliyi",
+        "correct": false
+      },
+      {
+        "text": "2) bilirubinin miqdarı",
+        "correct": true
+      },
+      {
+        "text": "3) protrombin zamanı",
+        "correct": true
+      },
+      {
+        "text": "4) assitin dərəcəsi",
+        "correct": true
+      },
+      {
+        "text": "5) albuminin miqdarı",
+        "correct": true
+      },
+      {
+        "text": "6) AST aktivliyi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Birincili biliar sirroza aid olan meyyarlar:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) antimitoxondral anticisimlər",
+        "correct": true
+      },
+      {
+        "text": "2) anti-LKM",
+        "correct": false
+      },
+      {
+        "text": "3) anti-LP",
+        "correct": false
+      },
+      {
+        "text": "4) gecələr güclənən qaşınma",
+        "correct": true
+      },
+      {
+        "text": "5) qələvi fosfatazanın aktivliyinin artması",
+        "correct": true
+      },
+      {
+        "text": "6) melanodermiya",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kəskin qaraciyər çatışmazlığın əlamətləri hansılardır:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) PTZ qısalır",
+        "correct": false
+      },
+      {
+        "text": "2) PTZ uzanır",
+        "correct": true
+      },
+      {
+        "text": "3) BNN uzanır",
+        "correct": true
+      },
+      {
+        "text": "4) BNN qısalır",
+        "correct": false
+      },
+      {
+        "text": "5) azotemiya",
+        "correct": true
+      },
+      {
+        "text": "6) hiperkaliyemiya",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Onikibarmaq bağırsağın xorası üçün xarakterik olan nədir:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) erkən ağrı",
+        "correct": false
+      },
+      {
+        "text": "2) gecikmiş ağrı",
+        "correct": true
+      },
+      {
+        "text": "3) ac ağrılar",
+        "correct": true
+      },
+      {
+        "text": "4) ağrı yeməkdən sonra yox olur",
+        "correct": true
+      },
+      {
+        "text": "5) ağrı orta xəttin sağında lokallaşır",
+        "correct": true
+      },
+      {
+        "text": "6) ağrı orta xəttin solunda lokallaşır.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Xroniki pankreatitin ağrı sindromun təzahürləri:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) Ağrının lokalizasiyası vəzin hissəsindən aslı olmayaraq hər zaman sol qabırğaaltında yerləşir",
+        "correct": false
+      },
+      {
+        "text": "2) Ağrının lokalizasiyası vəzin başlıca olaraq hansı hissəsinin zədələnməsindən aslıdır",
+        "correct": true
+      },
+      {
+        "text": "3) Ağrı uzananda güclənir",
+        "correct": true
+      },
+      {
+        "text": "4) Ağrı uzananda azalır",
+        "correct": false
+      },
+      {
+        "text": "5) Agri yemekdən dərhal sonra başlayır",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qıcıqlanmış bağırsaq sindromun (QBS) diaqnozunu istisna edən <<təşviş sindromuna>> aid olanlar hansıdır:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) siyiğabənzər diareya",
+        "correct": false
+      },
+      {
+        "text": "2) qəbizlik",
+        "correct": false
+      },
+      {
+        "text": "3) gecələr simptomların əmələgəlməsi",
+        "correct": true
+      },
+      {
+        "text": "4) leykositoz",
+        "correct": true
+      },
+      {
+        "text": "5) nəcisdə selik olması",
+        "correct": false
+      },
+      {
+        "text": "6) nəcisdə qanın olması.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Xroniki qeyri-kalkulyoz xolesistit zamanı intensiv tutma şəkilli ağrı iltihab prosesinin hansı lokalizasiyası üçün xarakterikdir:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) öd kisəsinin cismi",
+        "correct": false
+      },
+      {
+        "text": "2) öd kisəsinin boynu",
+        "correct": true
+      },
+      {
+        "text": "3) öd kisəsinin alt hissəsi",
+        "correct": false
+      },
+      {
+        "text": "4) öd kisəsinhin axacağı",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Xroniki daşsız xolesistit zamanı daimi ağrılar iltihab prosesinin hansı lokalizasiyası üçün xarakterikdir:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) öd kisəsinin cismi",
+        "correct": true
+      },
+      {
+        "text": "2) öd kisəsinin boynu",
+        "correct": false
+      },
+      {
+        "text": "3) öd kisəsinin dibi",
+        "correct": true
+      },
+      {
+        "text": "4) öd kisəsi kanalı",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Xroniki pankreatitin ağrı sindromun təzahürləri:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) Ağrının lokalizasiyası vəzin hissəsindən aslı olmayaraq hər zaman sol qabırğaaltında yerləşir",
+        "correct": false
+      },
+      {
+        "text": "2) Ağrının lokalizasiyası vəzin başlıca olaraq hansı hissəsinin zədələnməsindən aslıdır",
+        "correct": true
+      },
+      {
+        "text": "3) Ağrı uzananda güclənir",
+        "correct": true
+      },
+      {
+        "text": "4) Ağrı uzananda azalır",
+        "correct": false
+      },
+      {
+        "text": "5) Agri yemekdən dərhal sonra başlayır",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Xroniki pankreatit üçün səciyəvi olan nədir:",
+    "type": "multiple_select",
+    "multiple": true,
+    "answers": [
+      {
+        "text": "1) ağri yeməkdən 40-60 dəq sonra əmələ gəlir",
+        "correct": true
+      },
+      {
+        "text": "2) steatoreya",
+        "correct": true
+      },
+      {
+        "text": "3) ishal",
+        "correct": true
+      },
+      {
+        "text": "4) ağrı dərhal yeməkdən sonra olur",
+        "correct": false
+      },
+      {
+        "text": "5) ağrı arxası üstə uzandıqda zəifləyir",
+        "correct": false
+      },
+      {
+        "text": "6) oturaq vəziyyətində güclənir.",
+        "correct": false
+      }
+    ]
+  }
+]
