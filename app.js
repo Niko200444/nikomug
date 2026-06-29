@@ -384,6 +384,7 @@ let autoSyncEnabled = localStorage.getItem('quiz_autoSync') === '1';
 let flashOrderMode = "sequential"; // "sequential" | "random"
 let orderedIds = [];
 let randomOrderIds = [];
+let randomOrderSignature = "";
 
 let exam = { running:false, durationSec:1800, endTime:null, timerId:null, lastResult:null, questionIds:[], closedCount:0, openCount:0 };
 // active card for keyboard navigation
@@ -512,6 +513,19 @@ function _isAnswerCorrect(q, info){
 function _isQuestionAnswered(q, info){
   return _resolveSelectedIndexes(q, info).length > 0;
 }
+function buildAnsweredFirstRandomOrder(list){
+  const answeredIds = [];
+  const unansweredIds = [];
+  list.forEach(q=>{
+    if (_isQuestionAnswered(q, selectedAnswers[q.id])) answeredIds.push(q.id);
+    else unansweredIds.push(q.id);
+  });
+  answeredIds.sort((a,b)=>a-b);
+  return answeredIds.concat(shuffleArray(unansweredIds));
+}
+function getRandomOrderSignature(list){
+  return list.map(q=>`${q.id}:${_isQuestionAnswered(q, selectedAnswers[q.id]) ? 1 : 0}`).join("|");
+}
 function computeStats(){
   const total = allQuestions.length;
   let answered=0, correct=0, wrong=0;
@@ -548,20 +562,21 @@ function getFilteredQuestionsRaw(){
   }
 
   // Normal rejim random sıralama
-  if (!singleQuestionMode){
+  if (!singleQuestionMode && !exam.running){
     const orderRadio = document.querySelector('input[name="quizOrder"]:checked');
     if (orderRadio && orderRadio.value === "random"){
       const ids = list.map(q=>q.id);
-      const same = (randomOrderIds.length===ids.length) && ids.every(id=>randomOrderIds.includes(id));
+      const signature = getRandomOrderSignature(list);
+      const same = randomOrderSignature===signature && (randomOrderIds.length===ids.length) && ids.every(id=>randomOrderIds.includes(id));
       if (!same){
-        const closedIds = list.filter(q=>!q.isOpen).map(q=>q.id);
-        const openIds = list.filter(q=>q.isOpen).map(q=>q.id);
-        randomOrderIds = shuffleArray(closedIds).concat(shuffleArray(openIds));
+        randomOrderIds = buildAnsweredFirstRandomOrder(list);
+        randomOrderSignature = signature;
       }
       list = randomOrderIds.map(id => list.find(q=>q.id===id)).filter(Boolean);
     } else {
     updateSyncControlsUI();
       randomOrderIds = [];
+      randomOrderSignature = "";
     }
   }
   return list;
@@ -570,9 +585,9 @@ function recomputeOrderedIds(){
   const ids = getFilteredQuestionsRaw().map(q=>q.id);
   if (!singleQuestionMode){ orderedIds = ids; return; }
   if (flashOrderMode === "random"){
-    const closedIds = allQuestions.filter(q=>ids.includes(q.id) && !q.isOpen).map(q=>q.id);
-    const openIds = allQuestions.filter(q=>ids.includes(q.id) && q.isOpen).map(q=>q.id);
-    orderedIds = shuffleArray(closedIds).concat(shuffleArray(openIds));
+    const idSet = new Set(ids);
+    const list = allQuestions.filter(q=>idSet.has(q.id));
+    orderedIds = buildAnsweredFirstRandomOrder(list);
   } else orderedIds = ids;
   currentPage = 1;
 }
