@@ -1,23 +1,102 @@
 [
- 
   {
-    "question": "Hansı yaş həddindən başlayaraq udlaq badamcığı involyusiyaya uğrayır:",
+    "question": "Hansı əlamətlər adenotomiya əməliyyatına göstərişdir:",
     "answers": [
-      "14-15 yaş",
-      "2-3 yaş",
-      "4-5 yaş",
-      "6-7 yaş",
-      "8-9 yaş"
+      "Hamısı",
+      "Yuxuda tənəffüsün periodik dayanması",
+      "Ağızın açıq qalması, baş ağrıları",
+      "Yuxuda xoruldamaq, burun tənəffüsünün çətinləşməsi",
+      "Udlaq badamcığın böyüməsi"
+    ]
+  },
+  {
+    "question": "Hansı badamcığın hipertrofiyası adenoid adlanır:",
+    "answers": [
+      "Udlaq",
+      "Qırtlaq",
+      "Damaq",
+      "Boru",
+      "Dil"
+    ]
+  },
+  {
+    "question": "Adenoid vegetasıyasının diaqnostikası üçün aşağıdakı metodlardan ən çox hansı istifadə olunur:",
+    "answers": [
+      "Arxa rinoskopiya",
+      "Ön rinoskopiya",
+      "Orta rinoskopiya",
+      "Vasitəli larinqoskopiya",
+      "Vasitəsiz larinqoskopiya"
+    ]
+  },
+  {
+    "question": "Adenoid ilə bağlı eşitmə zəifliyi nə ilə əlaqədardır:",
+    "answers": [
+      "Eşitmə borularının ağzının tutulması ilə",
+      "Kəllədaxili durğunluq halları ilə",
+      "Qulaq sümükcüklərinin sklerozu ilə",
+      "Eşitmə sinirinin iltihabı ilə",
+      "Eşitmə analizatorunun qanqlioz törəmələrinin intoksikasiyası ilə"
+    ]
+  },
+  {
+    "question": "Aşağıdakı əlamətlərdən hansı adenoid vegetasıyası üçün xarakter deyildir:",
+    "answers": [
+      "Disfoniya",
+      "Eşitmənin pozulması",
+      "Burun tənəffüsünün çətinləşməsi",
+      "Xoruldama",
+      "Üz skeletinin qeyri-düzgün inkişafı"
+    ]
+  },
+  {
+    "question": "Adenoid vegetasiyası, daha çox hansı mərhələdə cərrahi əməliyyata göstərişdir:",
+    "answers": [
+      "II-III",
+      "I",
+      "Hamısı",
+      "I-II",
+      "II"
+    ]
+  },
+  {
+    "question": "Burun-udlaq badamcığının kəskin iltihabı necə adlanır: 2",
+    "answers": [
+      "Adenoidit",
+      "Angina",
+      "Kəskin faringit",
+      "Kəskin laringit",
+      "Adenoid vegetasiyası"
+    ]
+  },
+  {
+    "question": "Adenoid vegetasıyası zamanı eşitmə azlığının hansı növünə rast gəlinir:",
+    "answers": [
+      "Konduktiv tip",
+      "Heç biri",
+      "Hamısı",
+      "Qarışıq tip (mix)",
+      "Sensonevral tip"
+    ]
+  },
+  {
+    "question": "“Toyuq döşü” – əlaməti hansı xəstəlik üçün xarakterikdir:",
+    "answers": [
+      "Adenoid vegetasiyası",
+      "Damaq badamcıqlarının hipertrofiyası",
+      "Lyudviq anginası",
+      "Difteriya",
+      "Dil badamcığının böyüməsi"
     ]
   },
   {
     "question": "Udlağın müayinəsi necə adlanır:",
     "answers": [
       "Farinqoskopiya",
-      "Otoskopiya",
       "Rinoskopiya",
-      "Larinqoskopiya",
-      "Bronxoskopiya"
+      "Bronxoskopiya",
+      "Otoskopiya",
+      "Larinqoskopiya"
     ]
   },
   {
@@ -25,8 +104,8 @@
     "answers": [
       "Epifarinqsdə (burun-udlaq)",
       "Hipofarinqsdə (qırtlaq-udlaq)",
-      "Mezofarinqsdə (ağız-udlaq)",
       "Burun boşluğunda",
+      "Mezofarinqsdə (ağız-udlaq)",
       "Damaq qövsləri arasında"
     ]
   },
@@ -35,35 +114,95 @@
     "answers": [
       "Sərt damaq",
       "Dil kökü",
-      "Damaq-dil qövsü",
       "Damaq-udlaq qövsü",
+      "Damaq-dil qövsü",
       "Yumşaq damaq"
+    ]
+  },
+  {
+    "question": "Banal anginaların törədicisi ən çox hansı mikroorqanizmlərdir:",
+    "answers": [
+      "Streptokoklar 3",
+      "Spiroxetalar",
+      "Viruslar 4",
+      "Stafilakoklar",
+      "Göbələklər"
+    ]
+  },
+  {
+    "question": "Kəskin tonzillogen sepsis ən çox hansı xəstəliklər nəticəsində əmələ gəlir:",
+    "answers": [
+      "Paratonzilyar abses",
+      "Kataral angina",
+      "Adenoid vegetasiyası",
+      "Kəskin faringit",
+      "Xroniki faringit"
     ]
   },
   {
     "question": "Bu arteriyalardan hansı udlağın qan təchizatında iştirak etmir:",
     "answers": [
-      "Üz arteriyasının badamcıq şaxəsi",
-      "Qalxan damaq arteriyası",
-      "Enən damaq arteriyası",
-      "Qalxan udlaq arteriyası",
-      "Aşağı qalxanvari arteriya"
+      "Döş arteriyası",
+      "Udlağın qalxan arteriyası",
+      "Damağın qalxan arteriyası",
+      "Yuxarı qalxanabənzər arteriya",
+      "Damağın enən arteriyası"
     ]
   },
   {
-    "question": "Yaşlı şəxslərdə udlağın uzunluğu nə qədərdir:",
+    "question": "Əsnək difteriyasının törədiciləri hansılardır:",
     "answers": [
-      "12-14 sm",
-      "10-12 sm",
-      "14-16 sm",
-      "8-12 sm",
-      "11-15 sm"
+      "Corynebacterium diphteriae",
+      "Pnevmakoklar",
+      "Bağırsaq çöpləri",
+      "Stafilakoklar",
+      "Kox çöpləri"
+    ]
+  },
+  {
+    "question": "Aşağıdakı anginalardan hansı qan xəstəlikləri zamanı rast gəlinir:",
+    "answers": [
+      "Aqranulositar angina",
+      "Follikulyar angina",
+      "Simanovski-Vensan anginası",
+      "Lyudviq anginası",
+      "Lakunar angina"
+    ]
+  },
+  {
+    "question": "Bu üsullardan hansı xroniki tonzillitin konservativ müalicəsində istifadə olunmur:",
+    "answers": [
+      "Rentgenoterapiya",
+      "İmmunkorreksiya",
+      "Boyun limfa düyünlərinə UBŞ-təsir",
+      "Badamcıq lakunalarını antiseptiklərlə yuyulması",
+      "Lyuqol məhlulunun tətbiqi"
+    ]
+  },
+  {
+    "question": "Bu əlamətlərdən hansı xroniki tonzillitin diaqnostikasında daha etibarlıdır:",
+    "answers": [
+      "Anamnezdə tez-tez anginaların olması",
+      "Gize simptomu",
+      "Zak simptomu",
+      "Badamcıqların hipertrofiyası",
+      "Boyun limfa düyünlərinin böyüməsi"
+    ]
+  },
+  {
+    "question": "Aqranulositar angina zamanı qanda hansı dəyişikliklər aqronulositar anginada müşahidə olunur:",
+    "answers": [
+      "Kəskin leykopeniya",
+      "Leykositoz",
+      "Limfositoz",
+      "Neytrofilyoz",
+      "Eozinofiliya"
     ]
   },
   {
     "question": "Udlaq kəllə əsasından başlayıb, hansı fəqərə səviyyəsinə kimi uzanır:",
     "answers": [
-      "5-6",
+      "6",
       "4-5",
       "7-8",
       "2-4",
@@ -71,33 +210,33 @@
     ]
   },
   {
-    "question": "Aşağıdaki əzələlərdən hansı yumşaq damağı qaldırır:",
+    "question": "Aşağıdakı əzələlərdən hansı yumşaq damağı qaldırır:",
     "answers": [
       "m. levator veli palatini",
       "m. palatoglossus",
-      "m. palatopharyngeus",
+      "m. uvulae",
       "m. tensor veli palatini",
-      "m. uvulae"
+      "m. palatopharyngeus"
     ]
   },
   {
     "question": "Burun-udlaqda hansı anatomik törəmələr yerləşir:",
     "answers": [
       "Hamısı",
-      "Burunudlaq badamcığı",
-      "Eşitmə borularının ağzı",
       "Tubar badamcıqlar",
+      "Eşitmə borularının udlaq ağzı",
+      "Udlaq badamcığı",
       "Rozenmüller çuxurları"
     ]
   },
   {
-    "question": "Burunudlaq tağının selikli qişası nə ilə örtülüb:",
+    "question": "Burun-udlaq tağının selikli qişası nə ilə örtülüb:",
     "answers": [
       "Çoxsıralı silindrik səyrici epitel",
-      "Bir qatlı yastı epitel",
       "Çoxqatlı yastı epitel",
       "Heç biri",
-      "Kubik epitel"
+      "Kubik epitel",
+      "Bir qatlı yastı epitel"
     ]
   },
   {
@@ -105,318 +244,18 @@
     "answers": [
       "Ön rinoskopiya",
       "Arxa rinoskopiya",
-      "Endoskopik müayinə",
       "Rentgen müayinəsi",
-      "Barmaq müayinəsi"
-    ]
-  },
-  {
-    "question": "Udlaq badamcığı harada yerləşir:",
-    "answers": [
-      "Burun-udlaqda",
-      "Ağız-udlaqda",
-      "Heç biri",
-      "Dil kökündə",
-      "Qırtlaq-udlaqda"
-    ]
-  },
-  {
-    "question": "Əmmə zamanı ağız boşluğunda yaranan mənfi təzyiq nə qədərdir:",
-    "answers": [
-      "100 mm.C st",
-      "150 mm.C st",
-      "200 mm. C st",
-      "250 mm.C st",
-      "300 mm.C st"
-    ]
-  },
-  {
-    "question": "Əsnəyi nə təşkil edir?",
-    "answers": [
-      "Hamısı",
-      "Dil kökü",
-      "Yumşaq damaq",
-      "Dilçək",
-      "Ön və arxa damaq qövsləri"
-    ]
-  },
-  {
-    "question": "Hansı limfoepitelial törəmələr ağızudlaqda yerləşir:",
-    "answers": [
-      "Damaq badamcıqları",
-      "Boru badamcıqları",
-      "Solitar follikullar",
-      "Udlaq badamcığı",
-      "Dil badamcığı"
-    ]
-  },
-  {
-    "question": "Udlağın tağını nə əmələ gətirir:",
-    "answers": [
-      "Əsas sümük və ənsə sümüyünün əsas hissəsi",
-      "I və II boyun fəqərələrinin cisimləri",
-      "Əsas sümük və I boyun fəqərəsinin cismi",
-      "Ənsə sümüyü və II boyun fəqərəsinin cismi",
-      "Əsas sümüyün qanadları və türk yəhəri"
-    ]
-  },
-  {
-    "question": "Udlaq badamcığının neçə dərəcəli hipertrofiyası ayırd olunur:",
-    "answers": [
-      "Üç",
-      "İki",
-      "Dörd",
-      "Beş",
-      "Altı"
-    ]
-  },
-  {
-    "question": "“Adenoid” vegetasiyası nədir:",
-    "answers": [
-      "Burun-udlaq badamcığının hipertrofiyası",
-      "Tubar badamcıqlarının böyüməsi",
-      "Burun-udlaq badamcığının iltihabı",
-      "Damaq badamcıqlarının atrofiyası",
-      "Burun arakəsməsinin Yakobson cismi"
-    ]
-  },
-  {
-    "question": "Böyüklərdə udma aktı neçə saniyə çəkir:",
-    "answers": [
-      "6-8 sn",
-      "3-5 sn",
-      "1-3 sn",
-      "5-7 sn",
-      "7-10 sn"
-    ]
-  },
-  {
-    "question": "Damaq badamcıqları nədən təşkil olunmuşdur:",
-    "answers": [
-      "Hamısı",
-      "Stroma",
-      "Parenxima",
-      "Epitelial qat",
-      "Kapsul"
-    ]
-  },
-  {
-    "question": "Damaq badamcığı udlağın yan divarlarından nə ilə ayrılır:",
-    "answers": [
-      "Kapsulla",
-      "Əzələlərlə",
-      "Ayrılmır",
-      "Fassiya ilə",
-      "Çoxqatlı yastı epitellə"
-    ]
-  },
-  {
-    "question": "Damaq badamcıqlarının əsas funksiyaları nədir:",
-    "answers": [
-      "Hamısı",
-      "Limfopoez",
-      "Fermentativ funksiya",
-      "Eliminasiya",
-      "İmmunoqlobulinlərin sintezi"
-    ]
-  },
-  {
-    "question": "Aşağıdaki əzələlərdən hansılar udlağı qaldırır:",
-    "answers": [
-      "m. Stylopharyngeus və m. pharyngopalatinus",
-      "m. Constrictor pharyngeus superior və m. stylopharyngeus",
-      "m. Constrictor pharyngeus medius və m. pharyngopalatinus",
-      "m. Constrictor pharyngeus inferior və m. uvulus",
-      "m. Tensor veli palatini və m. pharyngopalatinus"
-    ]
-  },
-  {
-    "question": "Damaq badamcıqlarının kapsulu ilə udlağın əzələ divarı arasında yerləşən sahə necə adlanır:",
-    "answers": [
-      "Paratonzillyar sahə",
-      "Udlaqyanı sahə",
-      "Udlaq arxası sahə",
-      "Heç biri",
-      "Laterofarinqeal sahə"
-    ]
-  },
-  {
-    "question": "Badamcıqların udlaq səthlərindəki çuxurlar necə adlanır:",
-    "answers": [
-      "Lakunalar",
-      "Trabekullar",
-      "Badamciq payları",
-      "Yataq",
-      "Follikullar"
-    ]
-  },
-  {
-    "question": "Damaq badamcığı hansı arteriya hövzəsindən qanla təchiz olunur:",
-    "answers": [
-      "Xarici yuxu arteriyası",
-      "Heç biri",
-      "Daxili yuxu arteriyası",
-      "Fəqərə arteriyası",
-      "Ümumi yuxu arteriyası"
-    ]
-  },
-  {
-    "question": "Udlaqarxası sahənin arxa divarını nə təşkil edir:",
-    "answers": [
-      "Onurqaönü fassiya",
-      "Yumşaq damağı gərginləşdirən əzələlər",
-      "Udlaq fassiyası arasında udlağı qaldırıcı əzələlər",
-      "Heç biri",
-      "Fibroz qiş"
-    ]
-  },
-  {
-    "question": "Damaq badamcıqlarının Palcun-Preobrajenskiyə görə neçə dərəcəli hipertofiyası ayırd olunur:",
-    "answers": [
-      "Üç",
-      "İki",
-      "Dörd",
-      "Beş",
-      "Altı"
-    ]
-  },
-  {
-    "question": "Udlaqdan limfa hara axir:",
-    "answers": [
-      "Arxa və dərin boyun limfa düyünlərinə",
-      "Udlaq arxası limfa düyünlərinə",
-      "Çənəarxası limfa düyünlərinə",
-      "Ənsə limfa düyünlərinə",
-      "Pretraxeal limfa düyünlərinə"
-    ]
-  },
-  {
-    "question": "Udlağın yuxarı şöbələrinin hərəki innervasiyası hansı sinir tərəfindən yerinə yetirilir:",
-    "answers": [
-      "Dil-udlaq siniri",
-      "Qayıdan sinir",
-      "Üçlü sinir",
-      "Azan sinir",
-      "Üz siniri"
-    ]
-  },
-  {
-    "question": "Udlağın yuxarı şöbələrinin hissi innervasiyası hansı sinir tərəfindən yerinə yetirilir:",
-    "answers": [
-      "Üçlü sinirin 2-ci şaxəsi",
-      "Əlavə sinir",
-      "Azan sinir",
-      "Dil-udlaq siniri",
-      "Üz siniri"
-    ]
-  },
-  {
-    "question": "Yumşaq damağın hərəki innervasiyası hansı sinir tərəfindən yerinə yetirilir:",
-    "answers": [
-      "Dil-udlaq siniri",
-      "Üz siniri",
-      "Üçlü sinir",
-      "Azan sinir",
-      "Əlavə sinir"
-    ]
-  },
-  {
-    "question": "Damaq badamcıqlarının yuxarı qütbündə təsadüf olunan çökəklik necə adlanır:",
-    "answers": [
-      "Turtual sinusu",
-      "Rozenmüller çökəkliyi",
-      "His büküşü",
-      "Gize çökəkliyi",
-      "Vallekula"
-    ]
-  },
-  {
-    "question": "Veber vəziləri harada yerləşir:",
-    "answers": [
-      "Damaq badamcıqlarının yuxarı qütbündə",
-      "Udlaqarxası sahədə",
-      "Dil badamcığının ətrafında",
-      "Damaq badamcıqlarının aşağı qütbündə",
-      "Paratonzillyar sahədə"
-    ]
-  },
-  {
-    "question": "Udlağın hansı funksiyası yoxdur:",
-    "answers": [
-      "Qoxu",
-      "Nitq",
-      "Tənəffüs",
-      "Qoruyucu",
-      "Rezonator"
-    ]
-  },
-  {
-    "question": "Piroqov-Valdeyer limfadenoid həlqəsinə hansı aiddir:",
-    "answers": [
-      "Hamısı",
-      "Dil badamcığı",
-      "Boru badamcıqları",
-      "Damaq badamcıqları",
-      "Burun-udlaq badamcığı"
-    ]
-  },
-  {
-    "question": "Hansı badamcığın kapsulu var:",
-    "answers": [
-      "Damaq",
-      "Hamısının",
-      "Burun-udlaq",
-      "Dil",
-      "Boru badamcığı"
-    ]
-  },
-  {
-    "question": "Aşağıdakılardan hansı badamcıqların funksiyasına aid deyil:",
-    "answers": [
-      "Eritropoez",
-      "Fermentativ funksiya",
-      "İmmunitetin formalaşmasında iştirak etmək",
-      "Limfopoez",
-      "Eliminasiya funksiyası"
-    ]
-  },
-  {
-    "question": "Udlaq ətrafı sahədə (udlaq arxası ve udlaqyanı ) nə yerləsir?",
-    "answers": [
-      "Kövşək birləşdirici toxuma",
-      "Əzələ toxuması",
-      "Fəqərələrin yan çıxıntıları",
-      "Fəqərəarası sinir kələfləri",
-      "Yuxu arteriyası"
-    ]
-  },
-  {
-    "question": "Aşağıdakı metodlardan hansının vasitəsilə burun-udlağı müayinə etmək olar:",
-    "answers": [
-      "Epifarinqoskopiya",
-      "Mezofarinqoskopiya",
-      "Otoskopiya",
-      "Larinqoskopiya",
-      "Rinoskopiya"
-    ]
-  },
-  {
-    "question": "Hansı ə_____________zələ yumşaq damağı qaldırır və eşitmə borusunun udlaq ağzının mənfəzini daraldır:",
-    "answers": [
-      "M. levator veli palatini",
-      "M. Palatoglossus",
-      "Sadalananların heç biri",
-      "M. tensos veli palatini",
-      "M. Palatopharyngeus"
+      "Barmaq müayinəsi",
+      "Endoskopik müayinə"
     ]
   },
   {
     "question": "Burun-udlağın ön divarını nə təşkil edir:",
     "answers": [
       "Xoanalar",
-      "Udlaq badamcığı",
-      "Boru badamcıqları",
+      "Boru badamcıqları 6",
       "Eşitmə borusunun udlaq ağzı",
+      "Udlaq badamcığı",
       "Sadalananların heç biri"
     ]
   },
@@ -424,9 +263,9 @@
     "question": "Aşağıdakılardan cüt badamcıqlara hansı aiddir:",
     "answers": [
       "Damaq və boru",
-      "Burun-udlaq və boru",
       "Burun-udlaq və dil",
       "Dil və boru",
+      "Burun-udlaq və boru",
       "Damaq və dil badamcığı"
     ]
   },
@@ -435,19 +274,29 @@
     "answers": [
       "Sadalananların hamısı",
       "Timus",
-      "Hipofiz",
       "Qalxanabənzər vəzi",
-      "Böyrəküstü vəzilər"
+      "Böyrəküstü vəzilərin qabıq maddəsi",
+      "Hipofiz"
     ]
   },
   {
     "question": "Eşitmə borularının udlaq ağzı harada yerləşir:",
     "answers": [
       "Aşağı burun balıqqulaqlarının arxa ucu səviyyəsində",
+      "Orta burun balıqqulaqlarının arxa ucu səviyyəsində",
       "Burun-udlağın yuxarı və arxa divarları sərhəddində",
       "Yuxarı burun keçəcəyində",
-      "yuxarı burunbalıqqulağı səviyyəsində",
-      "Orta burun balıqqulaqlarının arxa ucu səviyyəsində"
+      "yuxarı burun-balıqqulağı səviyyəsində"
+    ]
+  },
+  {
+    "question": "Retrofaringeal abses udlağın hansı divarında əmələ gəlir:",
+    "answers": [
+      "Arxa",
+      "Yuxarı",
+      "Ön",
+      "Ön və yuxarı",
+      "Yan"
     ]
   },
   {
@@ -455,37 +304,37 @@
     "answers": [
       "6",
       "4",
-      "3",
       "5",
+      "3",
       "7"
     ]
   },
   {
-    "question": "Udlağı sıxan əzələlər hansılardır:",
+    "question": "Udlağın II dərəcəli yanıqları üçün aşağıdakılardan hansı əlamət xarakterikdir:",
     "answers": [
-      "M.constrictoris pharyngeus superiror ,media et inferior",
-      "M.styloglossus, m.salpingopharingeus",
-      "M. styloglossus, m.palatoglossus",
-      "M.tensor veli palatini, m.salpingopharingeus",
-      "M.levator veli palatini, m.palatoglossus"
+      "Qovuq (yanıq suluqları)",
+      "Eroziya",
+      "Hiperemiya",
+      "Nekroz 7",
+      "Eritema 8"
     ]
   },
   {
     "question": "Aşağıdakilardan hansı Gize əlaməti sayılır:",
     "answers": [
       "Damaq badamcıqlarının ön qövslərinin hiperemiyası",
-      "Damaq badamcıqlarının kənarlarının ödemi",
-      "Damaq badamcıqlarının arxa qövslərinin kənarlarının qalınlaşması",
       "Regionar limfa düyünlərinin böyüməsi",
-      "Lakunalarda kazeoz-irinli tıxacların olması"
+      "Damaq badamcıqlarının kənarlarının ödemi",
+      "Lakunalarda kazeoz-irinli tıxacların olması",
+      "Damaq badamcıqlarının arxa qövslərinin kənarlarının qalınlaşması"
     ]
   },
   {
-    "question": "Udlaq divarının ən xarici qatı nədən ibarətdir:",
+    "question": "Udlaq divarının əsas qatını nə təşkil edir?",
     "answers": [
-      "Fibroz qatdan",
+      "Fibroz qat",
       "Əzələdən",
-      "Sümük toxumasından",
+      "Tunuka adventicia",
       "Selikli qişadan",
       "Kövşək birləşdirici toxumadan"
     ]
@@ -495,115 +344,375 @@
     "answers": [
       "Faringit",
       "Angina",
+      "Follikulit",
       "Laringit",
-      "Heç biri",
-      "Follikulit"
+      "Heç biri"
+    ]
+  },
+  {
+    "question": "Aşağıdakı infeksion xəstəliklərdən hansı anginaların əmələ gəlməsində rol oynamır.:",
+    "answers": [
+      "Malyariya",
+      "Skarlatina",
+      "Sifilis",
+      "Qızılca",
+      "Difteriya"
+    ]
+  },
+  {
+    "question": "Ağız boşluğunun iyəbənzər çöpü ( B) fusiformus ) və yanaq spiroxetinin (Spirochaeta buccalis) simbiozu ilə törədilən angina hansıdır:",
+    "answers": [
+      "Simanovski-Vensan anginası",
+      "Follikulyar angina",
+      "Lyudviq anginası",
+      "Herpetik angina",
+      "Lakunar angina"
+    ]
+  },
+  {
+    "question": "Damaq badamcığının, adətən yuxarı qütbündə çürüntülü iyə malik, üzəri yaşılımtıl ərplə örtülmüş, kiçik səthi xoraların əmələ gəlməsi aşağıdakı xəstəliklərdən hansı üçün xarakterdir:",
+    "answers": [
+      "Simanovski-Vensan",
+      "Sadalananların hamısı",
+      "Lyudviq anginası",
+      "Əsnək difteriyası 9",
+      "Heç biri"
+    ]
+  },
+  {
+    "question": "Lokalizasiyasına görə paratonzilyar absesin ən çox rast gəlinən forması hansıdır:",
+    "answers": [
+      "Supratonzilyar ( badamcıqüstü )",
+      "Arxa lokalizasiya ( badamcıqarxası )",
+      "Lateral lokalizasiya ( badamcıqyanı )",
+      "Sadalananların hamısı",
+      "Aşağı lokalizasiya ( badamcıqaltı )"
+    ]
+  },
+  {
+    "question": "Paratonzilyar absesin hansı mərhələsində, əsasən konservativ müalicə tətbiq edilir:",
+    "answers": [
+      "İnfiltrativ və ödemli",
+      "Sadalananların heç birində",
+      "Fleqmonoz",
+      "Sadalananlarin hamısında",
+      "Absesləşmə"
+    ]
+  },
+  {
+    "question": "Xroniki faringitin hansı növləri ayırd edilir:",
+    "answers": [
+      "Kataral, hipertrofik, atrofik",
+      "Kataral, irinli, allergik",
+      "Hipertrofik, allergik, irinli",
+      "Seroz, hipertrofik, irinli",
+      "Seroz, irinli, atrofik"
     ]
   },
   {
     "question": "Bunlardan hansı damaq badamcıqlarının struktur quruluşuna daxil edilmir:",
     "answers": [
-      "Boyunun onurqaönü fassiyası",
-      "Lakuna",
-      "Trabekula",
+      "Boyunun onurğa önü fassiyası",
       "Birləşdirici toxuma kapsulu",
-      "Kripta"
+      "Kripta",
+      "Lakuna",
+      "Trabekula"
+    ]
+  },
+  {
+    "question": "Aşağıdakilardan hansı Preobrajenski əlaməti sayılır:",
+    "answers": [
+      "Ön damaq qövslərinin kənarlarının qalınlaşması",
+      "Damaq badamcıqlarının ön qövslərinin kənarlarının hiperemiyası",
+      "Damaq badamcıqlarının kənarlarının ödemi",
+      "Lakunalarda kazeoz-irinli tıxacların olması",
+      "Regionar limfa düyünlərinin böyüməsi"
     ]
   },
   {
     "question": "“Ronxopatiya” nədir:",
     "answers": [
-      "Xorlama",
-      "Udqunma aktının pozulması",
-      "İybilmənin pozulması",
+      "Xoruldama",
       "Nitqin pozulması",
-      "Tənəffüsün pozulması"
+      "İybilmənin pozulması",
+      "Tənəffüsün pozulması",
+      "Udqunma aktının pozulması"
     ]
   },
   {
-    "question": "Bunlardan hansı udlaq limfadenoid həlqəsinə daxil deyil:",
+    "question": "Paratonzilyar absesin hansı mərhələsində təcili olaraq paratonzillyar sahə açılır və ya tonzillektomiya aparılır:",
     "answers": [
-      "Boyun limfa düyünləri",
-      "Bir cüt damaq badamcığı",
-      "Bir udlaq badamcığı",
-      "Bir dil badamcığı",
-      "İki boru badamcığı"
+      "Absesləşmə",
+      "Ödemli",
+      "Ödemli və infiltrativ",
+      "Kataral",
+      "İnfiltrativ"
+    ]
+  },
+  {
+    "question": "Anginaların hansı ümumi ağırlaşmaları rast gəlmə tezliyinə görə birinci yeri tutur:",
+    "answers": [
+      "Revmatizm və ürək zədələnmələri",
+      "Sepsis",
+      "Poliartrit",
+      "Qanyaradıcı orqanların zədələnmələri",
+      "Mədə-bağırsaq sistemi zədələnmələri"
+    ]
+  },
+  {
+    "question": "Anginaların ən çox rast gəlinən yerli ağırlaşması aşağıdakılardan hansıdır:",
+    "answers": [
+      "Paratonzillit Paratonzilyar abses",
+      "Udlaq qanaxması",
+      "Retrofaringeal abses",
+      "Kəskin boyun limfadeniti",
+      "Parafaringeal abses"
+    ]
+  },
+  {
+    "question": "Banal anginaların əsas törədicisi hansıdır:",
+    "answers": [
+      "Streptococcus B-haemolyticus",
+      "Moraxella catarrhalis",
+      "Heamophilus influenzae",
+      "Streptococcus viridans",
+      "Strafilacoccus aureus"
+    ]
+  },
+  {
+    "question": "Aşağida göstərilən anginalardan hansında penisillinoterapiya 6-8 gün ərzində effekt verir:",
+    "answers": [
+      "Simanovski-Vensan anginasında",
+      "Difterik anginada",
+      "Aqranulositar anginada",
+      "Leykozlar zamanı müşahidə olunan anginada",
+      "İnfeksion mononukleoz zamanı müşahidə olunan anginada"
+    ]
+  },
+  {
+    "question": "Damaq badamcıqlarının hipertrofiyası zamanı tətbiq edilən cərrahi əməliyyat necə adlanır:",
+    "answers": [
+      "Tonzillotomiya",
+      "Adenotomiya",
+      "Kriodestruksiya 11",
+      "Tonzillektomiya",
+      "Lakunotomiya"
+    ]
+  },
+  {
+    "question": "Retrofaringial abses ən çox kimlərdə rast gəlinir:",
+    "answers": [
+      "Kiçik yaşlı uşaqlarda",
+      "Yeniyetmələrdə",
+      "Gənclərdə",
+      "Yaşlı xəstələrdə",
+      "Qadınlarda"
+    ]
+  },
+  {
+    "question": "Boğazdan yaxma əsasən hansı xəstəliyi inkar etmək üçün götürülür:",
+    "answers": [
+      "Difteriya",
+      "Sifilis",
+      "Vərəm",
+      "Salmanelloz",
+      "Sadalananların heç biri"
+    ]
+  },
+  {
+    "question": "Tonzillektomiyanın ən çox rast gəlinən fəsadı hansıdır:",
+    "answers": [
+      "Qanaxma",
+      "Disfoniya",
+      "Tın-tınlıq",
+      "Emfizema",
+      "Udlağın parezi"
+    ]
+  },
+  {
+    "question": "“Xroniki tonzillit” termini əsasən hansı badamcıqların iltihabı zamanı tətbiq edilir:",
+    "answers": [
+      "Damaq badamcıqları",
+      "Udlaq badamcığı",
+      "Boru badamcıqları",
+      "Dil badamcığı",
+      "Udlağın selikli qişasının iltihabı"
+    ]
+  },
+  {
+    "question": "Udlağın III dərəcəli yanıqları üçün aşağıdakilardan hansı xarakterikdir:",
+    "answers": [
+      "Nekroz",
+      "Eritema",
+      "Hiperemiya",
+      "Qovuq (yanıq sudurları)",
+      "Ödem"
+    ]
+  },
+  {
+    "question": "Bu xəstəliklərdən hansı banal anginalara aiddir:",
+    "answers": [
+      "Follikulyar angina",
+      "Fleqmanoz angina",
+      "Aqranulositar angina",
+      "Lyudviq anginası",
+      "Monositar angina"
+    ]
+  },
+  {
+    "question": "Aşağıdakılardan hansı tonzillektomiyaya göstəriş deyildir:",
+    "answers": [
+      "Xroniki tonzillitin sadə forması",
+      "Təkrarlanan abses",
+      "Tonzillogen sepsis",
+      "Xroniki tonzillitin toksiko-allergik forması II dərəcə",
+      "Dekompensə olunmuş forması"
+    ]
+  },
+  {
+    "question": "Aşağıdakılardan hansı xroniki tonzillitin sadə forması üçün xarakter əlamətlər sayılır :",
+    "answers": [
+      "Lakunalarda kazeoz-irinli tıxaclar, regionar limfa düyünlərinin böyüməsi, Zak və Gize əlamətləri",
+      "Taxikardiya, subfebril hərarət, ürək və oynaq ağrıları",
+      "Revmatizm, glomerulonefrit, subfebril hərarət",
+      "EKQ-da dəyişikliklər, revmatizm, taxikardiya",
+      "Subfebril hərarət, oynaq ağrıları, regionar limfadenit"
+    ]
+  },
+  {
+    "question": "Xroniki tonzilitin konservativ müalicə metodları hansılardır:",
+    "answers": [
+      "Badamcıq lakunalarının yuyulması, orqanizmin ümumi müqavimətinin qaldırılması",
+      "Hormonoterapiya",
+      "Zəli ilə müalicə",
+      "Antibiotikoterapiya",
+      "Radiofrekans"
+    ]
+  },
+  {
+    "question": "Tonzillektomiya üçün hansı mütləq əks göstərişlər var:",
+    "answers": [
+      "Qan xəstəlikləri",
+      "Psixiki xəstəliklər",
+      "Yaşlı nəsil",
+      "Hamiləliyin axırıncı həftəsi",
+      "Menzis"
     ]
   },
   {
     "question": "Bunlardan hansı udlaq divarının qişalarına aid deyil:",
     "answers": [
       "Periost",
-      "Fibroz",
-      "Birləşdirici toxuma (adventisiya)",
+      "Adventisiya",
       "Əzələ",
+      "Fibroz",
       "Selikli qişa"
     ]
   },
   {
-    "question": "Udlagın divarı neçə qişadan təşkil olunmuşdur:",
+    "question": "“Angina” xəstəliyi nədir:",
+    "answers": [
+      "Ümumi infeksion-allergik xəstəlik olub, damaq badamcıqlarının kəskin iltihabı ilə müşahidə olunur",
+      "Damaq badamcıqlarının və udlağın selikli qişasının spesifik iltihabıdır",
+      "Streptokok etiologiyalı kəskin yoluxucu xəstəlik olub, kəskin faringit əlaməti ilə özünü biruzə verir",
+      "Ümumi infeksion xəstəlikdir və udlağın selikli qişasının kəskin iltihabı ilə müşahidə olunur",
+      "Udlaq limfadenoid halqasının bir və ya bir neçə komponentinin qeyri-spesifik iltihabıdır"
+    ]
+  },
+  {
+    "question": "Udlağın divarı neçə qişadan təşkil olunmuşdur:",
     "answers": [
       "Dörd",
+      "Altı 13",
       "İki",
-      "Üç",
       "Beş",
-      "Altı"
+      "Üç"
     ]
   },
   {
     "question": "Udlaqda neçə hissə ayırd olunur:",
     "answers": [
       "Üç",
+      "Beş",
       "İki",
       "Dörd",
-      "Beş",
       "Altı"
     ]
   },
   {
     "question": "Xarici yuxu arteriyasının hansı şaxəsi damaq badamcıqlarının qidalanmasında iştirak edir:",
     "answers": [
-      "Qalxan- udlaq arteriyası",
-      "Üz arteriyası",
-      "Dil arteriyası",
+      "Udlağın qalxan arteriyası",
       "Əng arteriyası",
-      "Hamısı"
+      "Hamısı",
+      "Döş arteriyası",
+      "Dil arteriyası"
+    ]
+  },
+  {
+    "question": "Monositar angina üçün qanda hansı dəyişiklik xarakterdir?",
+    "answers": [
+      "Dəyişilmiş mononuklearların sayının 60-80% artması",
+      "Dəyişilmiş mononuklearların sayının 60-80% azalması",
+      "Limfositlərin miqdarının kəskin azalması",
+      "Trombositlərin sayının artması",
+      "Eritrositlərin sayının kəskin artması"
+    ]
+  },
+  {
+    "question": "Aqranulositar angina üçün qanda nə dəyişiklik xarakterdir?",
+    "answers": [
+      "Periferik qanda qranulositlərin yox olması",
+      "Qanda monositlərin və limfositlərin sayının azalması",
+      "Leykositoz",
+      "Periferik qanda qranulositlərin sayının artması",
+      "Qanda monositlərin və limfositlərin sayının artması"
+    ]
+  },
+  {
+    "question": "Göbələkli angina zamanı əsnəkdə nə dəyişiklik olur?",
+    "answers": [
+      "Selikli qişanın yayılmış hiperemiyası fonunda kəsmikvari ağımtıl ləkələr",
+      "Selikli qişanın qırmızı qovucuqlarla örtülməsi",
+      "Selikli qişanın yayılmış hiperemiyası fonunda nöqtəvari sarımtıl ləkələr",
+      "Selikli qişanın fibrinoz ərplə örtülməsi",
+      "Selikli qişanın yayılmış nekroz əlamətləri"
     ]
   },
   {
     "question": "Ezofaqoskopiya nədir?",
     "answers": [
-      "Qida borusunun müayinəsi",
-      "Udlağın müayinəsi",
-      "Qırtlağın müayinəsi",
+      "Qida borusunun müayinəsi 14",
       "Burunun müayinəsi",
-      "Mədənin müayinəsi"
+      "Udlağın müayinəsi",
+      "Mədənin müayinəsi",
+      "Qırtlağın müayinəsi"
     ]
   },
   {
     "question": "Xoana nədir:",
     "answers": [
       "Burun boşluğundan burun-udlağa açılan dəlikdir",
-      "Yuxarı burun keçəcəyinin arxa hissəsidir",
-      "Aşağı burun keçəcəyinin arxa hissəsidir",
       "Orta burun keçəcəyinin arxa hissəsidir",
-      "Aşağı burun keçəcəyinin ön hissəsidir"
+      "Aşağı burun keçəcəyinin arxa hissəsidir",
+      "Aşağı burun keçəcəyinin ön hissəsidir",
+      "Yuxarı burun keçəcəyinin arxa hissəsidir"
     ]
   },
   {
-    "question": "Xarici burundan qan hara tökülür.",
+    "question": "Xarici burundan səthi venoz qan hara tökülür.",
     "answers": [
-      "Üz venasına",
-      "Göz venasına",
+      "Üz venasına Daxili vidaci venaya",
+      "Göz venasına Xarici vidaci vbenaya",
+      "Dil venasına",
       "Qalxanabənzər venaya",
-      "dil venasına",
-      "baş-boyun venasına"
+      "Baş-boyun venasına"
     ]
   },
   {
-    "question": "Xış sümüyü burun boşluğunun hansi divarını əmələ gətirir.",
+    "question": "Xış sümüyü burun boşluğunun hansı divarını əmələ gətirir.",
     "answers": [
-      "Medial",
+      "medial",
       "aşağı",
       "lateral",
       "yuxarı",
@@ -614,9 +723,9 @@
     "question": "Yenidoğulmuş uşaqlarda xəlbir sümüyünün xəlbir səfhəsi nədən təşkil olunmuşdur",
     "answers": [
       "fibroz toxumadan",
-      "əzələ toxumasından",
       "sümük toxumasından",
       "qığırdaqdan",
+      "əzələ toxumasından",
       "hialin toxumasından"
     ]
   },
@@ -624,430 +733,50 @@
     "question": "Burun balıqqulaqları burun boşluğunun hansı divarında yerləşir.",
     "answers": [
       "lateral",
-      "aşağı",
       "medial",
       "yuxarı",
-      "ön"
-    ]
-  },
-  {
-    "question": "Burun boşluğunun bayır divarına aid deyil.",
-    "answers": [
-      "burun sümüyü",
-      "əng sümüyünün alın çıxıntısı",
-      "əsas sümüyün böyük qanadının içəri səthi",
-      "damaq sümüyünün perpendikulyar səfhəsi",
-      "göz yaşı sümüyü"
-    ]
-  },
-  {
-    "question": "Burun boşluğunun yuxarı divarına aid deyil:",
-    "answers": [
-      "damaq sümüyü",
-      "əsas və xəlbir sümüyü",
-      "burun sümüyünün bir hissəsi",
-      "əsas sümük",
-      "xəlbir sümüyü"
-    ]
-  },
-  {
-    "question": "Burun boşluğunun hansı balıqqulaqları var:",
-    "answers": [
-      "aşağı,orta,yuxarı",
-      "yuxarı,aşağı,lateral",
-      "ancaq yuxarı və aşağı",
-      "medial,lateral",
-      "ancaq aşağı və orta"
-    ]
-  },
-  {
-    "question": "Ön rinoskopiya zamanı daha çox nəyi müayinə etmək olar:",
-    "answers": [
-      "burun çəpərini, aşağı və orta burun baliqqulaglarını",
-      "ancaq orta burun balıqqulağını",
-      "yuxarı burun baliqqulağını",
-      "ancaq aşağı burun balıqqulağını",
-      "yuxari burun keçəcəyini"
-    ]
-  },
-  {
-    "question": "Yakobsonun rudimentar orqanı burun boşluğunun harasında yerləşir:",
-    "answers": [
-      "burun çəpərində",
-      "aşağı divarında",
-      "orta burun balıqqulağında",
-      "orta burun keçəcəyində",
-      "yuxarı divarında"
-    ]
-  },
-  {
-    "question": "Göz yaşı-burun kanalı hara açılır:",
-    "answers": [
-      "aşağı burun keçəcəyinə",
-      "orta burun keçəcəyinə",
-      "yuxarı burun keçəcəyinə",
-      "ümumi burun keçəcəyinə",
-      "sfeno-etmoidal sahəyə"
-    ]
-  },
-  {
-    "question": "Orta burun keçəcəyinə nə açılır:",
-    "answers": [
-      "xəlbir labirintinin ön və orta hüceyrələri , alın və əng cibləri",
-      "göz yaşı-burun kanalı",
-      "bütün burun ətrafı ciblər",
-      "xəlbir labirintinin arxa hüceyrələri",
-      "əsas cib"
-    ]
-  },
-  {
-    "question": "Yuxarı burun keçəcəyinə nə açılır:",
-    "answers": [
-      "arxa xəlbir hüceyrələri , əsas cib",
-      "alın cibi",
-      "xəlbir labirintinin bütün hüceyrələri",
-      "göz yaşı-burun kanalı",
-      "əng cibi"
-    ]
-  },
-  {
-    "question": "Kisselbax sahəsi burun boşluğunda harada yerləşir:",
-    "answers": [
-      "burun çəpərinin ön-aşağı hissəsində",
-      "burun çəpərinin yuxarı hissəsində",
-      "orta burun balıqqulağının selikli qişasında",
-      "aşağı burun balıqqulağının selikli qişasında",
-      "burun boşluğunun dibində"
-    ]
-  },
-  {
-    "question": "Burun boşluğunda havanın isinməsində əsas rolu nə təşkil edir:",
-    "answers": [
-      "kavernoz toxuma",
-      "qığırdaq toxuması",
-      "sümük toxuması",
-      "selik vəziləri",
-      "səyrici epiteli"
-    ]
-  },
-  {
-    "question": "Astmatik (aspirin) triadası nədir",
-    "answers": [
-      "aspirinə həssaslıg, burun boşlugu selikli gişasınin polipoz dəyişiylikləri və bronxial astma tutmaları",
-      "penisillinə həssaslıg, paroksizmal asgırma və burundan coxlu ifrazatın gəlməsi",
-      "aspirinə həssaslıg, paroksizmal asgırma və burun tənəffüsünün cətinləşməsi",
-      "aspirinə və analginə həssaslıg, burundan coxlu ifrazatın gəlməsi və burun tənəffüsünün cətinləşməsi",
-      "aspirinə həssaslıg, burun tənəffüsünün cətinləşməsi və irinli haymoritin olması"
-    ]
-  },
-  {
-    "question": "İyli maddələrin malekulası necə adlanır:",
-    "answers": [
-      "odorivektorlar",
-      "opsoninlər",
-      "endoporfirinlər",
-      "otokininlər",
-      "otolitlər"
-    ]
-  },
-  {
-    "question": "Burunun əsas xüsusiyyətlərinə aid deyil:",
-    "answers": [
-      "dad bilmə",
-      "tənəffüs",
-      "qoxu",
-      "müdafiə",
-      "rezonator"
-    ]
-  },
-  {
-    "question": "Nəfəsalma zamanı hava axınının əsas hissəsi hansı burun keçəcəyindən keçir:",
-    "answers": [
-      "ümumi",
-      "orta",
-      "aşağı",
-      "yuxarı",
-      "orta və yuxarı"
-    ]
-  },
-  {
-    "question": "Kokosmiya nədir:",
-    "answers": [
-      "iybilmənin təhrif olması",
-      "iybilmənin olmaması",
-      "iybilmənin azalması",
-      "iybilmə halyusinasiyaları",
-      "iybilmənin artması"
-    ]
-  },
-  {
-    "question": "Burun və burunətrafı ciblərin qan təchizatı nə vasitəsilədir:",
-    "answers": [
-      "xarici və daxili yuxu arteriyasının şaxələrilə",
-      "onurğa arteriyasının şaxələrilə",
-      "dil arteriyasının şaxələrilə",
-      "yuxarı qalxanabənzər arteriya vasitəsilə",
-      "aşağı qalxanabənzər arteriya vasitəsilə"
-    ]
-  },
-  {
-    "question": "Burun boşluğunun ön hissəsindən limfa hansı limfa düyünlərinə axır:",
-    "answers": [
-      "çənəaltı",
-      "udlaqarxası",
-      "ön boyun",
-      "dərin boyun",
-      "arxa boyun"
-    ]
-  },
-  {
-    "question": "Aşağı tənəffüs yollarına aiddir:",
-    "answers": [
-      "bronxlar",
-      "burun",
-      "burunətrafı ciblər",
-      "qırtlaq",
-      "udlaq"
-    ]
-  },
-  {
-    "question": "Hansı epiteli burun boşluğunda ötürücü funksiyanı yerinə yetirir:",
-    "answers": [
-      "səyrici",
-      "çoxqatlı yastı",
-      "kubşəkilli",
-      "qoxu",
-      "keçid"
-    ]
-  },
-  {
-    "question": "Xəlbir sümüyünün xəlbir səfhəsindən hansı sinirin lifləri keçir:",
-    "answers": [
-      "qoxu",
-      "azan",
-      "üçlü sinirin 1-ci şaxəsi",
-      "üçlü sinirin 2-ci şaxəsi",
-      "üz"
-    ]
-  },
-  {
-    "question": "Osteometal kompleksə nə aid deyil:",
-    "answers": [
-      "aşağı burun balıqqulağı",
-      "orta burun balıqqulağının ön hissəsi",
-      "qırmağabənzər çıxıntı və aypara yarıq",
-      "xəlbir cibi",
-      "burun çəpərinin orta burun balıqqulağına baxan hissəsi"
-    ]
-  },
-  {
-    "question": "Burun çəpərinin əsas funksiyası:",
-    "answers": [
-      "burun boşluğunu iki hissəyə bölmək",
-      "qoruyucu",
-      "rezonator",
-      "qoxu",
-      "tənəffüs"
-    ]
-  },
-  {
-    "question": "Burun boşluğunun selikli qişasında ən aktiv mukosiliar ötürmə haradadır:",
-    "answers": [
-      "aşagı burun balıqqulağında",
-      "orta burun balıqqulağında",
-      "yuxarı burun balıqqulağında",
-      "burun çəpərində",
-      "burun boşluğunun dibində"
-    ]
-  },
-  {
-    "question": "Aaşağı burun balıqqulağının selikli qişasının xüsusi qatında nə yerləşir:",
-    "answers": [
-      "mağaralı venoz kələf",
-      "arterial kələf",
-      "kapilyar damar tor",
-      "qarışıq damar kələf",
-      "iybilmə hüceyrələri"
-    ]
-  },
-  {
-    "question": "Mağaralı venoz ilgək burun boşluğunda hansı funksiyanı yerinə yetirir:",
-    "answers": [
-      "isitmə",
-      "tənəffüs",
-      "ötürücü",
-      "rezonator",
-      "nəmləndirmə"
-    ]
-  },
-  {
-    "question": "Ən böyük burunətrafı cib hansıdır:",
-    "answers": [
-      "əng",
-      "xəlbir",
-      "alın",
-      "əsas",
-      "xəlbir labirintinin ön hüceyrələri"
-    ]
-  },
-  {
-    "question": "Böyüklərdə əsasən neçə burunətrafı cib inkişaf etmiş olur:",
-    "answers": [
-      "8",
-      "6",
-      "4",
-      "10",
-      "2"
-    ]
-  },
-  {
-    "question": "Qanad-damaq çuxuru ilə hansı əlavə cib sərhədlənir:",
-    "answers": [
-      "əng",
-      "alın",
-      "əsas",
-      "xəlbir labirinti",
-      "xəlbir labirintinin ön hüceyrələri"
-    ]
-  },
-  {
-    "question": "Köpək çuxuru əng cibinin hansı divarında yerləşir:",
-    "answers": [
-      "ön",
-      "aşağı",
-      "yuxarı",
-      "arxa",
-      "medial"
-    ]
-  },
-  {
-    "question": "Göz yaşı-burun kanalı əng cibinin hansı divarında yerləşir:",
-    "answers": [
-      "medial",
-      "aşağı",
-      "yuxarı",
-      "ön",
-      "arxa"
-    ]
-  },
-  {
-    "question": "Əng cibinin ən nazik divarı hansıdır:",
-    "answers": [
-      "yuxarı",
-      "medial",
-      "aşağı",
-      "ön",
-      "arxa"
-    ]
-  },
-  {
-    "question": "Göz yuvasıaltı sinirin kanalı əng cibinin hansı divarında yerləşir:",
-    "answers": [
-      "yuxarı",
-      "arxa",
-      "medial",
       "ön",
       "aşağı"
     ]
   },
   {
-    "question": "Əng cibinin arxa divarını nə əmələ gətirir:",
+    "question": "Burun boşluğunun hansı balıqqulaqları var:",
     "answers": [
-      "əng sümüyünün qabarı",
-      "alveolyar çıxıntı",
-      "əsas sümük",
-      "əng sümüyünün cismi",
-      "əng sümüyünün almacıq çıxıntısı"
-    ]
-  },
-  {
-    "question": "Əng cibinin göz divarından hansı sinirin kanalı keçir:",
-    "answers": [
-      "göz yuvasıaltı sinirin",
-      "nervus vidianus",
-      "üz sinirin",
-      "xəlbir sinirin",
-      "qoxu sinirin"
-    ]
-  },
-  {
-    "question": "Əng cibi hara açılır:",
-    "answers": [
-      "orta burun keçəcəyinə",
-      "aşağı burun keçəcəyinə",
-      "yuxarı burun keçəcəyinə",
-      "ümumi burun keçəcəyinə",
-      "sfeno-etmoidal sahəyə"
-    ]
-  },
-  {
-    "question": "Böyüklərdə əng cibinin orta həcmi:",
-    "answers": [
-      "10,5-17,7 sm3",
-      "2,0-5,3 sm3",
-      "20,0 sm3",
-      "25,0 sm3",
-      "25- 31 sm3"
-    ]
-  },
-  {
-    "question": "Əng cibinin iltihabının əmələ gəıməsində onun axacağının hansı xüsusiyyəti rol oynayır?",
-    "answers": [
-      "əng cibinin yuxarı hissəsində yerləşməsi",
-      "onun nisbətən dar olması",
-      "tez-tez rast gəlinən fontanellər",
-      "xəlbir hüceyrələri ilə yaxın olması",
-      "alın-burun kanalı ilə yaxın olması"
+      "aşağı, orta, yuxarı",
+      "ancaq aşağı və orta",
+      "medial, lateral",
+      "yuxarı, aşağı, lateral",
+      "ancaq yuxarı və aşağı"
     ]
   },
   {
     "question": "Əng cibinin hansı divarı alveolyar çıxıntı ilə əmələ gəlmişdir:",
     "answers": [
       "aşağı",
-      "yuxarı",
       "arxa",
       "ön",
-      "medial"
+      "medial",
+      "yuxarı"
     ]
   },
   {
     "question": "Əng cibinin təbii dəliyi hansı divarda yerləşir:",
     "answers": [
       "medial",
+      "yuxarı",
       "aşağı",
-      "arxa",
       "ön",
-      "yuxarı"
+      "arxa"
     ]
   },
   {
     "question": "Əng cibinin selikli qişasını hansı epiteli örtür:",
     "answers": [
       "çoxsıralı səyrici silindirik",
-      "kubşəkilli",
+      "kub şəkilli",
+      "təkqatlı silindirik",
       "çoxqatlı yastı",
-      "təkqatlı yastı",
-      "təkqatlı silindirik"
-    ]
-  },
-  {
-    "question": "Əng cibində selik hara hərəkət edir:",
-    "answers": [
-      "əng cibinin təbii dəliyinə doğru",
-      "cibin dibindən",
-      "cibin dibinə doğru",
-      "cibin təbii dəliyindən",
-      "öndən arxaya"
-    ]
-  },
-  {
-    "question": "Hansı burunətrafı cib olmur:",
-    "answers": [
-      "gicgah cibi",
-      "alın",
-      "xəlbir",
-      "əsas",
-      "əng"
+      "təkqatlı yastı"
     ]
   },
   {
@@ -1055,83 +784,53 @@
     "answers": [
       "əng",
       "alın",
-      "xəlbir",
       "əsas",
+      "xəlbir",
       "eyni tezlikdə bütün ciblərdə"
-    ]
-  },
-  {
-    "question": "Xəlbir labirinti ön kəllə çuxurundan nə ilə ayrılır:",
-    "answers": [
-      "xəlbir səfhə ilə",
-      "kağız səfhə ilə",
-      "damaq sümüyünün üfüqi səfhəsilə",
-      "burun balıqqulağı ilə",
-      "perpendikulyar səfhə ilə"
-    ]
-  },
-  {
-    "question": "Xəlbir labirintinin hücrələri simmetrik yerləşib:",
-    "answers": [
-      "yox",
-      "hə",
-      "ancaq uşaqlarda",
-      "ancaq böyüklərdə",
-      "yaşlılarda"
     ]
   },
   {
     "question": "Xəlbir labirinti hansı kəllə çuxuru ilə həmsərhəddir:",
     "answers": [
       "ön",
-      "orta",
       "arxa",
+      "orta və arxa",
       "ön və orta",
-      "orta və arxa"
+      "orta"
     ]
   },
   {
     "question": "Böyüklərdə xəlbir hüceyrələrinin sayı nə qədərdir:",
     "answers": [
       "8-10",
+      "2-4",
+      "3-5",
       "20-40",
-      "40-60",
-      "24",
-      "3-5"
+      "40-60"
     ]
   },
   {
     "question": "Orbitanın medial divarı ilə hansı burunətrafı ciblər həmsərhəddir:",
     "answers": [
       "xəlbir",
+      "əng 16",
       "alın",
-      "əng",
       "əsas",
       "alın və əsas"
-    ]
-  },
-  {
-    "question": "Xəlbir labirintinin hüceyrələri hansı səslərdə rezonans yaradir:",
-    "answers": [
-      "yüksək tonlarda",
-      "yüksək və alçaq tonlarda",
-      "bir qədər alçaq tonlarda",
-      "rezonator funksiyasında iştirak etmir",
-      "ancaq alçaq tonlarda"
     ]
   },
   {
     "question": "Xəlbir labirintinin arxa hüceyrələrinin axacağı hara açılır:",
     "answers": [
       "yuxarı burun keçəcəyinə",
-      "orta burun keçəcəyinə",
       "aşağı burun keçəcəyinə",
       "xoanaya",
+      "orta burun keçəcəyinə",
       "sfeno-etmoidal sahəyə"
     ]
   },
   {
-    "question": "Xəlbir labirintinin huceyrələri burun boşluğu ilə hansı burun keçəcəyi vasitəsilə əlaqələnir:",
+    "question": "Xəlbir labirintinin hüceyrələri burun boşluğu ilə hansı burun keçəcəyi vasitəsilə əlaqələnir:",
     "answers": [
       "orta və yuxarı",
       "aşağı və orta",
@@ -1141,32 +840,32 @@
     ]
   },
   {
-    "question": "Burun ətrafi ciblərə hava əsasən nə zaman keçir:",
+    "question": "Burunətrafi ciblərə hava əsasən nə zaman keçir:",
     "answers": [
       "nəfəsvermə zamanı",
       "nəfəsalma zamanı",
       "nəfəsalma və nəfəsvermə zamanı",
-      "yaşla əlaqədardır",
-      "keçmir"
+      "keçmir",
+      "yaşla əlaqədardır"
     ]
   },
   {
     "question": "Xəlbir labirintinin ən etibarlı müayinə üsulu hansıdır:",
     "answers": [
-      "kompyuter tomoqrafiyası",
-      "kontras rentgenoqrafiya",
+      "kompüter tomoqrafiyası",
       "rentgenoqrafiya",
       "diafonoskopiya",
-      "burunun endoskopiyası"
+      "burunun endoskopiyası",
+      "kontras rentgenoqrafiya"
     ]
   },
   {
     "question": "Burunun rezonans funksiyasında hansı ciblər iştirak edir:",
     "answers": [
-      "bütün burun ətrafı ciblər",
+      "bütün burunətrafı ciblər",
+      "əsas",
       "əng",
       "xəlbir labirintinin arxa hüceyrələri",
-      "əsas",
       "alın"
     ]
   },
@@ -1174,39 +873,29 @@
     "question": "Xəlbir labirintinin arxa hüceyrələri hansı sinirlə həmsərhəddir:",
     "answers": [
       "görmə",
-      "üçlü",
+      "gözün hərəki siniri",
       "blok",
-      "uzaqlaşdırıcı",
-      "gözün hərəki siniri"
+      "üçlü 17",
+      "uzaqlaşdırıcı"
     ]
   },
   {
     "question": "Alın cibinin ən qalın divarı:",
     "answers": [
       "ön",
+      "arxa",
       "aşağı",
       "medial",
-      "arxa",
       "yuxarı"
     ]
   },
   {
-    "question": "Alin cibinin hansı divarının tərkibində süngəri maddə yoxdur və kompakt səfhədən təşkil olunmuşdur:",
-    "answers": [
-      "ön",
-      "aşağı",
-      "medial",
-      "arxa",
-      "yuxarı"
-    ]
-  },
-  {
-    "question": "Alın cibləri saqittal kəsikdə hansı formadadır:",
+    "question": "Alın cibləri sagittal kəsikdə hansı formadadır:",
     "answers": [
       "üçbucaq",
-      "kub şəkilli",
-      "prizma şəkilli",
       "oval",
+      "prizma şəkilli",
+      "kub şəkilli",
       "çoxüzlü"
     ]
   },
@@ -1214,19 +903,19 @@
     "question": "Alın cibi hansı kəllə çuxuru ilə həmsərhəddir:",
     "answers": [
       "ön",
-      "orta",
-      "aşağı",
       "ön və orta",
-      "orta və arxa"
+      "orta",
+      "orta və arxa",
+      "aşağı"
     ]
   },
   {
     "question": "Alın cibinin arxa divarı nə ilə həmsərhəddir:",
     "answers": [
       "ön kəllə çuxuru ilə",
-      "orta kəllə çuxuru ilə",
-      "qanad-damaq çuxuru ilə",
       "“S”-ə bənzər cib ilə",
+      "qanad-damaq çuxuru ilə",
+      "orta kəllə çuxuru ilə",
       "mağaralı cib ilə"
     ]
   },
@@ -1234,90 +923,70 @@
     "question": "Alın-burun kanalı dəliyi alın cibinin hansı divarındadır:",
     "answers": [
       "aşağı",
-      "arxa",
-      "ön",
       "medial",
-      "yuxarı"
+      "yuxarı",
+      "ön",
+      "arxa"
     ]
   },
   {
     "question": "Alın cibi hansı sümükdə yerləşir:",
     "answers": [
       "alın sümüyünün pullu hissəsində (os frontalis)",
-      "əsas sümükdə (os sfenoidalis)",
+      "gicgah sümüyünün pullu hissəsində (os temporalis)",
       "əng sümüyünün cismində (os maxillaris)",
       "xəlbir sümüyündə (os etmoidalis)",
-      "gicgah sümüyünün pullu hissəsində (os temporalis)"
+      "əsas sümükdə (os sfenoidalis)"
     ]
   },
   {
     "question": "Alın cibi hara açılır:",
     "answers": [
       "orta burun keçəyinə",
-      "aşağı burun keçəcəyinə",
       "yuxarı burun keçəcəyinə",
       "ümumi burun keçəcəyinə",
-      "xoanalara"
-    ]
-  },
-  {
-    "question": "Alın cibinin aşağı divarı əsasən nə ilə həmsərhəddir:",
-    "answers": [
-      "göz yuvası ilə",
-      "qanad-damaq çuxuru ilə",
-      "xəlbir labirinti ilə",
-      "burun boşluğu ilə",
-      "xoana ilə"
+      "xoanalara",
+      "aşağı burun keçəcəyinə"
     ]
   },
   {
     "question": "Alın cibinin hansı divarı göz yuvası ilə həmsərhəddir:",
     "answers": [
       "aşağı",
-      "arxa",
-      "medial",
+      "yuxarı",
       "ön",
-      "yuxarı"
+      "medial",
+      "arxa"
     ]
   },
   {
-    "question": "Göz yuvasının aşağı divarı nə ilə həmsərhəddir:",
+    "question": "Göz yuvasının aşağı divarı hara ilə həmsərhəddir:",
     "answers": [
       "əng cibi ilə",
-      "xəlbirin labirint huceyrələrilə",
+      "xəlbir labirint hüceyrələrilə",
       "alın cibi ilə",
       "əsas cib ilə",
       "burun boşluğu ilə"
     ]
   },
   {
-    "question": "Göz yuvasının yuxarı divarı nə ilə həmsərhəddir:",
+    "question": "Göz yuvasının yuxarı divarı hara ilə həmsərhəddir:",
     "answers": [
       "alın cibi ilə",
       "xəlbir labirintlə",
+      "burun boşluğu ilə",
       "əsas cib ilə",
-      "əng cibi ilə",
-      "burun boşluğu ilə"
+      "əng cibi ilə"
     ]
   },
   {
-    "question": "Burun boşluğunun göz yuvası ilə hüdudunu nə təmin edir:",
+    "question": "Xəlbir labirintinin göz yuvası ilə hüdudunu nə təmin edir:",
     "answers": [
       "kağız səfhə",
       "xəlbir səfhə",
+      "xəlbir sümüyünün perpendikulyar səfhəsi",
       "alın-burun kanalı",
-      "göz yuvası üstü dəlik",
-      "xəlbir sümüyünün perpendikulyar səfhəsi"
-    ]
-  },
-  {
-    "question": "Əsas cibin axacaq dəliyi onun hansı divarında yerləşir:",
-    "answers": [
-      "ön divarda",
-      "aşağı divarda",
-      "arxa divarda",
-      "yuxarı divarda",
-      "lateral divarda"
+      "göz yuvası üstü dəlik"
     ]
   },
   {
@@ -1325,115 +994,65 @@
     "answers": [
       "əsas sümüyün cismində",
       "alın sümüyünün cismində",
-      "gicgah sümüyünün cismində",
       "əng sümüyünün cismində",
-      "xəlbir labirintində"
-    ]
-  },
-  {
-    "question": "Əsas cibin orta həcmi:",
-    "answers": [
-      "3-4 sm3",
-      "1-2 sm3",
-      "5-6 sm3",
-      "7-8 sm3",
-      "9-10 sm3"
+      "xəlbir labirintində",
+      "gicgah sümüyünün cismində"
     ]
   },
   {
     "question": "Əsas cibin hansı divarı hipofizlə sərhədlənir:",
     "answers": [
       "yuxarı",
-      "aşağı",
-      "arxa",
+      "aşağı 19",
+      "ön",
       "bayır",
-      "ön"
-    ]
-  },
-  {
-    "question": "Əsas cibin yuxarı divarına nə söykənir:",
-    "answers": [
-      "beyinin alın payının bir hissəsi və hipofiz",
-      "ancaq hipofiz",
-      "beyinin gicgah payı",
-      "beyinin ənsə payı",
-      "beyincik"
+      "arxa"
     ]
   },
   {
     "question": "Hansı burunətrafı cib hər üc kəllə çuxurları ilə həmsərhəddir:",
     "answers": [
       "əsas",
-      "alın",
       "xəlbir labirintinin ön hüceyrələri",
-      "xəlbir labirintinin arxa hüceyrələri",
-      "əng cibi"
+      "alın",
+      "əng cibi",
+      "xəlbir labirintinin arxa hüceyrələri"
     ]
   },
   {
     "question": "Əsas cibin bayır divarına nə söykənir:",
     "answers": [
       "daxili yuxu arteriyası",
-      "xarici yuxu arteriyası",
-      "vidaci vena",
       "bazilyar arteriya",
+      "vidaci vena",
+      "xarici yuxu arteriyası",
       "görmə çarpazı"
-    ]
-  },
-  {
-    "question": "Mağaralı cib əsas cibin hansı divarına söykənir:",
-    "answers": [
-      "bayır",
-      "aşağı",
-      "arxa",
-      "yuxarı",
-      "ön"
-    ]
-  },
-  {
-    "question": "Əsas cibin təbii dəliyi hara açılır:",
-    "answers": [
-      "yuxarı burun keçəcəyinin əsas-xəlbir sahəsinə",
-      "orta burun keçəcəyinə",
-      "ümumi burun keçəcəyinə",
-      "xoanaya",
-      "aşağı burun keçəcəyinə"
     ]
   },
   {
     "question": "Burun furunkulunun etiopatogenizində əsas rol nədir:",
     "answers": [
       "dərinin yerli və bütöv orqanizmin infeksiyaya qarşı müqavimətinin azalması",
+      "qaşınma zamanı dəri örtüyünün mikro travması",
       "burun boşluğunun selikli qişasının iltihabı",
-      "burun boşluğunda atrofik prosesin olması",
       "iqlim amili",
-      "qaşınma zamanı dəri örtüyünün mikro travması"
+      "burun boşluğunda atrofik prosesin olması"
     ]
   },
   {
     "question": "Bu faktlardan hansı burun furunkulunun əmələ gəlməsinə daha çox şərait yaradır:",
     "answers": [
       "şəkərli diabet",
-      "böyrəklərin patalogiyası",
-      "burunun anadangəlmə anomaliyası",
-      "ürək-damar patalogiyası",
-      "sinusit"
-    ]
-  },
-  {
-    "question": "Astmatik (aspirin) triadaya nə xarakter deyil",
-    "answers": [
-      "topik kortikosteroidlərə həssaslıg",
-      "asetilsalisil turşusu preparatlarına həssaslıg",
-      "burun boşluğu selikli gişasınin polipoz dəyişiylikləri",
-      "bronxial astma",
-      "analgin və penisillin preparatlarına həssaslıg"
+      "böyrəklərin patologiyası",
+      "ürək-damar patologiyası",
+      "sinusit",
+      "burunun anadangəlmə anomaliyası"
     ]
   },
   {
     "question": "Burun furunkulunun etioloji amili nədir:",
     "answers": [
-      "stafilakokk",
+      "stafilakok",
       "göy-yaşıl irin çöpləri",
       "herpes virusu",
       "allergiya",
@@ -1443,51 +1062,21 @@
   {
     "question": "Burun furunkulu nədir:",
     "answers": [
-      "tük kisəsinin kəskin iltihabı",
-      "epidermisin iltihabı",
-      "selikli qişaaltı vəzinin kəskin iltihabı",
+      "tük kisəsinin irinli nekrotik iltihabı",
       "selikli qişanın kəskin iltihabı",
-      "alın cibinin kəskin iltihabı"
+      "epidermisin iltihabı 20",
+      "alın cibinin kəskin iltihabı 21",
+      "selikli qişaaltı vəzinin kəskin iltihabı"
     ]
   },
   {
     "question": "Burun furunkulunun patogenizində əsas rol nədən ibarətdir:",
     "answers": [
-      "kiçik qan damarlarının trombozu",
+      "kiçik venoz damarların trombozu",
       "damar keçiriciliyinin azalması",
+      "kiçik hüceyrəli infiltrasiya",
       "ekssudasiya",
-      "damar keçiriciliyinin artması",
-      "kiçik hüceyrəli infiltrasiya"
-    ]
-  },
-  {
-    "question": "Furunkulun burunda və bədənin başqa hissələrındə əmələ gəlməsi nədir",
-    "answers": [
-      "furunkulyoz",
-      "karbunkul",
-      "sikkoz",
-      "follikulit",
-      "qızılyel"
-    ]
-  },
-  {
-    "question": "İki və daha çox furunkulun birləşməsi nece adlanır:",
-    "answers": [
-      "karbunkul",
-      "frunkulyoz",
-      "sikoz",
-      "ostiofollikulit",
-      "qızılyel"
-    ]
-  },
-  {
-    "question": "Burun furunkulu olan xəstələrdə birinci nə edilməlidir:",
-    "answers": [
-      "qanda və sidikdə şəkərin müayinəsi",
-      "nəcisdə qurd yumurtalarının müayinəsi",
-      "burunun əlavə ciblərinin rentgenoqrafiyası",
-      "arterial təzyiqin yoxlanılması",
-      "qan laxtalanmasının müayinəsi"
+      "damar keçiriciliyinin artması"
     ]
   },
   {
@@ -1501,42 +1090,22 @@
     ]
   },
   {
-    "question": "Xroniki rinosinusitlərin bu formasına rast gəlmir",
-    "answers": [
-      "fegmanoz",
-      "irinli",
-      "kənari-hiperplastik",
-      "polipoz",
-      "nekrotik"
-    ]
-  },
-  {
-    "question": "Burun furunklunun müalicəsində nə istifadə olunmur:",
-    "answers": [
-      "Naftizin",
-      "Aspirin",
-      "Suprastin",
-      "Eritromisin",
-      "Vişnevski məlhəmi ilə sarğılar"
-    ]
-  },
-  {
     "question": "Burun furunkulunun açılması nə zaman aparılır:",
     "answers": [
       "absesləşmə mərhələsində",
-      "infiltrasiya mərhələsində",
       "sağalma mərhələsində",
-      "bütün mərhələlərdə",
-      "ümumiyyətlə aparılmır"
+      "infiltrasiya mərhələsində",
+      "ümumiyyətlə aparılmır",
+      "bütün mərhələlərdə"
     ]
   },
   {
     "question": "Burun furunkulunun infiltrasiya mərhələsində əsas müalicə üsulu:",
     "answers": [
       "antibiotiklər və məlhəm applikasiyaları",
-      "yarılma, təzyiq göstərmə, vitamin terapiyası",
-      "təzyiq göstərmə",
       "vitamin terapiyası",
+      "yarılma, təzyiq göstərmə",
+      "təzyiq göstərmə",
       "fizioterapiya"
     ]
   },
@@ -1544,170 +1113,100 @@
     "question": "Burun furunkulunun absesləşmə mərhələsində əsas müalicə:",
     "answers": [
       "yarılma və antibakterial terapiya",
-      "antibakterial terapiya və məlhəm applikasiyaları",
       "təzyiq göstərilməsi",
       "immun sistemin stimullaşdırılması",
-      "fizioterapiya"
-    ]
-  },
-  {
-    "question": "Burun furunkulunun açılmasından sonra hansı nəm sarğının aparılması məqsədə uyğundur:",
-    "answers": [
-      "natri xlorun hipertonik məhlulu ilə",
-      "natri xlorun izotonik məhlulu ilə (0,9%)",
-      "70%-li spirtlə",
-      "yarımspirtli məhlul ilə",
-      "hidrogen peroksidlə"
-    ]
-  },
-  {
-    "question": "Lor organların dərisinin hansı yayılmış infeksion iltihabı xəstəliyi orqanizmin güclü ümumi reaksiyası ilə gedir:",
-    "answers": [
-      "qızılyel",
-      "sikoz",
-      "burun furunkulu",
-      "ekzema",
-      "karbunkul"
+      "fizioterapiya",
+      "antibakterial terapiya və məlhəm applikasiyaları"
     ]
   },
   {
     "question": "Burun qızılyelinin əsas törədicisi:",
     "answers": [
-      "streptakokk",
-      "stafilakokk",
+      "streptokok",
+      "mikoplazma",
       "herpes virusu",
       "göbələk",
-      "mikoplazma"
+      "stafilakok"
     ]
   },
   {
-    "question": "Burun qızılyelinin müalicəsində nə istifadə olunmur:",
-    "answers": [
-      "göbələyə qarşı məlhəmlər",
-      "autohemoterapiya",
-      "antibakterial preparatlar",
-      "kvarsla şüalanma",
-      "vitamin terapiyası"
-    ]
-  },
-  {
-    "question": "Burun çəpərinin əyriliyi zamanı əməliyyata göstəriş:",
+    "question": "Burun çəpərinin əyriliyi zamanı əməliyyata göstəriş: 22",
     "answers": [
       "burun tənəffüsünün çətinləşməsi",
-      "atrofik rinit",
-      "kəkin rinit",
       "xroniki tonzillit",
-      "iybilmə pozulmaları"
+      "iybilmə pozulmaları",
+      "atrofik rinit",
+      "kəkin rinit"
     ]
   },
   {
     "question": "Burun çəpərinin selikli qişaaltı rezeksiyası zamanı nə xaric edilir:",
     "answers": [
-      "dördbucaq qığırdağın və burun çəpərinin sümük skeletinin əyilmiş hissələri",
-      "üçbucaq qığırdaq",
-      "sesamoid qıgırdaq",
-      "burun qanadı qigırdağı",
-      "burun çəpərinin burun arxasına yaxın olan qıgırdağı"
+      "dördbucaq qığırdağın və burun çəpərinin sümük",
+      "sesamoid qığırdaq",
+      "letinin əyilmiş hissələri",
+      "burun qanadı qıgırdağı",
+      "üçbucaq qığırdaq"
     ]
   },
   {
     "question": "Burun boşluğunun sinexiyaları nədir:",
     "answers": [
       "burun çəpəri ilə burunun lateral divarı arasındakı çapıqlı atmalar",
-      "burun boşluğunun selikli qişasının sklerozlaşmış hissələri",
-      "burun boşluğunun yuxarı hissələrindəki sümük atmalar",
       "burun çəpərinin polipoz törəmələri",
+      "burun boşluğunun yuxarı hissələrindəkı sümük atmalar",
+      "burun boşluğunun selikli qişasının sklerozlaşmış hissələri",
       "burun boşluğunun aşağı hissəsindəki qığırdaq atmaları"
     ]
   },
   {
-    "question": "Burun çəpərinin hematomasının əmələ gəlməsinin ən çox rast gəlinən səbəbi:",
-    "answers": [
-      "burun çəpərinin selikli qişasının tamlığı pozulmadan zədələnməsi",
-      "infeksion xəstəlik",
-      "virus xəstəliyi",
-      "vazotomiya",
-      "burun çəpərinin selikli qişasının tamlığının pozulması ilə zədələnməsi"
-    ]
-  },
-  {
-    "question": "Burun çəpərinin hematomasının əsas simptomları:",
-    "answers": [
-      "burun tənəffüsünün çətinləşməsi",
-      "burun qanaxması",
-      "iybilmənin itirilməsi",
-      "xarici burunun deformasiyası",
-      "burundan irinli ifrazatın gəlməsi"
-    ]
-  },
-  {
-    "question": "Burun çəpərinin hematomasına nəyin əsasında diagnoz goyulur:",
+    "question": "Burun çəpərinin hematomasına nəyin əsasında diaqnoz goyulur:",
     "answers": [
       "ön rinoskopiya",
+      "arxa rinoskopiya",
       "bakterioloji müayinə",
-      "burun sümüklərinin palpasiyası",
       "rentgenoqrafiya",
-      "arxa rinoskopiya"
+      "burun sümüklərinin palpasiyası"
     ]
   },
   {
     "question": "Burun çəpərinin hematomasının müalicəsində nədən istifadə olunur:",
     "answers": [
-      "punksiya və qanın sorulmasi",
-      "burun boşluğunun selikli qişasının anemizasiyası",
+      "punksiya və qanın sorulması",
       "hemostatik terapiya",
+      "burun çəpərinin selikli qişaaltı rezeksiyası",
       "fizioterapiya",
-      "burun çəpərinin selikli qişaaltı rezeksiyası"
+      "burun boşluğunun selikli qişasının anemizasiyası"
     ]
   },
   {
     "question": "Burun çəpəri absesinin diaqnostikasında ən informativ üsul:",
     "answers": [
       "ön rinoskopiya və şişkinliyin punksiyası",
-      "burun sümüklərinin rentgenoqrafiyası",
       "arxa rinoskopiya",
-      "burunun əlavə ciblərinin KT-ı",
-      "orta rinoskopiya"
-    ]
-  },
-  {
-    "question": "Xəstədə zədədən 6 gün sonra baş ağrıları əmələ gəlmişdir,T-380 S,burun tənəffüsü hər iki tərəfdən çətinləşmişdir , burun çəpərinin selikli qişasının nəzərə çarpan iltihablaşmış şişkinliyi qeyd olunur , toxunduqda ağrılıdır. Diaqnoz:",
-    "answers": [
-      "burun çəpərinin absesi",
-      "burun çəpərinin əyriliyi",
-      "kəskin rinit",
-      "rinolit",
-      "burun çəpərinin hematoması"
+      "burunun əlavə ciblərinin KT-si",
+      "orta rinoskopiya",
+      "burun sümüklərinin rentgenoqrafiyası"
     ]
   },
   {
     "question": "Burun çəpərinin absesi əsasən nəyin fəsadlaşmasıdır:",
     "answers": [
       "burun çəpərinin hematomasının",
+      "adenoid vegetasiyasının 23",
+      "haymoritin",
       "vazomator rinitin",
-      "adenoid vegetasiyasının",
-      "kəskin rinitin",
-      "haymoritin"
+      "kəskin rinitin"
     ]
   },
   {
     "question": "Burun çəpəri absesinin müalicəsində nə edilir:",
     "answers": [
       "yarılma və drenaj etmə",
-      "absesin punksiyası",
       "burunun ön tamponadası",
-      "fizioterapiya",
-      "konservativ müalicə"
-    ]
-  },
-  {
-    "question": "Burun çəpərinin perforasiyasının əmələ gəlməsinin səbəbi deyil:",
-    "answers": [
-      "kəskin irinli haymorit",
-      "ozena",
-      "burun çəpərinin absesi",
-      "üçüncülü sifilis",
-      "burun çəpərində kobud cərrahi müdaxilə"
+      "absesin punksiyası",
+      "konservativ müalicə",
+      "fizioterapiya"
     ]
   },
   {
@@ -1715,8 +1214,8 @@
     "answers": [
       "burun çəpərində kobud cərrahi müdaxilə",
       "kəskin irinli haymorit",
-      "uzun müddətli ön tamponada",
       "əng cibinin punksiyası",
+      "uzun müddətli ön tamponada",
       "uzun müddətli arxa tamponada"
     ]
   },
@@ -1725,29 +1224,29 @@
     "answers": [
       "hiposmiya",
       "anosmiya",
-      "hiperosmiya",
+      "normosmiya",
       "kakosmiya",
-      "normosmiya"
+      "hiperosmiya"
     ]
   },
   {
     "question": "Hiposmiya nədir:",
     "answers": [
       "iybilmənin zəifləməsı",
-      "iybilmənin olmaması",
-      "iybilmənin təhrif olması",
       "qoxu halyusinasiyası",
-      "iybilmənin artması"
+      "iybilmənin olmaması",
+      "iybilmənin artması",
+      "iybilmənin təhrif olması"
     ]
   },
   {
     "question": "Anosmiya nədir:",
     "answers": [
       "iybilmənin olmaması",
-      "iybilmənin təhrif olması",
-      "iybilmənin azalması",
       "qoxu halyusinasiyası",
-      "normal iybilmə"
+      "iybilmənin azalması",
+      "normal iybilmə",
+      "iybilmənin təhrif olması"
     ]
   },
   {
@@ -1755,28 +1254,28 @@
     "answers": [
       "anosmiya",
       "kakosmiya",
-      "hiperosmiya",
-      "ozena",
-      "hiposmiya"
+      "ozena 24",
+      "hiposmiya 25",
+      "hiperosmiya"
     ]
   },
   {
     "question": "Xoşagəlməz iyin təhrif olunmuş şəkildə qəbul olunması nədir:",
     "answers": [
       "kakosmiya",
-      "anosmiya",
-      "hiposmiya",
       "normosmiya",
-      "hiperosmiya"
+      "hiposmiya",
+      "hiperosmiya",
+      "anosmiya"
     ]
   },
   {
     "question": "Burun qanaxması daha çox harada olur:",
     "answers": [
       "burun çəpərinin ön aşağı hissəsində",
-      "orta burun balıqqulağında",
-      "aşağı burun balıqqulağında",
       "burun çəpərinin arxa aşağı hissəsində",
+      "aşağı burun balıqqulağında",
+      "orta burun balıqqulağında",
       "burun çəpərinin arxa-yuxarı hissəsində"
     ]
   },
@@ -1785,29 +1284,19 @@
     "answers": [
       "burun çəpərinin",
       "aşağı burun balıqqulağının",
-      "orta burun balıqqulağının",
+      "yuxarı burun balıqqulağının",
       "burun boşluğunun dibində",
-      "yuxarı burun balıqqulağının"
-    ]
-  },
-  {
-    "question": "Allergik rinitin kompleks terapiyasına nə aid deyil",
-    "answers": [
-      "buruna damar büzücü preparatların damcı şəklində uzun müddət istifadəsi",
-      "organizmə allegenin düşməsindən goruyan individual metodlar",
-      "spesifik immunoterapiya",
-      "geyri spesifik hiposensibilizasiya terapiyası",
-      "yerli kortikosteroid terapiyası"
+      "orta burun balıqqulağının"
     ]
   },
   {
     "question": "Burun qanaxmasının yerli səbəbi:",
     "answers": [
       "burun travması",
-      "ateroskleroz",
-      "leykoz",
       "arterial hipertenziya",
-      "hemofiliya"
+      "ateroskleroz",
+      "hemofiliya",
+      "leykoz"
     ]
   },
   {
@@ -1817,137 +1306,97 @@
       "hipertoniya xəstəliyi",
       "qan xəstəlikləri",
       "ateroskleroz",
-      "böyrək xəstəlikləri ( nefroskleroz, böyrək hipertoniyası)"
-    ]
-  },
-  {
-    "question": "Burun qanaxması nə zaman baş verir:",
-    "answers": [
-      "bütün sadalananlar",
-      "qrip zamanı",
-      "burun-udlağın angiofibromasında",
-      "teleangioektaziyalarda",
-      "burun boşluğunun xərçəngində"
+      "böyrək xəstəlikləri (nefroskleroz, böyrək hipertoniyası)"
     ]
   },
   {
     "question": "Burun çəpərinin ön-aşağı hissəsində nə yerləşir:",
     "answers": [
       "sıx damar toru (Kisselbax sahəsi)",
-      "kavernoz sinus",
       "limfatik kələf",
       "S-əbənzər sinus",
+      "kavernoz sinus",
       "bütün sadalananlar"
     ]
   },
   {
-    "question": "Bunlardan hansı daha çox burun qanaxmasına səbəb olur",
+    "question": "Bunlardan hansı daha çox burun qanaxmasına səbəb olur 26",
     "answers": [
       "ateroskleroz",
-      "revmatik miokardit",
       "miokardın infarktı",
+      "bağırsaq keçməməzliyi",
       "ürəyin mədəciklərarası arakəsməsinin defekti",
-      "bağırsaq keçməməzliyi"
+      "revmatik miokardit"
     ]
   },
   {
     "question": "Burun boşluğunda qanaxmaların səbəbi nə ola bilər:",
     "answers": [
       "bütün sadalananlar",
+      "burun boşluğunun və burunətrafı ciblərin xoşxassəli şişləri (angioma, polip)",
       "burun boşluğunun atrofiyasi və xorası",
-      "burun boşluğunun və burun ətrafı ciblərin bədxassəli şişləri",
-      "burun boşluğunda cərrahi əməliyyatlar və zədələr",
-      "burun boşluğunun və burun ətrafı ciblərin xoşxassəli şişləri (angioma, papilloma)"
-    ]
-  },
-  {
-    "question": "Simptomatik burun qanaxması hansı xəstəlik zamanı baş vermir",
-    "answers": [
-      "pnevmaniya",
-      "burun-udlağın angiofibroması",
-      "hipertoniya xəstəliyi",
-      "hemofiliya",
-      "leykoz"
-    ]
-  },
-  {
-    "question": "Burun boşluğunun ön hissəsində qanaxma baş verən zamanı nədən istifadə olunur:",
-    "answers": [
-      "burun ganadlarının burun arakəsməsinə sıxılması və burun boşluğunun ön hissəsinə 3%-li hidrogen peroksidlə islanmış pambıq və ya tənzif yeridilməsi",
-      "arxa tamponada",
-      "dibazolun parenteral yeridilməsi",
-      "xarici yuxu arteriyasının bağlanması",
-      "vikasolun parenteral yeridilməsi"
-    ]
-  },
-  {
-    "question": "Burun boşluğunun ön hissəsindən qanaxma zamanı nədən istifadə olunmur:",
-    "answers": [
-      "arxa tamponada",
-      "burun boşluğuna 3%-li hidrogen peroksid ilə isladılmış tamponun yeridilməsi",
-      "damarın koaqulyasiyası",
-      "burun qanadlarının burun çəpərinə sıxılması",
-      "ön tamponada"
+      "burun boşluğunun və burunətrafı ciblərin bədxassəli şişləri",
+      "burun boşluğunda cərrahi əməliyyatlar və zədələr"
     ]
   },
   {
     "question": "Burun qanaxmasının saxlanma üsulları",
     "answers": [
       "bütün sadalananlar",
-      "burun boşluğunun ön tamponadası",
-      "2%-li hidrogen peroksid ilə islanmış tamponun yeridilməsidir",
+      "burun boşluğunun arxa tamponadası",
+      "3%-li hidrogen peroksid ilə islanmış tamponun yeridilməsidir",
       "elektro və kimyəvi koaqulyasiyadır",
-      "burun boşluğunun arxa tamponadası"
+      "burun boşluğunun ön tamponadası"
     ]
   },
   {
-    "question": "Allegik rinit zamanı spesifik immunoterapiya nə zaman aparılır",
+    "question": "Allergik rinit zamanı spesifik immunoterapiya nə zaman aparılır",
     "answers": [
-      "xəstəliyi törədən allegen allergoloji kabinet vəya stasionarda dəgig təyin edildikdə",
-      "xəstəliyin kəskinləşmə dövründə",
-      "antihistamin preparatlarla müalicə effetsiz olanda",
-      "hormonal preparatlarla müalicə effetsiz olanda",
-      "allegik rinit burun ətrafı ciblərdə polipoz-irinli proseslərlə müşahidə olanda"
+      "xəstəliyi törədən allergen allerqoloji kabinet və ya stasionarda dəqiq təyin edildikdə",
+      "antihistamin preparatlarla müalicə effektsiz olanda",
+      "hormonal preparatlarla müalicə effektsiz olanda",
+      "allergik rinit burunətrafı ciblərdə polipoz-irinli proseslərlə müşahidə olanda",
+      "xəstəliyin kəskinləşmə dövründə"
     ]
   },
   {
-    "question": "Allegik rinit zamanı aparılan spesifik immun terapiya nəyə əsaslanır",
+    "question": "Allergik rinit zamanı aparılan spesifik immunoterapiya nəyə əsaslanır",
     "answers": [
-      "dəri altına allergenin minimal dozalarda tədricən artırmagla yeridilməsi",
-      "antimediator (antihistamin) preparatların daxilə gəbul edilməsinə",
-      "birinci nəsil antihistamin preparatlardan istifadə edilməsinə",
+      "dəri altına allergenin minimal dozalarda tədricən artırmaqla yeridilməsi",
       "ikinci nəsil antihistamin preparatlardan istifadə edilməsinə",
-      "topik kortikosteroidlərin istifadə edilməsinə"
+      "birinci nəsil antihistamin preparatlardan istifadə edilməsinə",
+      "topik kortikosteroidlərin istifadə edilməsinə",
+      "antimediator (antihistamin) preparatların daxilə qəbul edilməsinə"
     ]
   },
   {
     "question": "Ön tamponada neçə müddətə qoyulur:",
     "answers": [
-      "24-72 saat (2-3 sutkA)",
-      "10-12 saat",
-      "24 saat (1 sutkA)",
-      "7-10 sutka",
-      "2 saat"
+      "48-72 saat (2-3 gün)",
+      "24 saat (1 gün)",
+      "2 saat",
+      "7-10 gün",
+      "10-12 saat"
     ]
   },
   {
     "question": "Güclü dayanmayan burun qanaxmasında nə etmək lazımdır",
     "answers": [
-      "burun boşluğunun ön və arxa tamponadası",
-      "cərrahi diatermiya",
+      "burun boşluğunun ön və arxa tamponadası 27",
       "qalvanokaustika",
-      "kimyəvi koaqulyasiya",
-      "burun boşluğuna 3%-li hidrogen peroksidlə islanmış pambıq yeridilməsi"
+      "burun boşluğuna 3%-li hidrogen peroksidlə islanmış pambıq yeridilməsi",
+      "cərrahi diatermiya",
+      "kimyəvi koaqulyasiya"
     ]
   },
   {
-    "question": "Burun boşluğunun arxa tamponadası ücün tamponun ölçüsü necə təyin edilir:",
+    "question": "Burun boşluğunun arxa tamponadası üçün tamponun ölçüsü necə təyin edilir:",
     "answers": [
       "xəstənin əlinin baş barmaqlarının distal (dırnaq) falanqalarının birgə böyüklüyü ilə",
       "çeçələ barmaqların dırnaq falanqalarının birgə böyüklüyü ilə",
       "burun-udlağın barmaqla müayinəsi zamanı aşkar olunan böyüklük ilə",
-      "təxminən təyin edilir",
-      "xəstənin şəhadət barmaqlarının distal ( dırnaq ) falanqalarının birgə böyüklüyü ilə"
+      "xəstənin şəhadət barmaqlarının distal (dırnaq) falanqalarının birgə böyüklüyü ilə",
+      "təxminən təyin edilir"
     ]
   },
   {
@@ -1955,59 +1404,39 @@
     "answers": [
       "bütün sadalananlar",
       "ipək sapla bağlanmış arxa tamponun",
-      "ön tamponada üçün piltə",
-      "nazik rezin boru və kateter",
-      "dizcikli pinset və Hartmanın udlaq tutqacı"
+      "dizcikli pinset və Hartmanın udlaq tutqacı",
+      "nazik rezin boru və ya kateter",
+      "ön tamponada üçün piltə"
     ]
   },
   {
     "question": "Arxa tamponada qoyularkən ağızda sap nə üçün saxlanılır:",
     "answers": [
       "tamponu çıxartmaq üçün",
-      "arxa tamponu fiksə etmək üçün",
       "xəstədə asfiksiyanın qarşısını almaq üçün",
-      "heç nə üçün lazım deyil",
-      "bütün sadalananlar düzgündür"
-    ]
-  },
-  {
-    "question": "Arxa tamponada zamanı tamponun burun-udlaqda uzun müddət qalması nə ilə nəticələnə bilər:",
-    "answers": [
-      "kəskin irinli orta otit, sinusit ilə",
-      "pnevmoniya ilə",
-      "bronxit ilə",
-      "sensonevral ağıreşitmə ilə",
-      "burun çəpərinin deformasiyası ilə"
-    ]
-  },
-  {
-    "question": "Kəskin rinitdə quru qıcıqlanma mərhələsinin davamiyyəti",
-    "answers": [
-      "bir neçə saatdan 1-2 sutkaya qədər:",
-      "30 dəqiqədən 2 saata qədər",
-      "3-4 sutka",
-      "1 həftəyə qədər",
-      "5 sutka"
+      "arxa tamponu fiksə etmək üçün",
+      "bütün sadalananlar düzgündür",
+      "heç nə üçün lazım deyil"
     ]
   },
   {
     "question": "Kəskin rinitin klinikasında neçə mərhələ var:",
     "answers": [
       "3 mərhələ",
-      "2 mərhələ",
       "4 mərhələ",
+      "6 mərhələ",
       "5 mərhələ",
-      "6 mərhələ"
+      "2 mərhələ"
     ]
   },
   {
     "question": "Kəskin rinitin 1-ci mərhələsi necə adlanır:",
     "answers": [
       "quru qıcıqlanma",
-      "seroz ekssudasiya",
+      "latent",
       "selikli-irinli ifrazat",
       "simptomsuz keçmə",
-      "latent"
+      "seroz ekssudasiya"
     ]
   },
   {
@@ -2016,88 +1445,38 @@
       "isidici və tərlədici prosedurlar",
       "antihistamin preparat",
       "damarbüzücü preparat",
-      "geniş spektrli antibiotiklərl",
+      "geniş spektrli antibiotiklər 28",
       "burun boşluğunun natri xlorun izotonik məhlulu ilə yuyulması"
     ]
   },
   {
     "question": "Uzun müddət buruna damarbüzücü preparatların damcılanması zamanı nə yaranır:",
     "answers": [
-      "vazomator rinit ( burun boşluğunun selikli qişasının vazomotor funksiyası pozulur)",
-      "ozena",
+      "vazomator rinit (burun boşluğunun selikli qişasının vazomotor funksiyası pozulur)",
       "xroniki hipertrofik rinit",
+      "allergik rinit",
       "xroniki atrofik rinit",
-      "allergik rinit"
-    ]
-  },
-  {
-    "question": "Sudəmər uşaqlarda burun tənəffüsünün bərpa edilməsi nəyi təmin edir:",
-    "answers": [
-      "bütun sadalananlar",
-      "eşitmə borularının və orta qulağın iltihabının qarşısını almaq",
-      "sakit yuxunu",
-      "normal qidalanmanı",
-      "mədə-bağırsaq traktının normal funksiyasını"
-    ]
-  },
-  {
-    "question": "Xroniki hipertrofik rinit zamanı aşağı burun balıqqulaqlarının arxa uclarının böyüməsi nəyin funksiyasının pozulmasına səbəb olur:",
-    "answers": [
-      "eşitmə borusunun",
-      "təbil pərdəsinin",
-      "korti orqanının",
-      "burun dəhlizinin",
-      "gözlərin"
+      "ozena"
     ]
   },
   {
     "question": "Hipertrofik rinit zamanı ən çox selikli qişanın qalınlaşması və böyüməsi harada olur:",
     "answers": [
       "aşağı burun balıqqulağının mağaralı toxumasında",
-      "eşitmə borularında",
       "burunun əlavə ciblərində",
       "damaq badamcıqlarında",
+      "eşitmə borularında",
       "yuxarı burun balıqqulaqlarının mağaralı toxumasında"
-    ]
-  },
-  {
-    "question": "Atrofik rinit zamanı əsas patomorfoloji dəyişikliklər:",
-    "answers": [
-      "silindirik epitelinin yastı epiteliyə metaplaziyası və miqdarının azalması, kirpiklərin yox olması və mağaralı toxumanın miqdarının azalması",
-      "səyrici epitelinin qədəhəbənzər huceyrələrə metaplaziyası",
-      "balıqqulaqlarının selikli qişasının müxtəlif hissələrində birləşdirici toxumanın hipertrofiyası",
-      "yastı epitelin qədəhəbənzər hüceyrələrə metaplaziyası",
-      "damarların və mağaralı toxumanın sayının çoxalması"
-    ]
-  },
-  {
-    "question": "İkincili atrofik rinitin yaranma səbəbinə aid deyil:",
-    "answers": [
-      "xroniki tonzillit",
-      "ətraf muhitin zərərli amilləri",
-      "burun boşluğunda geniş cərrahi mudaxilələr",
-      "endokrin-humoral pozulmalar ( şəkərli diabet )",
-      "burunun selikli qişasının zədələnməsi"
     ]
   },
   {
     "question": "Atrofik rinitin müalicəsində nə istifadə olunur:",
     "answers": [
-      "vitamin A , E preparatları, yod məhlulları",
-      "eufillin",
+      "vitamin A, E preparatları, yod məhlulları",
+      "damarbüzücü preparatlar",
       "bismut preparatları",
       "protarqol məhlulu",
-      "damarbüzücü preparatlar"
-    ]
-  },
-  {
-    "question": "Vazomator rinitin allergik formasında simptom triadası:",
-    "answers": [
-      "paroksizmal (çoxsaylı) asqırma, burun tənəffüsünün çətinləşməsi, burunda qaşınma və çoxlu ifrazat",
-      "burunun ara bir tutulması, selikli-irinli ifrazat, baş ağrıları",
-      "burun tənəffüsünün çətinləşməsi, burunda quruluq, anosmiya",
-      "baş ağrısı, balığgulağıların hipertrofiyası, tənəffüsün çətinləºməsi",
-      "burun tənəffüsünün çətinləşməsi, baş ağrıları, güclü burun qanaxmaları"
+      "eufillin"
     ]
   },
   {
@@ -2106,887 +1485,67 @@
       "çoxlu selikli və seroz",
       "hemorragik",
       "irinli",
-      "az migdarda",
-      "xoşagəlməz iyli"
-    ]
-  },
-  {
-    "question": "Vazomator rinitin allergik formasının simptomu deyil:",
-    "answers": [
-      "udlaqda ağrılar",
-      "burundan ifrazat",
-      "iybilmənin pozulması",
-      "burunun tutulması",
-      "paroksizmal asqırma"
-    ]
-  },
-  {
-    "question": "Vazomator rinit üçün nə xarakterik deyil:",
-    "answers": [
-      "burun qanaxması",
-      "balıqqulaqların ödemi",
-      "selikli ifrazat",
-      "burun tənəffüsünün çətinləşməsi",
-      "asqırma"
+      "xoşagəlməz iyli",
+      "az miqdarda"
     ]
   },
   {
     "question": "Ozena nədir:",
     "answers": [
       "atrofik rinitin forması",
-      "hipertrofik rinitin forması",
       "vazomotor rinit forması",
       "kəskin kataral rinit",
+      "hipertrofik rinitin forması",
       "sinusitin bir forması"
     ]
   },
   {
-    "question": "Ozena zamanı ön rinoskopiyada nə aşkar olunur:",
+    "question": "Qırtlağın orta mərtəbəsinin xərçəngində ilk əvvəl hansı simptom müşahidə olunur?",
     "answers": [
-      "tünd qəhvəyi və sarı-yaşıl qartmaqlar",
-      "xoralar",
-      "irinliklər",
-      "çoxlu irinli ifrazat",
-      "boz ərplər"
+      "Səsin xırıltılı olması",
+      "Dizartriya",
+      "Disfagiya",
+      "Qida qəbulunun çətinləşməsi",
+      "Tutmaşəkilli öskürək"
     ]
   },
   {
-    "question": "Sinusitin diaqnostik üsüluna nə aid deyil:",
+    "question": "Qırtlağın aşağı mərtəbəsinin xərçənginin erkən simptomu hansıdır? 29",
     "answers": [
-      "pnevmoensefaloqrafiya",
-      "burunun və əlavə ciblərinin KT-sı",
-      "burun boşluğunun endoskopiyası",
-      "burunun əlavə ciblərinin rentgenoqrafiyası",
-      "ciblərin diaqnostik punksiyası"
+      "Simptomlar zəifdir, tutmaşəkilli öskürək, tənəffüsün zəif çətinləşməsi ola bilər",
+      "Afoniiya",
+      "Səsin pozulması, xırıltılı olması",
+      "Disfagiya",
+      "Tənəffüs pozulması kəskin ifadə olunur"
     ]
   },
   {
-    "question": "Frontitin diaqnostikası üçün nə istifadə olunur:",
+    "question": "Bunlardan hansı qırtlağın xərçəngönü xəstəlikləri və ya faktorlarına aid deyil.",
     "answers": [
-      "burunun əlavə ciblərinin ön və yan proyeksiyasında rentgenoqrafiyası",
-      "gicgah sümüyünün Mayer üsulu ilə rentgenoqrafiyası",
-      "gicgah sümüyünün Füller üsulu ilə rentgenoqrafiyası",
-      "Audiometriya",
-      "burunun əlavə ciblərinin aksial proyeksiyada rentgenoqrafiyası"
+      "Qırtlağın xroniki iflici",
+      "Qırtlaq paxidermiyası 30",
+      "Xroniki laringit",
+      "İstehsalatın zərərli faktorları (zərərli qazlar, zərərli tozlar)",
+      "Siqaretçəkmə"
     ]
   },
   {
-    "question": "Etmoiditin dianostikası üçün nə istifadə olunur:",
+    "question": "Qırtlaq xərçənginə əsasən nəyə görə diaqnoz qoyulur?",
     "answers": [
-      "burunun əlavə ciblərinin burun-çənə proyeksiyasında rentgenoqrafiyası və kompyuter tomoqrafiyası",
-      "əng cibinin punksiyası",
-      "impedansometriya",
-      "gicgah sümüyünün Stenvers üsulu ilə rentgenoqrafiyası",
-      "mukosiliar klirensin yoxlanilması"
-    ]
-  },
-  {
-    "question": "Sfenoiditin diaqnostikası üçün nə istifadə olunur:",
-    "answers": [
-      "burunun əlavə ciblərinin burun-çənə və aksial proyeksiyalarda rentgenoqrafiyası və kompyuter tomoqrafiyası",
-      "baş beyinin maqnit-rezonans tomaqrafiyası",
-      "əng cibinin ön divarının perkussiyası",
-      "lazer dopler floumetriyası",
-      "gicgah sümüyünün Şüller üsulu ilə rentgenoqrafiyas."
-    ]
-  },
-  {
-    "question": "Sinusitin diaqnostikası üçün nə istifadə olunur:",
-    "answers": [
-      "sinusoskopiya",
-      "burun seliyinin bakterioloji muayinəsi",
-      "rinomanometriya",
-      "yaxmanın müayinəsi",
-      "olfaktometriya"
-    ]
-  },
-  {
-    "question": "Burunun əlavə ciblərinə infeksiyanın ən çox daxil olma yolu:",
-    "answers": [
-      "rinogen",
-      "limfogen",
-      "odontogen",
-      "hemotogen",
-      "labirintogen"
-    ]
-  },
-  {
-    "question": "Əng sümüyünün əsasən hansı dişlərinin patologiyası haymoritin səbəbi ola bilər:",
-    "answers": [
-      "5,6, 7",
-      "2,3",
-      "3, 4",
-      "8",
-      "1,2"
-    ]
-  },
-  {
-    "question": "Kəskin frontitin müalicəsində hansı üsul düzgün deyil:",
-    "answers": [
-      "alın cibinin medial divarından punksiya",
-      "orta burun keçəcəyinin damarbüzücü preparatlarla adrenalizasiyası",
-      "alın cibinin aşağı divarından punksiya",
-      "alın cibinin trepanopunksiyası",
-      "ümumi iltihab əleyhinə terapiya ( antibiotiklər,antihistamin preparatlar, analgetiklər)."
-    ]
-  },
-  {
-    "question": "İrinli sfenoiditdə əsas cibə ən optimal müasir cərrahi müdaxilə:",
-    "answers": [
-      "endoskopik",
-      "Denker üsulu ilə",
-      "Kaldvel-Lyuk üsulu ilə",
-      "İvanov üsulu ilə",
-      "Ritter-Yansen üsulu ilə"
-    ]
-  },
-  {
-    "question": "Kəskin haymoritdə tez-tez rast gəlinən simptom:",
-    "answers": [
-      "bütün sadalananlar",
-      "orta burun keçəcəyində irinli ifrazat",
-      "xəstə olan tərəfdə əng cibində ağrı və baş ağrıları",
-      "burun boşluğunun selikli qişasının ödemi (burun tənəffüsünün çətinləşməsi)",
-      "iybilmənin pozulması"
-    ]
-  },
-  {
-    "question": "Əng cibinin punksiyası zamanı Kulikovski iynəsinin yönəlmə istiqaməti:",
-    "answers": [
-      "həmin tərəfdə gözün xarici bucağı istiqamətində",
-      "aşağı",
-      "yuxarı",
-      "burun boşluğunun medial divarına perpendikulyar",
-      "əks tərəfdə gözün xarici bucağı istiqamətində"
-    ]
-  },
-  {
-    "question": "Sinusitə hansı morfoloji forma xarakterik deyil:",
-    "answers": [
-      "papillomatoz",
-      "divar-kənarı hiperplastik",
-      "ekssudativ ( irinli)",
-      "polipoz",
-      "xolesteatomatoz"
-    ]
-  },
-  {
-    "question": "Kəskin sinusitlərin müalicəsində nədən istifadə olunmur:",
-    "answers": [
-      "diuretiklərdən",
-      "antihistamin preparatlardan",
-      "fizioterapiyadan",
-      "dekonqensantlardan ( damarbüzücü preparatlardan )",
-      "antibiotiklərdən"
-    ]
-  },
-  {
-    "question": "Kəskin sinustin yaranmasına səbəb olan ümumi amillər:",
-    "answers": [
-      "bütün sadalananlar",
-      "ətraf mühitin zərərli amilləri",
-      "konstitusional xüsusiyyətlər",
-      "immunitetin vəziyyə____________ti",
-      "orqanizmin ümumi və yerli müqavimətinin azalması"
-    ]
-  },
-  {
-    "question": "Sinusitin yaranmasına səbəb olan yerli amillər:",
-    "answers": [
-      "bütün sadalananlar",
-      "kəskin rinit",
-      "xroniki rinit",
-      "burun çəpərinin əyriliyi, daraq, tikan",
-      "adenoid vegetasiyası"
-    ]
-  },
-  {
-    "question": "Əng cibinin punksiyası haradan aparılır:",
-    "answers": [
-      "aşağı burun keçəcəyindən",
-      "orta burun keçəcəyindən",
-      "yuxarı burun keçəcəyindən",
-      "burun boşluğunun dibindən",
-      "ön divarınadan"
-    ]
-  },
-  {
-    "question": "Burun boşluğunun selikli qişasının anemizasiyası zamanı başı əks tərəfə əyəndə irinin orta burun keçəcəyindən axması hansı xəstəliyə xasdır:",
-    "answers": [
-      "haymorit",
-      "vazomator rinit",
-      "sfenoidit",
-      "frontit",
-      "kataral rinit"
-    ]
-  },
-  {
-    "question": "Sfenoiditin diaqnostikası üçün ən az informativ üsul hansıdir:",
-    "answers": [
-      "ön rinoskopiya",
-      "endoskopik baxış",
-      "arxa rinoskopiya",
-      "burunun əlavə ciblərinin KT-sı",
-      "burunun əlavə ciblərinin MRT-sı"
-    ]
-  },
-  {
-    "question": "Əng cibinin punksiyası zamanı ən çox rast gəlinən fəsadlaşma:",
-    "answers": [
-      "orbitanın punksiyası",
-      "alveolanın punksiüası",
-      "damağın punksiüası",
-      "əsas cibin zədələnməsi",
-      "orta balığgulağının punksiüası"
-    ]
-  },
-  {
-    "question": "Hemisinusit nədir:",
-    "answers": [
-      "bir tərəfdə bütün ciblərin iltihabı",
-      "bütün burun ətrafı ciblərin iltihabı",
-      "əng və etmoidal ciblərin iltihabı",
-      "hər iki tərəfdə alın və əsas ciblərin iltihabı",
-      "hər iki tərəfdə etmoidal ciblərin iltihabı"
-    ]
-  },
-  {
-    "question": "Pansinusit nədir:",
-    "answers": [
-      "bütün burunətrafı ciblərin iltihabı",
-      "bir tərəfdə bütün burunətrafı ciblərin iltihabı",
-      "əng və etmoidal ciblərin iltihabı",
-      "alın və əsas ciblərin iltihabı",
-      "hər iki tərəfdə əng ciblərin iltihabı"
-    ]
-  },
-  {
-    "question": "Haymoritin müalicə üsulu:",
-    "answers": [
-      "əng cibinin punksiyası",
-      "alın cibinin punksiyası",
-      "endoskopik etmoidotomiya",
-      "hemostatiklərin istifadə edilməsi",
-      "diuretiklərin istifadə edilməsi"
-    ]
-  },
-  {
-    "question": "Haymoritin cərrahi müalicəsi:",
-    "answers": [
-      "əng cibində Kaldvell-Lyuk üsulu ilə radikal əməliyyat",
-      "frontotomiya",
-      "sfenoidotomiya",
-      "etmoidotomiya",
-      "Proetsin yerdəyişmə üsulu ilə irinin evakuasiya edilməsi"
-    ]
-  },
-  {
-    "question": "Kəskin etmoidit göz yuvasının subperiostal absesi və ya fleqmonası ilə ağırlaşıb: Müalicə taktikası necə olmalıdır:",
-    "answers": [
-      "cərrahi müdaxilə - xəlbir labirinti hüceyrələrinin açılması, göz qapağı absesi və ya göz yuvasının açılması",
-      "antibiotik terapiyası",
-      "xəlbir cibinin punksiyası və antibiotik terapiyası",
-      "alın cibinin punksiyası",
-      "Proetsin yerdəyişmə üsulu ilə irinin evakuasiya edilməsi"
-    ]
-  },
-  {
-    "question": "Əng cibinin yad cismi zamanı vacibdir:",
-    "answers": [
-      "əng cibinin açılması",
-      "alın cibində radikal əməliyyat",
-      "qarmaqla çıxarılması",
-      "traxeostomiya",
-      "əng cibinin punksiyası"
-    ]
-  },
-  {
-    "question": "Plomb üçün materialin əng cibinə düşməsi nəyə səbəb ola bilər:",
-    "answers": [
-      "xronik haymorit",
-      "xronik frontit",
-      "xronik etmoidit",
-      "xroniki sfenoidit",
-      "xroniki frontit və etmoidit"
-    ]
-  },
-  {
-    "question": "Odontogen haymorit zamanı göstərişdir:",
-    "answers": [
-      "əng cibinin açılması",
-      "xəlbir labirintinin açılması",
-      "əsas cibin acılması",
-      "alın cibinin acılması",
-      "ancaq xəstə dişin çıxarlması"
-    ]
-  },
-  {
-    "question": "Rentgenoloji müayinə və KT ilə təsdiqlənmiş kəskin irinli frontit zamanı, iltihab əleyhinə olan konservativ müalicənin 3 sutka ərzində effektsiz olarsa, aşağıdakı göstərişdir:",
-    "answers": [
-      "alın cibinin trepanopunksiyası",
-      "xəlbir labirintinin endonazal açılması",
-      "əng cibinin açılması",
-      "əsas cibin endonazal açılması",
-      "alın cibində radikal əməliyyat"
-    ]
-  },
-  {
-    "question": "Rentgenoloji müayinə və KT ilə təsdiqlənmiş kəskin irinli haymorit zamanı və ilk sutka ərzində konservativ müalicə fonunda müsbət dinamika olmazsa aşağıdakı göstərişdir:",
-    "answers": [
-      "əng cibinin punksiyası",
-      "əng cibində radikal əməliyyat",
-      "xəlbir labirintinin endonazal açılması",
-      "alın cibinin trepano-punksiyası",
-      "əsas cibin endonazal açılması"
-    ]
-  },
-  {
-    "question": "Rinogen orbital ağırlaşma zamanı infeksiyanın əsas yayılma yolu:",
-    "answers": [
-      "kontakt",
-      "perinevral",
-      "travmatik",
-      "limfogen",
-      "hematogen"
-    ]
-  },
-  {
-    "question": "Vegener granulematozunun diagnostikasında əhəmiyyətli laborator müayinə üsulunu göstərin",
-    "answers": [
-      "antineytrofil sitoplazmatik antitellərin təyini",
-      "antimitoxondrial antitellərin təyini",
-      "antinüvə antitellərin təyini",
-      "ganın biokimyəvi analizi",
-      "revmotestlər"
-    ]
-  },
-  {
-    "question": "Rinogen orbital ağırlaşmanın belə forması yoxdur",
-    "answers": [
-      "mağaralı sinusun trombozu",
-      "gözün yumşaq toxumaları venalarının trombozu",
-      "gözun yumşaq toxumasının fleqmonası",
-      "retrobulbar abses",
-      "orbital osteoperiostit ( irinli və ya q/irinli)"
-    ]
-  },
-  {
-    "question": "Rinogen orbital ağırlaşma deyil:",
-    "answers": [
-      "subdural abses",
-      "retrobulbar abses",
-      "gözün yumşaq toxumasının fleqmonası",
-      "göz qapağının və gözün yumşaq toxumasının reaktiv ödemi",
-      "göz qapağinin absesi"
-    ]
-  },
-  {
-    "question": "Orbitanın fleqmonası üçün xarakterik deyil:",
-    "answers": [
-      "göz almasının normal hərəkətliliyi",
-      "hərarətin artması",
-      "görmənin azalması və itməsi",
-      "ekzoftalm",
-      "diplopiya"
-    ]
-  },
-  {
-    "question": "Rinogen orbital ağrılaşmaya aid deyil:",
-    "answers": [
-      "epidural abses",
-      "retrobulbar abses",
-      "göz qapağının absesi",
-      "gözün yumşaq toxumasının absesi",
-      "orbitanın subperiostal absesi"
-    ]
-  },
-  {
-    "question": "Bu yolla rinogen kəllə daxili ağırlaşma baş vermir:",
-    "answers": [
-      "timpanogen",
-      "hematogen",
-      "kontakt",
-      "limfogen",
-      "perinevral"
-    ]
-  },
-  {
-    "question": "Bu kəllə daxili ağırlaşma rinogen deyil:",
-    "answers": [
-      "beyinin glioması",
-      "mağaralı sinusun trombozu",
-      "meningit",
-      "beyin absesi",
-      "ekstradural abses"
-    ]
-  },
-  {
-    "question": "Mağaralı sinus sərhədlənir:",
-    "answers": [
-      "daxili yuxu arteriyası",
-      "xarici yuxu arteriyası",
-      "vidaci vena",
-      "üz arteriyası",
-      "görmə çarpazı ilə"
-    ]
-  },
-  {
-    "question": "Kavernoz sinusun trombozu gözün yumşaq toxumasının fleqmonasından nə ilə fərqlənir:",
-    "answers": [
-      "göz almasına təzyiq etdikdə ağrının olmaması",
-      "görmənin azalması və korluq",
-      "göz almasının hərəkətliliyinin azalması",
-      "ekzoftalm",
-      "konyuktivanın xemozu"
-    ]
-  },
-  {
-    "question": "Kavernoz sinusun trombozu üçün xarakterik deyil:",
-    "answers": [
-      "normal hərarət",
-      "göz qapağı ödemi",
-      "konyuktivanın xemozu",
-      "ekzoftalm",
-      "görmə sinirin məməciyində durğunluq və ya ödem, torlu gişaya gansızma"
-    ]
-  },
-  {
-    "question": "Rinogen irinli meningit simptomlarına aid deyil:",
-    "answers": [
-      "anosmiya",
-      "huşun itməsi",
-      "diffuz baş ağrısı",
-      "yüksək davamlı hərarət",
-      "ürəkbulanma və qusma Səh.192-193"
-    ]
-  },
-  {
-    "question": "Meningial simptom deyil:",
-    "answers": [
-      "Ortner",
-      "Kerniq",
-      "Brudzinski",
-      "ənsə əzələlərinin rigidliyi",
-      "Babinski"
-    ]
-  },
-  {
-    "question": "İrinli meningit üçün xarakter simptom deyil:",
-    "answers": [
-      "Qallant",
-      "Oppenheym",
-      "Brudzinski",
-      "Rossolimo",
-      "Kerniq"
-    ]
-  },
-  {
-    "question": "Bu göstərici əsasında meningit diaqnozu qoyulur:",
-    "answers": [
-      "onurğa beyni punksiyası",
-      "sidiyin analizi",
-      "sternal punksiya",
-      "qan analizi",
-      "baş benin KT-sı"
-    ]
-  },
-  {
-    "question": "İrinli meningitdə likvorun dəyişikliyinə aid deyil:",
-    "answers": [
-      "şəkərin artması",
-      "zülalın artması",
-      "sitoz (neytrofilyoz)",
-      "təzyiq ilə axır, bulanıqdır",
-      "şəkər və xloridlərin azalması"
-    ]
-  },
-  {
-    "question": "Alın payı absesinin aşkar stadiyasında xarakter simptom deyil:",
-    "answers": [
-      "labirint",
-      "ümumi beyin",
-      "ümumi",
-      "meningial",
-      "ocaqlı simptomlar ( psixi pozğunluqlar , statika və yerişin pozulması və s"
-    ]
-  },
-  {
-    "question": "Alın payı absesi üçün xarakterik simptom deyil:",
-    "answers": [
-      "adiadoxokinez",
-      "alin ataksiyası",
-      "qaşüstü nahiyədə lokal ağrı",
-      "psixi pozulmalar",
-      "meningial simptomlar"
-    ]
-  },
-  {
-    "question": "Baş beynin rinogen absesi zamanı aparılması vacib olan müayinə:",
-    "answers": [
-      "baş beyinin KT və ya MRT-si",
-      "elektroensefalografiya",
-      "audiometriya",
-      "impedansometriya",
-      "olfaktometriya"
-    ]
-  },
-  {
-    "question": "Xarici burunun travmatik deformasiyasının səbəbı deyil:",
-    "answers": [
-      "poliartrit",
-      "məişət travması",
-      "idman travması",
-      "nəqliyyat travması",
-      "hərbi travma"
-    ]
-  },
-  {
-    "question": "Burun sümüklərinin repozisiyası zamanı aparılan tamponadanın məqsədi:",
-    "answers": [
-      "sadalananlarin hamısı düzdür",
-      "sınmış hərəkətli sümüklərin fiksasiyası",
-      "sinexiya yaranmasının qarşısını almaq",
-      "qanaxmanı dayandırmaq",
-      "hematomanın yaranmasının qarşısını almaq"
-    ]
-  },
-  {
-    "question": "Burun sümüklərinin yana yerdəyişmə ilə sınması zamanı aparılır:",
-    "answers": [
-      "barmaqla repozisiya",
-      "rinoplastika",
-      "traxeyanın intubasiyası",
-      "septoplastika",
-      "traxeotomiya"
-    ]
-  },
-  {
-    "question": "Burun sümüklərinin sınması zamanı dəri örtüyünün yaralanmasında göstərişdir:",
-    "answers": [
-      "tetanus əleyhinə zərdabın təyini",
-      "difteriya əleyhinə zərdabın yeridilməsi",
-      "qanın morfoloji analizi",
-      "analgetiklərin təyini",
-      "hemostatik dərmanlar"
-    ]
-  },
-  {
-    "question": "Burun sümüklərinin sınığı ola bilər:",
-    "answers": [
-      "qapalı, açıq",
-      "ancag açıq",
-      "ancag qapalı",
-      "ancag selikli qişa tamlığının pozulmaması ilə",
-      "ancag selikli qişsa tamlığının pozulması ilə"
-    ]
-  },
-  {
-    "question": "Burun sümüklərinin sınığı olan xəstədə beyin silkələnməsi əlaməti olarsa:",
-    "answers": [
-      "burun sümüklərinin repozisiyasını sonraya təxirə salmaq ( 5-6 sutka)",
-      "burun sümüklərinin təcili repozisiyası",
-      "əsas cibin punksiyası",
-      "kəllə qapağı trepanasiyası",
-      "hemostatik terapiya və burun sümüklərinin təcili düzəldilməsi"
-    ]
-  },
-  {
-    "question": "Burun sümüyü sınığı olan və kəllə əsasının sümüklərinin sınmasına şübhə varsa müalicə nədən başlayır?",
-    "answers": [
-      "lümbal punksiya ( subaraxnoidal sahədə qan sızmanı aşkar etmək üçün)",
-      "sümük sınıqlarının təcili bərpası",
-      "diggətlə müşahidə",
-      "şok əleyhinə terapiya",
-      "kəllə qapağının trepanasiyası"
-    ]
-  },
-  {
-    "question": "Burun və burunətrafı ciblərdən hansısında daha tez-tez hallarda osteoma rast gəlinir?",
-    "answers": [
-      "alin cibləri və xəlbir sümüyündə",
-      "əng ciblərində",
-      "əsas ciblərdə",
-      "burun boşluğunun dibində",
-      "burun arakəsməsində"
-    ]
-  },
-  {
-    "question": "Burunətrafı ciblərdən hansısı daha tez-tez hallarda birincili bədxassəli proseslə (şişlə) zədələnir?",
-    "answers": [
-      "əng",
-      "xəlbir",
-      "alın",
-      "əsas",
-      "bütün ciblər eyni tezlikdə"
-    ]
-  },
-  {
-    "question": "Vegener xəstəliyinin erkən mərhələsində ən çox rast gəlinən daimi simptom budur",
-    "answers": [
-      "burun selikli gişasında ganlı-irinli gartmagların əmələ gəlməsi",
-      "burun selikli gişasında üfunətli gartmagların əmələ gəlməsi",
-      "paroksizmal asgırma",
-      "burundan çoxlu migdarda seroz ifrazatın olması",
-      "iybilmənin pozulması"
-    ]
-  },
-  {
-    "question": "Səs yarığını genəldən əzələ aşağıdakılardan hansıdır?",
-    "answers": [
-      "Arxa üzük-çalovabənzər",
-      "Köndələn çalovabənzər",
-      "Çər çalovabənzər",
-      "Yan üzük-çalovabənzər",
-      "Üzük-qalxanabənzər"
-    ]
-  },
-  {
-    "question": "Qırtlağın selikli qişasının innervasiyasında aşağıdakı sinirlərdən hansı iştirak edir?",
-    "answers": [
-      "Yuxarı qırtlaq siniri",
-      "Diludlaq siniri",
-      "Dilaltı sinir",
-      "Aşağı qırtlaq siniri",
-      "Üçlü sinir"
-    ]
-  },
-  {
-    "question": "Qayıdan sinir (n.Recurrens) aşağıdakı əzələ qruplarından hansını innervasiya edir?",
-    "answers": [
-      "Əsasən qırtlağın daxili əzələlərini",
-      "Əsasən qırtlağın xarici əzələlərini",
-      "Udlaq əzələlərini",
-      "Boyun əzələlərini",
-      "Üzük-qalxanabənzər və döş-körpücük məməyəbənzər əzələni"
-    ]
-  },
-  {
-    "question": "Qayıdan sinirin iflicinə nə səbəb olmur?",
-    "answers": [
-      "Qırtlağın yad cismi",
-      "Aorta qövsünün anevrizması",
-      "Yemək borusunun şişləri",
-      "Divararalığının şişləri",
-      "Ağciyər zirvəsindəki çapıqlı dəyişikliklər"
-    ]
-  },
-  {
-    "question": "Qayıdan sinirin iflicinə nə səbəb olur?",
-    "answers": [
-      "Aorta qövsünün anevrizması",
-      "Qırtlağın yad cismi",
-      "Qırtlağın vərəmi",
-      "Papillomatoz",
-      "Qırtlağın skleroması"
-    ]
-  },
-  {
-    "question": "Bu üsullardan hansı əsasən kiçik yaşlı uşaqların qırtlağının müayinəsində istifadə olunur?",
-    "answers": [
-      "Düzünə (vasitəsiz) larinqoskopiya",
-      "Rentgenoqrafiya",
-      "Stroboskopiya",
-      "Şliter simptomunu yoxlamaqla",
-      "Tərsinə (vasitəli) larinqoskopiya"
-    ]
-  },
-  {
-    "question": "Kimyəvi yanıq nəticəsində qırtlağın daha çox hansı anatomik hissəsində çapıqlı stenoz əmələ gəlir?",
-    "answers": [
-      "Dəhlizdə",
-      "Üzüyəbənzər qığırdaqda",
-      "Səs büküşü nahiyəsində",
-      "Qalxanabənzər qığ____________ırdaqda",
-      "Büküş altı nahiyyədə"
-    ]
-  },
-  {
-    "question": "Uzunmüddətli intubasiyadan sonra qırtlağın hansı şöbəsində daha çox çapıqlı daralma əmələ gəlir?",
-    "answers": [
-      "Büküş altı nahiyədə",
-      "Dəhlizdə",
-      "Səs büküşü nahiyəsində",
-      "Qırtlaq mədəciklərində",
-      "Dəhliz və səs büküşündə"
-    ]
-  },
-  {
-    "question": "Qırtlağın hansı əzələsinin iflici zamanı səs yarığı açılmır və qırtlağın kəskin stenozu baş verir?",
-    "answers": [
-      "Arxa üzük-çalovabənzər əzələ",
-      "Yan üzük-çalovabənzər əzələ",
-      "Köndələn çalovabənzər əzələ",
-      "Çəp çalovabənzər əzələ",
-      "Çalovabənzər-qırtlaq qapağı əzələ"
-    ]
-  },
-  {
-    "question": "Qırtlağın hansı mərtəbəsinin xəstəlikləri zamanı səs pozulur?",
-    "answers": [
-      "Orta",
-      "Yuxarı",
-      "Dəhliz",
-      "Aşağı",
-      "Səs büküşaltı"
-    ]
-  },
-  {
-    "question": "Qırtlağın daxili səthinin çox hissəsi hansı epitel ilə örtülüb?",
-    "answers": [
-      "Çoxsıralı silindrik səyrici epiteli ilə",
-      "Çoxqatlı yastı epiteli ilə",
-      "Kubik epiteli ilə",
-      "Təkqatlı yastı epiteli ilə",
-      "Təksıralı silindrik epiteli ilə"
-    ]
-  },
-  {
-    "question": "Qırtlağın xarici əzələlərini göstərin:",
-    "answers": [
-      "M.Sternohyoideus, m.sternothyroideus, m.thyrohyoideus",
-      "M.Thyrohyoideus, m.posticus, m.thyreoarytenoideus",
-      "M.Sternohyoideus, m.sternothyroideus, m.posticus",
-      "M.Arytenoideus transversus, m.thyreoarytenoideus, m.thyrohyoideus",
-      "M.Sternothyroideus, m.thyrohyoideus, m.cricoarytenoideus lateralis"
-    ]
-  },
-  {
-    "question": "Qırtlağın hərəki innervasiyasını hansı sinir təmin edir?",
-    "answers": [
-      "Qayıdan sinir",
-      "Yuxarı qırtlaq siniri",
-      "Dil-udlaq siniri",
-      "Əlavə sinir",
-      "Dilaltı sinir"
-    ]
-  },
-  {
-    "question": "Qırtlağın əsas hissi siniri hansıdr?",
-    "answers": [
-      "Yuxarı qırtlaq siniri",
-      "Qayıdan sinir",
-      "Dil-udlaq siniri",
-      "Dilaltı sinir",
-      "Əlavə sinir"
-    ]
-  },
-  {
-    "question": "Müğənni düyünlərinin klinik əlamətini göstərin:",
-    "answers": [
-      "Disfoniya, səsin xırıtılı olması",
-      "Ağrı hissiyatı",
-      "Tutmaşəkilli öskürək",
-      "Klinik əlaməti yoxdur",
-      "Ekspirator təngnəfəslik"
-    ]
-  },
-  {
-    "question": "Qırtlağın orta mərtəbəsinə nə aiddir?",
-    "answers": [
-      "Həqiqi səs büküşləri (səs telləri) və səs yarığı",
-      "Büküşaltı boşluq",
-      "Qırtlaq qapağı, çalov-qırtlaq qapağı büküşü, qırtlaq mədəciyi, səs büküşləri",
-      "Qırtlaq mədəciyi və həqiqi səs büküşləri",
-      "Qırtlaq qapağı, həqiqi səs büküşləri və qırtlaq mədəcikləri"
-    ]
-  },
-  {
-    "question": "Qırtlağın aşağı mərtəbəsinə nə aiddir?",
-    "answers": [
-      "Büküşaltı nahiyə",
-      "Qırtlaq qapağı, həqiqi səs büküşləri və qırtlaq mədəcikləri",
-      "Həqiqi səs büküşləri və səs yarığı",
-      "Həqiqi səs büküşləri, qırtlaq mədəcikləri",
-      "Qırtlaq qapağı, həqiqi səs büküşləri, səs yarığı və qırtlaq mədəcikləri"
-    ]
-  },
-  {
-    "question": "Qırtlaq papillomasının xarakter əlamətlərini göstərin:",
-    "answers": [
-      "Səsin pozulması, xırıltılı olması, tənəffüsün tədrici çətinləşməsi",
-      "Tənəffüsün pozulması, disfagiya",
-      "Öskürək, disfagiya",
-      "Afoniya, disfagiya",
-      "Döş arxasında ağrılar, məcburi vəziyyət"
-    ]
-  },
-  {
-    "question": "Hansı sinirdən yuxarı və aşaği qırtlaq siniri şaxələri ayrılır.",
-    "answers": [
-      "N. Vagus",
-      "N. Glossopharyngeus",
-      "N. Hypoglossus",
-      "N. Accesorius",
-      "N. Vestibulocochlearis"
-    ]
-  },
-  {
-    "question": "Səs əmələgətirmədə hansı əzələ əsas rol oynayır?",
-    "answers": [
-      "Daxili qalxan-çalovabənzər əzələ",
-      "Arxa üzük-çalovabənzər əzələ",
-      "Çəp çalovabənzər əzələ",
-      "Yan üzük-çalovabənzər əzələ",
-      "Köndələn çalovabənzər əzələ"
-    ]
-  },
-  {
-    "question": "Uşaqlarda qırtlağın büküşaltı nahiyəsində hansı toxuma üstünlük təşkil edir?",
-    "answers": [
-      "boş birləşdirici toxuma",
-      "Buynuzlaşan epiteli",
-      "Səyrici epiteli",
-      "Yastı epiteli",
-      "Əzələ toxuması"
-    ]
-  },
-  {
-    "question": "Qırtlağın hansı hissəsində limfatik şəbəkə daha sıxdır?",
-    "answers": [
-      "Vestibulyar hissədə",
-      "Səs büküşləri nahiyəsində",
-      "Büküşaltı boşluqda",
-      "Qırtlaq mədəciklərində",
-      "Səs büküşləri və büküşaltı boşluqda"
-    ]
-  },
-  {
-    "question": "Səs büküşləri hansı epiteli ilə örtülüb?",
-    "answers": [
-      "Çoxqatlı epiteli ilə",
-      "Səyrici epiteli ilə",
-      "Neyroepiteli ilə",
-      "Kubik epiteli ilə",
-      "Silindirik epiteli ilə"
-    ]
-  },
-  {
-    "question": "Yetkin insanda qırtlağın yuxarı və aşağı sərhədləri hansi səviyyədə yerləşir?",
-    "answers": [
-      "IV-VI boyun fəqərəsi",
-      "III-V boyun fəqərəsi",
-      "III-VII boyun fəqərəsi",
-      "III-V boyun fəqərəsi",
-      "II-VII boyun fəqərəsi"
-    ]
-  },
-  {
-    "question": "Qırtlağın hansı müayinə üsulları var?",
-    "answers": [
-      "Vasitəli (düzünə) və vasitəsiz (tərsinə) larinqoskopiya",
-      "Rentgenoqrafiya, KT, farinqoskopiya",
-      "Stroboskopiya, farinqoskopiya",
-      "Vasitəsiz larinqoskopiya, epifarinqoskopiya",
-      "Vasitəsiz larinqoskopiya, mezofarinqoskopiya"
+      "Qırtlaqdan götürülən biopsiyaya",
+      "Qırtıağın rentgenoqrafiyasına",
+      "Larinqoskopiya məlumatlarına",
+      "Xəstənin şikayətlərinə",
+      "Stroboskopiya"
     ]
   },
   {
     "question": "Qırtlaqda neçə mərtəbə ayırd olunur?",
     "answers": [
       "3",
+      "4",
       "1",
       "2",
-      "4",
       "5"
     ]
   },
@@ -2994,30 +1553,70 @@
     "question": "Hansı anatomik quruluş qırtlağın orta mərtəbəsinə daxildir?",
     "answers": [
       "Səs büküşləri",
-      "Səs büküşaltı boşluq",
+      "Qırtlaq qapağı",
       "Dəhliz büküşü",
       "Qırtlaq mədəciyi",
-      "Qırtlaq qapağı"
+      "Səs büküşaltı boşluq"
     ]
   },
   {
     "question": "Qırtlağın hansı mərtəbəsinin xəstəlikləri zamanı disfagiya müşahidə olunur?",
     "answers": [
       "Yuxarı mərtəbə",
-      "Orta mərtəbə",
       "Aşağı mərtəbə",
-      "Orta aşağı",
-      "Ön komissuraya yaxın"
+      "Ön komissuraya yaxın",
+      "Orta mərtəbə",
+      "Orta aşağı"
+    ]
+  },
+  {
+    "question": "Qırtlaq xərçəngi zamanı qırtlaqda aparılan operasiya necə adlanır?",
+    "answers": [
+      "Larinqektomiya",
+      "Şis toxumasından biopsiya",
+      "Səs yarığının genişləndirilməsi",
+      "Hamısı",
+      "Larinqofistula Larinqofissura"
+    ]
+  },
+  {
+    "question": "Qırtalq xərçənginin müalicəsi əsasən nədən ibarətdir?",
+    "answers": [
+      "Qırtlaqda cərrahi müdaxilə, şüa terapiyası, kimyəvi terapiya",
+      "Ancaq kimyəvi terapiya",
+      "Ancaq şüa terapiyası",
+      "Şüa və kimyəvi terapiya 31",
+      "Ancaq cərrahi əməliyyat 32"
+    ]
+  },
+  {
+    "question": "Qırtlaq xərçənginin cərrahi müalicəsində hansı növ operasiya formaları tətbiq olunur?",
+    "answers": [
+      "Qırtlağın tam çıxarılması, qırtlağın hissəvi rezeksiyası, rekonstruktiv əməliyyat",
+      "Ancaq qırtlağın tam çıxarılması",
+      "Ancaq rekonstruktiv əməliyyatlar",
+      "Ancaq qırtlağın hissəvi rezeksiyası",
+      "Qırtlağın hissəvi rezeksiyası və rekonstruktiv əməliyatlar"
+    ]
+  },
+  {
+    "question": "Larinqofissura nədir?",
+    "answers": [
+      "Qırtlağın yarılması",
+      "Qırtlağın hissəvi rezeksiyası",
+      "Qırtlaqda rekonstruktiv əməliyyat",
+      "Səs büküşünün çıxarılması",
+      "Qırtlağın tam çıxarılması"
     ]
   },
   {
     "question": "Təbil pərdəsinin əsas funksiyası nədir?",
     "answers": [
       "eşitmədə səsin ötürülməsi",
-      "səslərin qəbulu",
-      "taktil",
       "müvazinətin saxlanılması",
-      "barofunksiya"
+      "barofunksiya",
+      "səslərin qəbulu",
+      "taktil"
     ]
   },
   {
@@ -3025,37 +1624,37 @@
     "answers": [
       "arxa aşağı",
       "arxa yuxarı",
+      "mərkəzində",
       "ön aşağı",
-      "ön yuxarı",
-      "mərkəzində"
+      "ön yuxarı"
     ]
   },
   {
     "question": "Təbil boşluğunun neçə divarı var?",
     "answers": [
       "6",
-      "5",
-      "4",
+      "2",
       "3",
-      "2"
+      "4",
+      "5"
     ]
   },
   {
     "question": "Aditus ad antrum təbil boşluğunun hansı divarında yerləşir?",
     "answers": [
       "Arxa divarında",
-      "Daxili divarında",
-      "Yuxarı divarında",
+      "Ön divarında",
       "Aşağı divarında",
-      "Ön divarında"
+      "Daxili divarında",
+      "Yuxarı divarında"
     ]
   },
   {
-    "question": "Təbil boşluğu və ətraf mühit arasında olan təzyiqlər fərqi eşitmə borusunun hansı funksiyası vasitəsilə bərpa olunur?",
+    "question": "Təbil boşluğu və ətraf mühit arasında olan təzyiqlər fərqi eşitmə borusunun hansı funksiyası vasitəsilə bərpa olunur? 33",
     "answers": [
       "Ventlyasiya",
-      "Drenaj",
       "Müdafiə",
+      "Drenaj",
       "Ötürücü",
       "Ototopika"
     ]
@@ -3063,20 +1662,20 @@
   {
     "question": "Xarici qulaq keçəcəyindən yad cisimləri hansı üsulla xaric etmək lazımdır?",
     "answers": [
-      "qulaq keçəcəyinin yuyulması",
+      "qulaq keçəcəyinin yuyulması ilə",
       "pinsetlə",
-      "parasentezlə",
       "eşitmə borusunun üfürülməsi ilə",
-      "radikal operasiya ilə"
+      "radikal əməliyyat ilə",
+      "parasentezlə"
     ]
   },
   {
     "question": "Adları çəkilən əlamətlərdən hansı xarici qulaq keçəcəyinin furunkulunda təsadüf edir?",
     "answers": [
       "çeynəmə zamanı qulaq ağrısının artması",
+      "mastoidit simptomları",
       "qulaq keçəcəyinin sümük hissəsinin daralması",
       "müvazinətin pozulması",
-      "mastoidit simptomları",
       "spontan nistaqm"
     ]
   },
@@ -3084,20 +1683,20 @@
     "question": "Orta qulağın qeyri-irinli iltihabi xəstəlikləri zamanı hansı əlamətlər olmur?",
     "answers": [
       "vestibulyar pozulma",
-      "qulağın tutulması və batması",
-      "təbil pərdəsinin içəri dartılması",
       "eşitmənin səsi nəqledən aparatın patologiyası tipli aşağı düşməsi",
-      "autofoniya"
+      "autofoniya",
+      "təbil pərdəsinin içəri dartılması",
+      "qulağın tutulması və batması"
     ]
   },
   {
     "question": "Qulaq kiri tıxaçının əsas simptomları hansılardır?",
     "answers": [
       "qulağa su düşdükdə eşitmənin kəskin zəifləməsi",
-      "qulaqdan irinli ifrazatın axması",
       "qulaq ağrısı",
+      "hərarətin yüksəlməsi",
       "müvazinətin pozulması",
-      "hərarətin yüksəlməsi"
+      "qulaqdan irinli ifrazatın axması"
     ]
   },
   {
@@ -3105,8 +1704,8 @@
     "answers": [
       "təbil pərdəsinin gərginləşmiş hissəsində perforasiya var və periodik olaraq qulaqdan irinaxma müşahidə olunur.",
       "təbil pərdəsinin sallanmış hissəsində perforasiya var",
-      "təbil pərdəsi tutqundur və içəri dartılıb",
       "təbil pərdəsi çapıqlı dəyişib",
+      "təbil pərdəsi tutqundur və içəri dartılıb",
       "ostoskopiyada təbil pərdəsi hiperemiyalıdır"
     ]
   },
@@ -3114,29 +1713,29 @@
     "question": "Bu simptomlardan hansı diffuz xarici otiti xarakterizə edir?",
     "answers": [
       "xarici qulaq keçəcəyinin daralması, dərisinin hiperemiyası, şişkinliyi və traqusa təzyiq edərkən ağrı",
-      "təbil pərdəsində perforasiya, qulaqdan irinli ifrazatın gəlməsi",
-      "neyro-sensor ağıreşitmə",
-      "başgicəllənmə və müvazinətin pozulması",
-      "qulağın batması, təbil pərdəsinin tutqunluğu və içəri dartılması"
+      "neyrosensor ağıreşitmə",
+      "qulağın batması, təbil pərdəsinin tutqunluğu və içəri dartılması 34",
+      "başgicəllənmə və müvazinətin pozulması 35",
+      "təbil pərdəsində perforasiya, qulaqdan irinli ifrazatın gəlməsi"
     ]
   },
   {
     "question": "Kəskin irinli orta otitin klinik gedişində neçə dövr ayırd olunur?",
     "answers": [
       "3",
-      "1",
       "2",
       "4",
-      "5"
+      "5",
+      "1"
     ]
   },
   {
     "question": "Bunlardan hansı otosklerozun əsas simptomlarındandır?",
     "answers": [
-      "eşitmənin hər iki qulaqda zəifləməsi və qulaqda küy",
-      "eşitmənin səsi qəbuledici aparatın patologiyası tipli aşağı düşməsi, Jelle sınağı (+)",
-      "qulaqdan irinli ifrazatın axması",
+      "qulaqda küy və eşitmənin bir və ya iki tərəfli zəifləməsi, Jelle sınağı (-)",
       "təbil pərdəsinin perforasiyası",
+      "qulaqdan irinli ifrazatın axması",
+      "eşitmənin səsi qəbuledici aparatın patologiyası tipli aşağı düşməsi, Jelle sınağı (+)",
       "qulaq ağrısı"
     ]
   },
@@ -3144,60 +1743,20 @@
     "question": "Otosklerozun cərrahi müalicəsi hansıdır?",
     "answers": [
       "stapedoplastika",
-      "qulaqda radikal operasiya",
-      "timpanoplastika",
+      "qulaqda radikal əməliyyat",
       "antromastoidotomiya",
-      "labirintotomiya"
+      "labirintotomiya",
+      "timpanoplastika"
     ]
   },
   {
     "question": "Menyer xəstəliyinin patogenezi nədir?",
     "answers": [
       "labirintin hidropsu",
-      "labirintin irinli iltihabı",
-      "labirint yarımdairəvi kanalında fistulanın əmələ gəlməsi",
       "təbil boşluğunun irinli iltihabı",
-      "təbil boşluğunda transudatın toplanması"
-    ]
-  },
-  {
-    "question": "Menyer xəstəliyinin tutmaları zamanı hansı simptom olmur?",
-    "answers": [
-      "qulaqdan irin axma",
-      "qulaqda küy",
-      "sistem xarakterli baş gicəllənmə",
-      "eşitmənin zəifləməsi",
-      "müvazinət pozulması və vegetativ reaksiyalar"
-    ]
-  },
-  {
-    "question": "Menyer xəstəliyinin tutmaları zamanı hansı simptom olmur?",
-    "answers": [
-      "Otalgiya",
-      "Qulaqda səs",
-      "Müvazinət pozulması",
-      "Başgicəllənmə",
-      "Eşitmənin proqressivləşən zəifləməsi"
-    ]
-  },
-  {
-    "question": "Sistemşəkilli başgicəllənmə, qulaqda kuy və neyrosensor tipli eşitmə zəifliyi ilə xarakterizə olunan xəstəlik hansıdır?",
-    "answers": [
-      "Menyer xəstəliyi",
-      "Otoskleroz",
-      "Xroniki irinli orta otitn",
-      "Kəskin tubootit",
-      "Adgeziv orta otit"
-    ]
-  },
-  {
-    "question": "Orta qulağın kəskin katarının səbəbləri nədir?",
-    "answers": [
-      "eşitmə borusunun keçiriciliyinin pozulması",
-      "eşitmə sümükcüklərinin ankilozu",
-      "infeksiya",
-      "küy, vibrasiya",
-      "qulağın travması"
+      "labirint yarımdairəvi kanalında fistulanın əmələ gəlməsi",
+      "təbil boşluğunda transudatın toplanması",
+      "labirintin irinli iltihabı"
     ]
   },
   {
@@ -3205,97 +1764,67 @@
     "answers": [
       "Rinne mənfidir (-)",
       "Rinne müsbətdir (+)",
-      "Veber sağlam qulağa lateralizasiya edir",
       "Veber ortadadır",
-      "Şvabax- xəstə tərəfdə qısalıb"
+      "Şvabax - xəstə tərəfdə qısalıb",
+      "Veber sağlam qulağa lateralizasiya edir"
     ]
   },
   {
     "question": "Səsi nəqledən aparatın patalogiyası zamanı Rinne sınağı necə qiymətləndirilir?",
     "answers": [
       "Rinne (-) mənfi",
-      "Rinne (+) müsbət",
       "Rinne kiçik (+) müsbət",
       "Rinne qısalmışdır",
-      "Rinne dəyişmir"
+      "Rinne dəyişmir",
+      "Rinne (+) müsbət"
     ]
   },
   {
     "question": "Normada insanlar pıçıltı ilə alçaq səsləri neçə metr məsafədən eşitməlidir?",
     "answers": [
       "6 metr",
-      "2 metr",
-      "4 metr",
+      "10 metr",
       "8 metr",
-      "10 metr"
+      "4 metr",
+      "2 metr"
     ]
   },
   {
     "question": "Jelle sınağı nə üçün tətbiq olunur?",
     "answers": [
-      "üzənginin dəhliz pəncərəsi üzərində hərəkiliyini yoxlamaq üçün",
+      "üzənginin dəhliz pəncərəsində hərəkiliyini yoxlamaq üçün",
       "sümük və hava keçirciklərinin müddətini müqayisəli qiymətləndirmək üçün",
-      "eşitmənin lateralizasiyasını təyin etmək üçün",
       "çəkicin təbil pərdəsində hərəkiliyini yoxlamaq üçün",
+      "eşitmənin lateralizasiyasını təyin etmək üçün",
       "sümük keçiriciklərinin müddətini hər iki qulaqda müqayisəvi qiymətləndirmək üçün"
-    ]
-  },
-  {
-    "question": "Otoskleroz zamanı patoloji proses qulağın hansı hissəsində gedir?",
-    "answers": [
-      "labirintin sümük divarında",
-      "təbil boşluğunda",
-      "məməyəbənzər çıxıntıda",
-      "təbil pərdəsində",
-      "eşitmə borusunda"
-    ]
-  },
-  {
-    "question": "Xroniki irinli otit nəyə deyilir?",
-    "answers": [
-      "qulaqdan 3 aydan artıq müddətdə daimi və ya periodik irin gəlməsi, təbil pərdəsində davamlı perforasiyanın olması və ağıreşitmə ilə müşayət olunan orta qulağın iltihabı",
-      "qulaqdan 4 ay müddətində irinli ifrazatın gəlməsi və təbil pərdəsində perforasiyanın olmaması",
-      "qulaqdan 1 ay müddətində irin gəlməsi",
-      "təbil pərdəsində çapıqlı prosesin olması",
-      "təbil pərdəsinin içəri dartılması və eşitmənin zəifləməsi"
-    ]
-  },
-  {
-    "question": "Bu simptomlardan hansı xroniki epitimpaniti xarakterizə etmir?",
-    "answers": [
-      "perforasiya təbil pərdəsinin gərginləşmiş hissəsindədir",
-      "irin iylidir",
-      "irin xolestatoma ilə qarışıqdır",
-      "məməvari çıxıntıda karioz boşluq var",
-      "eşitmə səsi nəqledici aparatın patologiyası tipli aşağı düşüb"
     ]
   },
   {
     "question": "Bu simptomlardan hansı xroniki mezotimpaniti xarakterizə edir?",
     "answers": [
       "perforasiya təbil pərdəsinin gərginləşmiş hissəsindədir",
+      "irin ifunətli iyə malikdir",
       "təbil pərdəsi tutqun, içəri dartılmış və nazikləşmişdir",
       "təbil boşluğunda transudat var və təbil pərdəsi tamdır",
-      "perforasiya təbil pərdəsinin sallanmış hissəsindədir",
-      "məməvari çıxıntıda karioz boşluq var"
+      "perforasiya təbil pərdəsinin sallanmış hissəsindədir"
     ]
   },
   {
     "question": "Bu xəstəliklərdən hansı qulaqda radikal operasiyaya göstəriş hesab olunmur?",
     "answers": [
       "xroniki ekssudativ otit və eşitmənin zəiflməsi",
-      "xroniki irinli orta otit və meninqit",
-      "xroniki irinli orta otit və məhdud labirintit",
-      "xroniki irinli orta otit və üz sinirinin iflici",
-      "xroniki orta otit və sepsis"
+      "xroniki orta otit və otogen sepsis",
+      "xroniki irinli orta otit və meningit",
+      "xroniki irinli orta otit və məhdud labirintit beyin absesi",
+      "xroniki irinli orta otit və üz sinirinin iflici"
     ]
   },
   {
     "question": "Eşitmə analizatorunun periferik reseptoru olan Korti üzvü hansı zarın üzərində yerləşir?",
     "answers": [
-      "Əsas zar",
-      "Reysner zarı",
-      "Örtük zarı",
+      "Əsas zarın",
+      "Reysner zarın",
+      "Örtük zarın",
       "Həm Reysner, həm də örtük zarında",
       "İlbiz axacağının lateral divarında"
     ]
@@ -3305,28 +1834,28 @@
     "answers": [
       "Perilimfa",
       "Endolimfa",
+      "Həm endolimfa, həm də kortilimfa",
       "Kortilimfa",
-      "Qulaq limfası",
-      "Həm endolimfa, həm də kortilimfa"
+      "Qulaq limfası"
     ]
   },
   {
     "question": "Koxlear nevritin diaqnostikası nəyə əsaslanmalıdır?",
     "answers": [
-      "audiometriya məlumatlarına",
-      "otoskopiyaya",
-      "rentgenoqrafiyaya",
+      "audiometriya məlumatlarına 37",
       "kompüter-tomoqrafiyaya (KT)",
-      "timpanometriyaya"
+      "timpanometriyaya",
+      "otoskopiyaya",
+      "rentgenoqrafiyaya"
     ]
   },
   {
     "question": "Ototoksik antibiotiklər hansı sinirə toksik təsir göstərir?",
     "answers": [
       "eşitmə sinirinə",
+      "dul-udlaq sinirnə",
       "üz sinirinə",
       "üçlü sinirinə",
-      "dul-udlaq sinirnə",
       "azan sinirinə"
     ]
   },
@@ -3334,459 +1863,159 @@
     "question": "Bu antibiotiklərdən hansı ototoksik təsir edir?",
     "answers": [
       "aminoqlikozid qrupu (streptomisin, kanamisin, qenatimisin və s.)",
-      "penicillin qrupu (benzil penicillin, bicillin, ampicillin və s.)",
-      "sefalosporin qrupu(kefzol, sefamezin, seftriaksion və s.)",
       "tetrasikilin qrupu (tetrasikilin, və s.)",
-      "antibiotik makrolidlər (eritromisin, oletetrin və s.)"
-    ]
-  },
-  {
-    "question": "Neyrosensor ağıreşitmə zamanı patoloji proses harada gedir?",
-    "answers": [
-      "koxlear reseptorlardan başlayaraq beyinin eşitmə mərkəzinə qədər olan eşitmə analizatorunun mərkəzi hissəsinə qədər",
-      "təbil boşluğunda ,oval pəncərə, perilimfa, endolimfa",
-      "labirintin oval pəncərəsi və üzəngidə",
-      "xarici qulaq keçəcəyində və təbil pərdəsində",
-      "üz sinirinin təbil boşluğundan keçən hissəsində"
+      "Azrosin",
+      "penicillin qrupu (benzil penicillin, bicillin, ampicillin və s.)",
+      "sefalosporin qrupu (kefzol, sefamezin, seftriaksion və s.)"
     ]
   },
   {
     "question": "Toksik mənşəli kəskin neyrosensor ağıreşitmə zamanı müalicə taktikasını seçin.",
     "answers": [
       "infuzion müalicə, prednizalon, kapilyar qan dövranını yaxşılaşdıran dərmanlar",
+      "laziks, uregit, salisil turşusu preparatları",
       "təcili qulaqda radikal operasiya tətbiq etmək",
-      "müalicəni 10-30 gün təxirə salmaq",
       "ototoksiki antibiotiklərin yeridilməsi",
-      "laziks, uregit, salisil turşusu preparatları, furosemid"
-    ]
-  },
-  {
-    "question": "Aşağıdakılardan hansı uşaqlarda eşitmə patologiyasının risk faktoru deyil?",
-    "answers": [
-      "Sefalosporinlərin tətbiqi",
-      "Aminoqlikozidlərin tətbiqi",
-      "Qohum nigahlar",
-      "Doğuş travması",
-      "Doğularkən asfiksiya"
+      "müalicəni 10-30 gün təxirə salmaq"
     ]
   },
   {
     "question": "Eşitmənin ali mərkəzi harada yerləşir?",
     "answers": [
       "Gicgah payında",
-      "Dört təpəli cisimdə",
-      "Körpu – beyincik üçbucağında",
       "4-cü mədəciyin dibində",
-      "Zeytunlarda"
-    ]
-  },
-  {
-    "question": "Səsi qəbul edən aparatın bir tərəfli patalogiyasında Veber sınağı zamanı səs hara lateralizasiya olunur?",
-    "answers": [
-      "sağlam qulağa",
-      "xəstə qulağa",
-      "hər iki qulağa",
-      "təpə nahiyəsinə",
-      "ənsə nahiyəsinə"
+      "Körpu-beyincik üçbucağında",
+      "Zeytunlarda",
+      "Dört təpəli cisimdə"
     ]
   },
   {
     "question": "Eşitmənin protezləşdirilməsi nə deməkdir?",
     "answers": [
-      "eşitmə aparatından istifadə etməklə eşitmənin , səslərin qəbulunun yaxşılaşdırılması",
-      "timpanoplastika etməklə eşitmənin yaxşılaşdırılması",
-      "üzənginin hərəkətini bərpa etməklə eşitmənin yaxşılaşdırılması",
+      "eşitmə aparatından istifadə etməklə eşitmənin yaxşılaşdırılması",
       "konservativ müalicə ilə eşitmənin bərpası",
-      "təbil boşluğunun şuntlanması"
+      "üzənginin hərəkətini bərpa etməklə eşitmənin yaxşılaşdırılması",
+      "təbil boşluğunun şuntlanması",
+      "timpanoplastika etməklə eşitmənin yaxşılaşdırılması"
     ]
   },
   {
     "question": "Vestibulyar analizatorun periferik reseptorları harada yerləşir?",
     "answers": [
       "yarım dairəvi kanallarda və dəhlizdə",
-      "yalnız dəhlizdə",
       "ilbizdə",
-      "yalnız yarım dairəvi kanallarda",
-      "antrumda"
-    ]
-  },
-  {
-    "question": "Vestibulyar analizatorun adekvat qıcıqlandırıcısı nədir?",
-    "answers": [
-      "təcil",
-      "səs dalğaları",
-      "iyli maddələr",
-      "işıq",
-      "elektro-maqnit dalğaları"
+      "antrumda",
+      "yalnız dəhlizdə 38",
+      "yalnız yarım dairəvi kanallarda 39"
     ]
   },
   {
     "question": "Bu müayinə metodlarından hansı vestibulyar pasporta daxil deyil?",
     "answers": [
       "Rinne sınağı",
-      "Romberq vəziyyəti",
       "düz və yana yeriş",
+      "spontan nistaqm",
       "barmaq-burun sınağı",
-      "spontan nistaqm"
-    ]
-  },
-  {
-    "question": "Pressor nistqam hansı hallarda müşahidə olunur?",
-    "answers": [
-      "məhdud labirintit zamanı",
-      "kəskin orta otit zamanı",
-      "diffuz labirinitit zamanı",
-      "tubotimpanit zamanı",
-      "koxlear nevritdə"
-    ]
-  },
-  {
-    "question": "Aşağıdakılardan hansı vestibulyar analizatorun patalogiyasında qeyd olunan veqetativ reaksiyalara aid deyil?",
-    "answers": [
-      "hiposmiya",
-      "ürək bulanma",
-      "qusma",
-      "arterial təzyiqin yüksəlməsi",
-      "təngənəfəslik"
+      "Romberq vəziyyəti"
     ]
   },
   {
     "question": "Vestibulyar analizatorun müayinəsində nə tətbiq edilir?",
     "answers": [
       "kalorik sınaq",
-      "audiometriya",
-      "timpanometriya",
       "olfaktometriya",
-      "stroboskopiya"
+      "stroboskopiya",
+      "timpanometriya",
+      "audiometriya"
     ]
   },
   {
     "question": "Vestibulyar aparatın orqanizmdə əsas rolu nədən ibarətdir?",
     "answers": [
       "müvazinətin saxlanması",
-      "qoxu funksiyası",
+      "görmə funksiyası",
       "eşitmə funksiyası",
-      "dad funksiyası",
-      "görmə funksiyası"
+      "qoxu funksiyası",
+      "dad funksiyası"
     ]
   },
   {
-    "question": "Aşağıdakılardan hansı spontan nistaqmın xarakteristikasına aid deyil?",
+    "question": "Bunlardan hansı otogen kəllədaxli ağırlaşma deyil?",
     "answers": [
-      "registri",
-      "istiqaməti",
-      "müstəvisi",
-      "amplitudu",
-      "gücü"
+      "labirintit",
+      "beyin absesi",
+      "otogen sepsis",
+      "meningit",
+      "sinustromboz"
     ]
   },
   {
-    "question": "Xarici qulaq hansı anatomik törəmələrdən təşkil olunmuşdur?",
+    "question": "Otogen leptomeningit zamanı iltihabi proses harada gedir?",
+    "answers": [
+      "yumşaq beyin qişasında",
+      "subdural sahədə",
+      "sərt beyin qişasında",
+      "beyin toxumasında",
+      "epidural sahədə"
+    ]
+  },
+  {
+    "question": "Bu simptomlardan hansı otogen leptomeningit üçün patoqnomonikdir?",
+    "answers": [
+      "beyin-onurğabeyin mayesində yüksək sitoz",
+      "baş ağrıları və subfebril hərarət",
+      "ocaqlı beyin simptomları",
+      "kəllədaxili təzyiqin yüksək olmaması",
+      "qulaqdan iringəlmə"
+    ]
+  },
+  {
+    "question": "Xarici qulaq hansı anatomik törəmələrdən təşkil olunmuşdur? 40",
     "answers": [
       "qulaq seyvanı və xarici gulaq keçəcəyi",
+      "eşitmə sümükçükləri",
       "daxili qulaq keçəcəyi və təbil boşluğu",
-      "təbil boşluğu",
       "məməvari çıxıntı",
-      "eşitmə sümükçükləri"
+      "təbil boşluğu"
     ]
   },
   {
     "question": "Qulaq seyvanının hansı anatomik hissəsində qığırdaq yoxdur?",
     "answers": [
       "sırğalıq",
-      "qıvrım",
-      "qarşı qıvrım",
       "traqus",
-      "qulaq seyvanı ləyəni"
+      "qarşı qıvrım",
+      "qıvrım",
+      "qulaq seyvanı ləyəni seyvanının çökəkliyi"
     ]
   },
   {
     "question": "Xarici qulaq keçəcəyinin yuxarı divarı nə ilə həmsərhəddir?",
     "answers": [
       "orta kəllə çuxuru ilə",
+      "arxa kəllə çuxuru ilə",
       "ön kəllə çuxuru ilə",
       "təbil boşluğu ilə",
-      "gicgah-çənə oynağı ilə",
-      "arxa kəllə çuxuru ilə"
+      "gicgah-çənə oynağı ilə"
     ]
   },
   {
-    "question": "Xarici qulaq keçəcəyinin arxa divarı nə ilə həmsərhəddir?",
-    "answers": [
-      "məməvari çıxıntı hücrələri ilə",
-      "orta kəllə çuxuru ilə",
-      "glandula parotislə",
-      "gicgah-çənə oynağı ilə",
-      "arxa kəllə çuxuru ilə"
-    ]
-  },
-  {
-    "question": "Xarici qulaq keçəcəyinin hansı hissəsində furunkul əmələ gəlir?",
-    "answers": [
-      "qığırdaq hissəsində",
-      "sümük hissəsində",
-      "həm qığırdaq, həm sümük hissədə",
-      "xarici qulaq keçəcəyində furunkul əmələ gəlmir",
-      "istmus hissəsədə"
-    ]
-  },
-  {
-    "question": "Nə üçün qulaq qıfını xarici qulaq keçəcəyinə salanda öskürək əmələ gəlir?",
-    "answers": [
-      "azan sinirin qıcıqlanması nəticəsində",
-      "üçlü sinirin qıcıqlanması nəticəsində",
-      "simpatik sinirin refleksi nəticəsində",
-      "dil-udlaq sinirin refleksi sayəsində",
-      "təbil telinin qıcıqlanması sayəsində"
-    ]
-  },
-  {
-    "question": "Bunlardan hansı orta qulaq törəmələrinə daxil deyil?",
-    "answers": [
-      "xarici qulaq keçəcəyi",
-      "eşitmə borusu",
-      "təbil boşluğu",
-      "mağara",
-      "məməvari çıxıntı"
-    ]
-  },
-  {
-    "question": "Otoskopiya zamanı təbil pərdəsinin tanınma nöqtələrinə hansı aid deyil?",
-    "answers": [
-      "qıvrım",
-      "işıq konusu",
-      "çəkicin dəstəyi",
-      "çəkicin kiçik çıxıntısı",
-      "ön və arxa büküşlər"
-    ]
-  },
-  {
-    "question": "Təbil pərdəsinin gərginləşmiş hissəsi sallanmış hissədən nə ilə fərqlənir?",
-    "answers": [
-      "fibroz qatın olması ilə",
-      "selikli qatının olmaması ilə",
-      "epidermis qatının olması ilə",
-      "selikli qişa qatının olması ilə",
-      "ancaq fibroz qatdan təşkil olunması ilə"
-    ]
-  },
-  {
-    "question": "Təbil boşluğunda bunlardan hansı yoxdur?",
-    "answers": [
-      "pretimpanum",
-      "epitimpanum",
-      "mezotimpanum",
-      "hipotimpanum",
-      "epi və mezotimpanum"
-    ]
-  },
-  {
-    "question": "Eşitmə sümükçüklərini təbil pərdəsindən başlayaraq ardıcıl göstərin",
-    "answers": [
-      "çəkic, zindan, üzəngi",
-      "zindan, çəkic, üzəngi",
-      "üzəngi, zindan, çəkic",
-      "çəkic, üzəngi, zindan",
-      "üzəngi, çəkic, zindan"
-    ]
-  },
-  {
-    "question": "Uşaqlarda eşitmə borusunun quruluş xüsusiyyətləri hansılardır?",
-    "answers": [
-      "qısa və enlidir, üfüqü vəziyyətdə yerləşmişdir",
-      "uzun və dardır",
-      "uzun və enlidir",
-      "sagital vəziyyətdə yerləşmişdir",
-      "şaquli vəziyyətdə yeləşmişdir"
-    ]
-  },
-  {
-    "question": "Mastoidit zamanı xarici qulaq keçəcəyinin hansı divarında gedən dəyişiklik diaqnostik əhəmiyyətə malikdir?",
-    "answers": [
-      "arxa-yuxarı",
-      "ön-aşağı",
-      "yuxarı",
-      "aşağı",
-      "ön-yuxarı"
-    ]
-  },
-  {
-    "question": "Uşaqlarda otoskopiya zamanı qulaq seyvanı hansı istiqamətdə çəkilməlidir?",
-    "answers": [
-      "aşağı və arxaya",
-      "yuxarı və arxaya",
-      "aşağı və önə",
-      "yuxarı və önə",
-      "düz istiqamətdə"
-    ]
-  },
-  {
-    "question": "Hansı anatomik törəmə təbil boşluğu ilə burunudlağı birləşdirir?",
-    "answers": [
-      "eşitmə borusu",
-      "oval pəncərə",
-      "girdə pəncərə",
-      "daxili qulaq keçəcəyi",
-      "xarici qulaq keçəcəyi"
-    ]
-  },
-  {
-    "question": "Eşitmə borusunun müayinə metodlarına nə aiddir?",
-    "answers": [
-      "kateterizasiya",
-      "otoskopiya",
-      "palpasiya",
-      "rentgenoskopiya",
-      "rinoskopiya"
-    ]
-  },
-  {
-    "question": "Təbil pərdəsinin hərəkiliyini nə ilə müəyyən etmək olar?",
-    "answers": [
-      "pnevmatik qıfla",
-      "politser balonu ilə",
-      "otoskopiya ilə",
-      "qulaq kateteri ilə",
-      "rentgenografiya ilə"
-    ]
-  },
-  {
-    "question": "Uşaqlarda hansı xəstəliklər zamanı traqusa təzyiq etdikdə ağrı qeyd olunur?",
-    "answers": [
-      "Kəskin xarici və orta otitlər zamanı",
-      "Labirintit zamanı",
-      "Xroniki irinli orta otit zamanı",
-      "Yevstaxiit zamanı",
-      "Antrit zamanı"
-    ]
-  },
-  {
-    "question": "Təbil boşluğunun içəri divarında hansı klinik əhəmiyyətli törəmələr yerləşmir?",
-    "answers": [
-      "mağaraya giriş",
-      "oval pəncərə",
-      "girdə pəncərə",
-      "promontorium",
-      "üz siniri"
-    ]
-  },
-  {
-    "question": "Gicgah sümüyünün rentgenoloji müayinəsində hansı proyeksiyalardan istifadə olunur?",
-    "answers": [
-      "Şüller üsulu",
-      "kəllənin yan proyeksiyası",
-      "alın-burun proyeksiyası",
-      "yalnız aksial proyeksiya",
-      "burun-çənə proyeksiyası"
-    ]
-  },
-  {
-    "question": "Təbil boşluğunun yuxarı divarının dağılması zamanı orta qulağın iltihabı hara yayıla bilər?",
-    "answers": [
-      "orta kəllə çuxuruna",
-      "məməvari çıxıntıya",
-      "S-əbənzər sinusa",
-      "vidaci vena soğanağına",
-      "parotis vəziyə"
-    ]
-  },
-  {
-    "question": "Qulağın müayinə metodunu göstərin.",
-    "answers": [
-      "otoskopiya",
-      "rinoskopiya",
-      "larinqoskopiya",
-      "farinqoskopiya",
-      "stroboskopiya"
-    ]
-  },
-  {
-    "question": "Otoakustik emissiya metodu ilə müayinə qulağın hansı hissəsinin fəaliyyəti haqda məlumat verir?",
-    "answers": [
-      "xarici tükcüklü hüceyrələrin fəaliyyəti haqda",
-      "xarici qulaq keçəcəyinin vəziyyəti haqda",
-      "orta qulaq, qulaq sümükcüklərinin vəziyyəti haqda",
-      "daxili tükcüklü hüceyrələrin vəziyyəti haqda",
-      "beyində eşitmənin aparıcı yolları haqda"
-    ]
-  },
-  {
-    "question": "Yaradılmış eşitmə potensiallarının qeydi metodu eşitmə analizatorunun hansı hissəsinin fəaliyyəti haqda məlumat verir?",
-    "answers": [
-      "eşitmə siniri, aparıcı yollar, beyin kötüyündəki eşitmə mərkəzlərinin fəaliyyəti haqda",
-      "eşitmə analizatorunun reseptor hissəsinin fəaliyyəti, perilimfa və endolimfa haqda",
-      "səskeçirən aparatın və labirintin fəaliyyəti haqda",
-      "orta qulağın fəaliyyəti haqda",
-      "xarici qulağın fəaliyyəti haqda"
-    ]
-  },
-  {
-    "question": "Aşağıdakı anatomik törəmələrdən hansı ilbiz axacağının divarlarını təşkil edir?",
-    "answers": [
-      "əsas zar",
-      "torbacıq",
-      "təbil pərdəsi",
-      "kisəcik",
-      "otolit membranı"
-    ]
-  },
-  {
-    "question": "Təbil pilləkənində hansı maye var?",
-    "answers": [
-      "perilimfa",
-      "endolimfa",
-      "transudat",
-      "plazma",
-      "kortilimfa"
-    ]
-  },
-  {
-    "question": "Korti orqanı hansı hüceyrələrdən təşkil olunub?",
-    "answers": [
-      "tükcüklü hüceyrələrdən",
-      "qədəhəbənzər hüceyrələrdən",
-      "səyrici epiteli",
-      "yasti epitelidən",
-      "kubik epitelidən"
-    ]
-  },
-  {
-    "question": "Korti orqanı hansı funksiyaları yerinə yetirir?",
-    "answers": [
-      "səsi qəbuletmə",
-      "səsikeçirmə",
-      "eşitmə və müvazinət",
-      "səsikeçirmə və qəbul etmə",
-      "müvazinət"
-    ]
-  },
-  {
-    "question": "Səsi qəbuledici aparatın xəstəliyi zamanı hansı keçiricilik pozulur?",
-    "answers": [
-      "həm sümük, həm də hava keçiriciliyi",
-      "yalnız sümük keçiriciliyi",
-      "yalnız hava keçiriciliyi",
-      "heç biri pozulmur",
-      "sümük keçiricilik normal qalır, yalnız hava keçiriciliyi pozulur"
-    ]
-  },
-  {
-    "question": "Aşağıda göstərilən anatomik törəmələrdən hansı səsikeçirən aparata aiddir?",
+    "question": "Aşağıda göstərilən anatomik törəmələrdən hansı səsötürən aparata aiddir?",
     "answers": [
       "xarici qulaq keçəcəyi, təbil pərdəsi",
       "eşitmə siniri",
+      "eşitmənin beyin aparıcı yolları",
       "korti orqanı",
-      "spiral bağ",
-      "eşitmənin beyin aparıcı yolları"
+      "spiral bağ"
     ]
   },
   {
     "question": "Aşağıda göstərilən anatomik törəmələrdən hansı səsi qəbuledən aparata aiddir?",
     "answers": [
       "korti orqanı",
+      "eşitmə sümükcükləri",
       "qulaq seyvanı",
       "xarici qulaq keçəcəyi, təbil pərdəsi",
-      "eşitmə sümükcükləri",
       "məməvari çıxıntı"
     ]
   },
@@ -3795,59 +2024,39 @@
     "answers": [
       "6 m",
       "20 m",
-      "12 m",
       "30 m",
-      "15 m"
-    ]
-  },
-  {
-    "question": "Səsi qəbuledən aparatın patologiyası zamanı kamertonal müayinələrdə hansı əlamətlər olacaq?",
-    "answers": [
-      "C128-lə müayinədə həm hava, həm də sümük keçiriciliyi qısalır",
-      "C128-lə müayinədə sümük keçiriciliyi qısalır",
-      "C128-lə müayinədə sümük keçiriciliyi uzanır",
-      "C128-lə müayinədə Rinne mənfi olur yalnız hava keçiriciliyi qısalır",
-      "C2048-lə müayinədə eşitmə uzanır"
+      "15 m",
+      "12 m"
     ]
   },
   {
     "question": "Jelle sınağı hansı məqsədlə həyata keçirilir?",
     "answers": [
-      "üzənginin oval pəncərədə hərəkətli olmasını təyin etmək üçün",
+      "üzənginin oval pəncərədə hərəkətli olmasını təyin etmək üçün 42",
       "təbil pərdəsinin hərəkətli olmasını təyin etmək üçün",
-      "səsi qəbuledən aparatının patologiyalarının diaqnostikası üçün",
-      "koxlear aparatın patologiyalarının diaqnostikası üçün",
-      "eşitmə borusunun keçiriciliyini təyin etmək üçün"
+      "səsi qəbuledən aparatının patologiyalarının diaqnostikası üçün 41",
+      "eşitmə borusunun keçiriciliyini təyin etmək üçün",
+      "koxlear aparatın patologiyalarının diaqnostikası üçün"
     ]
   },
   {
-    "question": "Səsikeçirən aparatın patologiyası zamanı Veber sınağında səs hansı gulağa lateralizasiya edir?",
+    "question": "Səsikeçirən aparatın patologiyası zamanı Veber sınağında səs hansı qulağa lateralizasiya edir?",
     "answers": [
       "xəstə qulaq tərəfə",
       "sağlam qulaq tərəfə",
-      "səs ortada olur",
       "eşitmə olmur",
-      "səs hər 2 qulaqda eşidilir"
+      "səs hər iki qulaqda eşidilir",
+      "səs ortada olur"
     ]
   },
   {
     "question": "Rinne sınağında hansı göstəricilər müqayisə olunur?",
     "answers": [
       "hava və sümük keçiriciliyinin müddəti",
-      "iki qulağın hava keçiriciliyinin müddəti",
-      "iki qulağın sümük keçiriciliyinin müddəti",
+      "pıçıltı nitqinin qəbuletmə məsafəsi",
       "heç bir göstərici müqayisə olunmur",
-      "pıçıltı nitqinin qəbuletmə məsafəsi"
-    ]
-  },
-  {
-    "question": "Audioqramda sümük keçiriciliyi əsasən yüksək tezliklərdə aşağı düşərsə hansı aparatın xəstəliyi haqqında düşünmək olar?",
-    "answers": [
-      "səsi qəbuledən aparatın",
-      "səsikeçirən aparatın",
-      "səsikeçirən və səsi qəbuledən aparatların",
-      "heç birinin",
-      "vestibulyar aparatın"
+      "iki qulağın sümük keçiriciliyinin müddəti",
+      "iki qulağın hava keçiriciliyinin müddəti"
     ]
   },
   {
@@ -3855,28 +2064,18 @@
     "answers": [
       "təbil pərdəsi",
       "xarici qulaq keçəcəyi",
-      "oval pəncərə",
       "girdə pəncərə",
-      "oval və girdə pəncərə"
-    ]
-  },
-  {
-    "question": "Müayinə zamanı aşağıdakı şikayətlər və obyektiv əlamətlər olarsa eşitmə analizatorunun vəziyyətini xarakterizə edin: eşitmə sağ qulaqda zəifləyib, təbil pərdəsində çapıqlı dəyişiklik var, kamertonal müayinə zamanı hava keçiriciliyi aşağı düşüb, Rinne sınağı mənfidir, Veber sınağı zamanı səs sağ qulağa lateralizasiya edir.",
-    "answers": [
-      "eşitmə səsikeçirən aparatın patologiyası tipdə zəifləyib",
-      "eşitmə səsiqəbul edən aparatın patologiyası tipdə zəifləyib",
-      "eşitmə hər iki aparatın patologiyası (qarışıq) tipdə zəifləyib",
-      "əsasən səsi qəbuledən aparatın zədələnməsi qeyd olunur",
-      "keçirici sistemdə dəyişiklik yoxdur"
+      "oval və girdə pəncərə",
+      "oval pəncərə"
     ]
   },
   {
     "question": "Daxili qulağın vestibulyar hissəsini hansı anatomik elementlər təşkil edir?",
     "answers": [
       "dəhliz, yarımdairəvi kanallar",
+      "korti cismi, dəhliz",
       "dəhliz, ilbiz",
       "ilbiz, yarımdairəvi kanallar",
-      "korti cismi, dəhliz",
       "korti cismi, yarımdairəvi kanallar"
     ]
   },
@@ -3885,9 +2084,9 @@
     "answers": [
       "müvazinət",
       "eşitmə",
+      "rezonans",
       "eşitmə və müvazinət",
-      "taktil",
-      "rezonans"
+      "taktil"
     ]
   },
   {
@@ -3895,8 +2094,8 @@
     "answers": [
       "cupula terminalis (qotaz)",
       "membrana statokoniy",
-      "spiral korti orqanı",
       "makulalar",
+      "spiral korti orqanı 43",
       "qoxu reseptorları"
     ]
   },
@@ -3904,30 +2103,30 @@
     "question": "Endolimfatik axacaq haradan başlayır?",
     "answers": [
       "ductus utriculosaccularis",
-      "torbacıq",
       "kisəcik",
+      "horizantal yarımdairəvi kanal",
       "ilbiz axacağı",
-      "horizantal yarımdairəvi kanal"
+      "torbacıq"
     ]
   },
   {
     "question": "Labirint kəllə çuxuru ilə hansı anatomik yollarla əlaqələnir?",
     "answers": [
       "dəhliz və ilbiz su axarı kəməri, daxili qulaq keçəcəyi ilə",
-      "yalnız dəhliz suaxarı kəməri ilə",
-      "ilbiz suaxarı kəməri ilə",
       "yalnız daxili qulaq keçəcəyi ilə",
-      "əlaqələnmir"
+      "yalnız ilbiz sukəməri ilə",
+      "əlaqələnmir",
+      "yalnız dəhliz sukəməri ilə"
     ]
   },
   {
     "question": "Kisəcik və torbacıqda olan reseptorlar necə adlanır?",
     "answers": [
       "otolit reseptorları",
-      "ampulyar aparat",
-      "korti orqanı",
+      "olfaktor reseptorlar",
       "otolit və ampulyar aparatlar",
-      "olfaktor reseptorlar"
+      "korti orqanı",
+      "ampulyar aparat"
     ]
   },
   {
@@ -3935,129 +2134,339 @@
     "answers": [
       "vestibulo-spinal yol",
       "vestibulo-kortikal yol",
-      "vestibulo-okulomotor yol",
       "vestibulo-talamik yol",
-      "vestibulo-beyincik yolu"
+      "vestibulo-okulomotor yol",
+      "vestibulo-beyincik yol"
     ]
   },
   {
     "question": "Otolit aparat üçün adekvat qıcıqlandırıcı nədir?",
     "answers": [
       "yerin cazibə qüvvəsi və düzxətti təcil",
-      "geyri düzxətti təcil",
       "bucaq təcili",
+      "səs",
       "işıq",
-      "səs"
-    ]
-  },
-  {
-    "question": "Vestibulyar aparatın ampulyar hissəsinin funksiyasını müayinə etmək üçün istifadə olunan sınaqlar hansılardır?",
-    "answers": [
-      "fırlanma sınağı",
-      "V.İ.Voyaçekin 2-li fırlanma sınağı",
-      "pnevmatik sınaq",
-      "K.L.Xilov kürsüsündə sınaq",
-      "Jelle sınağı"
+      "geyri düzxətti təcil"
     ]
   },
   {
     "question": "Vestibulyar aparatın zədələnməsi üçün hansı simptomlar əsas deyil?",
     "answers": [
-      "eşitmənin azalması, baş ağrısı, gulağda küy",
+      "eşitmənin azalması, baş ağrısı, qulaqda küy",
       "başgicəllənmə, ürəkbulanma, qusma, müvazinətin itirilməsi, spontan nistaqm",
       "başgicəllənmə, ürəkbulanma, müvazinətin itirilməsi",
-      "başgicəllənmə, ürəkbulanma, qusma",
-      "spontan nistaqm, kordinasiyanın pozulması, sistem başgicəllənmə"
+      "spontan nistaqm, koordinasiyanın pozulması, sistem başgicəllənmə",
+      "başgicəllənmə, ürəkbulanma, qusma"
     ]
   },
   {
-    "question": "Ampulyar aparatın adekvat qıcıqlandırıcısı hansıdır?",
+    "question": "Ampulyar aparatın adekvat qıcıqlandırıcısı hansıdır? 44",
     "answers": [
       "bucaq təcili",
-      "səs",
       "yerin cazibə qüvvəsi",
-      "xətti təcil",
-      "güclü səslər"
-    ]
-  },
-  {
-    "question": "Vestibulo-somatik reflekslərin pozulmasını xarakterizə edən simptomları göstərin.",
-    "answers": [
-      "müvazinətin pozulması, spontan nistaqm",
-      "başgicəllənmə, ürəkbulanma",
-      "vegetativ reaksiya, baş ağrıları",
-      "ürəkbulanma, qusma, bradikardiya şüurun pozulması",
-      "yana yerişin pozulması, adiadoxokinez"
+      "güclü səslər",
+      "səs",
+      "xətti təcil"
     ]
   },
   {
     "question": "Horizontal yarımdairəvi kanalı müayinə edərkən sağa doğru aparılan fırlanma sınağından sonrakı nistqam hansı tərəfə yönəlir?",
     "answers": [
       "sola",
-      "sağa",
       "ortada olur",
-      "olmur",
-      "ancaq sağa və ortaya"
+      "sağa",
+      "ancaq sağa və ortaya",
+      "olmur"
     ]
   },
   {
     "question": "Soyuq kalorik sınaq zamanı nistaqm hansı tərəfə yönəlir?",
     "answers": [
       "sınaq aparılan qulaqdan əks tərəfə",
-      "sınaq aparılan tərəfə",
-      "ortaya",
+      "yuxarı və aşağı",
       "hər iki tərəfə",
-      "yuxarı və aşağı"
+      "sınaq aparılan tərəfə",
+      "ortaya"
     ]
   },
   {
     "question": "İsti kalorik sınaq zamanı nistaqm hansı tərəfə yönəlir?",
     "answers": [
       "sınaq aparılan tərəfə",
-      "sınaq aparılan qulaqdan əks tərəfə",
-      "ortaya",
       "hər iki tərəfə",
-      "yuxarı və aşağı"
+      "sınaq aparılan qulaqdan əks tərəfə",
+      "yuxarı və aşağı",
+      "ortaya"
     ]
   },
   {
     "question": "Başın vəziyyətini dəyişdikdə xəstənin yıxılma istiqamətinin dəyişməsi nəyi göstərir?",
     "answers": [
       "Vestibulyar aparatın patologiyasıdır",
+      "gicgah ataksiyasıdır",
       "beyincik patologiyasıdır",
-      "baş beynin patologiyasıdır",
-      "həm beyincik, həm də vestibulyar patologiyadır",
-      "gicgah ataksiyasıdır"
+      "baş-beynin patologiyasıdır",
+      "həm beyincik, həm də vestibulyar patologiyadır"
     ]
   },
   {
-    "question": "Aşağıda qeyd olunanları nəzərə alaraq sağ labirintin vəziyyətini xarakterizə edin: spontan nistaqm sağadır, sağ tərəfdə aparılan soyuq kalorik sınaq zamanı 1 dəq.-dən artıq davam edən, sola yönələn nistaqm, fırlanma sınağından sonra 2 dəq. davam edən, sağa yönələn nistaqm qeyd olunur.",
+    "question": "Aşağıda sadalananlardan hansı otogen kəllədaxili ağırlaşmalara aid deyil?",
     "answers": [
-      "qıcıqlanma vəziyyətindədir",
-      "məhv olub",
-      "normaldır",
-      "dəyişiklik yoxdur",
-      "hiporefleksiyadır"
+      "subaraxnoidal qansızma",
+      "ekstradural abses",
+      "subdural abses",
+      "meningit",
+      "baş-beyin absesi"
     ]
   },
   {
-    "question": "Aşağıda qeyd olunanları nəzərə alaraq sol labirintin vəziyyətini xarakterizə edin: spontan nistqam soladır, sol tərəfdə aparılan soyuq kalorik sınaq zamanı nistqam sağadır və 2 dəq.-dən artıq davam edir, fırlanma sınağından sonra 60 san. davam edən, sola yönələn nistaqm qeyd olunur.",
+    "question": "Subdural abses zamanı irin harada toplanır?",
     "answers": [
-      "qıcıqlanma vəziyyətindədir",
-      "məhv olub",
-      "normaldır",
-      "dəyişiklik yoxdur",
-      "hiporefleksiyadır"
+      "sərt və hörümçəktorunabənzər qişaların arasına 45",
+      "yumşaq beyin qişasının altına",
+      "kəllə sümükləri ilə sərt beyin qişasının arasına",
+      "beyin toxumasına",
+      "sərt beyin qişası qatları arasına"
+    ]
+  },
+  {
+    "question": "Otogen kəllədaxili ağırlaşmalar zamanı infeksiya kəllə boşluğuna bu yolların hansısı ilə yayılmır?",
+    "answers": [
+      "eşitmə borusu ilə",
+      "labirintogen yolla",
+      "perivaskulyar yolla",
+      "perinevral yolla",
+      "kontakt yolla"
+    ]
+  },
+  {
+    "question": "Labirintit zamanı kəllədaxili ağırlaşma əsasən harada müşahidə olunur?",
+    "answers": [
+      "arxa kəllə çuxurunda",
+      "kəllə əsasında",
+      "ön və orta kəllə çuxurlarında",
+      "orta kəllə çuxurunda",
+      "ön kəllə çuxurunda"
+    ]
+  },
+  {
+    "question": "Orta otitin hansı formasında kəllədaxili ağırlaşmaların yaranma ehtimalı daha yüksəkdir?",
+    "answers": [
+      "xroniki irinli epitimpanit",
+      "eksudativ otit",
+      "seroz otit",
+      "xroniki irinli mezotimpanit",
+      "xroniki irinli hipotimpanit"
+    ]
+  },
+  {
+    "question": "Kəskin irinli orta otitdən sonra inkişaf edən ekstradural abses əsasən harada yerləşir?",
+    "answers": [
+      "arxa kəllə çuxurunda",
+      "kəllə əsasında",
+      "orta kəllə çuxurunda",
+      "ön və orta kəllə çuxurlarında",
+      "ön kəllə çuxurunda"
+    ]
+  },
+  {
+    "question": "Xroniki irinli orta otitdən sonra inkişaf edən ekstradural abses əsasən harada yerləşir?",
+    "answers": [
+      "orta kəllə çuxurunda",
+      "arxa kəllə çuxurunda",
+      "kəllə əsasında",
+      "ön kəllə çuxurunda",
+      "ön və arxa kəllə çuxurlarında"
     ]
   },
   {
     "question": "Uşaqlarda infeksiya qulaqdan kəllə boşluğuna ən çox hansı yollarla yayılır?",
     "answers": [
       "daşlıq-pul şırımı, məməvari-pul şırımı ilə",
-      "eşitmə borusundan",
+      "xarici qulaq keçəcəyindən 46",
+      "təbil boşluğunun aşağı divarından",
       "məməvari çıxıntının ön divarından",
-      "xarici qulaq keçəcəyindən",
-      "təbil boşluğunun aşağı divarından"
+      "eşitmə borusundan"
+    ]
+  },
+  {
+    "question": "Ekstradural abses zamanı hansı beyin qişası prosesə cəlb olunur?",
+    "answers": [
+      "sərt beyin qişası",
+      "hörümçəktorunabənzər və yumşaq beyin qişası",
+      "bilavasitə beyin toxuması",
+      "hörümçəktorunabənzər qişa",
+      "yumşaq beyin qişası"
+    ]
+  },
+  {
+    "question": "Arxa kəllə çuxurunun ekstradural absesi ilə ağırlaşmış kəskin irinli orta otit zamanı hansı əməliyyat icra olunur?",
+    "answers": [
+      "arxa kəllə çuxurunun sərt beyin qişasının üzəri açılmaqla məməyəbənzər çıxıntının trepanasiyası",
+      "orta kəllə çuxurunun sərt beyin qişasının üzərini açmaqla məməyəbənzər çıxıntının trepanasiyası (genişləndirilmiş antromastoidotomiya)",
+      "gicgah sümüyündə radikal əməliyyat",
+      "labirintektomiya",
+      "məməyəbənzər çıxıntının sadə trepanasiyası (antromastoidotomiya)"
+    ]
+  },
+  {
+    "question": "Orta kəllə çuxurunun ekstradural absesi ilə ağırlaşmış xroniki irinli orta otit zamanı hansı əməliyyat icra olunur?",
+    "answers": [
+      "orta kəllə çuxurunun sərt beyin qişasının üzəri açılmaqla gicgah sümüyündə radikal əməliyyat",
+      "məməyəbənzər çıxıntının sadə trepanasiyası (antromastoidotomiya)",
+      "arxa kəllə çuxurunun sərt beyin qişasının üzərini açmaqla məməyəbənzər",
+      "gicgah sümüyündə radikal əməliyyat",
+      "ıntının trepanasiyası (antromastoidotomiya)"
+    ]
+  },
+  {
+    "question": "Otogen kəllədaxili ağırlaşmalar zamanı gicgah sümüyündə əməliyyata göstərişi müəyyən edin.",
+    "answers": [
+      "qulaqda əməliyyat təxirəsalınmaz aparılmalıdır",
+      "qulaqda əməliyyatın aparılması vacib deyil",
+      "xəstəliyin dinamikasından asılıdır",
+      "qulaqda təxirə salına bilən radikal əməliyyat aparılır",
+      "qulaqda əməliyyat planlı qaydada aparılır"
+    ]
+  },
+  {
+    "question": "Otogen daxili paximeningitdə prosesin lokalizasiyasını göstərin",
+    "answers": [
+      "sərt beyin qişasının daxili qatında",
+      "yumşaq beyin qişasında",
+      "sərt beyin qişasının xarici qatında",
+      "hörümçəktorunabənzər qişa",
+      "yumşaq və hörümçəktorunabənzər qişada"
+    ]
+  },
+  {
+    "question": "Qulaqda əməliyyat zamanı hansı dəyişikliklər subdural abses diaqnozunu təsdiqləməyə əsas verir?",
+    "answers": [
+      "sərt beyin qişasının nekrozu, fistulası və sərt beyin qişasının altında irinin toplanması",
+      "sərt beyin qişasının üzərində qranulyasiyanın olması",
+      "ekstradural sahədə irinin toplanması",
+      "məməvari çıxıntıda irinlə dolu karioz boşluğun olması",
+      "S-əbənzər sinusun üzərində irinin olması"
+    ]
+  },
+  {
+    "question": "Subdural abseslə ağırlaşmış xroniki irinli orta otitli xəstələrdə müalicə taktikasını göstərin",
+    "answers": [
+      "gicgah sümüyündə genişləndirilmiş radikal əməliyyat, antibiotikoterapiya, dehidratasion müalicə",
+      "məməvari çıxıntıda sadə trepanasiya",
+      "yalnız antibiotikoterapiya",
+      "antibiotikoterapiya və dehidratasion müalicədən effekt alınmayan hallarda gicgah sümüyündə əməliyyat etmək",
+      "antibiotikoterapiya və dehidratasion müalicə"
+    ]
+  },
+  {
+    "question": "Hansı beyin qişasının iltihabı meningit adlanır?",
+    "answers": [
+      "yumşaq beyin qişasının",
+      "beyin sinuslarının",
+      "sərt beyin qişasının daxili səthinin",
+      "hörümçəktorunabənzər qişanın",
+      "sərt beyin qişasının xarici səthinin"
+    ]
+  },
+  {
+    "question": "Bunlardan hansı otogen leptomeningitin formasına daxil deyil?",
+    "answers": [
+      "eksudativ",
+      "seroz",
+      "diffuz",
+      "irinli",
+      "məhdud"
+    ]
+  },
+  {
+    "question": "Otogen meningit zamanı infeksion xəstəlik simptomlarını göstərin",
+    "answers": [
+      "başağrıları, yuksək hərarət, titrətmə, leykositoz",
+      "adiadoxokinez, spontan nistaqm",
+      "ənsə əzələlərinin rigidliyi, kerniq simptomu",
+      "göz dibində durğunluq, bradikardiya, şüurun pozulması",
+      "likvorda şəkərin və zülalın artması"
+    ]
+  },
+  {
+    "question": "Bunlardan hansı meningeal simptomlara daxildir?",
+    "answers": [
+      "Kerniq simptomu",
+      "göz dibində durğunluq",
+      "adiadoxokinez",
+      "üz sinirinin parezi",
+      "afaziya"
+    ]
+  },
+  {
+    "question": "Hansı xəstəliklər zamanı daha çox ənsə əzələlərinin rigidliyi olur? 49",
+    "answers": [
+      "beyincik absesi, meningit",
+      "gicgah payının absesi",
+      "yalnız meningit zamanı",
+      "təpə payının absesi",
+      "araxnoidit zamanı"
+    ]
+  },
+  {
+    "question": "Bazal meningiti xarakterizə edən simptomları göstərin",
+    "answers": [
+      "meningeal simptomlar, kəllə sinirlərinin parezi",
+      "infeksion xəstəliklər simptomu",
+      "üz sinirinin mərkəzi iflici, qıcolmalar",
+      "ətrafların parezi, yaxud iflici",
+      "adiodoxokinez"
+    ]
+  },
+  {
+    "question": "Otogen beyin və beyincik absesləri adətən hansı mərhələdə diaqnostika olunur?",
+    "answers": [
+      "manifestasiya",
+      "başlanğıc və latent",
+      "başlanğıc",
+      "latent",
+      "terminal"
+    ]
+  },
+  {
+    "question": "Otogen abseslərin 3-cü mərhələsi necə adlanır?",
+    "answers": [
+      "aydın mərhələ",
+      "aralıq mərhələ",
+      "gizli mərhələ",
+      "son mərhələ",
+      "başlanğıc mərhələ"
+    ]
+  },
+  {
+    "question": "Hansı qrup simptomlar otogen beyin abseslərinin 3-cü mərhələsi üçün xarakterdir?",
+    "answers": [
+      "ümumi beyin simptomları və ocaqlı simptomlar",
+      "meningeal simptomlar",
+      "dislokasiya simptomlar",
+      "infeksion xəstəliklər simptomları",
+      "ümumi beyin simptomları, meningeal simptomlar"
+    ]
+  },
+  {
+    "question": "Otogen beyin və beyincik abseslərinin klinikasında kəllədaxili təzyiqin qalxma səbəblərini göstərin",
+    "answers": [
+      "beyin toxumasında absesin olması və beyin ödemi",
+      "beyin mərkəzlərinin zədələnməsi",
+      "labirintin hidropsu",
+      "irinli orta otit, göz dilində durğunluq, şüurun pozulması",
+      "beyin strukturlarının bir-birinə münasibətdə yerdəyişməsi"
+    ]
+  },
+  {
+    "question": "Otogen beyin abseslərinin ətrafında kapsulanın yaranması nə zaman baş verir?",
+    "answers": [
+      "absesin yaranmasından bir neçə həftədən sonra",
+      "abses yaranandan 4 ay sonra",
+      "abses yaranandan 1 il sonra 50",
+      "absesin yaranmasının ilk günlərində",
+      "abses yarananmasından 7-10 gün sonra"
     ]
   },
   {
@@ -4075,8 +2484,8 @@
     "answers": [
       "1 mkl. likvorda sitoz 500-dən çoxdur",
       "1 mkl. likvorda sitoz 10-dur",
-      "1 mkl. likvorda sitoz 100-ə qədərdir, limfosit",
       "1 mkl. likvorda sitoz 50-dən çox deyil",
+      "1 mkl. likvorda sitoz 100-ə qədərdir, limfosit",
       "1 mkl. likvorda sitoz 70-80-dir"
     ]
   },
@@ -4084,10 +2493,10 @@
     "question": "Seroz meningit zamanı beyin-onurğa beyni mayesindəki xarakterik dəyişikliklər hansılardır?",
     "answers": [
       "1 mkl. likvorda hüceyrə 100-200 olur, limfositlərin sayı artır",
-      "1 mkl. likvorda sitoz 500-dən çoxdur, neytrofillərin sayı artır",
-      "1 mkl. likvorda hüceyrə 10",
       "likvorda sitoz olmur",
-      "1 mkl. likvorda 300-400 neytrofil var"
+      "1 mkl. likvorda hüceyrə 10",
+      "1 mkl. likvorda 300-400 neytrofil var",
+      "1 mkl. likvorda sitoz 500-dən çoxdur, neytrofillərin sayı artır"
     ]
   }
 ]
