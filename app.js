@@ -421,6 +421,14 @@ function normalizeQuestion(raw, index){
     const shuffledOptions = stableShuffle(options, seed);
     const correctIndexes = [];
     shuffledOptions.forEach((option, idx)=>{ if (option.correct) correctIndexes.push(idx); });
+    const structuredType = raw.type === "matching" || raw.type === "fill_blank" ? raw.type : "";
+    const slotAnswers = Array.isArray(raw.slotAnswers)
+      ? raw.slotAnswers.map(answer=>typeof answer === "string" ? answer : null)
+      : [];
+    const isStructured = !!structuredType && slotAnswers.length > 0;
+    const slotCorrectIndexes = slotAnswers.map(answer=>answer == null
+      ? -1
+      : shuffledOptions.findIndex(option=>option.text === answer));
     return {
       id:index,
       question:raw.question||raw.q||"",
@@ -428,7 +436,12 @@ function normalizeQuestion(raw, index){
       correctIndex:correctIndexes[0] ?? 0,
       correctIndexes,
       isOpen:true,
-      section:raw.section||"Açıq suallar"
+      section:raw.section||"Açıq suallar",
+      structuredType,
+      isStructured,
+      slotAnswers,
+      slotCorrectIndexes,
+      slotMarkerOccurrences:raw.slotMarkerOccurrences||{}
     };
   }
 
@@ -494,6 +507,10 @@ function _resolveSelectedIndex(q, info){
 }
 function _resolveSelectedIndexes(q, info){
   if (!info) return [];
+  if (q.isStructured){
+    const values = Array.isArray(info.slotValues) ? info.slotValues : [];
+    return values.map(value=>q.answers.indexOf(value)).filter(index=>index>=0);
+  }
   if (!q.isOpen){
     const index = _resolveSelectedIndex(q, info);
     return index >= 0 ? [index] : [];
@@ -506,11 +523,26 @@ function _resolveSelectedIndexes(q, info){
     : [];
 }
 function _isAnswerCorrect(q, info){
+  if (q.isStructured){
+    const values = info && Array.isArray(info.slotValues) ? info.slotValues : [];
+    let hasGradableSlot = false;
+    for (let i=0; i<q.slotAnswers.length; i++){
+      const expected = q.slotAnswers[i];
+      if (expected == null) continue;
+      hasGradableSlot = true;
+      if (values[i] !== expected) return false;
+    }
+    return hasGradableSlot;
+  }
   const selected = _resolveSelectedIndexes(q, info).slice().sort((a,b)=>a-b);
   const correct = (q.correctIndexes||[q.correctIndex]).slice().sort((a,b)=>a-b);
   return selected.length === correct.length && selected.every((index,i)=>index===correct[i]);
 }
 function _isQuestionAnswered(q, info){
+  if (q.isStructured){
+    const values = info && Array.isArray(info.slotValues) ? info.slotValues : [];
+    return q.slotAnswers.every((answer,index)=>answer == null || typeof values[index] === "string");
+  }
   return _resolveSelectedIndexes(q, info).length > 0;
 }
 function buildAnsweredFirstRandomOrder(list){
@@ -773,6 +805,15 @@ function renderAll(){
 function getQuestionStatusText(q, info, maskActive){
   if (exam.running) return "İmtahan gedir – nəticə imtahandan sonra görünəcək.";
   if (maskActive) return "Bu baxışda cavablar gizlədilib";
+  if (q.isStructured){
+    const values = info && Array.isArray(info.slotValues) ? info.slotValues : [];
+    const total = q.slotAnswers.filter(answer=>answer != null).length;
+    const filled = q.slotAnswers.reduce((count,answer,index)=>
+      count + (answer != null && typeof values[index] === "string" ? 1 : 0), 0);
+    if (filled < total) return `${filled}/${total} uyğunluq seçilib`;
+    if (!info.checked) return `${filled}/${total} uyğunluq seçilib · “Cavabı yoxla” düyməsinə kliklə`;
+    return _isAnswerCorrect(q, info) ? "✅ Bütün uyğunluqlar düzdür" : "❌ Uyğunluqlardan biri və ya bir neçəsi səhvdir";
+  }
   if (q.isOpen){
     const count = _resolveSelectedIndexes(q, info).length;
     if (!count) return "Bir və ya bir neçə variant seç, sonra cavabı yoxla";
@@ -784,8 +825,88 @@ function getQuestionStatusText(q, info, maskActive){
   return "Cavab seçmək üçün variantlardan birinə kliklə";
 }
 
+function ensureStructuredQuestionStyles(){
+  if (document.getElementById("structured-question-styles")) return;
+  const style = document.createElement("style");
+  style.id = "structured-question-styles";
+  style.textContent = `
+    .structured-question{white-space:pre-wrap;line-height:2.35}
+    .match-slot-select{max-width:min(100%,360px);margin:3px 5px;padding:7px 30px 7px 10px;border:1px solid #94a3b8;border-radius:9px;background:#fff;color:#0f172a;font:inherit;font-weight:600;cursor:pointer;vertical-align:middle}
+    .match-slot-select:focus{outline:2px solid #3b82f6;outline-offset:2px}
+    .match-slot-select.slot-correct{border-color:#16a34a;background:#dcfce7;color:#166534}
+    .match-slot-select.slot-wrong{border-color:#dc2626;background:#fee2e2;color:#991b1b}
+    .match-slot-missing{display:inline-block;margin:3px 5px;padding:5px 9px;border-radius:8px;background:#e2e8f0;color:#64748b;font-size:.9em}
+    .question.structured-card .answers{display:none}
+    body.dark-mode .match-slot-select{background:#0f172a;color:#e2e8f0;border-color:#475569}
+    body.dark-mode .match-slot-select.slot-correct{background:#14532d;color:#dcfce7}
+    body.dark-mode .match-slot-select.slot-wrong{background:#7f1d1d;color:#fee2e2}
+    @media(max-width:640px){.match-slot-select{display:inline-block;max-width:95%;font-size:.92em}}
+  `;
+  document.head.appendChild(style);
+}
+
+function appendStructuredQuestion(container, q, info){
+  const text = String(q.question||"");
+  const values = info && Array.isArray(info.slotValues) ? info.slotValues : [];
+  const occurrenceSeen = {};
+  let cursor = 0;
+  const numberPattern = /\d+/g;
+  let match;
+
+  while ((match = numberPattern.exec(text))){
+    const slotNumber = Number(match[0]);
+    if (slotNumber < 1 || slotNumber > q.slotAnswers.length) continue;
+    occurrenceSeen[slotNumber] = (occurrenceSeen[slotNumber]||0)+1;
+    const wantedOccurrence = Number(q.slotMarkerOccurrences[String(slotNumber)]||1);
+    if (occurrenceSeen[slotNumber] !== wantedOccurrence) continue;
+
+    container.appendChild(document.createTextNode(text.slice(cursor,match.index)));
+    const slotIndex = slotNumber-1;
+    const expected = q.slotAnswers[slotIndex];
+    if (expected == null){
+      const missing = document.createElement("span");
+      missing.className = "match-slot-missing";
+      missing.textContent = `${slotNumber} — mənbədə cavab yoxdur`;
+      container.appendChild(missing);
+    } else {
+      const select = document.createElement("select");
+      select.className = "match-slot-select";
+      select.dataset.slotIndex = String(slotIndex);
+      select.setAttribute("aria-label", `${slotNumber}-ci uyğunluğun cavabı`);
+
+      const empty = document.createElement("option");
+      empty.value = "";
+      empty.textContent = `${slotNumber} — cavab seç`;
+      select.appendChild(empty);
+
+      q.answers.forEach((answer,answerIndex)=>{
+        const option = document.createElement("option");
+        option.value = String(answerIndex);
+        option.textContent = answer;
+        select.appendChild(option);
+      });
+
+      const selectedValue = values[slotIndex];
+      const selectedIndex = typeof selectedValue === "string" ? q.answers.indexOf(selectedValue) : -1;
+      select.value = selectedIndex >= 0 ? String(selectedIndex) : "";
+      if (info && info.checked && selectedIndex >= 0){
+        select.classList.add(selectedValue === expected ? "slot-correct" : "slot-wrong");
+      }
+      select.addEventListener("click", event=>event.stopPropagation());
+      select.addEventListener("change", event=>{
+        event.stopPropagation();
+        onStructuredAnswerChange(q.id,slotIndex,event.target.value);
+      });
+      container.appendChild(select);
+    }
+    cursor = match.index+match[0].length;
+  }
+  container.appendChild(document.createTextNode(text.slice(cursor)));
+}
+
 function renderQuiz(){
   const container = document.getElementById("quizContainer"); if(!container) return;
+  ensureStructuredQuestionStyles();
   const filtered = getFilteredQuestions();
 
   if (!currentCategory){
@@ -808,17 +929,28 @@ function renderQuiz(){
   container.innerHTML = "";
   pageQuestions.forEach((q)=>{
     const maskActive = isAnswerMasked(q.id);
+    const info = maskActive ? null : selectedAnswers[q.id];
     const card = document.createElement("div");
     card.className = "question"; card.id = "question-"+q.id;
+    if (q.isStructured) card.classList.add("structured-card");
 
     const header = document.createElement("div"); header.className = "question-header";
     const title = document.createElement("div");
     const num = document.createElement("span"); num.className="question-number"; num.textContent = q.id+".";
-    const tt = document.createElement("span"); tt.textContent = q.question;
+    const tt = document.createElement("span");
+    if (q.isStructured){
+      tt.className = "structured-question";
+      appendStructuredQuestion(tt,q,info);
+    } else tt.textContent = q.question;
     title.appendChild(num); title.appendChild(tt);
 
     const meta = document.createElement("div"); meta.className="question-meta";
-    if (q.isOpen){ const s=document.createElement("span"); s.className="open-question-badge"; s.innerHTML=`<i class="fa fa-list-check"></i> Açıq · çoxseçimli`; meta.appendChild(s); }
+    if (q.isOpen){
+      const s=document.createElement("span"); s.className="open-question-badge";
+      const label = q.structuredType === "matching" ? "uyğunlaşdırma"
+        : (q.structuredType === "fill_blank" ? "boşluq doldurma" : "çoxseçimli");
+      s.innerHTML=`<i class="fa fa-list-check"></i> Açıq · ${label}`; meta.appendChild(s);
+    }
     const wc = questionWrongCount[q.id]||0; if (!exam.running && wc>0){ const s=document.createElement("span"); s.innerHTML=`<i class="fa fa-fire"></i> ${wc} səhv`; meta.appendChild(s); }
     if (flaggedQuestions.includes(q.id)){ const s=document.createElement("span"); s.className="question-flag-meta"; s.innerHTML=`<i class="fa fa-flag"></i> flag`; meta.appendChild(s); }
     if (editedQuestions[q.id]){ const s=document.createElement("span"); s.innerHTML=`<i class="fa fa-pen"></i> dəyişib`; meta.appendChild(s); }
@@ -828,12 +960,11 @@ function renderQuiz(){
     const answersDiv = document.createElement("div"); answersDiv.className="answers";
 
     // MASK: wrong/flagged daxilində ilk açılışda cavab gizlədilir; klikdən sonra görünür
-    const info = maskActive ? null : selectedAnswers[q.id];
     const selIdx = _resolveSelectedIndex(q, info);
     const selectedIndexes = new Set(_resolveSelectedIndexes(q, info));
     const correctIndexes = new Set(q.correctIndexes||[q.correctIndex]);
 
-    q.answers.forEach((ans, idx)=>{
+    if (!q.isStructured) q.answers.forEach((ans, idx)=>{
       const btn = document.createElement("button"); btn.className="answer-btn";
       const letter = document.createElement("span"); letter.className="answer-letter"; letter.textContent=String.fromCharCode(65+idx);
       const text = document.createElement("span"); text.textContent = ans;
@@ -864,7 +995,7 @@ function renderQuiz(){
 
     if (q.isOpen && !exam.running){
       const checkBtn = document.createElement("button"); checkBtn.className="icon-btn open-check-btn";
-      checkBtn.disabled = selectedIndexes.size===0;
+      checkBtn.disabled = q.isStructured ? !_isQuestionAnswered(q,info) : selectedIndexes.size===0;
       checkBtn.innerHTML = `<i class="fa fa-circle-check"></i> Cavabı yoxla`;
       checkBtn.addEventListener("click", ()=> checkOpenAnswer(q.id));
       actions.appendChild(checkBtn);
@@ -912,8 +1043,13 @@ function renderQuiz(){
     // re-render can no longer expose it accidentally.
     if (!exam.running){
       const correctDiv = document.createElement("div"); correctDiv.id="correct-answer-"+q.id; correctDiv.className="correct-answer-text";
-      const answers = (q.correctIndexes||[q.correctIndex]).map(index=>q.answers[index]).filter(Boolean);
-      correctDiv.textContent = "Düzgün cavab: " + answers.join(" · ");
+      if (q.isStructured){
+        const answers = q.slotAnswers.map((answer,index)=>answer == null ? null : `${index+1} → ${answer}`).filter(Boolean);
+        correctDiv.textContent = "Düzgün uyğunluq: " + answers.join(" · ");
+      } else {
+        const answers = (q.correctIndexes||[q.correctIndex]).map(index=>q.answers[index]).filter(Boolean);
+        correctDiv.textContent = "Düzgün cavab: " + answers.join(" · ");
+      }
       card.appendChild(correctDiv);
     }
 
@@ -1175,6 +1311,17 @@ function updateQuestionCardVisuals(id){
   const selectedIndexes = new Set(_resolveSelectedIndexes(q, info));
   const correctIndexes = new Set(q.correctIndexes||[q.correctIndex]);
 
+  if (q.isStructured){
+    const values = info && Array.isArray(info.slotValues) ? info.slotValues : [];
+    card.querySelectorAll(".match-slot-select").forEach(select=>{
+      const slotIndex = Number(select.dataset.slotIndex);
+      select.classList.remove("slot-correct","slot-wrong");
+      if (info && info.checked && typeof values[slotIndex] === "string"){
+        select.classList.add(values[slotIndex] === q.slotAnswers[slotIndex] ? "slot-correct" : "slot-wrong");
+      }
+    });
+  }
+
   buttons.forEach((btn, idx)=>{
     btn.classList.remove("correct","wrong","missed","exam-selected");
     if (info){
@@ -1193,12 +1340,35 @@ function updateQuestionCardVisuals(id){
   });
 
   const checkBtn = card.querySelector(".open-check-btn");
-  if (checkBtn) checkBtn.disabled = selectedIndexes.size===0;
+  if (checkBtn) checkBtn.disabled = q.isStructured ? !_isQuestionAnswered(q,info) : selectedIndexes.size===0;
 
   const pill = card.querySelector(".question-footer .note-pill");
   if (pill){
     pill.textContent = getQuestionStatusText(q, info, maskActive);
   }
+}
+
+function onStructuredAnswerChange(id, slotIndex, answerIndexValue){
+  const q = allQuestions.find(qq=>qq.id===id); if (!q || !q.isStructured) return;
+  const current = selectedAnswers[id] && Array.isArray(selectedAnswers[id].slotValues)
+    ? selectedAnswers[id].slotValues.slice()
+    : Array(q.slotAnswers.length).fill(null);
+  while (current.length < q.slotAnswers.length) current.push(null);
+
+  const answerIndex = answerIndexValue === "" ? -1 : Number(answerIndexValue);
+  const value = Number.isInteger(answerIndex) && answerIndex >= 0 ? q.answers[answerIndex] : null;
+  if (value != null){
+    current.forEach((existing,index)=>{ if (index !== slotIndex && existing === value) current[index]=null; });
+  }
+  current[slotIndex] = value;
+
+  if (current.some(item=>typeof item === "string")){
+    selectedAnswers[id] = { slotValues:current, checked:false, updatedAt:Date.now() };
+  } else delete selectedAnswers[id];
+
+  if (maskMode.active) maskMode.revealedIds.add(Number(id));
+  saveAnswerState();
+  renderAll();
 }
 
 function onAnswerClick(id, index){
