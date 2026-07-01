@@ -1357,9 +1357,6 @@ function onStructuredAnswerChange(id, slotIndex, answerIndexValue){
 
   const answerIndex = answerIndexValue === "" ? -1 : Number(answerIndexValue);
   const value = Number.isInteger(answerIndex) && answerIndex >= 0 ? q.answers[answerIndex] : null;
-  if (value != null){
-    current.forEach((existing,index)=>{ if (index !== slotIndex && existing === value) current[index]=null; });
-  }
   current[slotIndex] = value;
 
   if (current.some(item=>typeof item === "string")){
@@ -2289,7 +2286,7 @@ document.addEventListener("DOMContentLoaded", ()=>{
   attachSwipeHandlers();
 
   if ("serviceWorker" in navigator){
-    navigator.serviceWorker.register("sw.js?v=13").catch(()=>{});
+    navigator.serviceWorker.register("sw.js?v=14").catch(()=>{});
   }
   initPWAInstall();
 
