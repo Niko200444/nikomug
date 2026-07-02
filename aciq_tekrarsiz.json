@@ -3,151 +3,6 @@
   "source": "LorBÜTÜNaçıqqlar.pdf + lor-acig-1.pdf",
   "openQuestions": [
     {
-      "sourceNumber": 1,
-      "question": "Eşitmə sümükcüklərinin zədələnməsinə diaqnoz qoymaq üçün hansı müayinəni etmək lazımdır",
-      "type": "multiple_choice",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "Otomikroskopiya",
-          "correct": true
-        },
-        {
-          "text": "Otoskopiya",
-          "correct": true
-        },
-        {
-          "text": "Impedansometriya",
-          "correct": true
-        },
-        {
-          "text": "Oae",
-          "correct": false
-        },
-        {
-          "text": "Bera",
-          "correct": false
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
-    },
-    {
-      "sourceNumber": 2,
-      "question": "Kəskin irinli otitin mərhələləri:",
-      "type": "multiple_choice",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "Reparasiya",
-          "correct": true
-        },
-        {
-          "text": "Perforasiya",
-          "correct": true
-        },
-        {
-          "text": "Perforasiyaya qədərki",
-          "correct": true
-        },
-        {
-          "text": "Alterasiya",
-          "correct": false
-        },
-        {
-          "text": "Gizli",
-          "correct": false
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
-    },
-    {
-      "sourceNumber": 3,
-      "question": "Xarici burunun aşkar sınığını göstərən əlamətlər",
-      "type": "multiple_choice",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "Xarici burnun içəri batması",
-          "correct": true
-        },
-        {
-          "text": "Xarici burnun yana əyilməsi",
-          "correct": true
-        },
-        {
-          "text": "Pilləkən simptomu (burun arxasında və yamaclarında sümük çıxıntısı)",
-          "correct": true
-        },
-        {
-          "text": "Dispepsiya",
-          "correct": false
-        },
-        {
-          "text": "Qulaqdan likvoreya",
-          "correct": false
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
-    },
-    {
-      "sourceNumber": 4,
-      "question": "Burunətrafı ciblərin xəstəliklərinin diaqnozu",
-      "type": "multiple_choice",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "Anamnez məlumatlarına",
-          "correct": true
-        },
-        {
-          "text": "KT və R nəticələrinə",
-          "correct": true
-        },
-        {
-          "text": "Baxış və palpasiya",
-          "correct": true
-        },
-        {
-          "text": "USM",
-          "correct": false
-        },
-        {
-          "text": "Olfaktometriya",
-          "correct": false
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
-    },
-    {
-      "sourceNumber": 5,
-      "question": "Xroniki rinitin səbəbləri",
-      "type": "multiple_choice",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "Burun arakəsməsinin əyriliyi",
-          "correct": true
-        },
-        {
-          "text": "Un, tabaşir, pambıq, yun tozu",
-          "correct": true
-        },
-        {
-          "text": "Mineral və metal tozları",
-          "correct": true
-        },
-        {
-          "text": "Xroniki kataral tonzilit",
-          "correct": false
-        },
-        {
-          "text": "Xroniki tonzillit",
-          "correct": false
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
-    },
-    {
       "sourceNumber": 6,
       "question": "Otohematoma necə müalicə olunur",
       "type": "multiple_choice",
@@ -171,122 +26,6 @@
         },
         {
           "text": "Masteoidotomiya",
-          "correct": false
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
-    },
-    {
-      "sourceNumber": 7,
-      "question": "əng cibinin kəskin iltihabının etioloji faktoru",
-      "type": "multiple_choice",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "cibin təbii dəliyinin daralması, okkliziyası",
-          "correct": true
-        },
-        {
-          "text": "uzun sürən nazotraxeal intubasiyadan sonra",
-          "correct": true
-        },
-        {
-          "text": "mukosiliar klirensin pozulması",
-          "correct": true
-        },
-        {
-          "text": "qan xəstəlikləri",
-          "correct": false
-        },
-        {
-          "text": "iris faktorlar",
-          "correct": false
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
-    },
-    {
-      "sourceNumber": 8,
-      "question": "əng cibinin travmasından 3-4 gün sonra əgər xəstədə iltihab əlamətləri (cibin proksimal nahiyəsində infiltrasiya, yumşaq toxumanın ödemi, hərarətin yüksəlməsi) baş verirsə nə etmək lazımdır",
-      "type": "multiple_choice",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "antibiotikin yeridilməsi",
-          "correct": true
-        },
-        {
-          "text": "cibin punksiyası",
-          "correct": true
-        },
-        {
-          "text": "antiseptiklərlə yuyulması",
-          "correct": true
-        },
-        {
-          "text": "balanoplastika",
-          "correct": false
-        },
-        {
-          "text": "konxotomiya",
-          "correct": false
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
-    },
-    {
-      "sourceNumber": 9,
-      "question": "kəskin irinli orta otit zamanı qulağın hansı şöbələri iltihabı prosesə cəlb olunur",
-      "type": "multiple_choice",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "yevstax borusu",
-          "correct": true
-        },
-        {
-          "text": "məməvarı çıxıntı",
-          "correct": true
-        },
-        {
-          "text": "təbil boşluğu",
-          "correct": true
-        },
-        {
-          "text": "labirintit",
-          "correct": false
-        },
-        {
-          "text": "xarici qulaq keçəcəyi",
-          "correct": false
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
-    },
-    {
-      "sourceNumber": 10,
-      "question": "təbil pərdəsi travması zamanı ilk yardım nədən ibarət olmalıdır",
-      "type": "multiple_choice",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "aseptic sarğı qoymaq",
-          "correct": true
-        },
-        {
-          "text": "ilk yardım xarici qulaq keçəcəyinə steril plitə yeritmək",
-          "correct": true
-        },
-        {
-          "text": "daxilə antibiotic təyin olunur",
-          "correct": true
-        },
-        {
-          "text": "pərdənin şuntlanması",
-          "correct": false
-        },
-        {
-          "text": "ilk yardım kimi merinqoplastika etmək",
           "correct": false
         }
       ],
@@ -330,93 +69,6 @@
         {
           "text": "Antibacterial terapiya, tetanus əleyhinə vaksin",
           "correct": true
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
-    },
-    {
-      "sourceNumber": 13,
-      "question": "əng sümüyünün ön divarı nahiyəsində sınıqlar zamanı:",
-      "type": "multiple_choice",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "göz yuvasının divarının, almacıq sümüyünün sınığı",
-          "correct": true
-        },
-        {
-          "text": "ön nahiyədə çökmə, deformasiya",
-          "correct": true
-        },
-        {
-          "text": "ölümcül qanaxma",
-          "correct": false
-        },
-        {
-          "text": "başgicəllənmə",
-          "correct": false
-        },
-        {
-          "text": "kəllə əsasının sınığı",
-          "correct": false
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
-    },
-    {
-      "sourceNumber": 14,
-      "question": "nazal likvoreya zamanı müalicə prinsipi",
-      "type": "multiple_choice",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "konservativ müalicə",
-          "correct": true
-        },
-        {
-          "text": "yataq rejimi",
-          "correct": true
-        },
-        {
-          "text": "cərrahi taktika",
-          "correct": true
-        },
-        {
-          "text": "vazotomiya",
-          "correct": false
-        },
-        {
-          "text": "tamponade",
-          "correct": false
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
-    },
-    {
-      "sourceNumber": 15,
-      "question": "travmatik orta otit necə müalicə",
-      "type": "multiple_choice",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "timpanoplastika",
-          "correct": true
-        },
-        {
-          "text": "antibacterial terapiya",
-          "correct": true
-        },
-        {
-          "text": "yaranın ilkin işlənməsi və xarici qulaq keçəcəyinə spirtlə isladılmış plitə qoymaqla",
-          "correct": true
-        },
-        {
-          "text": "qulağın radikal əməliyyatı",
-          "correct": false
-        },
-        {
-          "text": "desensibilizasiya müalicəsi",
-          "correct": false
         }
       ],
       "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
@@ -538,35 +190,6 @@
       "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
     },
     {
-      "sourceNumber": 20,
-      "question": "burunun yumşaq toxumasının zədələnməsi zamanı",
-      "type": "multiple_choice",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "üzdə 1cili tikiş qoyulması",
-          "correct": true
-        },
-        {
-          "text": "qanaxmanın saxlanılması",
-          "correct": true
-        },
-        {
-          "text": "yaranın 1cili işlənməsi",
-          "correct": true
-        },
-        {
-          "text": "rentgenodiaqnostika",
-          "correct": false
-        },
-        {
-          "text": "UVÇ",
-          "correct": false
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
-    },
-    {
       "sourceNumber": 21,
       "question": "Əgər xəstədə II və III dərəcəli beyin silkələnməsi (öyümə, qusma, baş ağrısı, zəiflik, nevroloji simptomlar) diaqnozu qoyularsa, burun sümüklərinin yerinə salınması nə vaxt aparılmalıdır?",
       "type": "multiple_choice",
@@ -596,64 +219,6 @@
       "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
     },
     {
-      "sourceNumber": 22,
-      "question": "əsas sümüyünün sınığının əsas əlamətləri",
-      "type": "multiple_choice",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "görmə siniri zədələnməsi",
-          "correct": true
-        },
-        {
-          "text": "kəllə əsasının sınığı",
-          "correct": true
-        },
-        {
-          "text": "daxili yuxu arteriyasının zədələnməsi ilə ölümcül qanaxma",
-          "correct": true
-        },
-        {
-          "text": "burun qanaxmas",
-          "correct": false
-        },
-        {
-          "text": "üzdə şişlik və krepitasiya",
-          "correct": false
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
-    },
-    {
-      "sourceNumber": 23,
-      "question": "kəllə əsasının sınığı",
-      "type": "multiple_choice",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "eynək simptomu",
-          "correct": true
-        },
-        {
-          "text": "onurğa beyin mayesində qanın olması (subaraxnoidal qansızma)",
-          "correct": true
-        },
-        {
-          "text": "xəstənin huşsuz və kar olması",
-          "correct": true
-        },
-        {
-          "text": "qulaqda küy",
-          "correct": false
-        },
-        {
-          "text": "qusma",
-          "correct": false
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
-    },
-    {
       "sourceNumber": 24,
       "question": "serebrospinal rinoreya müalicəsi:",
       "type": "multiple_choice",
@@ -670,64 +235,6 @@
         {
           "text": "konservativ müalicə",
           "correct": true
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
-    },
-    {
-      "sourceNumber": 25,
-      "question": "xəlbir səfhənin sınığı ilə sərt qişanın cırılmasını nə sübut edir",
-      "type": "multiple_choice",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "ikili ləkə simptomu",
-          "correct": true
-        },
-        {
-          "text": "burun ifrazatında qlükoza",
-          "correct": true
-        },
-        {
-          "text": "nazal likvoreya-başını önə əyən zaman",
-          "correct": true
-        },
-        {
-          "text": "burun qanaxması",
-          "correct": false
-        },
-        {
-          "text": "arinqospazm",
-          "correct": false
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
-    },
-    {
-      "sourceNumber": 26,
-      "question": "sümük qəlpələrinin yerdəyişməsi ilə sınıqlar olduqda müalicə taktikası:",
-      "type": "multiple_choice",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "qəlpələrin xarici fiksasiyası",
-          "correct": true
-        },
-        {
-          "text": "qəlpələrin daxili fiksasiyası",
-          "correct": true
-        },
-        {
-          "text": "burun sümüklərinin və burunətrafı ciblərin divarlarının repozisiyası",
-          "correct": true
-        },
-        {
-          "text": "rinoplastika",
-          "correct": false
-        },
-        {
-          "text": "antikoaqulyant təyini",
-          "correct": false
         }
       ],
       "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
@@ -781,35 +288,6 @@
         },
         {
           "text": "aleksiya",
-          "correct": false
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
-    },
-    {
-      "sourceNumber": 29,
-      "question": "təbil pərdəsinin zədələnməsi",
-      "type": "multiple_choice",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "yad cismi çıxararkən",
-          "correct": true
-        },
-        {
-          "text": "hava kontuziyası (baş travması)",
-          "correct": true
-        },
-        {
-          "text": "gicgah sümüyü piramidasının boylama sınığı zamanı",
-          "correct": true
-        },
-        {
-          "text": "furunkul zamanı",
-          "correct": false
-        },
-        {
-          "text": "antropunksiya zamanı",
           "correct": false
         }
       ],
@@ -928,27 +406,6 @@
         {
           "text": "vitaminoterapiya",
           "correct": false
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
-    },
-    {
-      "sourceNumber": 35,
-      "question": "piramidaların boylama zədələnmməsi",
-      "type": "multiple_choice",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "otolikvoreya",
-          "correct": true
-        },
-        {
-          "text": "üz siniri iflici",
-          "correct": true
-        },
-        {
-          "text": "eşitmə və vestibulyar pozulma",
-          "correct": true
         }
       ],
       "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
@@ -1470,39 +927,6 @@
       "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
     },
     {
-      "sourceNumber": 60,
-      "question": "Qırtlağın hiposteziyası vəya anesteziyası—1\nQırtlağın periferik iflicləri—2",
-      "type": "matching",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "Aşağı qırtlaq sinirinin zədələnməsi",
-          "correct": true
-        },
-        {
-          "text": "Xroniki hipertrofik laringit",
-          "correct": false
-        },
-        {
-          "text": "Yuxarı qırtlaq sinirinin travması",
-          "correct": true
-        },
-        {
-          "text": "Xroniki kataral laringit",
-          "correct": false
-        },
-        {
-          "text": "Atrofik laringit",
-          "correct": false
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf",
-      "slotAnswers": [
-        "Yuxarı qırtlaq sinirinin travması",
-        "Aşağı qırtlaq sinirinin zədələnməsi"
-      ]
-    },
-    {
       "sourceNumber": 61,
       "question": "Peşə ilə bağlı eşitmə itkisinin müalicə prinsipləri",
       "type": "multiple_choice",
@@ -1524,35 +948,6 @@
       "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
     },
     {
-      "sourceNumber": 62,
-      "question": "Gicgah sümüyünün köndələn sınığı—1\nGicgah sümüyünün boylama sınığı—2",
-      "type": "matching",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "Çat piramidanın bütün massivindən keçir",
-          "correct": true
-        },
-        {
-          "text": "Xarici qulaq keçəcəyinin arxa divarı zədələnir",
-          "correct": false
-        },
-        {
-          "text": "Təbil boşluğu damnın və xarici qulaq keçəcəyinin yuxarı divarının tamlığı pozulur",
-          "correct": true
-        },
-        {
-          "text": "Təbil boşluğunun ön divarı zədələnir",
-          "correct": false
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf",
-      "slotAnswers": [
-        "Çat piramidanın bütün massivindən keçir",
-        "Təbil boşluğu damnın və xarici qulaq keçəcəyinin yuxarı divarının tamlığı pozulur"
-      ]
-    },
-    {
       "sourceNumber": 63,
       "question": "Xroniki adheziv otitin irinli prosesdən sonrakı əlamətləri—1\nXroniki adheziv otitin ağır eşitməyə səbəbi—2",
       "type": "matching",
@@ -1571,39 +966,6 @@
       "slotAnswers": [
         "çapıq qalır",
         "sümüklərin hərəkətsizliyi"
-      ]
-    },
-    {
-      "sourceNumber": 64,
-      "question": "Ilk növbədə ototoksik təsir—1\nOtotoksik koxlear nevrit—2",
-      "type": "matching",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "İlk növbədə qaraciyər və böyrək funksiyası pozulmuş şəxslərdə",
-          "correct": true
-        },
-        {
-          "text": "Vitamin terapiyası",
-          "correct": false
-        },
-        {
-          "text": "Aminoqlikozid sırası antibiotiklər",
-          "correct": true
-        },
-        {
-          "text": "Mədəaltı və dalaq funksiyası pozulmuş şəxslərdə",
-          "correct": false
-        },
-        {
-          "text": "Ferment terapiyası",
-          "correct": false
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf",
-      "slotAnswers": [
-        "İlk növbədə qaraciyər və böyrək funksiyası pozulmuş şəxslərdə",
-        "Aminoqlikozid sırası antibiotiklər"
       ]
     },
     {
@@ -1678,158 +1040,6 @@
         }
       ],
       "sourceFile": "LorBÜTÜNaçıqqlar.pdf"
-    },
-    {
-      "sourceNumber": 68,
-      "question": "Skleromanın törədicisi - 1\nSifilisin törədicisi - 2",
-      "type": "matching",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "Friş-Volkoviç çöpləri",
-          "correct": true
-        },
-        {
-          "text": "Treponema pallidum",
-          "correct": true
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf",
-      "slotAnswers": [
-        "Friş-Volkoviç çöpləri",
-        "Treponema pallidum"
-      ]
-    },
-    {
-      "sourceNumber": 69,
-      "question": "ilbiz axacağının yuxarı divarı—1\nspiral vəya korti orqanı—2",
-      "type": "matching",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "dəhliz pilləkəni",
-          "correct": true
-        },
-        {
-          "text": "bazal membranın üzərində",
-          "correct": true
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf",
-      "slotAnswers": [
-        "dəhliz pilləkəni",
-        "bazal membranın üzərində"
-      ]
-    },
-    {
-      "sourceNumber": 70,
-      "question": "aşağı burun keçəcəyi—1\nyuxarı burun keçəcəyi—2",
-      "type": "matching",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "göz yaşı kanalı",
-          "correct": true
-        },
-        {
-          "text": "xəlbir və əsas ciblərin axarı",
-          "correct": true
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf",
-      "slotAnswers": [
-        "göz yaşı kanalı",
-        "xəlbir və əsas ciblərin axarı"
-      ]
-    },
-    {
-      "sourceNumber": 71,
-      "question": "təbil boşluğunun arxa divarı—1\ntəbil boşluğunun ön divarı—2",
-      "type": "matching",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "məməvari çıxıntı",
-          "correct": true
-        },
-        {
-          "text": "a.carotis interna",
-          "correct": true
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf",
-      "slotAnswers": [
-        "məməvari çıxıntı",
-        "a.carotis interna"
-      ]
-    },
-    {
-      "sourceNumber": 72,
-      "question": "korti orqanı yerləşir—1\nkorti orqanı ibarətdir—2",
-      "type": "matching",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "spiral zarın üzərində",
-          "correct": true
-        },
-        {
-          "text": "tükcüklü hüceyrələrdən",
-          "correct": true
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf",
-      "slotAnswers": [
-        "spiral zarın üzərində",
-        "tükcüklü hüceyrələrdən"
-      ]
-    },
-    {
-      "sourceNumber": 73,
-      "question": "Bir neçə cibin iltihabı - 1\nBir tərəfdə bütün ciblərin iltihabı - 2\nHər iki tərəfdə bütün ciblərin iltihabı – 3",
-      "type": "matching",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "polisinusit",
-          "correct": true
-        },
-        {
-          "text": "hemisinusit",
-          "correct": true
-        },
-        {
-          "text": "pansinusit",
-          "correct": true
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf",
-      "slotAnswers": [
-        "polisinusit",
-        "hemisinusit",
-        "pansinusit"
-      ]
-    },
-    {
-      "sourceNumber": 74,
-      "question": "Səs büküşü arasında yarıq—1\nQırtlaqda …patiya—2",
-      "type": "matching",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "m.vocalis",
-          "correct": true
-        },
-        {
-          "text": "qırtlağı daraldan əzələ",
-          "correct": true
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf",
-      "slotAnswers": [
-        "m.vocalis",
-        "qırtlağı daraldan əzələ"
-      ]
     },
     {
       "sourceNumber": 75,
@@ -2039,171 +1249,6 @@
       ]
     },
     {
-      "sourceNumber": 84,
-      "question": "Rinogen absesin inkişafında şərti olaraq 4mərhələ ayırd etmək olar: başlanğıc mərhələ, 1 dövr, 2 mərhələ, 3 mərhələ",
-      "type": "fill_blank",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "gizli (latent)",
-          "correct": true
-        },
-        {
-          "text": "aşkar",
-          "correct": true
-        },
-        {
-          "text": "terminal",
-          "correct": true
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf",
-      "slotAnswers": [
-        "gizli (latent)",
-        "aşkar",
-        "terminal"
-      ]
-    },
-    {
-      "sourceNumber": 85,
-      "question": "1 rinitin orta və ağır gedişatlı formalarında bütün tənəffüsün çətinləşməsi 2 simptom olan hallarda xəstələrin müalicəsi üçün yüksək effektli vasitə 3 preparatlarıdır.",
-      "type": "fill_blank",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "əsas",
-          "correct": true
-        },
-        {
-          "text": "topik kortikosteroid",
-          "correct": true
-        },
-        {
-          "text": "yanaşı gedən",
-          "correct": false
-        },
-        {
-          "text": "allergik rinit",
-          "correct": true
-        },
-        {
-          "text": "nevroloji",
-          "correct": false
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf",
-      "slotAnswers": [
-        "allergik rinit",
-        "əsas",
-        "topik kortikosteroid"
-      ]
-    },
-    {
-      "sourceNumber": 86,
-      "question": "Kəskin irinli orta otit zamanı xəstəliyin kəskin mərhələsində 1, hərarətin kəskin yüksəlməsi zamanı 2, mastoidit zamanı 3 rejim məsləhət görülür.",
-      "type": "fill_blank",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "Intensiv terapiyalı",
-          "correct": false
-        },
-        {
-          "text": "Stasionar",
-          "correct": true
-        },
-        {
-          "text": "Yataq",
-          "correct": true
-        },
-        {
-          "text": "Tam yataq",
-          "correct": false
-        },
-        {
-          "text": "Ambulator",
-          "correct": true
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf",
-      "slotAnswers": [
-        "Ambulator",
-        "Yataq",
-        "Stasionar"
-      ]
-    },
-    {
-      "sourceNumber": 87,
-      "question": "Göz yuvası 3 tərəfdən burunətrafı ciblərlə əhatə olunmuşdur. 1 əng cibi, daxildən 2, arxadan 3, yuxarıdan alın cibi ilə",
-      "type": "fill_blank",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "burun boşluğu",
-          "correct": false
-        },
-        {
-          "text": "lateral divarında",
-          "correct": false
-        },
-        {
-          "text": "xəlbir labirinti",
-          "correct": true
-        },
-        {
-          "text": "əsas cib",
-          "correct": true
-        },
-        {
-          "text": "aşağıdan",
-          "correct": true
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf",
-      "slotAnswers": [
-        "aşağıdan",
-        "xəlbir labirinti",
-        "əsas cib"
-      ],
-      "slotMarkerOccurrences": {
-        "3": 2
-      }
-    },
-    {
-      "sourceNumber": 88,
-      "question": "Burun arakəsməsinin əyriliyi və tikanı, burun balıqqulaqlarının hipertrofiyası, 1 nəticəsində burun tənəffüsünün pozulması, 2 nahiyəsinin blokunu törədən burun boşluğunun fərdi anatomic xüsusiyyətləri 3 baş verməsinin səbəbidir.",
-      "type": "fill_blank",
-      "section": "Açıq suallar — qalın şriftli cavablar",
-      "options": [
-        {
-          "text": "Kəskin sinusit",
-          "correct": false
-        },
-        {
-          "text": "Xronik sfenoidit",
-          "correct": false
-        },
-        {
-          "text": "Xronik haymoritin",
-          "correct": true
-        },
-        {
-          "text": "Polipoz etmoidit",
-          "correct": true
-        },
-        {
-          "text": "Ostiomeatal kompleks",
-          "correct": true
-        }
-      ],
-      "sourceFile": "LorBÜTÜNaçıqqlar.pdf",
-      "slotAnswers": [
-        "Polipoz etmoidit",
-        "Ostiomeatal kompleks",
-        "Xronik haymoritin"
-      ]
-    },
-    {
       "sourceNumber": 89,
       "question": "Xarici qulaq keçəcəyinin 1 olması, tədricən 2 yerləşməsi uşaqlarda müayinəni çətinləşdirir",
       "type": "fill_blank",
@@ -2222,6 +1267,126 @@
       "slotAnswers": [
         "yarıqvarı, epidermal pulcuqların",
         "üfüqi"
+      ]
+    },
+    {
+      "sourceNumber": 1,
+      "question": "Eşitmə sümükcüklərinin zədələnməsinə diaqnoz qoymaq üçün hansı müayinəni etmək lazımdır?",
+      "type": "multiple_choice",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "OAE",
+          "correct": false
+        },
+        {
+          "text": "Otomikroskopiya",
+          "correct": true
+        },
+        {
+          "text": "Otoskopiya",
+          "correct": true
+        },
+        {
+          "text": "BERA",
+          "correct": false
+        },
+        {
+          "text": "Impedansometriya",
+          "correct": true
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf"
+    },
+    {
+      "sourceNumber": 3,
+      "question": "Kəskin irinli otitin mərhələlərini göstərin:",
+      "type": "multiple_choice",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "Perforasiya",
+          "correct": true
+        },
+        {
+          "text": "Alterasiya",
+          "correct": false
+        },
+        {
+          "text": "Reparasiya",
+          "correct": true
+        },
+        {
+          "text": "Perforasiyaya qədərki",
+          "correct": true
+        },
+        {
+          "text": "Gizli",
+          "correct": false
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf"
+    },
+    {
+      "sourceNumber": 4,
+      "question": "Uyğunluğu müəyyən edin:\nQırtlağın hiposteziyası və ya anesteziyası-1\nQırtlağın periferik iflicləri-2",
+      "type": "matching",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "Aşağı qırtlaq sinirinin zədələnməsi",
+          "correct": true
+        },
+        {
+          "text": "Xroniki hipertrofik laringit",
+          "correct": false
+        },
+        {
+          "text": "Yuxarı qırtlaq sinirinin travması",
+          "correct": true
+        },
+        {
+          "text": "Xroniki kataral laringit",
+          "correct": false
+        },
+        {
+          "text": "Atrofik laringit",
+          "correct": false
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf",
+      "slotAnswers": [
+        "Yuxarı qırtlaq sinirinin travması",
+        "Aşağı qırtlaq sinirinin zədələnməsi"
+      ]
+    },
+    {
+      "sourceNumber": 5,
+      "question": "Gicgah sümüyünün sınığı zamanı nə baş verir?\nKöndələn sınığı- 1\nBoylama sınığı- 2",
+      "type": "matching",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "Çat piramidanın bütün massivindən keçir",
+          "correct": true
+        },
+        {
+          "text": "Xarici qulaq keçəcəyinin arxa divarı zədələnir",
+          "correct": false
+        },
+        {
+          "text": "Təbil boşluğu damnın və xarici qulaq keçəcəyinin yuxarı divarının tamlığı pozulur",
+          "correct": true
+        },
+        {
+          "text": "Təbil boşluğunun ön divarı zədələnir",
+          "correct": false
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf",
+      "slotAnswers": [
+        "Çat piramidanın bütün massivindən keçir",
+        "Təbil boşluğu damnın və xarici qulaq keçəcəyinin yuxarı divarının tamlığı pozulur"
       ]
     },
     {
@@ -2244,6 +1409,188 @@
         "orta xətt üzrə qalxanabənzər qığırdaqdan 5-6 sm aşağı (yuxarı 2-3-cü halqalar)",
         "üzüyəbənzər qığırdaqdan vidaci oymaya qədər və ya oymadan 2 barmaq yuxarı (aşağı 4-5-ci halqalar)"
       ]
+    },
+    {
+      "sourceNumber": 8,
+      "question": "Uyğunluğu müəyyən edin:\nİlk növbədə ototoksik təsir- 1\nOtotoksik koxlear nevrit- 2",
+      "type": "matching",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "İlk növbədə qaraciyər və böyrək funksiyası pozulmuş şəxslərdə",
+          "correct": true
+        },
+        {
+          "text": "Vitamin terapiyası",
+          "correct": false
+        },
+        {
+          "text": "Aminoqlikozid sırası antibiotiklər",
+          "correct": true
+        },
+        {
+          "text": "Mədəaltı və dalaq funksiyası pozulmuş şəxslərdə",
+          "correct": false
+        },
+        {
+          "text": "Ferment terapiyası",
+          "correct": false
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf",
+      "slotAnswers": [
+        "İlk növbədə qaraciyər və böyrək funksiyası pozulmuş şəxslərdə",
+        "Aminoqlikozid sırası antibiotiklər"
+      ]
+    },
+    {
+      "sourceNumber": 9,
+      "question": "Xarici burunun aşkar sınığını göstərən əlamətləri göstərin:",
+      "type": "multiple_choice",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "Qulağdan likvoreya",
+          "correct": false
+        },
+        {
+          "text": "Dispepsiya",
+          "correct": false
+        },
+        {
+          "text": "Xarici burunun içəri batması",
+          "correct": true
+        },
+        {
+          "text": "Xarici burunun yana tərəf əyilməsi",
+          "correct": true
+        },
+        {
+          "text": "Pilləkən simptomu (burun arxasında və yamaclarında sümük çıxıntısı)",
+          "correct": true
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf"
+    },
+    {
+      "sourceNumber": 10,
+      "question": "Burunətrafı ciblərin xəstəliklərinin diaqnozu nəyə əsasən qoyulur?",
+      "type": "multiple_choice",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "Anamnez məlumatlarına",
+          "correct": true
+        },
+        {
+          "text": "USM",
+          "correct": false
+        },
+        {
+          "text": "KT və R-nın nəticələrinə",
+          "correct": true
+        },
+        {
+          "text": "Olfaktometriyaya",
+          "correct": false
+        },
+        {
+          "text": "Baxış və palpasiya",
+          "correct": true
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf"
+    },
+    {
+      "sourceNumber": 11,
+      "question": "Xroniki rinitin səbəbləri:",
+      "type": "multiple_choice",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "Burun arakəsməsinin əyriliyi",
+          "correct": true
+        },
+        {
+          "text": "Un, təbaşir,pambıq, yun tozu",
+          "correct": true
+        },
+        {
+          "text": "Mineral və metal tozları",
+          "correct": true
+        },
+        {
+          "text": "Xroniki kataral otit",
+          "correct": false
+        },
+        {
+          "text": "Xroniki tonzillit",
+          "correct": false
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf"
+    },
+    {
+      "sourceNumber": 15,
+      "question": "Uyğunluğu müəyyən edin:\nSkleromanın törədicisi- 1\nSifilisin törədicisi-2",
+      "type": "matching",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "Mycobacterium",
+          "correct": false
+        },
+        {
+          "text": "Kok çöpləri",
+          "correct": false
+        },
+        {
+          "text": "Gonococcus s. Di-piococcus Neisseri",
+          "correct": false
+        },
+        {
+          "text": "Friş-Volkoviç çöpləri",
+          "correct": true
+        },
+        {
+          "text": "Treponema Pallidum",
+          "correct": true
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf",
+      "slotAnswers": [
+        "Friş-Volkoviç çöpləri",
+        "Treponema Pallidum"
+      ]
+    },
+    {
+      "sourceNumber": 17,
+      "question": "Əng cibinin kəskin iltihabının etioloji faktoru:",
+      "type": "multiple_choice",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "Cibin təbii dəliyinin daralması, okklizasiyası",
+          "correct": true
+        },
+        {
+          "text": "Uzun sürən nazotraxeal intubasiyadan sonra",
+          "correct": true
+        },
+        {
+          "text": "Mukosiliyar klirensin pozulması",
+          "correct": true
+        },
+        {
+          "text": "Qan xəstəlikləri",
+          "correct": false
+        },
+        {
+          "text": "Irsi faktorlar",
+          "correct": false
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf"
     },
     {
       "sourceNumber": 18,
@@ -2270,6 +1617,35 @@
         {
           "text": "müxtəlif inqaloyasiyalar",
           "correct": false
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf"
+    },
+    {
+      "sourceNumber": 19,
+      "question": "Əng cibinin travmasndan 3-4 gün sonra əgər xəstədə iltihab əlamətləri (cibin proksimal nahiyəsində infiltrasiya, yumşaq toxumanın ödemi, hərarətin yüksəlməsi) baş verirsə nə etmək lazımdır?",
+      "type": "multiple_choice",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "Antibiotiklərin yeridilməsi",
+          "correct": true
+        },
+        {
+          "text": "Balonoplastika",
+          "correct": false
+        },
+        {
+          "text": "Konxotomiya",
+          "correct": false
+        },
+        {
+          "text": "Cibin punksiyası",
+          "correct": true
+        },
+        {
+          "text": "Antiseptiklərlə yuyulması",
+          "correct": true
         }
       ],
       "sourceFile": "lor-acig-1.pdf"
@@ -2304,6 +1680,216 @@
       "sourceFile": "lor-acig-1.pdf"
     },
     {
+      "sourceNumber": 21,
+      "question": "Kəskin irinli orta otit zamanı qulağın hansı şöbələri iltihabı prosesə cəlb olunur?",
+      "type": "multiple_choice",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "Xarici qulaq keçəcəcəyi",
+          "correct": false
+        },
+        {
+          "text": "Labirintit",
+          "correct": false
+        },
+        {
+          "text": "Yevstax borusu",
+          "correct": true
+        },
+        {
+          "text": "Məməvari çıxıntı",
+          "correct": true
+        },
+        {
+          "text": "Təbil boşluğu",
+          "correct": true
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf"
+    },
+    {
+      "sourceNumber": 22,
+      "question": "Təbil pərdəsi travması zamanı ilk yardım nədən ibarət olmalıdır?",
+      "type": "multiple_choice",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "Aseptik sarğı qoymaq",
+          "correct": true
+        },
+        {
+          "text": "Ilk yardım xarici qulaq keçəcəyinə steril plitə yeritmək",
+          "correct": true
+        },
+        {
+          "text": "Daxilə antibiotik təyin olunur",
+          "correct": true
+        },
+        {
+          "text": "Pərdənin şuntlanması",
+          "correct": false
+        },
+        {
+          "text": "Ilk yardım kimi merinqoplastika etmək",
+          "correct": false
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf"
+    },
+    {
+      "sourceNumber": 23,
+      "question": "Rinogen absesin inkişafında şərti olaraq dörd mərhələ ayırd etmək olar: başlanğıc mərhələ, 1 dövr, 2 mərhələ, 3 mərhələsi.",
+      "type": "fill_blank",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "... -gizli (latent)",
+          "correct": true
+        },
+        {
+          "text": "... -aşkar",
+          "correct": true
+        },
+        {
+          "text": "... -terminal",
+          "correct": true
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf",
+      "slotAnswers": [
+        "... -gizli (latent)",
+        "... -aşkar",
+        "... -terminal"
+      ]
+    },
+    {
+      "sourceNumber": 24,
+      "question": "1 rinitin orta və ağır gedişatlı formalarında bütün tənəffüsün çətinləşməsi 2 simptom olan hallarda xəstələrin müalicəsi üçün yüksək effektli vasitə 3 preparatlarıdır.",
+      "type": "fill_blank",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "əsas",
+          "correct": true
+        },
+        {
+          "text": "topik kortikosteroid",
+          "correct": true
+        },
+        {
+          "text": "yanaşı gedən",
+          "correct": false
+        },
+        {
+          "text": "allergik rinit",
+          "correct": true
+        },
+        {
+          "text": "nevroloji",
+          "correct": false
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf",
+      "slotAnswers": [
+        "allergik rinit",
+        "əsas",
+        "topik kortikosteroid"
+      ]
+    },
+    {
+      "sourceNumber": 25,
+      "question": "Kəskin irinli orta otit zamanı xəstəliyin kəskin mərhələsində 1, hərarətin kəskin yüksəlməsi zamanı 2, mastoidit zamanı 3 rejim məsləhət görülür:",
+      "type": "fill_blank",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "Intensiv terapiyalı",
+          "correct": false
+        },
+        {
+          "text": "Stasionar",
+          "correct": true
+        },
+        {
+          "text": "Yataq",
+          "correct": true
+        },
+        {
+          "text": "Tam yataq",
+          "correct": false
+        },
+        {
+          "text": "Ambulator",
+          "correct": true
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf",
+      "slotAnswers": [
+        "Ambulator",
+        "Yataq",
+        "Stasionar"
+      ]
+    },
+    {
+      "sourceNumber": 26,
+      "question": "Əng sümüyünün ön divarı nahiyəsində sınıqlar zamanı əlamətlər olur?",
+      "type": "multiple_choice",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "Göz yuvasının divarının, almacıq sümüyünün sınığı",
+          "correct": true
+        },
+        {
+          "text": "Ölümcül qanaxma",
+          "correct": false
+        },
+        {
+          "text": "Başgicəllənmə",
+          "correct": false
+        },
+        {
+          "text": "Ön nahiyədə çökmə və deformasiya",
+          "correct": true
+        },
+        {
+          "text": "Kəllə əsasının sınığı",
+          "correct": false
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf"
+    },
+    {
+      "sourceNumber": 27,
+      "question": "Nazal likvoreya zamanı müalicə prinsipi nədən ibarətdir?",
+      "type": "multiple_choice",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "Konservativ müalicə",
+          "correct": true
+        },
+        {
+          "text": "Vazotomiya",
+          "correct": false
+        },
+        {
+          "text": "Tamponada",
+          "correct": false
+        },
+        {
+          "text": "Yataq rejimi",
+          "correct": true
+        },
+        {
+          "text": "Cərrahi taktika",
+          "correct": true
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf"
+    },
+    {
       "sourceNumber": 28,
       "question": "Aşağıdakı simptomlardan hansı paratonzilyar absesə xarakterdir? (səh236)",
       "type": "multiple_choice",
@@ -2331,6 +1917,331 @@
         }
       ],
       "sourceFile": "lor-acig-1.pdf"
+    },
+    {
+      "sourceNumber": 29,
+      "question": "Travmatik orta otit necə müalicə olunur?",
+      "type": "multiple_choice",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "qulağın radikal əməliyyatı",
+          "correct": false
+        },
+        {
+          "text": "desenzibilizasiya müalicəsi",
+          "correct": false
+        },
+        {
+          "text": "timpanoplastika",
+          "correct": true
+        },
+        {
+          "text": "antibakterial terapiya",
+          "correct": true
+        },
+        {
+          "text": "yaranın ilkin işlənməsi və xarici qulaq keçəcəyinə spirtlə isladılmış plitə qoymaqla",
+          "correct": true
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf"
+    },
+    {
+      "sourceNumber": 31,
+      "question": "Göz yuvası üç tərəfdən burunətrafı ciblərin divarları ilə əhatə olunmuşdur: 1 əng cibi, daxildən-2, arxadan 3, yuxarıdan alın cibi ilə.",
+      "type": "fill_blank",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "burun boşluğu",
+          "correct": false
+        },
+        {
+          "text": "lateral divarında",
+          "correct": false
+        },
+        {
+          "text": "xəlbir labirinti",
+          "correct": true
+        },
+        {
+          "text": "əsas cib",
+          "correct": true
+        },
+        {
+          "text": "aşağıdan",
+          "correct": true
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf",
+      "slotAnswers": [
+        "aşağıdan",
+        "xəlbir labirinti",
+        "əsas cib"
+      ]
+    },
+    {
+      "sourceNumber": 33,
+      "question": "Burunun yumşaq toxumalarının zədələnməsi zamanı müalicə taktikasını seçin:",
+      "type": "multiple_choice",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "Üzdə I tikiş qoyulması",
+          "correct": true
+        },
+        {
+          "text": "Qanaxmanın saxlanılması",
+          "correct": true
+        },
+        {
+          "text": "Rentgenodiaqnostika",
+          "correct": false
+        },
+        {
+          "text": "UVÇ",
+          "correct": false
+        },
+        {
+          "text": "Yaranın I işləməsi",
+          "correct": true
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf"
+    },
+    {
+      "sourceNumber": 35,
+      "question": "Əsas sümüyünün sınığının əsas əlamətləri:",
+      "type": "multiple_choice",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "Görmə sinirinin zədələnməsi",
+          "correct": true
+        },
+        {
+          "text": "Kəllə əsasının sınığı",
+          "correct": true
+        },
+        {
+          "text": "Daxili yuxu arteriyasının zədələnməsi ilə gələn ölümcül qanaxma",
+          "correct": true
+        },
+        {
+          "text": "Burun qanaxması",
+          "correct": false
+        },
+        {
+          "text": "Üzdə şişkinlik və krepitasiya",
+          "correct": false
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf"
+    },
+    {
+      "sourceNumber": 36,
+      "question": "Kəllə əsasının sınığı üçün hansı əlamət xarakterikdir?",
+      "type": "multiple_choice",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "Qulaqda küy",
+          "correct": false
+        },
+        {
+          "text": "Qusma",
+          "correct": false
+        },
+        {
+          "text": "Eynək simptomu",
+          "correct": true
+        },
+        {
+          "text": "Onurğa beyin mayesində qanın olması (subaraxnoidal qansızma)",
+          "correct": true
+        },
+        {
+          "text": "Xəstənin huşsuz və kar olması",
+          "correct": true
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf"
+    },
+    {
+      "sourceNumber": 37,
+      "question": "Xəlbir səfhənin sınığı ilə sərt beyin qişasının cırılmasını nə sübut edir?",
+      "type": "multiple_choice",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "Ikili ləkə simptomu",
+          "correct": true
+        },
+        {
+          "text": "Burun ifrazatında qlükozanın aşkar olunması",
+          "correct": true
+        },
+        {
+          "text": "Nazal likvoreya- başı önə əyən zaman",
+          "correct": true
+        },
+        {
+          "text": "Burun qanaxması(SƏHV)",
+          "correct": false
+        },
+        {
+          "text": "Arinqospazm",
+          "correct": false
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf"
+    },
+    {
+      "sourceNumber": 38,
+      "question": "Burun arakəsməsinin əyriliyi və tikanı, burun balıqqulağının hipertrofiyası, 1 nəticəsində burun tənəffüsünün pozulması, 2 nahiyyəsinin blokunu törədən burun boşluğunun fərdi anatomik xüsusiyyətləri 3 baş verməsinin səbəbidir.",
+      "type": "fill_blank",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "Kəskin sinusit",
+          "correct": false
+        },
+        {
+          "text": "Xronik sfenoidit",
+          "correct": false
+        },
+        {
+          "text": "Xronik haymoritin",
+          "correct": true
+        },
+        {
+          "text": "Polipoz etmoidit",
+          "correct": true
+        },
+        {
+          "text": "Ostiomeatal kompleks",
+          "correct": true
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf",
+      "slotAnswers": [
+        "Polipoz etmoidit",
+        "Ostiomeatal kompleks",
+        "Xronik haymoritin"
+      ]
+    },
+    {
+      "sourceNumber": 39,
+      "question": "Sümük qəlpələrin yerdəyişməsi ilə sınıqlar olduqda müalicə taktikasını seçin:",
+      "type": "multiple_choice",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "Qəlpələrin xarici fiksasiyası",
+          "correct": true
+        },
+        {
+          "text": "Rinoplastika",
+          "correct": false
+        },
+        {
+          "text": "Antikoaqulyantların təyini",
+          "correct": false
+        },
+        {
+          "text": "Qəlpələrin daxili fiksasiyası",
+          "correct": true
+        },
+        {
+          "text": "Burun sümüklərinin və burunətrafı ciblərin divarlarının repozisiyası",
+          "correct": true
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf"
+    },
+    {
+      "sourceNumber": 41,
+      "question": "Uyğunluğu müəyyən edin:\nİlbiz axacağının yuxarı divarı- 1\nSpiral və ya Korti orqanı-2",
+      "type": "matching",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "dəhliz pilləkəni",
+          "correct": true
+        },
+        {
+          "text": "bazal membranın üzərində",
+          "correct": true
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf",
+      "slotAnswers": [
+        "dəhliz pilləkəni",
+        "bazal membranın üzərində"
+      ]
+    },
+    {
+      "sourceNumber": 42,
+      "question": "Təbil pərdəsinin zədələnməsi nə zaman ola bilər?",
+      "type": "multiple_choice",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "Yad cismi çıxararkən",
+          "correct": true
+        },
+        {
+          "text": "Hava kontuziyası",
+          "correct": true
+        },
+        {
+          "text": "Antropunksiya zamanı",
+          "correct": false
+        },
+        {
+          "text": "Furunkul zamanı",
+          "correct": false
+        },
+        {
+          "text": "Gicgah sümüyünün piramidasının boylama sınığı zamanı",
+          "correct": true
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf"
+    },
+    {
+      "sourceNumber": 43,
+      "question": "Uyğunluğu müəyyən edin:\nAşağı burun keçəcəcəyi-1\nYuxarı burun keçəcəyi- 2",
+      "type": "matching",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "Eşitmə borusunun dəliyi",
+          "correct": false
+        },
+        {
+          "text": "Xəlbir və əsas ciblərin axarları",
+          "correct": true
+        },
+        {
+          "text": "əng və alın ciblərin axarları",
+          "correct": false
+        },
+        {
+          "text": "əng və əsas ciblərin axarları",
+          "correct": false
+        },
+        {
+          "text": "göz yaşı kanalı",
+          "correct": true
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf",
+      "slotAnswers": [
+        "göz yaşı kanalı",
+        "Xəlbir və əsas ciblərin axarları"
+      ]
     },
     {
       "sourceNumber": 44,
@@ -2367,6 +2278,74 @@
       ]
     },
     {
+      "sourceNumber": 45,
+      "question": "Təbil boşluğunun\nArxa divarı- 1\nÖn divarı- 2",
+      "type": "matching",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "məməvari çıxıntı",
+          "correct": true
+        },
+        {
+          "text": "A.carotis interna",
+          "correct": true
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf",
+      "slotAnswers": [
+        "məməvari çıxıntı",
+        "A.carotis interna"
+      ]
+    },
+    {
+      "sourceNumber": 46,
+      "question": "Uyğunluğu müəyyən edin:\nKorti orqanı yerləşir- 1\nKorti orqanı ibarətdir: 2",
+      "type": "matching",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "spiral zarın üzərində",
+          "correct": true
+        },
+        {
+          "text": "tükcüklü hüceyrələrdən",
+          "correct": true
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf",
+      "slotAnswers": [
+        "spiral zarın üzərində",
+        "tükcüklü hüceyrələrdən"
+      ]
+    },
+    {
+      "sourceNumber": 50,
+      "question": "Bir neçə cibin iltihabı- 1\nBir tərəfdə bütün ciblərin iltihabı- 2\nHər iki tərəfdə bütün ciblərin iltihabı- 3",
+      "type": "matching",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "polisinusit",
+          "correct": true
+        },
+        {
+          "text": "hemisinusit",
+          "correct": true
+        },
+        {
+          "text": "pansinusit",
+          "correct": true
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf",
+      "slotAnswers": [
+        "polisinusit",
+        "hemisinusit",
+        "pansinusit"
+      ]
+    },
+    {
       "sourceNumber": 52,
       "question": "Banal anginaların digər anginalardan fərqi",
       "type": "multiple_choice",
@@ -2390,6 +2369,48 @@
         }
       ],
       "sourceFile": "lor-acig-1.pdf"
+    },
+    {
+      "sourceNumber": 53,
+      "question": "Piramidanın boylama zədələnməsi",
+      "type": "multiple_choice",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "Otolikvoreya",
+          "correct": true
+        },
+        {
+          "text": "Üz siniri iflici",
+          "correct": true
+        },
+        {
+          "text": "Eşitmə və vestibulyar pozulma",
+          "correct": true
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf"
+    },
+    {
+      "sourceNumber": 54,
+      "question": "Səs büküşü arasında yarıq- 1\nQırtlaqda ...patiya- 2",
+      "type": "matching",
+      "section": "Açıq suallar — altıxətli cavablar",
+      "options": [
+        {
+          "text": "m. Vocalis",
+          "correct": true
+        },
+        {
+          "text": "Qırtlağı daraldan əzələ",
+          "correct": true
+        }
+      ],
+      "sourceFile": "lor-acig-1.pdf",
+      "slotAnswers": [
+        "m. Vocalis",
+        "Qırtlağı daraldan əzələ"
+      ]
     },
     {
       "sourceNumber": 56,
